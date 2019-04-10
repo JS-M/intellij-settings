@@ -1,0 +1,59 @@
+<keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="ActivateDebugToolWindow">
+    <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
+  <action id="ActivateEventLogToolWindow">
+    <keyboard-shortcut first-keystroke="meta 7" />
+  </action>
+  <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateRunToolWindow" />
+  <action id="ActivateStructureToolWindow" />
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="meta 4" />
+  </action>
+  <action id="ActivateVersionControlToolWindow">
+    <keyboard-shortcut first-keystroke="meta 5" />
+  </action>
+  <action id="AutoIndentLines">
+    <keyboard-shortcut first-keystroke="shift meta i" />
+  </action>
+  <action id="ChooseDebugConfiguration" />
+  <action id="CompareClipboardWithSelection">
+    <keyboard-shortcut first-keystroke="ctrl alt c" />
+  </action>
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="ctrl alt d" />
+  </action>
+  <action id="DuplicatesForm.SendToRight" />
+  <action id="EditorLeft">
+    <keyboard-shortcut first-keystroke="left" />
+  </action>
+  <action id="EditorRight">
+    <keyboard-shortcut first-keystroke="right" />
+  </action>
+  <action id="FileChooser.GotoProject" />
+  <action id="GotoTest" />
+  <action id="Images.ShowThumbnails" />
+  <action id="InvalidateCaches">
+    <keyboard-shortcut first-keystroke="shift ctrl meta r" />
+  </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="shift meta l" />
+  </action>
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="shift meta t" />
+  </action>
+  <action id="Run" />
+  <action id="TabsAlphabeticalMode">
+    <keyboard-shortcut first-keystroke="ctrl meta close_bracket" />
+  </action>
+  <action id="Vcs.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="ctrl meta v" />
+  </action>
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="meta e" />
+  </action>
+  <action id="rspec.LetIntroduce">
+    <keyboard-shortcut first-keystroke="shift meta alt r" />
+  </action>
+</keymap>
