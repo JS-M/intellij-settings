@@ -29,6 +29,7 @@
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/concerns/base_property.rb" timestamp="1547027102885">
         <mark key="[" line="27" column="6" />
       </file>
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/interactions/producers/billing/invoice.rb" timestamp="1554966980208" />
       <file name="$USER_HOME$/projects/doowit/.gitignore" timestamp="1547994109968">
         <mark key="[" line="13" column="9" />
         <mark key="]" line="13" column="9" />
@@ -63,11 +64,14 @@
         <mark key="[" line="165" column="21" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/config/routes.rb" timestamp="1554963430763" />
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/interactions/producers/logging/price.rb" timestamp="1554965088608">
-        <mark key="[" line="3" column="33" />
-        <mark key="]" line="3" column="32" />
-        <mark key="^" line="3" column="32" />
-        <mark key="." line="3" column="32" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/interactions/producers/logging/price.rb" timestamp="1554966911355">
+        <mark key="^" line="2" column="24" />
+      </file>
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/interactions/producers/abc/pay.rb" timestamp="1554965795415">
+        <mark key="[" line="2" column="30" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="2" column="29" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1554864918165">
         <mark key="[" line="0" column="0" />
@@ -94,16 +98,6 @@
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/call.rb" timestamp="1547802220871">
         <mark key="'" line="218" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/Gemfile" timestamp="1547798282424">
-        <mark key="a" line="57" column="7" />
-        <mark key="'" line="82" column="5" />
-        <mark key="j" line="57" column="7" />
-        <mark key="[" line="88" column="0" />
-        <mark key="m" line="57" column="7" />
-        <mark key="]" line="88" column="34" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="7" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/concerns/base_call.rb" timestamp="1547803170418">
         <mark key="[" line="33" column="68" />
         <mark key="]" line="33" column="67" />
@@ -113,6 +107,7 @@
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/views/profile_reviews/_assigned_to_me.html.erb" timestamp="1547630141284">
         <mark key="[" line="26" column="16" />
       </file>
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/concerns/base_payment.rb" timestamp="1554967146904" />
       <file name="/price_acceptance_helper.rb" timestamp="1554963201246" />
       <file name="/calls_controller.rb" timestamp="1554963378295" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/views/license_reviews/_table.html.erb" timestamp="1547630085691">
@@ -249,8 +244,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/doowit/Gemfile" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">aWIsIA==</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -260,16 +255,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>bundler config.</text>
+        <text encoding="base64">aWIsIA==</text>
       </register>
       <register name="/" type="4">
         <text>capistrano-fi</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyBJZ25vcmUgYnVuZGxlciBjb25maWcuCg==</text>
+        <text encoding="base64">ICAgICAgICBQcm9kdWNlcnM6OkJpbGxpbmc6Okludm9pY2UucnVuKHBheV9pbmZvOiBwYXlfaW5mbykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -348,31 +343,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBtb2R1bGUgQmlsbGluZwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIyBvdmVycmlkZGVuCiAgICAgIGRlZiBzY2hlbWFfbmFtZXNwYWNlCiAgICAgICAgJ3doZWVsLmxvZ2dpbmcnCiAgICAgIGVuZAo=</text>
       </register>
       <register name="s" type="4">
         <text>mask_address('경기도 성남시 분당구 판교역로 152 알파돔시티 13층')end</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAjIGdlbSAnY2FwaXN0cmFuby1maWdhcm8nLCBnaXRodWI6ICdKUy1NL2NhcGlzdHJhbm8tZmlnYXJvJyAjIGRlcGxveS5yYiDsl5DshJwgRmlnYXJvIOygrOydhCDsgqzsmqntlZjquLAg7JyE7ZWcIOygrAo=</text>
+        <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cmVxdWlyZSAnY2FwaXN0cmFuby9maWdhcm8nCg==</text>
+        <text encoding="base64">ICBjbGFzcyBQYXkgPCBQcm9kdWNlcnM6OkJhc2UKICAgIG9iamVjdCA6Y2FsbCwgY2xhc3M6IENhbGxhYmxlCiAgICBpbnRlZ2VyIDpmYXJlCgogICAgZGVmIG1lc3NhZ2UKICAgICAgeyBjYWxsX2lkOiBjYWxsLmlkJi50b19zLCBmYXJlOiBmYXJlLnRvX2kgfQogICAgZW5kCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHAK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHAK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGVuZAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNhbGwuaXNfYT8oU3VwZXJDYWxsKSA/IFdoZWVsOjpUVXNlck5vdGlmaWVyIDogV2hlZWw6OlVzZXJOb3RpZmllcgo=</text>
+        <text encoding="base64">ICBtb2R1bGUgQmlsbGluZwo=</text>
       </register>
       <register name=":" type="4">
         <text>40</text>
