@@ -1,6 +1,14 @@
 <application>
   <component name="KeyPromoterXStatistic">
     <option name="statistics">
+      <Statistic Action="Declaration">
+        <Item>
+          <IdeaActionID>GotoDeclaration</IdeaActionID>
+          <ShortCut>'⌘B'</ShortCut>
+          <Description>Declaration</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Preferences...">
         <Item>
           <IdeaActionID>ShowSettings</IdeaActionID>
