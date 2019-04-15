@@ -95,6 +95,7 @@
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/views/profile_reviews/_assigned_to_me.html.erb" timestamp="1547630141284">
         <mark key="[" line="26" column="16" />
       </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/mobdata/price-service/idl/github.kakaocorp.com/mobdata/price-service/price-service.proto" timestamp="1555317777653" />
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/mobdata/price-service/services/price/interface.go" timestamp="1555316373584" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/interactions/producers/logging/base.rb" timestamp="1554976739548">
         <mark key="[" line="3" column="35" />
@@ -114,6 +115,7 @@
         <mark key="." line="25" column="5" />
         <mark key="^" line="25" column="5" />
       </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/billing-service/mappers/fare_payment_request.go" timestamp="1555317005735" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/views/license_reviews/_table.html.erb" timestamp="1547630085691">
         <mark key="[" line="24" column="16" />
       </file>
