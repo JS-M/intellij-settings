@@ -20,6 +20,7 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/mobdata/price-service/handlers/price/handler.go" timestamp="1555316571398" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/concerns/base_property.rb" timestamp="1547027102885">
         <mark key="[" line="27" column="6" />
       </file>
@@ -94,6 +95,7 @@
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/views/profile_reviews/_assigned_to_me.html.erb" timestamp="1547630141284">
         <mark key="[" line="26" column="16" />
       </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/mobdata/price-service/services/price/interface.go" timestamp="1555316373584" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/interactions/producers/logging/base.rb" timestamp="1554976739548">
         <mark key="[" line="3" column="35" />
         <mark key="]" line="6" column="8" />
