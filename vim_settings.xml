@@ -7,27 +7,25 @@
         <mark key="[" line="27" column="16" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/idl/github.kakaocorp.com/driver/work-service/work-service.proto" timestamp="1555642804293" />
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/errors/toofar_error.go" timestamp="1555638649140">
-        <mark key="'" line="8" column="14" />
-      </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/services/policy/service_test.go" timestamp="1555649004770">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="32" column="16" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/services/policy/service_test.go" timestamp="1555651156271">
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="113" column="0" />
+        <mark key="^" line="95" column="56" />
+        <mark key="." line="113" column="0" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/concerns/base_property.rb" timestamp="1547027102885">
         <mark key="[" line="27" column="6" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/.gen/github.kakaocorp.com/driver/policy-service/policy-service.pb.go" timestamp="1555556038365" />
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/handlers/policy/handler_test.go" timestamp="1555648988650">
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/handlers/policy/handler_test.go" timestamp="1555649944215">
         <mark key="'" line="39" column="38" />
-        <mark key="[" line="30" column="25" />
-        <mark key="]" line="30" column="24" />
-        <mark key="." line="30" column="24" />
-        <mark key="^" line="30" column="24" />
+        <mark key="[" line="133" column="39" />
+        <mark key="]" line="133" column="38" />
+        <mark key="." line="133" column="38" />
+        <mark key="^" line="133" column="38" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/helloworld-go/cmd/greeter_client/main_test.go" timestamp="1555642713782" />
+      <file name="$USER_HOME$/go/src/github.com/mmcloughlin/geohash/geohash.go" timestamp="1555650180170" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/controllers/driver_queries_controller.rb" timestamp="1546846329030">
         <mark key="[" line="23" column="100" />
       </file>
@@ -41,12 +39,11 @@
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/config/locales/ko.yml" timestamp="1546847697619">
         <mark key="[" line="165" column="21" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/services/policy/service.go" timestamp="1555582564841">
-        <mark key="'" line="56" column="8" />
-        <mark key="[" line="54" column="24" />
-        <mark key="]" line="54" column="26" />
-        <mark key="." line="54" column="26" />
-        <mark key="^" line="54" column="26" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/services/policy/service.go" timestamp="1555651225937">
+        <mark key="[" line="64" column="4" />
+        <mark key="]" line="64" column="0" />
+        <mark key="^" line="64" column="0" />
+        <mark key="." line="64" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/handlers/policy/server.go" timestamp="1555566701035">
         <mark key="[" line="55" column="41" />
@@ -55,6 +52,7 @@
         <mark key="^" line="55" column="40" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/mocks/handlers/policy/interface.go" timestamp="1555581251639" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/mobdata/price-service/main_test.go" timestamp="1555651822978" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/config/locales/activerecord.ko.yml" timestamp="1547630736218">
         <mark key="[" line="453" column="20" />
       </file>
@@ -87,6 +85,7 @@
         <mark key="." line="14" column="26" />
         <mark key="^" line="14" column="26" />
       </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/mocks/work-service.pb.go" timestamp="1555652207099" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/views/license_reviews/_table.html.erb" timestamp="1547630085691">
         <mark key="[" line="24" column="16" />
       </file>
@@ -95,6 +94,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
         <mark key="^" line="4" column="14" />
+      </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/main_test.go" timestamp="1555651910091">
+        <mark key="[" line="17" column="62" />
+        <mark key="]" line="17" column="61" />
+        <mark key="." line="17" column="61" />
+        <mark key="^" line="17" column="61" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/errors/already_worked_error.go" timestamp="1555553416156">
         <mark key="'" line="8" column="5" />
@@ -133,41 +138,56 @@
         <mark key="^" line="3" column="41" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/errors/too_many_supporters_error.go" timestamp="1555553374300" />
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/factories/coord.go" timestamp="1555567858587" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/factories/coord.go" timestamp="1555650349572">
+        <mark key="[" line="8" column="55" />
+        <mark key="]" line="8" column="55" />
+        <mark key="^" line="8" column="55" />
+        <mark key="." line="8" column="55" />
+      </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/Makefile" timestamp="1555652255847">
+        <mark key="[" line="12" column="68" />
+        <mark key="]" line="12" column="70" />
+        <mark key="." line="12" column="70" />
+        <mark key="^" line="12" column="70" />
+      </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/services/work/client_test.go" timestamp="1555642742228">
         <mark key="[" line="59" column="1" />
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
         <mark key="^" line="59" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554864918165">
+      <file name="/Dummy.txt" timestamp="1555651316126">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.rb" timestamp="1547110926513">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/errors/invalid_location_error.go" timestamp="1555638783420" />
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/mobdata/price-service/services/price/service_test.go" timestamp="1555648990161" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/mobdata/price-service/services/price/service_test.go" timestamp="1555650535842" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/views/profile_reviews/_assigned_to_me.html.erb" timestamp="1547630141284">
         <mark key="[" line="26" column="16" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/mobdata/price-service/mappers/latlng.go" timestamp="1555567924378" />
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/entities/product.go" timestamp="1555574380413" />
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/mobdata/price-service/handlers/price/handler_test.go" timestamp="1555639498732" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/config/base.yaml" timestamp="1555652076661">
+        <mark key="[" line="13" column="8" />
+        <mark key="]" line="13" column="7" />
+        <mark key="." line="13" column="7" />
+        <mark key="^" line="13" column="7" />
+      </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/mocks/go.uber.org/fx/lifecycle.go" timestamp="1555651571338" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/db/migrate/20151223073956_add_columns_to_driver.rb" timestamp="1547615648540">
         <mark key="[" line="4" column="60" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/services/work/client.go" timestamp="1555575193306">
-        <mark key="[" line="41" column="104" />
-        <mark key="]" line="41" column="110" />
-        <mark key="." line="41" column="110" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/services/work/client.go" timestamp="1555652037259">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
         <mark key="^" line="41" column="110" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="6" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/spec/helpers/security_helper_spec.rb" />
-      <jump line="22" column="12" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/spec/helpers/security_helper_spec.rb" />
-      <jump line="25" column="6" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/spec/helpers/security_helper_spec.rb" />
       <jump line="32" column="6" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/spec/helpers/security_helper_spec.rb" />
       <jump line="39" column="6" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/spec/helpers/security_helper_spec.rb" />
       <jump line="43" column="12" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/spec/helpers/security_helper_spec.rb" />
@@ -265,10 +285,13 @@
       <jump line="0" column="0" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/handlers/policy/handler.go" />
       <jump line="67" column="36" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/services/work/client_test.go" />
       <jump line="60" column="0" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/services/work/client_test.go" />
+      <jump line="35" column="50" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/services/policy/service_test.go" />
+      <jump line="55" column="0" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/services/policy/service_test.go" />
+      <jump line="113" column="1" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/services/policy/service_test.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CW1vY2tQb2xpY3kuRVhQRUNUKCkuR2V0UmVnaW9ucyhnb21vY2suQW55KCksIGdvbW9jay5BbnkoKSwgZ29tb2NrLkFueSgpKS5SZXR1cm4oZmFjdG9yaWVzLlJlZ2lvbnMoKSwgbmlsKS5UaW1lcygxKQo=</text>
+      <register name="&quot;" type="4">
+        <text>local</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -278,16 +301,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>_p</text>
+        <text>local</text>
       </register>
       <register name="/" type="4">
         <text>d</text>
       </register>
       <register name="0" type="4">
-        <text>, gomock.Any()</text>
+        <text>int32(rand.Intn(maxWorkingDriverCount)), nil</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CW1vY2tQb2xpY3kuRVhQRUNUKCkuR2V0UmVnaW9ucyhnb21vY2suQW55KCksIGdvbW9jay5BbnkoKSwgZ29tb2NrLkFueSgpKS5SZXR1cm4oZmFjdG9yaWVzLlJlZ2lvbnMoKSwgbmlsKS5UaW1lcygxKQo=</text>
+        <text encoding="base64">CXNlcnZpY2VDZmcsIG9rIDo9IGNmZy5TZXJ2aWNlc1sid29yayJdCglpZiAhb2sgewoJCXJldHVybiBuaWwsIGVycm9ycy5OZXcoInNlcnZpY2Uga2V5ICd3b3JrJyBub3QgZXhpc3RzIGluIHRoZSBjb25maWciKQoJfQoK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -366,31 +389,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlnb21vY2suQW55KCksCgkJZ29tb2NrLkFueSgpLAoJCWdvbW9jay5BbnkoKSwK</text>
+        <text encoding="base64">CWZ4ICJnaXRodWIua2FrYW9jb3JwLmNvbS9kcml2ZXIvcG9saWN5LXNlcnZpY2UvdmVuZG9yL2dvLnViZXIub3JnL2Z4Igo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8KLy9mdW5jIFRlc3RWZXJpZnlBdHRlbmRhbmNlUG9saWN5X0Vycm9yX0dldEFjdGl2ZU91dGJhY2sodCAqdGVzdGluZy5UKSB7Ci8vCXQuUGFyYWxsZWwoKQovLwovLwljdHggOj0gY29udGV4dC5CYWNrZ3JvdW5kKCkKLy8KLy8JbW9ja0N0cmwgOj0gZ29tb2NrLk5ld0NvbnRyb2xsZXIodCkKLy8JZGVmZXIgbW9ja0N0cmwuRmluaXNoKCkKLy8JbW9ja1BvbGljeSA6PSBtb2NrX2xvY2FsLk5ld01vY2tJbnRlcmZhY2UobW9ja0N0cmwpCi8vCW1vY2tQb2xpY3kuRVhQRUNUKCkuR2V0RXN0aW1hdGVkUm91dGUoCi8vCQlnb21vY2suQW55KCksCi8vCQlnb21vY2suQW55KCksCi8vCQlnb21vY2suQW55KCksCi8vCQlnb21vY2suQW55KCksCi8vCQlnb21vY2suQW55KCksCi8vCQlnb21vY2suQW55KCksCi8vCQlnb21vY2suQW55KCkpLlJldHVybihmYWN0b3JpZXMuUm91dGUoKSwgbmlsKS5UaW1lcygxKQovLwltb2NrT3V0YmFja1JlcG8gOj0gbW9ja19vdXRiYWNrLk5ld01vY2tJbnRlcmZhY2UobW9ja0N0cmwpCi8vCW1vY2tPdXRiYWNrUmVwby5FWFBFQ1QoKS5HZXRBY3RpdmVPdXRiYWNrKGdvbW9jay5BbnkoKSwgZ29tb2NrLkFueSgpLCBnb21vY2suQW55KCkpLlJldHVybihuaWwsIGVycm9ycy5OZXcoIiIpKS5UaW1lcygxKQovLwovLwlpbnN0YW5jZSA6PSBOZXcobW9ja1BvbGljeSwgbmlsLCBtb2NrT3V0YmFja1JlcG8sIG5pbCkKLy8JXywgZXJyIDo9IGluc3RhbmNlLlZlcmlmeUF0dGVuZGFuY2VQb2xpY3koCi8vCQljdHgsCi8vCQllbnRpdGllcy5Qcm9kdWN0RHJpdmVyLAovLwkJbmlsLAovLwkJZmFjdG9yaWVzLlBhbmd5b0xhdExuZygpLAovLwkJc2VvdWwsCi8vCQlmYWN0b3JpZXMuUGFuZ3lvTGF0TG5nKCksCi8vCQlzZW91bCwKLy8JCW5pbCwKLy8JKQovLwlhc3NlcnQuRXJyb3IodCwgZXJyKQovL30KLy8KLy9mdW5jIFRlc3RWZXJpZnlBdHRlbmRhbmNlUG9saWN5X0Vycm9yX0ZpbmRGaXhlZEZhcmVSYW5nZUluZm9CeUVzdGltYXRlZEZhcmUodCAqdGVzdGluZy5UKSB7Ci8vCXQuUGFyYWxsZWwoKQovLwovLwljdHggOj0gY29udGV4dC5CYWNrZ3JvdW5kKCkKLy8KLy8JbW9ja0N0cmwgOj0gZ29tb2NrLk5ld0NvbnRyb2xsZXIodCkKLy8JZGVmZXIgbW9ja0N0cmwuRmluaXNoKCkKLy8JbW9ja1BvbGljeSA6PSBtb2NrX2xvY2FsLk5ld01vY2tJbnRlcmZhY2UobW9ja0N0cmwpCi8vCW1vY2tQb2xpY3kuRVhQRUNUKCkuR2V0UmVnaW9ucyhnb21vY2suQW55KCksIGdvbW9jay5BbnkoKSwgZ29tb2NrLkFueSgpKS5SZXR1cm4oZmFjdG9yaWVzLkVtcHR5UmVnaW9ucygpLCBuaWwpLlRpbWVzKDEpCi8vCW1vY2tQb2xpY3kuRVhQRUNUKCkuR2V0RXN0aW1hdGVkUm91dGUoCi8vCQlnb21vY2suQW55KCksCi8vCQlnb21vY2suQW55KCksCi8vCQlnb21vY2suQW55KCksCi8vCQlnb21vY2suQW55KCksCi8vCQlnb21vY2suQW55KCksCi8vCQlnb21vY2suQW55KCksCi8vCQlnb21vY2suQW55KCkpLlJldHVybihmYWN0b3JpZXMuUm91dGUoKSwgbmlsKS5UaW1lcygxKQovLwltb2NrT3V0YmFja1JlcG8gOj0gbW9ja19vdXRiYWNrLk5ld01vY2tJbnRlcmZhY2UobW9ja0N0cmwpCi8vCW1vY2tPdXRiYWNrUmVwby5FWFBFQ1QoKS5HZXRBY3RpdmVPdXRiYWNrKGdvbW9jay5BbnkoKSwgZ29tb2NrLkFueSgpLCBnb21vY2suQW55KCkpLlJldHVybihuaWwsIG5pbCkuVGltZXMoMSkKLy8JbW9ja0ZhcmVSZXBvIDo9IG1vY2tfZmFyZS5OZXdNb2NrSW50ZXJmYWNlKG1vY2tDdHJsKQovLwltb2NrRmFyZVJlcG8uRVhQRUNUKCkuRmluZEZpeGVkRmFyZVJhbmdlSW5mb0J5RXN0aW1hdGVkRmFyZShnb21vY2suQW55KCksIGdvbW9jay5BbnkoKSkuUmV0dXJuKG5pbCwgZXJyb3JzLk5ldygiIikpLlRpbWVzKDEpCi8vCi8vCXZhciB3ZyBzeW5jLldhaXRHcm91cAovLwl3Zy5BZGQoMSkKLy8JZGVmZXIgd2cuV2FpdCgpCi8vCW1vY2tEYXRhIDo9IG1vY2tfZGF0YS5OZXdNb2NrSW50ZXJmYWNlKG1vY2tDdHJsKQovLwltb2NrRGF0YS5FWFBFQ1QoKS5Qcm9kdWNlRXN0aW1hdGlvbk1lc3NhZ2UoCi8vCQlnb21vY2suQW55KCksCi8vCQlnb21vY2suQW55KCksCi8vCQlnb21vY2suQW55KCksCi8vCQlnb21vY2suQW55KCksCi8vCQlnb21vY2suQW55KCksCi8vCQlnb21vY2suQW55KCksCi8vCSkuRG8oZnVuYyhjdHggY29udGV4dC5Db250ZXh0LAovLwkJb3JpZ2luQ29kZSBlbnRpdGllcy5IY29kZSwKLy8JCWRlc3RpbmF0aW9uQ29kZSBlbnRpdGllcy5IY29kZSwKLy8JCW91dGJhY2sgKmVudGl0aWVzLk91dGJhY2ssCi8vCQllc3RpbWF0ZWRSb3V0ZSAqZW50aXRpZXMuUm91dGUsCi8vCQl1c2VyICplbnRpdGllcy5Vc2VyKSBlcnJvciB7Ci8vCQl3Zy5Eb25lKCkKLy8JCXJldHVybiBuaWwKLy8JfSkuVGltZXMoMSkKLy8JaW5zdGFuY2UgOj0gTmV3KG1vY2tQb2xpY3ksIG1vY2tEYXRhLCBtb2NrT3V0YmFja1JlcG8sIG1vY2tGYXJlUmVwbykKLy8JXywgZXJyIDo9IGluc3RhbmNlLlZlcmlmeUF0dGVuZGFuY2VQb2xpY3koCi8vCQljdHgsCi8vCQllbnRpdGllcy5Qcm9kdWN0RHJpdmVyLAovLwkJZmFjdG9yaWVzLlVzZXIoKSwKLy8JCWZhY3Rvcmllcy5QYW5neW9MYXRMbmcoKSwKLy8JCXNlb3VsLAovLwkJZmFjdG9yaWVzLlBhbmd5b0xhdExuZygpLAovLwkJZW50aXRpZXMuSGNvZGUoMCksCi8vCQluaWwsCi8vCSkKLy8JYXNzZXJ0LkVycm9yKHQsIGVycikKLy99Ci8vCi8vZnVuYyBUZXN0VmVyaWZ5QXR0ZW5kYW5jZVBvbGljeV9TdWNjZXNzX05pbEVzdGltYXRlZEZhcmUodCAqdGVzdGluZy5UKSB7Ci8vCXQuUGFyYWxsZWwoKQovLwovLwljdHggOj0gY29udGV4dC5CYWNrZ3JvdW5kKCkKLy8KLy8JbW9ja0N0cmwgOj0gZ29tb2NrLk5ld0NvbnRyb2xsZXIodCkKLy8JZGVmZXIgbW9ja0N0cmwuRmluaXNoKCkKLy8JbW9ja1BvbGljeSA6PSBtb2NrX2xvY2FsLk5ld01vY2tJbnRlcmZhY2UobW9ja0N0cmwpCi8vCW1vY2tQb2xpY3kuRVhQRUNUKCkuR2V0UmVnaW9ucyhnb21vY2suQW55KCksIGdvbW9jay5BbnkoKSwgZ29tb2NrLkFueSgpKS5SZXR1cm4oZmFjdG9yaWVzLkVtcHR5UmVnaW9ucygpLCBuaWwpLlRpbWVzKDEpCi8vCW1vY2tQb2xpY3kuRVhQRUNUKCkuR2V0RXN0aW1hdGVkUm91dGUoCi8vCQlnb21vY2suQW55KCksCi8vCQlnb21vY2suQW55KCksCi8vCQlnb21vY2suQW55KCksCi8vCQlnb21vY2suQW55KCksCi8vCQlnb21vY2suQW55KCksCi8vCQlnb21vY2suQW55KCksCi8vCQlnb21vY2suQW55KCkpLlJldHVybihmYWN0b3JpZXMuUm91dGVXaXRob3V0RmFyZSgpLCBuaWwpLlRpbWVzKDEpCi8vCW1vY2tGYXJlUmVwbyA6PSBtb2NrX2ZhcmUuTmV3TW9ja0ludGVyZmFjZShtb2NrQ3RybCkKLy8JbW9ja0ZhcmVSZXBvLkVYUEVDVCgpLkZpbmRGaXhlZEZhcmVSYW5nZUluZm9CeUVzdGltYXRlZEZhcmUoZ29tb2NrLkFueSgpLCBnb21vY2suQW55KCkpLlJldHVybihmYWN0b3JpZXMuRmFyZVJhbmdlKCksIG5pbCkuVGltZXMoMSkKLy8KLy8JdmFyIHdnIHN5bmMuV2FpdEdyb3VwCi8vCXdnLkFkZCgxKQovLwlkZWZlciB3Zy5XYWl0KCkKLy8JbW9ja0RhdGEgOj0gbW9ja19kYXRhLk5ld01vY2tJbnRlcmZhY2UobW9ja0N0cmwpCi8vCW1vY2tEYXRhLkVYUEVDVCgpLlByb2R1Y2VFc3RpbWF0aW9uTWVzc2FnZSgKLy8JCWdvbW9jay5BbnkoKSwKLy8JCWdvbW9jay5BbnkoKSwKLy8JCWdvbW9jay5BbnkoKSwKLy8JCWdvbW9jay5BbnkoKSwKLy8JCWdvbW9jay5BbnkoKSwKLy8JCWdvbW9jay5BbnkoKSwKLy8JKS5EbyhmdW5jKGN0eCBjb250ZXh0LkNvbnRleHQsCi8vCQlvcmlnaW5Db2RlIGVudGl0aWVzLkhjb2RlLAovLwkJZGVzdGluYXRpb25Db2RlIGVudGl0aWVzLkhjb2RlLAovLwkJb3V0YmFjayAqZW50aXRpZXMuT3V0YmFjaywKLy8JCWVzdGltYXRlZFJvdXRlICplbnRpdGllcy5Sb3V0ZSwKLy8JCXVzZXIgKmVudGl0aWVzLlVzZXIpIGVycm9yIHsKLy8JCXdnLkRvbmUoKQovLwkJcmV0dXJuIG5pbAovLwl9KS5UaW1lcygxKQovLwlpbnN0YW5jZSA6PSBOZXcobW9ja1BvbGljeSwgbW9ja0RhdGEsIG5pbCwgbW9ja0ZhcmVSZXBvKQovLwlfLCBlcnIgOj0gaW5zdGFuY2UuVmVyaWZ5QXR0ZW5kYW5jZVBvbGljeSgKLy8JCWN0eCwKLy8JCWVudGl0aWVzLlByb2R1Y3REcml2ZXIsCi8vCQlmYWN0b3JpZXMuVXNlcigpLAovLwkJZmFjdG9yaWVzLlBhbmd5b0xhdExuZygpLAovLwkJZW50aXRpZXMuSGNvZGUoMCksCi8vCQlmYWN0b3JpZXMuUGFuZ3lvTGF0TG5nKCksCi8vCQlzZW91bCwKLy8JCW5pbCwKLy8JKQovLwlhc3NlcnQuTm9FcnJvcih0LCBlcnIpCi8vfQo=</text>
       </register>
       <register name="s" type="4">
         <text>mask_address('경기도 성남시 분당구 판교역로 152 알파돔시티 13층')end</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CW1vY2tfcG9saWN5ICJnaXRodWIua2FrYW9jb3JwLmNvbS9kcml2ZXIvcG9saWN5LXNlcnZpY2Uvc2VydmljZXMvcG9saWN5Igo=</text>
+        <text encoding="base64">CQlzYXZlZEVyciA9IGVycgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ci8vZnVuYyBUZXN0R2V0RXN0aW1hdGVkUHJpY2VfU3VjY2Vzcyh0ICp0ZXN0aW5nLlQpIHsKLy8JdC5QYXJhbGxlbCgpCi8vCi8vCXRzIDo9IGh0dHB0ZXN0Lk5ld1NlcnZlcihodHRwLkhhbmRsZXJGdW5jKGZ1bmModyBodHRwLlJlc3BvbnNlV3JpdGVyLCByICpodHRwLlJlcXVlc3QpIHsKLy8JCW1hdGNoLCBlcnIgOj0gcmVnZXhwLk1hdGNoU3RyaW5nKCJeL2ZhcmUiLCByLlJlcXVlc3RVUkkpCi8vCQlhc3NlcnQuVHJ1ZSh0LCBtYXRjaCkKLy8JCWFzc2VydC5Ob0Vycm9yKHQsIGVycikKLy8JCXB3ZCwgXyA6PSBvcy5HZXR3ZCgpCi8vCQliLCBfIDo9IGlvdXRpbC5SZWFkRmlsZShmaWxlcGF0aC5Kb2luKHB3ZCwgIi4uIiwgIi4uIiwgImZpeHR1cmVzIiwgImZhcmUuanNvbiIpKQovLwkJdy5Xcml0ZShiKQovLwl9KSkKLy8JZGVmZXIgdHMuQ2xvc2UoKQovLwovLwlpbnN0YW5jZSwgZXJyIDo9IE5ldyhnZXRBcHBDb25maWcodHMpKQovLwlhc3NlcnQuTm9FcnJvcih0LCBlcnIpCi8vCi8vCWludGVydmFsIDo9IGZhY3Rvcmllcy5JbnRlcnZhbCgpCi8vCi8vCWZhcmUsIGVycjEgOj0gaW5zdGFuY2UuR2V0RXN0aW1hdGVkRmFyZSgKLy8JCWNvbnRleHQuQmFja2dyb3VuZCgpLAovLwkJZmFjdG9yaWVzLkludGVydmFsKCksCi8vCQlmYWN0b3JpZXMuUGFuZ3lvTGF0TG5nKCksCi8vCQkxMTAwMDAwMDAwLAovLwkJZmFjdG9yaWVzLlBhbmd5b0xhdExuZygpLAovLwkJMTEwMDAwMDAwMCwKLy8JCSZpbnRlcnZhbCwKLy8JCSZ1cmwuVmFsdWVze30sCi8vCSkKLy8JYXNzZXJ0Lk5vRXJyb3IodCwgZXJyMSkKLy8JYXNzZXJ0LkVxdWFsKHQsIGN1cnJlbmN5LktSVy5BbW91bnQoMjEwMDApLCBmYXJlLkZhcmUpCi8vfQovLwovL2Z1bmMgVGVzdEdldEVzdGltYXRlZFByaWNlX0Vycm9yX0hUVFAodCAqdGVzdGluZy5UKSB7Ci8vCXQuUGFyYWxsZWwoKQovLwovLwl0cyA6PSBodHRwdGVzdC5OZXdVbnN0YXJ0ZWRTZXJ2ZXIobmlsKQovLwlkZWZlciB0cy5DbG9zZSgpCi8vCi8vCWluc3RhbmNlLCBfIDo9IE5ldyhnZXRBcHBDb25maWcodHMpKQovLwovLwlfLCBlcnIgOj0gaW5zdGFuY2UuR2V0RXN0aW1hdGVkRmFyZSgKLy8JCWNvbnRleHQuQmFja2dyb3VuZCgpLAovLwkJZmFjdG9yaWVzLkludGVydmFsKCksCi8vCQlmYWN0b3JpZXMuUGFuZ3lvTGF0TG5nKCksCi8vCQkxMTAwMDAwMDAwLAovLwkJZmFjdG9yaWVzLlBhbmd5b0xhdExuZygpLAovLwkJMTEwMDAwMDAwMCwKLy8JCW5pbCwKLy8JCW5pbCwKLy8JKQovLwlhc3NlcnQuRXJyb3IodCwgZXJyKQovL30K</text>
+        <text encoding="base64">CQlzYXZlZEVyciA9IGVycgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CSJ0aW1lIgo=</text>
+        <text encoding="base64">CWlmIGVyciAhPSBuaWwgeyBzYXZlZEVyciA9IGVyciB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlyZXR1cm4gZmFsc2UsIGVycgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXJlcywgZXJyIDo9IFNheUhlbGxvKGNvbnRleHQuQmFja2dyb3VuZCgpLCBtb2NrQ2xpZW50LCB0aW1lLlNlY29uZCwgIldvcmxkIikKCWFzc2VydC5FcnJvcih0LCBlcnIpCglhc3NlcnQuTmlsKHQsIHJlcykK</text>
+        <text encoding="base64">CWlmIGVyciAhPSBuaWwgewoJCXJldHVybiBmYWxzZSwgZXJyCgl9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CW1vY2tDbGllbnQuRVhQRUNUKCkuU2F5SGVsbG8oZ29tb2NrLkFueSgpLCBnb21vY2suQW55KCkpLlJldHVybihuaWwsIGVycm9ycy5OZXcoIiIpKS5UaW1lcygxKQo=</text>
+        <text encoding="base64">CWlmIGVyciAhPSBuaWwgewoJCXJldHVybiBmYWxzZSwgZXJyCgl9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>40</text>
