@@ -15,7 +15,6 @@
       <file name="/Ruby Console" timestamp="1555580702652">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/wheel_driver/user_ratings_controller.rb" timestamp="1555579179761" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/interactions/notifications/warn_abnormal_calls.rb" timestamp="1547803769752">
         <mark key="[" line="84" column="26" />
         <mark key="]" line="84" column="26" />
@@ -63,7 +62,6 @@
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/config/locales/ko.yml" timestamp="1546847697619">
         <mark key="[" line="165" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/config/routes.rb" timestamp="1555577617032" />
       <file name="/Dummy.txt" timestamp="1555578824951">
         <mark key="[" line="0" column="0" />
       </file>
@@ -138,10 +136,6 @@
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/db/migrate/20151223073956_add_columns_to_driver.rb" timestamp="1547615648540">
         <mark key="[" line="4" column="60" />
-      </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/wheel_driver/base_controller.rb" timestamp="1555580788726">
-        <mark key="[" line="7" column="9" />
-        <mark key="]" line="7" column="136" />
       </file>
     </filemarks>
     <jumps>
