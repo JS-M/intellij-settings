@@ -41,7 +41,6 @@
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/concerns/base_property.rb" timestamp="1547027102885">
         <mark key="[" line="27" column="6" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/.gen/github.kakaocorp.com/driver/policy-service/policy-service.pb.go" timestamp="1555661252749" />
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/handlers/policy/handler_test.go" timestamp="1555661082078">
         <mark key="'" line="39" column="38" />
         <mark key="[" line="133" column="39" />
@@ -49,12 +48,9 @@
         <mark key="." line="133" column="38" />
         <mark key="^" line="133" column="38" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/helloworld-go/cmd/greeter_client/main_test.go" timestamp="1555658841860" />
-      <file name="$USER_HOME$/go/src/github.com/mmcloughlin/geohash/geohash.go" timestamp="1555650180170" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/controllers/driver_queries_controller.rb" timestamp="1546846329030">
         <mark key="[" line="23" column="100" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/vendor/github.com/golang/geo/s2/latlng.go" timestamp="1555568211479" />
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/errors/invalid_area_error.go" timestamp="1555638681932">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="16" column="1" />
@@ -82,8 +78,6 @@
         <mark key="." line="55" column="40" />
         <mark key="^" line="55" column="40" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/mocks/handlers/policy/interface.go" timestamp="1555581251639" />
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/mobdata/price-service/main_test.go" timestamp="1555651822978" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/config/locales/activerecord.ko.yml" timestamp="1547630736218">
         <mark key="[" line="453" column="20" />
       </file>
@@ -99,14 +93,12 @@
         <mark key="." line="10" column="33" />
         <mark key="^" line="10" column="33" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/mobdata/price-service/docker-compose.yaml" timestamp="1555656175637" />
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/idl/github.kakaocorp.com/driver/policy-service/policy-service.proto" timestamp="1555661281846">
         <mark key="[" line="20" column="23" />
         <mark key="]" line="20" column="23" />
         <mark key="^" line="20" column="23" />
         <mark key="." line="20" column="23" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/mobdata/price-service/services/local/interface.go" timestamp="1555568079258" />
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/handlers/policy/server_test.go" timestamp="1555581999139">
         <mark key="[" line="10" column="80" />
         <mark key="]" line="10" column="79" />
@@ -122,7 +114,6 @@
         <mark key="." line="14" column="26" />
         <mark key="^" line="14" column="26" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/mocks/work-service.pb.go" timestamp="1555658819919" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-web/Gemfile" timestamp="1547790266470">
         <mark key="'" line="40" column="14" />
         <mark key="[" line="4" column="20" />
@@ -139,7 +130,6 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="4" column="14" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/integration-startup.sh" timestamp="1555661509637" />
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/main_test.go" timestamp="1555651910091">
         <mark key="[" line="17" column="62" />
         <mark key="]" line="17" column="61" />
@@ -156,13 +146,12 @@
       <file name="/Ruby Console" timestamp="1547631224572">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/mobdata/price-service/handlers/price/handler.go" timestamp="1555639703047" />
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/handlers/policy/handler.go" timestamp="1555662451254">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="39" column="8" />
-        <mark key="]" line="40" column="4" />
-        <mark key="^" line="40" column="4" />
-        <mark key="." line="40" column="4" />
+        <mark key="[" line="41" column="8" />
+        <mark key="]" line="42" column="4" />
+        <mark key="^" line="42" column="4" />
+        <mark key="." line="42" column="4" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/services/work/interface.go" timestamp="1555658176020">
         <mark key="[" line="17" column="24" />
@@ -182,8 +171,6 @@
         <mark key="." line="3" column="41" />
         <mark key="^" line="3" column="41" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/mobdata/price-service/services/gis/client_test.go" timestamp="1555659845606" />
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/errors/too_many_supporters_error.go" timestamp="1555553374300" />
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/factories/coord.go" timestamp="1555661879300">
         <mark key="[" line="8" column="55" />
         <mark key="]" line="8" column="55" />
@@ -209,16 +196,9 @@
       <file name="/fragment.rb" timestamp="1547110926513">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/errors/invalid_location_error.go" timestamp="1555638783420" />
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/mobdata/price-service/services/price/service_test.go" timestamp="1555650535842" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/views/profile_reviews/_assigned_to_me.html.erb" timestamp="1547630141284">
         <mark key="[" line="26" column="16" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/handlers/policy/interface.go" timestamp="1555661183339" />
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/mobdata/price-service/mappers/latlng.go" timestamp="1555567924378" />
-      <file name="/usr/local/Cellar/go/1.12.3/libexec/src/math/rand/rand.go" timestamp="1555660452909" />
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/entities/product.go" timestamp="1555574380413" />
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/mobdata/price-service/handlers/price/handler_test.go" timestamp="1555639498732" />
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/config/base.yaml" timestamp="1555652076661">
         <mark key="[" line="13" column="8" />
         <mark key="]" line="13" column="7" />
