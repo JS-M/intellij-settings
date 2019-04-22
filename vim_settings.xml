@@ -171,10 +171,10 @@
         <mark key="^" line="18" column="16" />
         <mark key="." line="18" column="16" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/Dockerfile.dev" timestamp="1555916284439">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/Dockerfile.dev" timestamp="1555921409697">
+        <mark key="[" line="28" column="75" />
+        <mark key="]" line="28" column="75" />
+        <mark key="." line="28" column="75" />
         <mark key="^" line="28" column="78" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/mappers/latlng.go" timestamp="1555567937719">
@@ -354,8 +354,8 @@
       <jump line="7" column="0" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/docker-compose-dev.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CmRsdiAtLWxpc3Rlbj06NDAwMDAgLS1oZWFkbGVzcz10cnVlIC0tYXBpLXZlcnNpb249MiAtLWFjY2VwdC1tdWx0aWNsaWVudCBleGVjIC4vZGVtbwo=</text>
+      <register name="&quot;" type="4">
+        <text>, &quot;--accept-multiclient&quot;</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -365,7 +365,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>, &quot;--accept-multiclient&quot;</text>
       </register>
       <register name="/" type="4">
         <text>d</text>
