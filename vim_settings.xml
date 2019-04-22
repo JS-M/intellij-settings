@@ -26,11 +26,11 @@
         <mark key="." line="10" column="43" />
         <mark key="^" line="10" column="43" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/docker-compose.yaml" timestamp="1555923567838">
-        <mark key="[" line="73" column="15" />
-        <mark key="]" line="73" column="34" />
-        <mark key="^" line="73" column="34" />
-        <mark key="." line="73" column="34" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/docker-compose.yaml" timestamp="1555926382504">
+        <mark key="[" line="101" column="21" />
+        <mark key="]" line="101" column="21" />
+        <mark key="^" line="101" column="21" />
+        <mark key="." line="101" column="21" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/services/policy/service_test.go" timestamp="1555659928138">
         <mark key="[" line="14" column="77" />
@@ -142,12 +142,12 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="4" column="14" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/integration-startup.sh" timestamp="1555924522267">
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/integration-startup.sh" timestamp="1555926068575">
         <mark key="'" line="21" column="63" />
-        <mark key="[" line="21" column="19" />
-        <mark key="]" line="21" column="26" />
-        <mark key="^" line="21" column="26" />
-        <mark key="." line="21" column="26" />
+        <mark key="[" line="21" column="33" />
+        <mark key="]" line="21" column="42" />
+        <mark key="^" line="21" column="42" />
+        <mark key="." line="21" column="42" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/main_test.go" timestamp="1555651910091">
         <mark key="[" line="17" column="62" />
@@ -165,7 +165,7 @@
       <file name="/Ruby Console" timestamp="1547631224572">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/handlers/policy/handler.go" timestamp="1555916744162">
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/handlers/policy/handler.go" timestamp="1555926621257">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="41" column="8" />
         <mark key="]" line="42" column="4" />
@@ -362,7 +362,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>40000</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -372,7 +372,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>40000</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>2</text>
