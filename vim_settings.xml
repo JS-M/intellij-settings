@@ -2,9 +2,22 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/integration-startup.sh" timestamp="1556001420768">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+    </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">I3VudGlsID4mMiBjdXJsIC1zIC1YIFBPU1QgLUggIkNvbnRlbnQtVHlwZTogYXBwbGljYXRpb24vdm5kLnNjaGVtYXJlZ2lzdHJ5LnYxK2pzb24iIFwKIyAgLWQgIntcInNjaGVtYVwiOiBcImBjYXQgc2NoZW1hcy9kYXRhL2RhdGEuYXZzYyB8IHNlZCAncy8iL1xcXFwiL2cnIHwgdHIgLWQgIiBcdFxuXHIiYFwifSIgXAojICBodHRwOi8vc2NoZW1hLXJlZ2lzdHJ5OjgwODEvc3ViamVjdHMvcHJpY2VfYWNjZXB0YW5jZS92ZXJzaW9uczsgZG8KIyAgPiYyIGVjaG8gIlxuU2NoZW1hIHJlZ2lzdHJ5IGlzIHVuYXZhaWxhYmxlIC0gc2xlZXBpbmciCiMgIHNsZWVwIDEKI2RvbmUKCg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">I3VudGlsID4mMiBjdXJsIC1zIC1YIFBPU1QgLUggIkNvbnRlbnQtVHlwZTogYXBwbGljYXRpb24vdm5kLnNjaGVtYXJlZ2lzdHJ5LnYxK2pzb24iIFwKIyAgLWQgIntcInNjaGVtYVwiOiBcImBjYXQgc2NoZW1hcy9kYXRhL2RhdGEuYXZzYyB8IHNlZCAncy8iL1xcXFwiL2cnIHwgdHIgLWQgIiBcdFxuXHIiYFwifSIgXAojICBodHRwOi8vc2NoZW1hLXJlZ2lzdHJ5OjgwODEvc3ViamVjdHMvcHJpY2VfYWNjZXB0YW5jZS92ZXJzaW9uczsgZG8KIyAgPiYyIGVjaG8gIlxuU2NoZW1hIHJlZ2lzdHJ5IGlzIHVuYXZhaWxhYmxlIC0gc2xlZXBpbmciCiMgIHNsZWVwIDEKI2RvbmUKCg==</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
