@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/controllers/calls_controller.rb" timestamp="1555927310393" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-settlement/spec/factories/bank_account_factory.rb" timestamp="1555676364394">
         <mark key="[" line="3" column="13" />
         <mark key="]" line="3" column="12" />
@@ -28,7 +27,6 @@
         <mark key="." line="84" column="26" />
         <mark key="^" line="84" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-settlement/app/interactions/calls/list.rb" timestamp="1555927365714" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/concerns/base_property.rb" timestamp="1547027102885">
         <mark key="[" line="27" column="6" />
       </file>
@@ -111,11 +109,10 @@
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/views/profile_reviews/_assigned_to_me.html.erb" timestamp="1547630141284">
         <mark key="[" line="26" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/serializers/chatbot_call_serializer.rb" timestamp="1555922183826">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="^" line="33" column="30" />
-        <mark key="." line="40" column="0" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/serializers/chatbot_call_serializer.rb" timestamp="1555998554913">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/views/license_reviews/_table.html.erb" timestamp="1547630085691">
         <mark key="[" line="24" column="16" />
@@ -262,7 +259,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBuaWwgaWYgZGlzY291bnQgPT0gMAo=</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -281,7 +278,7 @@
         <text encoding="base64">LCAnfj4gNC4xMS4xJw==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBuaWwgaWYgZGlzY291bnQgPT0gMAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -363,28 +360,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBkZWYgem9uZXMKICAgICAgcmVuZGVyIGpzb246IHsgcmVzdWx0OiAnaGVsbG8nIH0KICAgIGVuZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>mask_address('경기도 성남시 분당구 판교역로 152 알파돔시티 13층')end</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBkZWYgem9uZXMKICAgICAgcmVuZGVyIGpzb246IHsgcmVzdWx0OiAnaGVsbG8nIH0KICAgIGVuZAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJlZm9yZV9hY3Rpb24gOnNldF93b3JrdHlwZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgcGFyYW1zWzpkYXRlXSA9PSAneXl5eS1NTScK</text>
+        <text encoding="base64">ICAgIGJlZm9yZV9hY3Rpb24gOnNldF93b3JrdHlwZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICBiZWZvcmVfYWN0aW9uIDpzZXRfd29ya3R5cGUKCg==</text>
+        <text encoding="base64">ICAgICMgcGFyYW1zWzpkYXRlXSA9PSAneXl5eS1NTScK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBkZWYgcGF1c2UKICAgICAgcmVuZGVyIGpzb246IHsgcmVzdWx0OiAnaGVsbG8nIH0KICAgIGVuZAoKICAgIGRlZiByZXN1bWUKICAgICAgcmVuZGVyIGpzb246IHsgcmVzdWx0OiAnaGVsbG8nIH0KICAgIGVuZAoKICAgIGRlZiByZXBvcnRzCiAgICAgIHJlbmRlciBqc29uOiB7IHJlc3VsdDogJ2hlbGxvJyB9CiAgICBlbmQK</text>
+        <text encoding="base64">CiAgICBiZWZvcmVfYWN0aW9uIDpzZXRfd29ya3R5cGUKCg==</text>
       </register>
       <register name=":" type="4">
         <text>40</text>
