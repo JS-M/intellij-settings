@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/config/routes/wheel_driver.rb" timestamp="1556000530520">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-settlement/spec/factories/bank_account_factory.rb" timestamp="1555676364394">
         <mark key="[" line="3" column="13" />
         <mark key="]" line="3" column="12" />
@@ -21,10 +26,11 @@
       <file name="/Ruby Console" timestamp="1555675340188">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/doc/drivers/rest.md" timestamp="1555999981744">
-        <mark key="[" line="30" column="0" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/doc/drivers/rest.md" timestamp="1556000498744">
+        <mark key="[" line="30" column="1" />
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
+        <mark key="^" line="30" column="0" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/interactions/notifications/warn_abnormal_calls.rb" timestamp="1547803769752">
         <mark key="[" line="84" column="26" />
@@ -169,12 +175,12 @@
         <mark key="." line="13" column="42" />
         <mark key="^" line="13" column="42" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/wheel_driver/drivers_controller.rb" timestamp="1555999614506">
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/wheel_driver/drivers_controller.rb" timestamp="1556000495290">
         <mark key="'" line="27" column="18" />
-        <mark key="[" line="497" column="0" />
-        <mark key="]" line="497" column="0" />
-        <mark key="^" line="496" column="3" />
-        <mark key="." line="497" column="0" />
+        <mark key="[" line="122" column="0" />
+        <mark key="]" line="122" column="0" />
+        <mark key="^" line="125" column="4" />
+        <mark key="." line="122" column="0" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/db/migrate/20151223073956_add_columns_to_driver.rb" timestamp="1547615648540">
         <mark key="[" line="4" column="60" />
@@ -284,7 +290,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB3b3JraW5nX2J1dF91bnJlY2VpdmFibGU6IDEyLAo=</text>
+        <text encoding="base64">ICAgICAgICBwdXQgJ3Jlc3QnCg==</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -303,7 +309,7 @@
         <text encoding="base64">LCAnfj4gNC4xMS4xJw==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB3b3JraW5nX2J1dF91bnJlY2VpdmFibGU6IDEyLAo=</text>
+        <text encoding="base64">ICAgICAgICBwdXQgJ3Jlc3QnCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -382,28 +388,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB3b3JraW5nX2J1dF91bnJlY2VpdmFibGU6ICfsvZwg7Lm065OcIOyImOyLoCDspJHsp4AnLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgc3RhdGUgOndvcmtpbmdfYnV0X3VucmVjZWl2YWJsZSwgYWZ0ZXJfZW50ZXI6IFs6dXBkYXRlX3dvcmtpbmdfdGltZSwgOnVwZGF0ZV93YWl0aW5nX2NhbGxfdGltZV0K</text>
+        <text encoding="base64">ICAgIGFwaSEgJ+y9nCDsubTrk5wg7IiY7IugIOykkeyngO2VmOq4sCcKICAgIGRvY3VtZW50ICdkcml2ZXJzL3Jlc3QubWQnCgogICAgZGVmIHJlc3QKICAgICAgcmFpc2UgV2hlZWxFcnJvcjo6SW52YWxpZFJlcXVlc3QubmV3LndpdGhfb2JqZWN0KHsgcmVhc29uOiAi7Lac6re8IOyDge2DnOqwgCDslYTri5nri4jri6QuICN7QGRyaXZlci5kaXNwYXRjaF9zdGF0dXN9IiB9KSB1bmxlc3MgQGRyaXZlci53b3JraW5nPwoKICAgICAgbG9jYXRpb25fY29vcmQgPSBsb2NhdGlvbl9wYXJhbXMKICAgICAgQGRyaXZlci5yZXN0IQogICAgICBXaGVlbDo6Q29ubmVjdGlvbi5zZW5kX2RyaXZlcl9sb2NhdGlvbiBAZHJpdmVyLCBsb2NhdGlvbl9jb29yZAoKICAgICAgcmVuZGVyIGpzb246IEBkcml2ZXIsIGFjY291bnQ6IGN1cnJlbnRfYWNjb3VudAogICAgZW5kCg==</text>
       </register>
       <register name="s" type="4">
         <text>mask_address('경기도 성남시 분당구 판교역로 152 알파돔시티 13층')end</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgIGV2ZW50IDpyZXN0IGRvCiAgICAgICAgdHJhbnNpdGlvbnMgZnJvbTogOndvcmtpbmcsIHRvOiA6d29ya2luZ19idXRfdW5yZWNlaXZhYmxlCiAgICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgICB3b3JraW5nX2J1dF91bnJlY2VpdmFibGU6IDEyLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0cmFuc2l0aW9ucyBmcm9tOiA6d29ya2luZ19idXRfdW5yZWNlaXZhYmxlLCB0bzogOmxlYXZpbmcK</text>
+        <text encoding="base64">ICAgICAgICB3b3JraW5nX2J1dF91bnJlY2VpdmFibGU6ICfsvZwg7Lm065OcIOyImOyLoCDspJHsp4AnLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB3b3JraW5nX2J1dF91bnJlY2VpdmFibGUgfCDstpzqt7wg7ZuEIOy9nOy5tOuTnCDslYjrsJvquLAg7IOB7YOcICgg7L2c7Lm065OcIOyImOyLoCDslYjrkKggKSB8Cg==</text>
+        <text encoding="base64">ICAgICAgc3RhdGUgOndvcmtpbmdfYnV0X3VucmVjZWl2YWJsZSwgYWZ0ZXJfZW50ZXI6IFs6dXBkYXRlX3dvcmtpbmdfdGltZSwgOnVwZGF0ZV93YWl0aW5nX2NhbGxfdGltZV0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB3b3JraW5nX2J1dF91bnJlY2VpdmFibGUgfCDsvZwg7Lm065OcIOyImOyLoCDspJHsp4Ag7IOB7YOcCg==</text>
+        <text encoding="base64">CiAgICAgIGV2ZW50IDpyZXN0IGRvCiAgICAgICAgdHJhbnNpdGlvbnMgZnJvbTogOndvcmtpbmcsIHRvOiA6d29ya2luZ19idXRfdW5yZWNlaXZhYmxlCiAgICAgIGVuZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB3b3JraW5nX2J1dF91bnJlY2VpdmFibGUgfCDstpzqt7wg7ZuEIOy9nOy5tOuTnCDslYjrsJvquLAg7IOB7YOcICgg7L2c7Lm065OcIOyImOyLoCDslYjrkKggKSB8Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cmFuc2l0aW9ucyBmcm9tOiA6d29ya2luZ19idXRfdW5yZWNlaXZhYmxlLCB0bzogOmxlYXZpbmcK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICB3b3JraW5nX2J1dF91bnJlY2VpdmFibGUgfCDstpzqt7wg7ZuEIOy9nOy5tOuTnCDslYjrsJvquLAg7IOB7YOcICgg7L2c7Lm065OcIOyImOyLoCDslYjrkKggKSB8Cg==</text>
