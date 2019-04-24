@@ -15,98 +15,23 @@
         <mark key="^" line="157" column="36" />
         <mark key="." line="157" column="36" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/views/promotion_inner_users/index.html.erb" timestamp="1547631718861">
-        <mark key="[" line="27" column="16" />
-      </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/application_controller.rb" timestamp="1556016346739">
-        <mark key="[" line="22" column="7" />
-        <mark key="]" line="22" column="6" />
-        <mark key="^" line="22" column="6" />
-        <mark key="." line="22" column="6" />
-      </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/config/routes.rb" timestamp="1556013321996" />
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/concerns/base_property.rb" timestamp="1547027102885">
-        <mark key="[" line="27" column="6" />
-      </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/wheel_driver/works_controller.rb" timestamp="1556070490430">
-        <mark key="[" line="1" column="13" />
-        <mark key="]" line="1" column="12" />
-        <mark key="." line="1" column="12" />
-        <mark key="^" line="1" column="12" />
-      </file>
-      <file name="$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/activesupport-4.2.11.1/lib/active_support/dependencies.rb" timestamp="1556070467157" />
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/controllers/driver_queries_controller.rb" timestamp="1546846329030">
-        <mark key="[" line="23" column="100" />
-      </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/doc/internal/calls/index.md" timestamp="1556073078222">
-        <mark key="[" line="67" column="65" />
-        <mark key="]" line="67" column="64" />
-        <mark key="^" line="67" column="64" />
-        <mark key="." line="67" column="64" />
-      </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/wheel_user/users_controller.rb" timestamp="1556011138000" />
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/config/locales/ko.yml" timestamp="1546847697619">
-        <mark key="[" line="165" column="21" />
-      </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/interactions/producers/logging/price_acceptance.rb" timestamp="1556017636780">
-        <mark key="[" line="5" column="14" />
-        <mark key="]" line="5" column="28" />
-        <mark key="." line="5" column="27" />
-        <mark key="^" line="5" column="27" />
-      </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/jobs/kafka_produce_job.rb" timestamp="1556011908285" />
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/config/locales/activerecord.ko.yml" timestamp="1547630736218">
-        <mark key="[" line="453" column="20" />
-      </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/views/promotion_inner_drivers/index.html.erb" timestamp="1547631701179">
-        <mark key="[" line="27" column="16" />
-      </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/.gitignore" timestamp="1547790663276">
-        <mark key="[" line="6" column="14" />
-      </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/concerns/base_call.rb" timestamp="1547803170418">
-        <mark key="[" line="33" column="68" />
-        <mark key="]" line="33" column="67" />
-        <mark key="." line="33" column="67" />
-        <mark key="^" line="33" column="67" />
-      </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/concerns/apipie_disabler.rb" timestamp="1556070871738">
-        <mark key="'" line="7" column="28" />
-        <mark key="[" line="7" column="28" />
-        <mark key="]" line="7" column="27" />
-        <mark key="." line="7" column="27" />
-        <mark key="^" line="7" column="27" />
-      </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/views/license_reviews/_table.html.erb" timestamp="1547630085691">
-        <mark key="[" line="24" column="16" />
-      </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/helpers/apipie_disabler.rb" timestamp="1556071896683">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/spec/interactions/producers/logging/price_spec.rb" timestamp="1556015021397">
-        <mark key="'" line="2" column="26" />
-        <mark key="[" line="2" column="75" />
-        <mark key="]" line="2" column="74" />
-        <mark key="^" line="2" column="74" />
-        <mark key="." line="2" column="74" />
-      </file>
-      <file name="$USER_HOME$/projects/doowit/Capfile" timestamp="1547993781597">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="42" />
-        <mark key="." line="13" column="42" />
-        <mark key="^" line="13" column="42" />
-      </file>
       <file name="/application_controller.rb" timestamp="1556015588071">
         <mark key="[" line="0" column="28" />
         <mark key="]" line="0" column="27" />
         <mark key="^" line="0" column="27" />
         <mark key="." line="0" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/super_app_user/calls_controller.rb" timestamp="1556017701879" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/views/promotion_inner_users/index.html.erb" timestamp="1547631718861">
+        <mark key="[" line="27" column="16" />
+      </file>
       <file name="/Ruby Console" timestamp="1556070379343">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/application_controller.rb" timestamp="1556016346739">
+        <mark key="[" line="22" column="7" />
+        <mark key="]" line="22" column="6" />
+        <mark key="^" line="22" column="6" />
+        <mark key="." line="22" column="6" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/doc/drivers/rest.md" timestamp="1556000498744">
         <mark key="[" line="30" column="1" />
@@ -120,17 +45,38 @@
         <mark key="." line="84" column="26" />
         <mark key="^" line="84" column="26" />
       </file>
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/concerns/base_property.rb" timestamp="1547027102885">
+        <mark key="[" line="27" column="6" />
+      </file>
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/wheel_driver/works_controller.rb" timestamp="1556070490430">
+        <mark key="[" line="1" column="13" />
+        <mark key="]" line="1" column="12" />
+        <mark key="." line="1" column="12" />
+        <mark key="^" line="1" column="12" />
+      </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/doc/wheel_user/calls/create.md" timestamp="1547713416773">
         <mark key="[" line="28" column="2" />
         <mark key="]" line="28" column="4" />
         <mark key="^" line="28" column="4" />
         <mark key="." line="28" column="4" />
       </file>
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/controllers/driver_queries_controller.rb" timestamp="1546846329030">
+        <mark key="[" line="23" column="100" />
+      </file>
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/doc/internal/calls/index.md" timestamp="1556073078222">
+        <mark key="[" line="67" column="65" />
+        <mark key="]" line="67" column="64" />
+        <mark key="^" line="67" column="64" />
+        <mark key="." line="67" column="64" />
+      </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-insurance/config/locales/shared/push_message.ko.yml" timestamp="1547799926330">
         <mark key="[" line="365" column="6" />
         <mark key="]" line="365" column="8" />
         <mark key="." line="365" column="8" />
         <mark key="^" line="365" column="8" />
+      </file>
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/config/locales/ko.yml" timestamp="1546847697619">
+        <mark key="[" line="165" column="21" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/config/routes.rb" timestamp="1556069813453">
         <mark key="[" line="10" column="8" />
@@ -144,6 +90,12 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/interactions/producers/logging/price_acceptance.rb" timestamp="1556017636780">
+        <mark key="[" line="5" column="14" />
+        <mark key="]" line="5" column="28" />
+        <mark key="." line="5" column="27" />
+        <mark key="^" line="5" column="27" />
+      </file>
       <file name="/Dummy.txt" timestamp="1555675262206">
         <mark key="[" line="0" column="0" />
       </file>
@@ -156,13 +108,22 @@
       <file name="/fragment.rb" timestamp="1547110926513">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/config/locales/activerecord.ko.yml" timestamp="1547630736218">
+        <mark key="[" line="453" column="20" />
+      </file>
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/views/promotion_inner_drivers/index.html.erb" timestamp="1547631701179">
+        <mark key="[" line="27" column="16" />
+      </file>
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/.gitignore" timestamp="1547790663276">
+        <mark key="[" line="6" column="14" />
+      </file>
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/concerns/base_driver.rb" timestamp="1556083997839" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/wheel_driver/actions_controller.rb" timestamp="1556070500229">
         <mark key="[" line="1" column="8" />
         <mark key="]" line="1" column="14" />
         <mark key="." line="1" column="14" />
         <mark key="^" line="1" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/wheel_driver/bank_accounts_controller.rb" timestamp="1556015251118" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/wheel_user/calls_controller.rb" timestamp="1556017746809">
         <mark key="[" line="90" column="10" />
         <mark key="]" line="90" column="24" />
@@ -175,16 +136,30 @@
         <mark key="." line="89" column="11" />
         <mark key="^" line="89" column="11" />
       </file>
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/concerns/base_call.rb" timestamp="1547803170418">
+        <mark key="[" line="33" column="68" />
+        <mark key="]" line="33" column="67" />
+        <mark key="." line="33" column="67" />
+        <mark key="^" line="33" column="67" />
+      </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/views/profile_reviews/_assigned_to_me.html.erb" timestamp="1547630141284">
         <mark key="[" line="26" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/spec/controllers/bank_accounts_controller_spec.rb" timestamp="1556015203966" />
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/internal/kakao_calls_controller.rb" timestamp="1556070387995" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/concerns/apipie_disabler.rb" timestamp="1556070871738">
+        <mark key="'" line="7" column="28" />
+        <mark key="[" line="7" column="28" />
+        <mark key="]" line="7" column="27" />
+        <mark key="." line="7" column="27" />
+        <mark key="^" line="7" column="27" />
+      </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/doc/internal/calls/show.md" timestamp="1556073578090">
         <mark key="[" line="92" column="21" />
         <mark key="]" line="92" column="45" />
         <mark key="." line="92" column="45" />
         <mark key="^" line="92" column="45" />
+      </file>
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/views/license_reviews/_table.html.erb" timestamp="1547630085691">
+        <mark key="[" line="24" column="16" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/interactions/notifications/send_plusfriend.rb" timestamp="1547803111950">
         <mark key="[" line="18" column="1" />
@@ -192,11 +167,29 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/helpers/apipie_disabler.rb" timestamp="1556071896683">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/interactions/calls/create.rb" timestamp="1547706502197">
         <mark key="[" line="0" column="19" />
         <mark key="]" line="0" column="18" />
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="18" />
+      </file>
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/spec/interactions/producers/logging/price_spec.rb" timestamp="1556015021397">
+        <mark key="'" line="2" column="26" />
+        <mark key="[" line="2" column="75" />
+        <mark key="]" line="2" column="74" />
+        <mark key="^" line="2" column="74" />
+        <mark key="." line="2" column="74" />
+      </file>
+      <file name="$USER_HOME$/projects/doowit/Capfile" timestamp="1547993781597">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="42" />
+        <mark key="." line="13" column="42" />
+        <mark key="^" line="13" column="42" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/db/migrate/20151223073956_add_columns_to_driver.rb" timestamp="1547615648540">
         <mark key="[" line="4" column="60" />
