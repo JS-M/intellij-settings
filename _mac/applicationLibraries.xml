@@ -4167,11 +4167,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bcrypt/3.1.11" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/bcrypt-3.1.11/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/bcrypt-3.1.11/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/bcrypt-3.1.11/spec" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bcrypt/3.1.11" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/bcrypt-3.1.11/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/bcrypt-3.1.11/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/bcrypt-3.1.11/spec" />
@@ -4646,11 +4648,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bson/4.1.1" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/bson-4.1.1/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/bson-4.1.1/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/bson-4.1.1/spec" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bson/4.1.1" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/bson-4.1.1/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/bson-4.1.1/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/bson-4.1.1/spec" />
@@ -4681,11 +4685,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bson/4.4.2" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/bson-4.4.2/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/bson-4.4.2/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/bson-4.4.2/spec" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bson/4.4.2" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/bson-4.4.2/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/bson-4.4.2/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/bson-4.4.2/spec" />
@@ -8179,12 +8185,14 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/geokdtree/0.2.0" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/geokdtree-0.2.0/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/geokdtree-0.2.0/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/geokdtree-0.2.0/spec" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/geokdtree-0.2.0/example" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/geokdtree/0.2.0" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/geokdtree-0.2.0/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/geokdtree-0.2.0/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/geokdtree-0.2.0/spec" />
@@ -10040,11 +10048,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/kdtree/0.3" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/kdtree-0.3/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/kdtree-0.3/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/kdtree-0.3/test" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/kdtree/0.3" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/kdtree-0.3/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/kdtree-0.3/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/kdtree-0.3/test" />
@@ -11997,6 +12007,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/mysql2/0.3.21" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/mysql2-0.3.21/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/mysql2-0.3.21/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/mysql2-0.3.21/spec" />
@@ -12004,6 +12015,7 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/mysql2-0.3.21/examples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/mysql2/0.3.21" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/mysql2-0.3.21/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/mysql2-0.3.21/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/mysql2-0.3.21/spec" />
@@ -13306,12 +13318,14 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/pg/0.19.0" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/pg-0.19.0/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/pg-0.19.0/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/pg-0.19.0/spec" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/pg-0.19.0/sample" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/pg/0.19.0" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/pg-0.19.0/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/pg-0.19.0/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/pg-0.19.0/spec" />
@@ -15460,6 +15474,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/rdiscount/1.6.8" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/rdiscount-1.6.8/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/rdiscount-1.6.8/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/rdiscount-1.6.8/lib" />
@@ -15467,6 +15482,7 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/rdiscount-1.6.8/test" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/rdiscount/1.6.8" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/rdiscount-1.6.8/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/rdiscount-1.6.8/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/rdiscount-1.6.8/lib" />
