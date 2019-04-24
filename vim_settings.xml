@@ -21,6 +21,7 @@
         <mark key="^" line="0" column="27" />
         <mark key="." line="0" column="27" />
       </file>
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/super_app_user/calls_controller.rb" timestamp="1556093763911" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/application_controller.rb" timestamp="1556016346739">
         <mark key="[" line="22" column="7" />
         <mark key="]" line="22" column="6" />
@@ -63,13 +64,6 @@
         <mark key="." line="365" column="8" />
         <mark key="^" line="365" column="8" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/interactions/base_interaction.rb" timestamp="1556090036792">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="1" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/config/routes.rb" timestamp="1556069813453">
         <mark key="[" line="10" column="8" />
         <mark key="]" line="10" column="7" />
@@ -106,7 +100,7 @@
         <mark key="." line="1" column="14" />
         <mark key="^" line="1" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/wheel_user/calls_controller.rb" timestamp="1556017746809">
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/wheel_user/calls_controller.rb" timestamp="1556093810931">
         <mark key="[" line="90" column="10" />
         <mark key="]" line="90" column="24" />
         <mark key="^" line="90" column="17" />
@@ -137,9 +131,9 @@
         <mark key="^" line="7" column="27" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/interactions/producers/base.rb" timestamp="1556089456195">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/interactions/notifications/send_plusfriend.rb" timestamp="1547803111950">
         <mark key="[" line="18" column="1" />
