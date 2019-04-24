@@ -39,13 +39,19 @@
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/config/locales/ko.yml" timestamp="1546847697619">
         <mark key="[" line="165" column="21" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/main.go" timestamp="1556006722485">
-        <mark key="[" line="31" column="28" />
-        <mark key="]" line="33" column="33" />
-        <mark key="." line="33" column="33" />
-        <mark key="^" line="33" column="33" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/main.go" timestamp="1556085312484">
+        <mark key="[" line="30" column="19" />
+        <mark key="]" line="30" column="18" />
+        <mark key="." line="30" column="18" />
+        <mark key="^" line="30" column="18" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/Makefile" timestamp="1556007204878" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/Makefile" timestamp="1556084919194">
+        <mark key="'" line="12" column="25" />
+        <mark key="[" line="34" column="4" />
+        <mark key="]" line="34" column="3" />
+        <mark key="." line="34" column="3" />
+        <mark key="^" line="34" column="3" />
+      </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/config/locales/activerecord.ko.yml" timestamp="1547630736218">
         <mark key="[" line="453" column="20" />
       </file>
@@ -61,12 +67,12 @@
         <mark key="]" line="55" column="38" />
         <mark key="." line="55" column="25" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/idl/github.kakaocorp.com/driver/driver-service/driver-service.proto" timestamp="1556082409969">
-        <mark key="'" line="4" column="57" />
-        <mark key="[" line="73" column="6" />
-        <mark key="]" line="73" column="6" />
-        <mark key="^" line="73" column="6" />
-        <mark key="." line="73" column="6" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/idl/github.kakaocorp.com/driver/driver-service/driver-service.proto" timestamp="1556085214278">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="6" column="8" />
+        <mark key="]" line="34" column="21" />
+        <mark key="." line="34" column="21" />
+        <mark key="^" line="34" column="21" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/concerns/base_call.rb" timestamp="1547803170418">
         <mark key="[" line="33" column="68" />
@@ -179,6 +185,12 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/Dockerfile" timestamp="1556085261804">
+        <mark key="[" line="2" column="12" />
+        <mark key="]" line="2" column="17" />
+        <mark key="." line="2" column="17" />
+        <mark key="^" line="2" column="17" />
+      </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/interactions/notifications/send_plusfriend.rb" timestamp="1547803111950">
         <mark key="[" line="18" column="1" />
         <mark key="]" line="18" column="0" />
@@ -207,9 +219,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="0" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/helpers/security_helper.rb" />
-      <jump line="177" column="0" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/helpers/security_helper.rb" />
-      <jump line="0" column="6" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/helpers/security_helper.rb" />
       <jump line="36" column="0" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/test/helpers/security_helper_test.rb" />
       <jump line="14" column="0" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/test/helpers/security_helper_test.rb" />
       <jump line="79" column="0" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/spec/helpers/security_helper_spec.rb" />
@@ -307,10 +316,13 @@
       <jump line="40" column="0" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/idl/github.kakaocorp.com/driver/driver-service/driver-service.proto" />
       <jump line="51" column="16" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/idl/github.kakaocorp.com/driver/driver-service/driver-service.proto" />
       <jump line="4" column="57" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/idl/github.kakaocorp.com/driver/driver-service/driver-service.proto" />
+      <jump line="46" column="0" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/idl/github.kakaocorp.com/driver/driver-service/driver-service.proto" />
+      <jump line="38" column="0" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/idl/github.kakaocorp.com/driver/driver-service/driver-service.proto" />
+      <jump line="12" column="25" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/Makefile" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>bool</text>
+        <text>policy</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -320,16 +332,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>bool</text>
+        <text>policy</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">c3RyaW5nIA==</text>
+        <text>driver</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ID0gMQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -407,65 +419,32 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>assname = &quot;PolicyProto&quot;;</text>
+      <register name="2" type="2">
+        <text encoding="base64">bWVzc2FnZSBHZXREaXNwYXRjaFN0YXR1c1Jlc3BvbnNlIHsKICAgIERpc3BhdGNoU3RhdHVzIGRpc3BhdGNoX3N0YXR1cyA9IDE7CiAgICBnb29nbGUucnBjLlN0YXR1cyBlcnJvciA9IDI7Cn0K</text>
       </register>
-      <register name="3" type="8">
-        <text>wheel_development.drivers.
-wheel_development.drivers.
-wheel_development.drivers.
-wheel_development.drivers.
-wheel_development.drivers.
-wheel_development.drivers.
-wheel_development.drivers.
-wheel_development.drivers.
-wheel_development.drivers.
-wheel_development.drivers.
-wheel_development.drivers.
-wheel_development.drivers.
-wheel_development.drivers.
-wheel_development.drivers.
-wheel_development.drivers.
-wheel_development.drivers.
-wheel_development.drivers.
-wheel_development.drivers.
-wheel_development.drivers.
-wheel_development.drivers.
-wheel_development.drivers.
-wheel_development.drivers.
-wheel_development.drivers.
-wheel_development.drivers.
-wheel_development.drivers.
-wheel_development.drivers.
-wheel_development.drivers.
-wheel_development.drivers.
-wheel_development.drivers.
-wheel_development.drivers.
-wheel_development.drivers.
-wheel_development.drivers.
-wheel_development.drivers.
-wheel_development.drivers.</text>
+      <register name="3" type="2">
+        <text encoding="base64">bWVzc2FnZSBHZXREaXNwYXRjaFN0YXR1c1Jlc3BvbnNlIHsKICAgIAp9Cg==</text>
       </register>
       <register name="s" type="4">
         <text>assname = &quot;PolicyProto&quot;;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIERpc3BhdGNoU3RhdHVzIGRpc3BhdGNoX3N0YXR1cyA9IDE7CiAgICBnb29nbGUucnBjLlN0YXR1cyBlcnJvciA9IDI7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bWVzc2FnZSBHZXREaXNwYXRjaFN0YXR1c1Jlc3BvbnNlIHsKICAgIERpc3BhdGNoU3RhdHVzIGRpc3BhdGNoX3N0YXR1cyA9IDE7CiAgICBnb29nbGUucnBjLlN0YXR1cyBlcnJvciA9IDI7Cn0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CUdldEFjdGl2ZU91dGJhY2soY3R4IGNvbnRleHQuQ29udGV4dCwgb3JpZ2luQ29kZSBlbnRpdGllcy5IY29kZSwgZGVzdGluYXRpb25Db2RlIGVudGl0aWVzLkhjb2RlKSAoKmVudGl0aWVzLk91dGJhY2ssIGVycm9yKQo=</text>
+        <text encoding="base64">ICAgIExFQVZJTkcgPSAwOyAvLyDth7Tqt7wK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB3b3JraW5nX2J1dF91bnJlY2VpdmFibGU6IDEyLAo=</text>
+        <text encoding="base64">ICAgIFdPUktJTkcgPSAxOyAvLyDstpzqt7wK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3b3JraW5nX2J1dF91bnJlY2VpdmFibGU6ICfsvZwg7Lm065OcIOyImOyLoCDspJHsp4AnLAo=</text>
+        <text encoding="base64">bWVzc2FnZSBHZXREaXNwYXRjaFN0YXR1c1Jlc3BvbnNlIHsKICAgIERpc3BhdGNoU3RhdHVzIGRpc3BhdGNoX3N0YXR1cyA9IDE7CiAgICBnb29nbGUucnBjLlN0YXR1cyBlcnJvciA9IDI7Cn0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgc3RhdGUgOndvcmtpbmdfYnV0X3VucmVjZWl2YWJsZSwgYWZ0ZXJfZW50ZXI6IFs6dXBkYXRlX3dvcmtpbmdfdGltZSwgOnVwZGF0ZV93YWl0aW5nX2NhbGxfdGltZV0K</text>
+        <text encoding="base64">ICAgIENvb3JkIGxvY2F0aW9uID0gMzsK</text>
       </register>
       <register name=":" type="4">
         <text>40</text>
