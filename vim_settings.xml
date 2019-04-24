@@ -61,6 +61,13 @@
         <mark key="]" line="55" column="38" />
         <mark key="." line="55" column="25" />
       </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/idl/github.kakaocorp.com/driver/driver-service/driver-service.proto" timestamp="1556082409969">
+        <mark key="'" line="4" column="57" />
+        <mark key="[" line="73" column="6" />
+        <mark key="]" line="73" column="6" />
+        <mark key="^" line="73" column="6" />
+        <mark key="." line="73" column="6" />
+      </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/concerns/base_call.rb" timestamp="1547803170418">
         <mark key="[" line="33" column="68" />
         <mark key="]" line="33" column="67" />
@@ -200,10 +207,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="160" column="0" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/helpers/security_helper.rb" />
-      <jump line="21" column="0" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/helpers/security_helper.rb" />
-      <jump line="143" column="0" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/helpers/security_helper.rb" />
-      <jump line="165" column="0" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/helpers/security_helper.rb" />
       <jump line="37" column="0" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/helpers/security_helper.rb" />
       <jump line="177" column="0" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/helpers/security_helper.rb" />
       <jump line="0" column="6" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/helpers/security_helper.rb" />
@@ -300,10 +303,14 @@
       <jump line="27" column="18" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/wheel_driver/drivers_controller.rb" />
       <jump line="10" column="0" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-settlement/config/database.yml" />
       <jump line="34" column="2" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-settlement/config/database.yml" />
+      <jump line="73" column="25" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/idl/github.kakaocorp.com/driver/driver-service/driver-service.proto" />
+      <jump line="40" column="0" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/idl/github.kakaocorp.com/driver/driver-service/driver-service.proto" />
+      <jump line="51" column="16" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/idl/github.kakaocorp.com/driver/driver-service/driver-service.proto" />
+      <jump line="4" column="57" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/idl/github.kakaocorp.com/driver/driver-service/driver-service.proto" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Outback</text>
+        <text>bool</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -313,16 +320,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Outback</text>
+        <text>bool</text>
       </register>
       <register name="/" type="4">
-        <text>capistrano-fi</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CVZhdWx0ICAgIFZhdWx0Q29uZmlnICAgICAgICAgICAgICBgeWFtbDoidmF1bHQiYAoJS2Fma2EgICAgbWFwW3N0cmluZ11LYWZrYUNvbmZpZyAgIGB5YW1sOiJrYWZrYSJgCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">c3RyaW5nIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ID0gMQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -400,44 +407,77 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>assname = &quot;PolicyProto&quot;;</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CUdldEFjdGl2ZU91dGJhY2soY3R4IGNvbnRleHQuQ29udGV4dCwgb3JpZ2luQ29kZSBlbnRpdGllcy5IY29kZSwgZGVzdGluYXRpb25Db2RlIGVudGl0aWVzLkhjb2RlKSAoKmVudGl0aWVzLk91dGJhY2ssIGVycm9yKQo=</text>
+      <register name="3" type="8">
+        <text>wheel_development.drivers.
+wheel_development.drivers.
+wheel_development.drivers.
+wheel_development.drivers.
+wheel_development.drivers.
+wheel_development.drivers.
+wheel_development.drivers.
+wheel_development.drivers.
+wheel_development.drivers.
+wheel_development.drivers.
+wheel_development.drivers.
+wheel_development.drivers.
+wheel_development.drivers.
+wheel_development.drivers.
+wheel_development.drivers.
+wheel_development.drivers.
+wheel_development.drivers.
+wheel_development.drivers.
+wheel_development.drivers.
+wheel_development.drivers.
+wheel_development.drivers.
+wheel_development.drivers.
+wheel_development.drivers.
+wheel_development.drivers.
+wheel_development.drivers.
+wheel_development.drivers.
+wheel_development.drivers.
+wheel_development.drivers.
+wheel_development.drivers.
+wheel_development.drivers.
+wheel_development.drivers.
+wheel_development.drivers.
+wheel_development.drivers.
+wheel_development.drivers.</text>
       </register>
       <register name="s" type="4">
-        <text>mask_address('경기도 성남시 분당구 판교역로 152 알파돔시티 13층')end</text>
+        <text>assname = &quot;PolicyProto&quot;;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB3b3JraW5nX2J1dF91bnJlY2VpdmFibGU6IDEyLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB3b3JraW5nX2J1dF91bnJlY2VpdmFibGU6ICfsvZwg7Lm065OcIOyImOyLoCDspJHsp4AnLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgc3RhdGUgOndvcmtpbmdfYnV0X3VucmVjZWl2YWJsZSwgYWZ0ZXJfZW50ZXI6IFs6dXBkYXRlX3dvcmtpbmdfdGltZSwgOnVwZGF0ZV93YWl0aW5nX2NhbGxfdGltZV0K</text>
+        <text encoding="base64">CUdldEFjdGl2ZU91dGJhY2soY3R4IGNvbnRleHQuQ29udGV4dCwgb3JpZ2luQ29kZSBlbnRpdGllcy5IY29kZSwgZGVzdGluYXRpb25Db2RlIGVudGl0aWVzLkhjb2RlKSAoKmVudGl0aWVzLk91dGJhY2ssIGVycm9yKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgIGV2ZW50IDpyZXN0IGRvCiAgICAgICAgdHJhbnNpdGlvbnMgZnJvbTogOndvcmtpbmcsIHRvOiA6d29ya2luZ19idXRfdW5yZWNlaXZhYmxlCiAgICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgICB3b3JraW5nX2J1dF91bnJlY2VpdmFibGU6IDEyLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0cmFuc2l0aW9ucyBmcm9tOiA6d29ya2luZ19idXRfdW5yZWNlaXZhYmxlLCB0bzogOmxlYXZpbmcK</text>
+        <text encoding="base64">ICAgICAgICB3b3JraW5nX2J1dF91bnJlY2VpdmFibGU6ICfsvZwg7Lm065OcIOyImOyLoCDspJHsp4AnLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB3b3JraW5nX2J1dF91bnJlY2VpdmFibGUgfCDstpzqt7wg7ZuEIOy9nOy5tOuTnCDslYjrsJvquLAg7IOB7YOcICgg7L2c7Lm065OcIOyImOyLoCDslYjrkKggKSB8Cg==</text>
+        <text encoding="base64">ICAgICAgc3RhdGUgOndvcmtpbmdfYnV0X3VucmVjZWl2YWJsZSwgYWZ0ZXJfZW50ZXI6IFs6dXBkYXRlX3dvcmtpbmdfdGltZSwgOnVwZGF0ZV93YWl0aW5nX2NhbGxfdGltZV0K</text>
       </register>
       <register name=":" type="4">
         <text>40</text>
       </register>
     </registers>
     <search>
-      <last-search>capistrano-fi</last-search>
+      <last-search encoding="base64">IA==</last-search>
       <last-offset />
-      <last-pattern>capistrano-fi</last-pattern>
+      <last-pattern encoding="base64">IA==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>[</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -449,10 +489,6 @@
         <entry>test</entry>
         <entry>end</entry>
         <entry>assert</entry>
-        <entry>ass</entry>
-        <entry>mask</entry>
-        <entry>'</entry>
-        <entry encoding="base64">IA==</entry>
         <entry encoding="base64">XDxtYXNrX2VtYWlsXD4=</entry>
         <entry>킹</entry>
         <entry>앞</entry>
@@ -462,6 +498,10 @@
         <entry>active</entry>
         <entry>[</entry>
         <entry>capistrano-fi</entry>
+        <entry>ass</entry>
+        <entry>mask</entry>
+        <entry>'</entry>
+        <entry encoding="base64">IA==</entry>
       </history-search>
       <history-cmd>
         <entry>o index.html.erb</entry>
