@@ -178,12 +178,12 @@
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/spec/interactions/producers/logging/price_spec.rb" timestamp="1556015021397">
-        <mark key="'" line="2" column="26" />
-        <mark key="[" line="2" column="75" />
-        <mark key="]" line="2" column="74" />
-        <mark key="^" line="2" column="74" />
-        <mark key="." line="2" column="74" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/spec/interactions/producers/logging/price_spec.rb" timestamp="1556086728249">
+        <mark key="'" line="2" column="45" />
+        <mark key="[" line="15" column="32" />
+        <mark key="]" line="15" column="31" />
+        <mark key="^" line="15" column="31" />
+        <mark key="." line="15" column="31" />
       </file>
       <file name="$USER_HOME$/projects/doowit/Capfile" timestamp="1547993781597">
         <mark key="[" line="13" column="0" />
@@ -196,7 +196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="6" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/helpers/security_helper.rb" />
       <jump line="36" column="0" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/test/helpers/security_helper_test.rb" />
       <jump line="14" column="0" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/test/helpers/security_helper_test.rb" />
       <jump line="79" column="0" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/spec/helpers/security_helper_spec.rb" />
@@ -296,10 +295,11 @@
       <jump line="13" column="32" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/internal/calls_controller.rb" />
       <jump line="2" column="26" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/spec/interactions/producers/logging/price_spec.rb" />
       <jump line="20" column="28" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/internal/calls_controller.rb" />
+      <jump line="3" column="45" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/spec/interactions/producers/logging/price_spec.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>Producers::Logging::Price</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -309,16 +309,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>Producers::Logging::Price</text>
       </register>
       <register name="/" type="4">
         <text>api!</text>
       </register>
       <register name="0" type="4">
-        <text>acceptance_type</text>
+        <text>described_class</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PiDstpzrj4TssKkg7KCV67O0LCDrk5zrnbzsnbTrsoQg7KCV67O064+EIO2VhOyalO2VnCDsoJXrs7Trp4wg7LaU66Ck7IScIOuCtOumsOuLpC4gPGJyPiAK</text>
+        <text encoding="base64">IyBUT0RPOiBQcm9kdWNlcnM6OkxvZ2dpbmc6OlByaWNlIO2BtOuemOyKpOuqhSDrs4Dqsr3snLzroZwg7J247ZWcIFNwZWMg7IiY7KCVIO2VhOyalCAo6ri06riJIOuwsO2PrOuhnCDsnbjtlZjsl6wg7LCo7ZuEIOyImOyglSkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -397,31 +397,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAjIERJU0FCTElOR19UQVJHRVRfRU5WUyA9IFtdCg==</text>
+        <text encoding="base64">PiDstpzrj4TssKkg7KCV67O0LCDrk5zrnbzsnbTrsoQg7KCV67O064+EIO2VhOyalO2VnCDsoJXrs7Trp4wg7LaU66Ck7IScIOuCtOumsOuLpC4gPGJyPiAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgIGNhbGxfaWQ6IGNhbGwuaWQsCg==</text>
+        <text encoding="base64">ICAjIERJU0FCTElOR19UQVJHRVRfRU5WUyA9IFtdCg==</text>
       </register>
       <register name="s" type="4">
         <text>mask_address('경기도 성남시 분당구 판교역로 152 알파돔시티 13층')end</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgIGNhbGxfaWQ6IGNhbGwuaWQsCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZmFsc2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ZmFsc2UK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAjIERJU0FCTElOR19UQVJHRVRfRU5WUyA9IFtdCg==</text>
       </register>
-      <register name="8" type="8">
+      <register name="9" type="8">
         <text encoding="base64">ICAKICAKICAKICAKICAKICAKICA=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwdXQgJ3Jlc3QnCg==</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
