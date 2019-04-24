@@ -38,11 +38,11 @@
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/controllers/driver_queries_controller.rb" timestamp="1546846329030">
         <mark key="[" line="23" column="100" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/doc/internal/calls/index.md" timestamp="1556069630184">
-        <mark key="[" line="56" column="13" />
-        <mark key="]" line="56" column="12" />
-        <mark key="^" line="56" column="12" />
-        <mark key="." line="56" column="12" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/doc/internal/calls/index.md" timestamp="1556073078222">
+        <mark key="[" line="67" column="65" />
+        <mark key="]" line="67" column="64" />
+        <mark key="^" line="67" column="64" />
+        <mark key="." line="67" column="64" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/wheel_user/users_controller.rb" timestamp="1556011138000" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/config/locales/ko.yml" timestamp="1546847697619">
@@ -79,6 +79,11 @@
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/views/license_reviews/_table.html.erb" timestamp="1547630085691">
         <mark key="[" line="24" column="16" />
+      </file>
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/helpers/apipie_disabler.rb" timestamp="1556071896683">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/spec/interactions/producers/logging/price_spec.rb" timestamp="1556015021397">
         <mark key="'" line="2" column="26" />
@@ -133,9 +138,20 @@
         <mark key="^" line="10" column="7" />
         <mark key="." line="10" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/internal/calls_controller.rb" timestamp="1556016356521" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/internal/calls_controller.rb" timestamp="1556072803229">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1555675262206">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/services/apipie_disabler.rb" timestamp="1556072849143">
+        <mark key="[" line="8" column="28" />
+        <mark key="]" line="8" column="27" />
+        <mark key="." line="8" column="27" />
+        <mark key="^" line="8" column="27" />
       </file>
       <file name="/fragment.rb" timestamp="1547110926513">
         <mark key="[" line="0" column="0" />
@@ -154,17 +170,22 @@
         <mark key="." line="90" column="17" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/Gemfile" timestamp="1556070734308">
-        <mark key="[" line="90" column="12" />
-        <mark key="]" line="90" column="11" />
-        <mark key="." line="90" column="11" />
-        <mark key="^" line="90" column="11" />
+        <mark key="[" line="89" column="12" />
+        <mark key="]" line="89" column="11" />
+        <mark key="." line="89" column="11" />
+        <mark key="^" line="89" column="11" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/views/profile_reviews/_assigned_to_me.html.erb" timestamp="1547630141284">
         <mark key="[" line="26" column="16" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/spec/controllers/bank_accounts_controller_spec.rb" timestamp="1556015203966" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/internal/kakao_calls_controller.rb" timestamp="1556070387995" />
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/doc/internal/calls/show.md" timestamp="1556068262112" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/doc/internal/calls/show.md" timestamp="1556073578090">
+        <mark key="[" line="92" column="21" />
+        <mark key="]" line="92" column="45" />
+        <mark key="." line="92" column="45" />
+        <mark key="^" line="92" column="45" />
+      </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/interactions/notifications/send_plusfriend.rb" timestamp="1547803111950">
         <mark key="[" line="18" column="1" />
         <mark key="]" line="18" column="0" />
@@ -285,7 +306,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>11.1</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -295,7 +316,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>11.1</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
         <text>api!</text>
@@ -304,7 +325,7 @@
         <text>acceptance_type</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgIGNhbGxfaWQ6IGNhbGwuaWQsCg==</text>
+        <text encoding="base64">PiDstpzrj4TssKkg7KCV67O0LCDrk5zrnbzsnbTrsoQg7KCV67O064+EIO2VhOyalO2VnCDsoJXrs7Trp4wg7LaU66Ck7IScIOuCtOumsOuLpC4gPGJyPiAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -383,31 +404,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAjIERJU0FCTElOR19UQVJHRVRfRU5WUyA9IFtdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgIGNhbGxfaWQ6IGNhbGwuaWQsCg==</text>
       </register>
       <register name="s" type="4">
         <text>mask_address('경기도 성남시 분당구 판교역로 152 알파돔시티 13층')end</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZmFsc2UK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAjIERJU0FCTElOR19UQVJHRVRfRU5WUyA9IFtdCg==</text>
-      </register>
-      <register name="6" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICA=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwdXQgJ3Jlc3QnCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZmFsc2UK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAjIERJU0FCTElOR19UQVJHRVRfRU5WUyA9IFtdCg==</text>
+      </register>
+      <register name="8" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICA=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFwaSEgJ+y9nCDsubTrk5wg7IiY7IugIOykkeyngO2VmOq4sCcKICAgIGRvY3VtZW50ICdkcml2ZXJzL3Jlc3QubWQnCgogICAgZGVmIHJlc3QKICAgICAgcmFpc2UgV2hlZWxFcnJvcjo6SW52YWxpZFJlcXVlc3QubmV3LndpdGhfb2JqZWN0KHsgcmVhc29uOiAi7Lac6re8IOyDge2DnOqwgCDslYTri5nri4jri6QuICN7QGRyaXZlci5kaXNwYXRjaF9zdGF0dXN9IiB9KSB1bmxlc3MgQGRyaXZlci53b3JraW5nPwoKICAgICAgbG9jYXRpb25fY29vcmQgPSBsb2NhdGlvbl9wYXJhbXMKICAgICAgQGRyaXZlci5yZXN0IQogICAgICBXaGVlbDo6Q29ubmVjdGlvbi5zZW5kX2RyaXZlcl9sb2NhdGlvbiBAZHJpdmVyLCBsb2NhdGlvbl9jb29yZAoKICAgICAgcmVuZGVyIGpzb246IEBkcml2ZXIsIGFjY291bnQ6IGN1cnJlbnRfYWNjb3VudAogICAgZW5kCg==</text>
+        <text encoding="base64">ICAgICAgICBwdXQgJ3Jlc3QnCg==</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
