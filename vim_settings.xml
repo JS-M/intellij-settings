@@ -11,13 +11,19 @@
         <mark key="." line="0" column="13" />
         <mark key="^" line="0" column="13" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/services/driver/service_test.go" timestamp="1556171333851">
-        <mark key="[" line="14" column="84" />
-        <mark key="]" line="14" column="83" />
-        <mark key="." line="14" column="83" />
-        <mark key="^" line="14" column="83" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/services/driver/service_test.go" timestamp="1556172063470">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="29" column="40" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/vendor/google.golang.org/genproto/googleapis/rpc/code/code.pb.go" timestamp="1556169759221" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/main.go" timestamp="1556172261704">
+        <mark key="[" line="10" column="84" />
+        <mark key="]" line="10" column="83" />
+        <mark key="." line="10" column="83" />
+        <mark key="^" line="10" column="83" />
+      </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/mobdata/price-service/repositories/fare/repository.go" timestamp="1556100889477" />
       <file name="/usr/local/Cellar/go/1.12.3/libexec/src/database/sql/sql.go" timestamp="1556100512206" />
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/Makefile" timestamp="1556171412778">
@@ -52,8 +58,12 @@
         <mark key="^" line="49" column="5" />
         <mark key="." line="82" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/services/driver/service.go" timestamp="1556170544735">
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/services/driver/service.go" timestamp="1556172264178">
         <mark key="'" line="31" column="23" />
+        <mark key="[" line="71" column="25" />
+        <mark key="]" line="71" column="30" />
+        <mark key="." line="71" column="30" />
+        <mark key="^" line="71" column="30" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/repositories/mysql_test.go" timestamp="1556007755492" />
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/services/driver/interface.go" timestamp="1556170792607">
@@ -80,7 +90,7 @@
         <mark key="." line="7" column="57" />
         <mark key="^" line="7" column="57" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/mobdata/price-service/services/price/service_test.go" timestamp="1556171142500">
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/mobdata/price-service/services/price/service_test.go" timestamp="1556172041680">
         <mark key="'" line="38" column="60" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/handlers/policy/handler_test.go" timestamp="1556170211682">
@@ -220,7 +230,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>services</text>
+        <text>respositories</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -230,16 +240,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>services</text>
+        <text>respositories</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnb21vY2tcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>entities.WORKING_STATUS</text>
+        <text>driverRepo</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CW1vY2tfZHJpdmVyX3JlcG8JCg==</text>
+        <text encoding="base64">CQlmYWN0b3JpZXMuUGFuZ3lvTGF0TG5nKCksCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -317,32 +327,32 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CW1vY2tPdXRiYWNrUmVwbyA6PSBtb2NrX291dGJhY2suTmV3TW9ja0ludGVyZmFjZShtb2NrQ3RybCkKCW1vY2tPdXRiYWNrUmVwby5FWFBFQ1QoKS5HZXRBY3RpdmVPdXRiYWNrKGdvbW9jay5BbnkoKSwgZ29tb2NrLkFueSgpLCBnb21vY2suQW55KCkpLlJldHVybihmYWN0b3JpZXMuT3V0YmFjaygpLCBuaWwpLlRpbWVzKDEp</text>
+      <register name="2" type="2">
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CW1vY2tPdXRiYWNrUmVwbyA6PSBtb2NrX291dGJhY2suTmV3TW9ja0ludGVyZmFjZShtb2NrQ3RybCkKCW1vY2tPdXRiYWNrUmVwby5FWFBFQ1QoKS5HZXRBY3RpdmVPdXRiYWNrKGdvbW9jay5BbnkoKSwgZ29tb2NrLkFueSgpLCBnb21vY2suQW55KCkpLlJldHVybihmYWN0b3JpZXMuT3V0YmFjaygpLCBuaWwpLlRpbWVzKDEpCg==</text>
+        <text encoding="base64">CW1vY2tXb3JrIDo9IG1vY2tfd29yay5OZXdNb2NrSW50ZXJmYWNlKG1vY2tDdHJsKQoKCW1vY2tXb3JrLkVYUEVDVCgpLkdldEFjdGl2ZURyaXZlckNvdW50KAoJCWdvbW9jay5BbnkoKSwKCQlnb21vY2suQW55KCksCgkpLlJldHVybihmYWN0b3JpZXMuVW5kZXJEcml2ZXJNYXhDb3VudCgpLCBuaWwpLlRpbWVzKDEpCgoJbW9ja1dvcmsuRVhQRUNUKCkuSXNEcml2ZXJEb25lKAoJCWdvbW9jay5BbnkoKSwKCQlnb21vY2suQW55KCksCgkJZ29tb2NrLkFueSgpLAoJCWdvbW9jay5BbnkoKSwKCSkuUmV0dXJuKGZhbHNlLCBuaWwpLlRpbWVzKDEpCg==</text>
       </register>
       <register name="s" type="4">
         <text>assname = &quot;PolicyProto&quot;;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlnb21vY2suQW55KCksCg==</text>
+        <text encoding="base64">CW1vY2tfZHJpdmVyX3JlcG8JCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQlsb2NhdGlvbiBzMi5MYXRMbmcsCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">CW1vY2tPdXRiYWNrUmVwbyA6PSBtb2NrX291dGJhY2suTmV3TW9ja0ludGVyZmFjZShtb2NrQ3RybCkKCW1vY2tPdXRiYWNrUmVwby5FWFBFQ1QoKS5HZXRBY3RpdmVPdXRiYWNrKGdvbW9jay5BbnkoKSwgZ29tb2NrLkFueSgpLCBnb21vY2suQW55KCkpLlJldHVybihmYWN0b3JpZXMuT3V0YmFjaygpLCBuaWwpLlRpbWVzKDEp</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlMb2NhdGlvbjogZmFjdG9yaWVzLkNvb3JkKCksCg==</text>
+        <text encoding="base64">CW1vY2tPdXRiYWNrUmVwbyA6PSBtb2NrX291dGJhY2suTmV3TW9ja0ludGVyZmFjZShtb2NrQ3RybCkKCW1vY2tPdXRiYWNrUmVwby5FWFBFQ1QoKS5HZXRBY3RpdmVPdXRiYWNrKGdvbW9jay5BbnkoKSwgZ29tb2NrLkFueSgpLCBnb21vY2suQW55KCkpLlJldHVybihmYWN0b3JpZXMuT3V0YmFjaygpLCBuaWwpLlRpbWVzKDEpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlnb21vY2suQW55KCksCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXQuUGFyYWxsZWwoKQoKCWN0eCA6PSBjb250ZXh0LkJhY2tncm91bmQoKQoJcmVxIDo9ICZwYi5HZXREaXNwYXRjaFN0YXR1c1JlcXVlc3R7CgkJUHJvZHVjdDogIHBiLlByb2R1Y3RfRFJJVkVSLAoJCURyaXZlcklkOiBmYWN0b3JpZXMuRHJpdmVySWQoKSwKCX0K</text>
+        <text encoding="base64">CQlsb2NhdGlvbiBzMi5MYXRMbmcsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlMb2NhdGlvbjogZmFjdG9yaWVzLkNvb3JkKCksCg==</text>
       </register>
       <register name=":" type="4">
         <text>40</text>
