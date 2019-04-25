@@ -4,56 +4,31 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/mobdata/price-service/repositories/outback/repository_test.go" timestamp="1556096587692" />
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-settlement/spec/factories/bank_account_factory.rb" timestamp="1555676364394">
-        <mark key="[" line="3" column="13" />
-        <mark key="]" line="3" column="12" />
-        <mark key="." line="3" column="12" />
-        <mark key="^" line="3" column="12" />
-      </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/Gemfile" timestamp="1555676483117">
-        <mark key="[" line="157" column="25" />
-        <mark key="]" line="157" column="37" />
-        <mark key="^" line="157" column="36" />
-        <mark key="." line="157" column="36" />
-      </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/repositories/cache.go" timestamp="1556007478008" />
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/wheel_driver/works_controller.rb" timestamp="1555580247269">
-        <mark key="[" line="1" column="15" />
-        <mark key="]" line="1" column="14" />
-        <mark key="." line="1" column="14" />
-        <mark key="^" line="1" column="14" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/handlers/policy/handler.go" timestamp="1556170205142">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="13" />
+        <mark key="." line="0" column="13" />
+        <mark key="^" line="0" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/doowit/.gitignore" timestamp="1547994109968">
-        <mark key="[" line="13" column="9" />
-        <mark key="]" line="13" column="9" />
-        <mark key="." line="13" column="9" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/services/driver/service_test.go" timestamp="1556171333851">
+        <mark key="[" line="14" column="84" />
+        <mark key="]" line="14" column="83" />
+        <mark key="." line="14" column="83" />
+        <mark key="^" line="14" column="83" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/handlers/policy/handler.go" timestamp="1556091948613">
-        <mark key="[" line="10" column="65" />
-        <mark key="]" line="10" column="70" />
-        <mark key="." line="10" column="70" />
-        <mark key="^" line="10" column="70" />
-      </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/main.go" timestamp="1556085312484">
-        <mark key="[" line="30" column="19" />
-        <mark key="]" line="30" column="18" />
-        <mark key="." line="30" column="18" />
-        <mark key="^" line="30" column="18" />
-      </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/Makefile" timestamp="1556084919194">
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/vendor/google.golang.org/genproto/googleapis/rpc/code/code.pb.go" timestamp="1556169759221" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/mobdata/price-service/repositories/fare/repository.go" timestamp="1556100889477" />
+      <file name="/usr/local/Cellar/go/1.12.3/libexec/src/database/sql/sql.go" timestamp="1556100512206" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/Makefile" timestamp="1556171412778">
         <mark key="'" line="12" column="25" />
-        <mark key="[" line="34" column="4" />
-        <mark key="]" line="34" column="3" />
-        <mark key="." line="34" column="3" />
-        <mark key="^" line="34" column="3" />
+        <mark key="[" line="13" column="45" />
+        <mark key="]" line="13" column="44" />
+        <mark key="." line="13" column="44" />
+        <mark key="^" line="13" column="44" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/handlers/policy/interface.go" timestamp="1556091840765" />
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/mobdata/price-service/main.go" timestamp="1556006723585" />
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-settlement/Gemfile" timestamp="1555676497687">
-        <mark key="[" line="55" column="25" />
-        <mark key="]" line="55" column="38" />
-        <mark key="." line="55" column="25" />
-      </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/idl/github.kakaocorp.com/driver/driver-service/driver-service.proto" timestamp="1556092162419">
         <mark key="'" line="38" column="0" />
         <mark key="[" line="6" column="8" />
@@ -61,79 +36,37 @@
         <mark key="." line="34" column="21" />
         <mark key="^" line="34" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/concerns/base_call.rb" timestamp="1547803170418">
-        <mark key="[" line="33" column="68" />
-        <mark key="]" line="33" column="67" />
-        <mark key="." line="33" column="67" />
-        <mark key="^" line="33" column="67" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/mocks/services/driver/interface.go" timestamp="1556170684973">
+        <mark key="[" line="47" column="77" />
+        <mark key="]" line="47" column="77" />
+        <mark key="." line="47" column="77" />
+        <mark key="^" line="47" column="78" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/mobdata/price-service/config/config.go" timestamp="1556007735033">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="20" column="52" />
-      </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/config/config.go" timestamp="1556007741201">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/doowit/Capfile" timestamp="1547993781597">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="42" />
-        <mark key="." line="13" column="42" />
-        <mark key="^" line="13" column="42" />
-      </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/handlers/driver/handler_test.go" timestamp="1556171208399" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/factories/driver_id.go" timestamp="1556167989502" />
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/mobdata/price-service/Gopkg.lock" timestamp="1556006726335" />
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/repositories/driver/repository_test.go" timestamp="1556098913179">
-        <mark key="'" line="110" column="1" />
-        <mark key="[" line="109" column="1" />
-        <mark key="]" line="109" column="0" />
-        <mark key="^" line="109" column="0" />
-        <mark key="." line="109" column="0" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/repositories/driver/repository_test.go" timestamp="1556168099524">
+        <mark key="'" line="82" column="15" />
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="0" />
+        <mark key="^" line="49" column="5" />
+        <mark key="." line="82" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/doc/drivers/rest.md" timestamp="1555999981744">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/services/driver/service.go" timestamp="1556170544735">
+        <mark key="'" line="31" column="23" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/repositories/mysql_test.go" timestamp="1556007755492" />
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/interactions/notifications/warn_abnormal_calls.rb" timestamp="1547803769752">
-        <mark key="[" line="84" column="26" />
-        <mark key="]" line="84" column="26" />
-        <mark key="." line="84" column="26" />
-        <mark key="^" line="84" column="26" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/services/driver/interface.go" timestamp="1556170792607">
+        <mark key="[" line="13" column="7" />
+        <mark key="]" line="13" column="9" />
+        <mark key="." line="13" column="9" />
+        <mark key="^" line="13" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/helpers/call_helper.rb" timestamp="1547778685201">
-        <mark key="[" line="276" column="0" />
-        <mark key="]" line="276" column="0" />
-        <mark key="." line="276" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/doc/wheel_user/calls/create.md" timestamp="1547713416773">
-        <mark key="[" line="28" column="2" />
-        <mark key="]" line="28" column="4" />
-        <mark key="^" line="28" column="4" />
-        <mark key="." line="28" column="4" />
-      </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/doc/drivers/leave.md" timestamp="1555999977926">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-      </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/entities/dispatch_status.go" timestamp="1556098681779">
-        <mark key="[" line="6" column="12" />
-        <mark key="]" line="6" column="11" />
-        <mark key="." line="6" column="11" />
-        <mark key="^" line="6" column="11" />
-      </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-insurance/config/locales/shared/push_message.ko.yml" timestamp="1547799926330">
-        <mark key="[" line="365" column="6" />
-        <mark key="]" line="365" column="8" />
-        <mark key="." line="365" column="8" />
-        <mark key="^" line="365" column="8" />
-      </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/doc/drivers/show.md" timestamp="1555999985938">
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/entities/dispatch_status.go" timestamp="1556168284305">
+        <mark key="[" line="5" column="11" />
+        <mark key="]" line="5" column="11" />
+        <mark key="." line="5" column="11" />
+        <mark key="^" line="5" column="11" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/entities/product.go" timestamp="1556008026605">
         <mark key="[" line="3" column="12" />
@@ -141,32 +74,34 @@
         <mark key="." line="3" column="11" />
         <mark key="^" line="3" column="11" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/factories/dispatch_status.go" timestamp="1556097848262">
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/factories/dispatch_status.go" timestamp="1556168302716">
         <mark key="[" line="10" column="5" />
-        <mark key="]" line="10" column="15" />
-        <mark key="." line="10" column="15" />
-        <mark key="^" line="10" column="15" />
+        <mark key="]" line="10" column="29" />
+        <mark key="." line="7" column="57" />
+        <mark key="^" line="7" column="57" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/concerns/base_driver.rb" timestamp="1556000041526">
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="81" column="0" />
-        <mark key="." line="81" column="0" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/mobdata/price-service/services/price/service_test.go" timestamp="1556171142500">
+        <mark key="'" line="38" column="60" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/wheel_driver/actions_controller.rb" timestamp="1555580618053">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/handlers/policy/handler_test.go" timestamp="1556170211682">
+        <mark key="[" line="0" column="14" />
+        <mark key="]" line="0" column="13" />
+        <mark key="." line="0" column="13" />
+        <mark key="^" line="0" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/Gemfile" timestamp="1555676486405">
-        <mark key="[" line="96" column="25" />
-        <mark key="]" line="96" column="38" />
-        <mark key="." line="96" column="25" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/handlers/driver/handler.go" timestamp="1556170503185">
+        <mark key="'" line="22" column="8" />
+        <mark key="[" line="44" column="10" />
+        <mark key="]" line="44" column="9" />
+        <mark key="^" line="44" column="9" />
+        <mark key="." line="44" column="9" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/repositories/driver/repository.go" timestamp="1556096760997" />
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/serializers/chatbot_call_serializer.rb" timestamp="1555998554913">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/repositories/driver/repository.go" timestamp="1556101111746">
+        <mark key="'" line="112" column="0" />
+        <mark key="[" line="14" column="69" />
+        <mark key="]" line="14" column="74" />
+        <mark key="^" line="14" column="74" />
+        <mark key="." line="14" column="74" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/Dockerfile" timestamp="1556085261804">
         <mark key="[" line="2" column="12" />
@@ -174,43 +109,14 @@
         <mark key="." line="2" column="17" />
         <mark key="^" line="2" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/interactions/notifications/send_plusfriend.rb" timestamp="1547803111950">
-        <mark key="[" line="18" column="1" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/doc/drivers/work.md" timestamp="1555999990208">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/interactions/calls/create.rb" timestamp="1547706502197">
-        <mark key="[" line="0" column="19" />
-        <mark key="]" line="0" column="18" />
-        <mark key="^" line="0" column="18" />
-        <mark key="." line="0" column="18" />
-      </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/repositories/driver/interface.go" timestamp="1556092736422">
-        <mark key="[" line="10" column="70" />
-        <mark key="]" line="10" column="83" />
-        <mark key="." line="10" column="83" />
-        <mark key="^" line="10" column="83" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/repositories/driver/interface.go" timestamp="1556101116727">
+        <mark key="[" line="10" column="58" />
+        <mark key="]" line="10" column="57" />
+        <mark key="." line="10" column="57" />
+        <mark key="^" line="10" column="57" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="6" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/spec/helpers/security_helper_spec.rb" />
-      <jump line="22" column="12" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/spec/helpers/security_helper_spec.rb" />
-      <jump line="25" column="6" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/spec/helpers/security_helper_spec.rb" />
-      <jump line="32" column="6" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/spec/helpers/security_helper_spec.rb" />
-      <jump line="39" column="6" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/spec/helpers/security_helper_spec.rb" />
-      <jump line="43" column="12" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/spec/helpers/security_helper_spec.rb" />
-      <jump line="45" column="6" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/spec/helpers/security_helper_spec.rb" />
-      <jump line="49" column="12" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/spec/helpers/security_helper_spec.rb" />
-      <jump line="51" column="6" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/spec/helpers/security_helper_spec.rb" />
-      <jump line="55" column="12" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/spec/helpers/security_helper_spec.rb" />
-      <jump line="57" column="6" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/spec/helpers/security_helper_spec.rb" />
-      <jump line="61" column="12" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/spec/helpers/security_helper_spec.rb" />
       <jump line="63" column="6" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/spec/helpers/security_helper_spec.rb" />
       <jump line="67" column="12" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/spec/helpers/security_helper_spec.rb" />
       <jump line="69" column="6" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/spec/helpers/security_helper_spec.rb" />
@@ -299,10 +205,22 @@
       <jump line="339" column="0" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/repositories/driver/repository_test.go" />
       <jump line="85" column="27" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/repositories/driver/repository_test.go" />
       <jump line="110" column="1" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/repositories/driver/repository_test.go" />
+      <jump line="62" column="0" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/repositories/driver/repository.go" />
+      <jump line="112" column="0" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/repositories/driver/repository.go" />
+      <jump line="75" column="5" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/repositories/driver/repository_test.go" />
+      <jump line="82" column="15" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/repositories/driver/repository_test.go" />
+      <jump line="43" column="9" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/handlers/policy/handler_test.go" />
+      <jump line="69" column="9" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/handlers/policy/handler_test.go" />
+      <jump line="112" column="0" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/handlers/policy/handler_test.go" />
+      <jump line="21" column="28" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/handlers/driver/handler.go" />
+      <jump line="56" column="17" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/handlers/driver/handler.go" />
+      <jump line="28" column="8" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/handlers/driver/handler.go" />
+      <jump line="31" column="23" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/services/driver/service.go" />
+      <jump line="38" column="60" filename="$USER_HOME$/go/src/github.kakaocorp.com/mobdata/price-service/services/price/service_test.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8KLy9mdW5jIFRlc3RHZXRBY3RpdmVPdXRiYWNrX0Vycm9yX1VubWFyc2hhbF9SdWxlKHQgKnRlc3RpbmcuVCkgewovLwl0LlBhcmFsbGVsKCkKLy8KLy8JcmVnaW9ucyA6PSBmYWN0b3JpZXMuUmVnaW9ucygpCi8vCi8vCWRiQXR0ZW1wdCA6PSAwCi8vCWluc3RhbmNlIDo9IE5ldyhmdW5jKCkgKCpzcWwuREIsIGVycm9yKSB7Ci8vCQlkYiwgbW9jaywgZXJyIDo9IHNxbG1vY2suTmV3KHNxbG1vY2suUXVlcnlNYXRjaGVyT3B0aW9uKHNxbG1vY2suUXVlcnlNYXRjaGVyRXF1YWwpKQovLwkJaWYgZXJyICE9IG5pbCB7Ci8vCQkJdC5GYXRhbGYoImFuIGVycm9yICclcycgd2FzIG5vdCBleHBlY3RlZCB3aGVuIG9wZW5pbmcgYSBzdHViIGRhdGFiYXNlIGNvbm5lY3Rpb24iLCBlcnIpCi8vCQl9Ci8vCQlzd2l0Y2ggZGJBdHRlbXB0IHsKLy8JCWNhc2UgMDoKLy8JCQlhbGxUYXJnZXRPcmlnaW5Db2RlUm93cyA6PSBzcWxtb2NrLk5ld1Jvd3MoW11zdHJpbmd7Im9yaWdpbl9oY29kZSJ9KQovLwkJCWFsbFRhcmdldE9yaWdpbkNvZGVSb3dzLkFkZFJvdyhyZWdpb25zLk9yaWdpbi5Db2RlKQovLwkJCW1vY2suRXhwZWN0UXVlcnkocXVlcnlBbGxUYXJnZXRPcmlnaW5Db2RlcykuV2lsbFJldHVyblJvd3MoYWxsVGFyZ2V0T3JpZ2luQ29kZVJvd3MpCi8vCQlkZWZhdWx0OgovLwkJCWFjdGl2ZU91dGJhY2tzUm93cyA6PSBzcWxtb2NrLk5ld1Jvd3MoW11zdHJpbmd7Im9yaWdpbl9oY29kZSIsICJkZXN0aW5hdGlvbl9oY29kZSIsICJtZXNzYWdlIiwgInJ1bGUiLCAicmVhc29uIn0pCi8vCQkJYWN0aXZlT3V0YmFja3NSb3dzLkFkZFJvdygKLy8JCQkJIiIsCi8vCQkJCSIiLAovLwkJCQkie30iLAovLwkJCQkieyIsCi8vCQkJCSIiLAovLwkJCSkKLy8JCQltb2NrLkV4cGVjdFF1ZXJ5KHF1ZXJ5QWN0aXZlT3V0YmFja3MpLldpbGxSZXR1cm5Sb3dzKGFjdGl2ZU91dGJhY2tzUm93cykuUm93c1dpbGxCZUNsb3NlZCgpCi8vCQl9Ci8vCQlkYkF0dGVtcHQrKwovLwkJcmV0dXJuIGRiLCBuaWwKLy8JfSwgcmVwb3NpdG9yaWVzLk5ld0NhY2hlKCkpCi8vCi8vCV8sIGVyciA6PSBpbnN0YW5jZS5HZXRBY3RpdmVPdXRiYWNrKAovLwkJY29udGV4dC5CYWNrZ3JvdW5kKCksCi8vCQlyZWdpb25zLk9yaWdpbi5Db2RlLAovLwkJcmVnaW9ucy5EZXN0aW5hdGlvbi5Db2RlLAovLwkpCi8vCWFzc2VydC5FcnJvcih0LCBlcnIpCi8vfQovLwovL2Z1bmMgVGVzdEdldEFjdGl2ZU91dGJhY2tfRXJyb3JfVW5tYXJzaGFsX1JlYXNvbih0ICp0ZXN0aW5nLlQpIHsKLy8JdC5QYXJhbGxlbCgpCi8vCi8vCXJlZ2lvbnMgOj0gZmFjdG9yaWVzLlJlZ2lvbnMoKQovLwovLwlkYkF0dGVtcHQgOj0gMAovLwlpbnN0YW5jZSA6PSBOZXcoZnVuYygpICgqc3FsLkRCLCBlcnJvcikgewovLwkJZGIsIG1vY2ssIGVyciA6PSBzcWxtb2NrLk5ldyhzcWxtb2NrLlF1ZXJ5TWF0Y2hlck9wdGlvbihzcWxtb2NrLlF1ZXJ5TWF0Y2hlckVxdWFsKSkKLy8JCWlmIGVyciAhPSBuaWwgewovLwkJCXQuRmF0YWxmKCJhbiBlcnJvciAnJXMnIHdhcyBub3QgZXhwZWN0ZWQgd2hlbiBvcGVuaW5nIGEgc3R1YiBkYXRhYmFzZSBjb25uZWN0aW9uIiwgZXJyKQovLwkJfQovLwkJc3dpdGNoIGRiQXR0ZW1wdCB7Ci8vCQljYXNlIDA6Ci8vCQkJYWxsVGFyZ2V0T3JpZ2luQ29kZVJvd3MgOj0gc3FsbW9jay5OZXdSb3dzKFtdc3RyaW5neyJvcmlnaW5faGNvZGUifSkKLy8JCQlhbGxUYXJnZXRPcmlnaW5Db2RlUm93cy5BZGRSb3cocmVnaW9ucy5PcmlnaW4uQ29kZSkKLy8JCQltb2NrLkV4cGVjdFF1ZXJ5KHF1ZXJ5QWxsVGFyZ2V0T3JpZ2luQ29kZXMpLldpbGxSZXR1cm5Sb3dzKGFsbFRhcmdldE9yaWdpbkNvZGVSb3dzKQovLwkJZGVmYXVsdDoKLy8JCQlhY3RpdmVPdXRiYWNrc1Jvd3MgOj0gc3FsbW9jay5OZXdSb3dzKFtdc3RyaW5neyJvcmlnaW5faGNvZGUiLCAiZGVzdGluYXRpb25faGNvZGUiLCAibWVzc2FnZSIsICJydWxlIiwgInJlYXNvbiJ9KQovLwkJCWFjdGl2ZU91dGJhY2tzUm93cy5BZGRSb3coCi8vCQkJCSIiLAovLwkJCQkiIiwKLy8JCQkJInt9IiwKLy8JCQkJInt9IiwKLy8JCQkJInsiLAovLwkJCSkKLy8JCQltb2NrLkV4cGVjdFF1ZXJ5KHF1ZXJ5QWN0aXZlT3V0YmFja3MpLldpbGxSZXR1cm5Sb3dzKGFjdGl2ZU91dGJhY2tzUm93cykuUm93c1dpbGxCZUNsb3NlZCgpCi8vCQl9Ci8vCQlkYkF0dGVtcHQrKwovLwkJcmV0dXJuIGRiLCBuaWwKLy8JfSwgcmVwb3NpdG9yaWVzLk5ld0NhY2hlKCkpCi8vCi8vCV8sIGVyciA6PSBpbnN0YW5jZS5HZXRBY3RpdmVPdXRiYWNrKAovLwkJY29udGV4dC5CYWNrZ3JvdW5kKCksCi8vCQlyZWdpb25zLk9yaWdpbi5Db2RlLAovLwkJcmVnaW9ucy5EZXN0aW5hdGlvbi5Db2RlLAovLwkpCi8vCWFzc2VydC5FcnJvcih0LCBlcnIpCi8vfQovL2Z1bmMgVGVzdEdldEFjdGl2ZU91dGJhY2tfRXJyb3JfREJfQWxsVGFyZ2V0T3JpZ2luQ29kZXModCAqdGVzdGluZy5UKSB7Ci8vCXQuUGFyYWxsZWwoKQovLwovLwlyZWdpb25zIDo9IGZhY3Rvcmllcy5SZWdpb25zKCkKLy8KLy8JaW5zdGFuY2UgOj0gTmV3KGZ1bmMoKSAoKnNxbC5EQiwgZXJyb3IpIHsKLy8JCXJldHVybiBuaWwsIGVycm9ycy5OZXcoIiIpCi8vCX0sIHJlcG9zaXRvcmllcy5OZXdDYWNoZSgpKQovLwovLwlfLCBlcnIgOj0gaW5zdGFuY2UuR2V0QWN0aXZlT3V0YmFjaygKLy8JCWNvbnRleHQuQmFja2dyb3VuZCgpLAovLwkJcmVnaW9ucy5PcmlnaW4uQ29kZSwKLy8JCXJlZ2lvbnMuRGVzdGluYXRpb24uQ29kZSwKLy8JKQovLwlhc3NlcnQuRXJyb3IodCwgZXJyKQovL30KLy8KLy9mdW5jIFRlc3RHZXRBY3RpdmVPdXRiYWNrX0Vycm9yX1Jvd3NfQWxsVGFyZ2V0T3JpZ2luQ29kZXModCAqdGVzdGluZy5UKSB7Ci8vCXQuUGFyYWxsZWwoKQovLwovLwlyZWdpb25zIDo9IGZhY3Rvcmllcy5SZWdpb25zKCkKLy8KLy8JaW5zdGFuY2UgOj0gTmV3KGZ1bmMoKSAoKnNxbC5EQiwgZXJyb3IpIHsKLy8JCWRiLCBtb2NrLCBlcnIgOj0gc3FsbW9jay5OZXcoc3FsbW9jay5RdWVyeU1hdGNoZXJPcHRpb24oc3FsbW9jay5RdWVyeU1hdGNoZXJFcXVhbCkpCi8vCQlpZiBlcnIgIT0gbmlsIHsKLy8JCQl0LkZhdGFsZigiYW4gZXJyb3IgJyVzJyB3YXMgbm90IGV4cGVjdGVkIHdoZW4gb3BlbmluZyBhIHN0dWIgZGF0YWJhc2UgY29ubmVjdGlvbiIsIGVycikKLy8JCX0KLy8JCW1vY2suRXhwZWN0UXVlcnkocXVlcnlBbGxUYXJnZXRPcmlnaW5Db2RlcykuV2lsbFJldHVybkVycm9yKGVycm9ycy5OZXcoIiIpKQovLwkJcmV0dXJuIGRiLCBuaWwKLy8JfSwgcmVwb3NpdG9yaWVzLk5ld0NhY2hlKCkpCi8vCi8vCV8sIGVyciA6PSBpbnN0YW5jZS5HZXRBY3RpdmVPdXRiYWNrKAovLwkJY29udGV4dC5CYWNrZ3JvdW5kKCksCi8vCQlyZWdpb25zLk9yaWdpbi5Db2RlLAovLwkJcmVnaW9ucy5EZXN0aW5hdGlvbi5Db2RlLAovLwkpCi8vCWFzc2VydC5FcnJvcih0LCBlcnIpCi8vfQovLwovL2Z1bmMgVGVzdEdldEFjdGl2ZU91dGJhY2tfRXJyb3JfU2Nhbl9BbGxUYXJnZXRPcmlnaW5Db2Rlcyh0ICp0ZXN0aW5nLlQpIHsKLy8JdC5QYXJhbGxlbCgpCi8vCi8vCXJlZ2lvbnMgOj0gZmFjdG9yaWVzLlJlZ2lvbnMoKQovLwovLwlpbnN0YW5jZSA6PSBOZXcoZnVuYygpICgqc3FsLkRCLCBlcnJvcikgewovLwkJZGIsIG1vY2ssIGVyciA6PSBzcWxtb2NrLk5ldyhzcWxtb2NrLlF1ZXJ5TWF0Y2hlck9wdGlvbihzcWxtb2NrLlF1ZXJ5TWF0Y2hlckVxdWFsKSkKLy8JCWlmIGVyciAhPSBuaWwgewovLwkJCXQuRmF0YWxmKCJhbiBlcnJvciAnJXMnIHdhcyBub3QgZXhwZWN0ZWQgd2hlbiBvcGVuaW5nIGEgc3R1YiBkYXRhYmFzZSBjb25uZWN0aW9uIiwgZXJyKQovLwkJfQovLwkJYWxsVGFyZ2V0T3JpZ2luQ29kZVJvd3MgOj0gc3FsbW9jay5OZXdSb3dzKFtdc3RyaW5neyJvcmlnaW5faGNvZGUifSkKLy8JCWFsbFRhcmdldE9yaWdpbkNvZGVSb3dzLkFkZFJvdygiS2FrYW8iKQovLwkJbW9jay5FeHBlY3RRdWVyeShxdWVyeUFsbFRhcmdldE9yaWdpbkNvZGVzKS5XaWxsUmV0dXJuUm93cyhhbGxUYXJnZXRPcmlnaW5Db2RlUm93cykuUm93c1dpbGxCZUNsb3NlZCgpCi8vCQlyZXR1cm4gZGIsIG5pbAovLwl9LCByZXBvc2l0b3JpZXMuTmV3Q2FjaGUoKSkKLy8KLy8JXywgZXJyIDo9IGluc3RhbmNlLkdldEFjdGl2ZU91dGJhY2soCi8vCQljb250ZXh0LkJhY2tncm91bmQoKSwKLy8JCXJlZ2lvbnMuT3JpZ2luLkNvZGUsCi8vCQlyZWdpb25zLkRlc3RpbmF0aW9uLkNvZGUsCi8vCSkKLy8JYXNzZXJ0LkVycm9yKHQsIGVycikKLy99Cg==</text>
+      <register name="&quot;" type="4">
+        <text>services</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -312,16 +230,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>result</text>
+        <text>services</text>
       </register>
       <register name="/" type="4">
-        <text>ss</text>
+        <text encoding="base64">XDxnb21vY2tcPg==</text>
       </register>
-      <register name="0" type="8">
-        <text encoding="base64">IERpc3BhdGNoU3RhdHVz</text>
+      <register name="0" type="4">
+        <text>entities.WORKING_STATUS</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8KLy9mdW5jIFRlc3RHZXRBY3RpdmVPdXRiYWNrX0Vycm9yX1VubWFyc2hhbF9SdWxlKHQgKnRlc3RpbmcuVCkgewovLwl0LlBhcmFsbGVsKCkKLy8KLy8JcmVnaW9ucyA6PSBmYWN0b3JpZXMuUmVnaW9ucygpCi8vCi8vCWRiQXR0ZW1wdCA6PSAwCi8vCWluc3RhbmNlIDo9IE5ldyhmdW5jKCkgKCpzcWwuREIsIGVycm9yKSB7Ci8vCQlkYiwgbW9jaywgZXJyIDo9IHNxbG1vY2suTmV3KHNxbG1vY2suUXVlcnlNYXRjaGVyT3B0aW9uKHNxbG1vY2suUXVlcnlNYXRjaGVyRXF1YWwpKQovLwkJaWYgZXJyICE9IG5pbCB7Ci8vCQkJdC5GYXRhbGYoImFuIGVycm9yICclcycgd2FzIG5vdCBleHBlY3RlZCB3aGVuIG9wZW5pbmcgYSBzdHViIGRhdGFiYXNlIGNvbm5lY3Rpb24iLCBlcnIpCi8vCQl9Ci8vCQlzd2l0Y2ggZGJBdHRlbXB0IHsKLy8JCWNhc2UgMDoKLy8JCQlhbGxUYXJnZXRPcmlnaW5Db2RlUm93cyA6PSBzcWxtb2NrLk5ld1Jvd3MoW11zdHJpbmd7Im9yaWdpbl9oY29kZSJ9KQovLwkJCWFsbFRhcmdldE9yaWdpbkNvZGVSb3dzLkFkZFJvdyhyZWdpb25zLk9yaWdpbi5Db2RlKQovLwkJCW1vY2suRXhwZWN0UXVlcnkocXVlcnlBbGxUYXJnZXRPcmlnaW5Db2RlcykuV2lsbFJldHVyblJvd3MoYWxsVGFyZ2V0T3JpZ2luQ29kZVJvd3MpCi8vCQlkZWZhdWx0OgovLwkJCWFjdGl2ZU91dGJhY2tzUm93cyA6PSBzcWxtb2NrLk5ld1Jvd3MoW11zdHJpbmd7Im9yaWdpbl9oY29kZSIsICJkZXN0aW5hdGlvbl9oY29kZSIsICJtZXNzYWdlIiwgInJ1bGUiLCAicmVhc29uIn0pCi8vCQkJYWN0aXZlT3V0YmFja3NSb3dzLkFkZFJvdygKLy8JCQkJIiIsCi8vCQkJCSIiLAovLwkJCQkie30iLAovLwkJCQkieyIsCi8vCQkJCSIiLAovLwkJCSkKLy8JCQltb2NrLkV4cGVjdFF1ZXJ5KHF1ZXJ5QWN0aXZlT3V0YmFja3MpLldpbGxSZXR1cm5Sb3dzKGFjdGl2ZU91dGJhY2tzUm93cykuUm93c1dpbGxCZUNsb3NlZCgpCi8vCQl9Ci8vCQlkYkF0dGVtcHQrKwovLwkJcmV0dXJuIGRiLCBuaWwKLy8JfSwgcmVwb3NpdG9yaWVzLk5ld0NhY2hlKCkpCi8vCi8vCV8sIGVyciA6PSBpbnN0YW5jZS5HZXRBY3RpdmVPdXRiYWNrKAovLwkJY29udGV4dC5CYWNrZ3JvdW5kKCksCi8vCQlyZWdpb25zLk9yaWdpbi5Db2RlLAovLwkJcmVnaW9ucy5EZXN0aW5hdGlvbi5Db2RlLAovLwkpCi8vCWFzc2VydC5FcnJvcih0LCBlcnIpCi8vfQovLwovL2Z1bmMgVGVzdEdldEFjdGl2ZU91dGJhY2tfRXJyb3JfVW5tYXJzaGFsX1JlYXNvbih0ICp0ZXN0aW5nLlQpIHsKLy8JdC5QYXJhbGxlbCgpCi8vCi8vCXJlZ2lvbnMgOj0gZmFjdG9yaWVzLlJlZ2lvbnMoKQovLwovLwlkYkF0dGVtcHQgOj0gMAovLwlpbnN0YW5jZSA6PSBOZXcoZnVuYygpICgqc3FsLkRCLCBlcnJvcikgewovLwkJZGIsIG1vY2ssIGVyciA6PSBzcWxtb2NrLk5ldyhzcWxtb2NrLlF1ZXJ5TWF0Y2hlck9wdGlvbihzcWxtb2NrLlF1ZXJ5TWF0Y2hlckVxdWFsKSkKLy8JCWlmIGVyciAhPSBuaWwgewovLwkJCXQuRmF0YWxmKCJhbiBlcnJvciAnJXMnIHdhcyBub3QgZXhwZWN0ZWQgd2hlbiBvcGVuaW5nIGEgc3R1YiBkYXRhYmFzZSBjb25uZWN0aW9uIiwgZXJyKQovLwkJfQovLwkJc3dpdGNoIGRiQXR0ZW1wdCB7Ci8vCQljYXNlIDA6Ci8vCQkJYWxsVGFyZ2V0T3JpZ2luQ29kZVJvd3MgOj0gc3FsbW9jay5OZXdSb3dzKFtdc3RyaW5neyJvcmlnaW5faGNvZGUifSkKLy8JCQlhbGxUYXJnZXRPcmlnaW5Db2RlUm93cy5BZGRSb3cocmVnaW9ucy5PcmlnaW4uQ29kZSkKLy8JCQltb2NrLkV4cGVjdFF1ZXJ5KHF1ZXJ5QWxsVGFyZ2V0T3JpZ2luQ29kZXMpLldpbGxSZXR1cm5Sb3dzKGFsbFRhcmdldE9yaWdpbkNvZGVSb3dzKQovLwkJZGVmYXVsdDoKLy8JCQlhY3RpdmVPdXRiYWNrc1Jvd3MgOj0gc3FsbW9jay5OZXdSb3dzKFtdc3RyaW5neyJvcmlnaW5faGNvZGUiLCAiZGVzdGluYXRpb25faGNvZGUiLCAibWVzc2FnZSIsICJydWxlIiwgInJlYXNvbiJ9KQovLwkJCWFjdGl2ZU91dGJhY2tzUm93cy5BZGRSb3coCi8vCQkJCSIiLAovLwkJCQkiIiwKLy8JCQkJInt9IiwKLy8JCQkJInt9IiwKLy8JCQkJInsiLAovLwkJCSkKLy8JCQltb2NrLkV4cGVjdFF1ZXJ5KHF1ZXJ5QWN0aXZlT3V0YmFja3MpLldpbGxSZXR1cm5Sb3dzKGFjdGl2ZU91dGJhY2tzUm93cykuUm93c1dpbGxCZUNsb3NlZCgpCi8vCQl9Ci8vCQlkYkF0dGVtcHQrKwovLwkJcmV0dXJuIGRiLCBuaWwKLy8JfSwgcmVwb3NpdG9yaWVzLk5ld0NhY2hlKCkpCi8vCi8vCV8sIGVyciA6PSBpbnN0YW5jZS5HZXRBY3RpdmVPdXRiYWNrKAovLwkJY29udGV4dC5CYWNrZ3JvdW5kKCksCi8vCQlyZWdpb25zLk9yaWdpbi5Db2RlLAovLwkJcmVnaW9ucy5EZXN0aW5hdGlvbi5Db2RlLAovLwkpCi8vCWFzc2VydC5FcnJvcih0LCBlcnIpCi8vfQovL2Z1bmMgVGVzdEdldEFjdGl2ZU91dGJhY2tfRXJyb3JfREJfQWxsVGFyZ2V0T3JpZ2luQ29kZXModCAqdGVzdGluZy5UKSB7Ci8vCXQuUGFyYWxsZWwoKQovLwovLwlyZWdpb25zIDo9IGZhY3Rvcmllcy5SZWdpb25zKCkKLy8KLy8JaW5zdGFuY2UgOj0gTmV3KGZ1bmMoKSAoKnNxbC5EQiwgZXJyb3IpIHsKLy8JCXJldHVybiBuaWwsIGVycm9ycy5OZXcoIiIpCi8vCX0sIHJlcG9zaXRvcmllcy5OZXdDYWNoZSgpKQovLwovLwlfLCBlcnIgOj0gaW5zdGFuY2UuR2V0QWN0aXZlT3V0YmFjaygKLy8JCWNvbnRleHQuQmFja2dyb3VuZCgpLAovLwkJcmVnaW9ucy5PcmlnaW4uQ29kZSwKLy8JCXJlZ2lvbnMuRGVzdGluYXRpb24uQ29kZSwKLy8JKQovLwlhc3NlcnQuRXJyb3IodCwgZXJyKQovL30KLy8KLy9mdW5jIFRlc3RHZXRBY3RpdmVPdXRiYWNrX0Vycm9yX1Jvd3NfQWxsVGFyZ2V0T3JpZ2luQ29kZXModCAqdGVzdGluZy5UKSB7Ci8vCXQuUGFyYWxsZWwoKQovLwovLwlyZWdpb25zIDo9IGZhY3Rvcmllcy5SZWdpb25zKCkKLy8KLy8JaW5zdGFuY2UgOj0gTmV3KGZ1bmMoKSAoKnNxbC5EQiwgZXJyb3IpIHsKLy8JCWRiLCBtb2NrLCBlcnIgOj0gc3FsbW9jay5OZXcoc3FsbW9jay5RdWVyeU1hdGNoZXJPcHRpb24oc3FsbW9jay5RdWVyeU1hdGNoZXJFcXVhbCkpCi8vCQlpZiBlcnIgIT0gbmlsIHsKLy8JCQl0LkZhdGFsZigiYW4gZXJyb3IgJyVzJyB3YXMgbm90IGV4cGVjdGVkIHdoZW4gb3BlbmluZyBhIHN0dWIgZGF0YWJhc2UgY29ubmVjdGlvbiIsIGVycikKLy8JCX0KLy8JCW1vY2suRXhwZWN0UXVlcnkocXVlcnlBbGxUYXJnZXRPcmlnaW5Db2RlcykuV2lsbFJldHVybkVycm9yKGVycm9ycy5OZXcoIiIpKQovLwkJcmV0dXJuIGRiLCBuaWwKLy8JfSwgcmVwb3NpdG9yaWVzLk5ld0NhY2hlKCkpCi8vCi8vCV8sIGVyciA6PSBpbnN0YW5jZS5HZXRBY3RpdmVPdXRiYWNrKAovLwkJY29udGV4dC5CYWNrZ3JvdW5kKCksCi8vCQlyZWdpb25zLk9yaWdpbi5Db2RlLAovLwkJcmVnaW9ucy5EZXN0aW5hdGlvbi5Db2RlLAovLwkpCi8vCWFzc2VydC5FcnJvcih0LCBlcnIpCi8vfQovLwovL2Z1bmMgVGVzdEdldEFjdGl2ZU91dGJhY2tfRXJyb3JfU2Nhbl9BbGxUYXJnZXRPcmlnaW5Db2Rlcyh0ICp0ZXN0aW5nLlQpIHsKLy8JdC5QYXJhbGxlbCgpCi8vCi8vCXJlZ2lvbnMgOj0gZmFjdG9yaWVzLlJlZ2lvbnMoKQovLwovLwlpbnN0YW5jZSA6PSBOZXcoZnVuYygpICgqc3FsLkRCLCBlcnJvcikgewovLwkJZGIsIG1vY2ssIGVyciA6PSBzcWxtb2NrLk5ldyhzcWxtb2NrLlF1ZXJ5TWF0Y2hlck9wdGlvbihzcWxtb2NrLlF1ZXJ5TWF0Y2hlckVxdWFsKSkKLy8JCWlmIGVyciAhPSBuaWwgewovLwkJCXQuRmF0YWxmKCJhbiBlcnJvciAnJXMnIHdhcyBub3QgZXhwZWN0ZWQgd2hlbiBvcGVuaW5nIGEgc3R1YiBkYXRhYmFzZSBjb25uZWN0aW9uIiwgZXJyKQovLwkJfQovLwkJYWxsVGFyZ2V0T3JpZ2luQ29kZVJvd3MgOj0gc3FsbW9jay5OZXdSb3dzKFtdc3RyaW5neyJvcmlnaW5faGNvZGUifSkKLy8JCWFsbFRhcmdldE9yaWdpbkNvZGVSb3dzLkFkZFJvdygiS2FrYW8iKQovLwkJbW9jay5FeHBlY3RRdWVyeShxdWVyeUFsbFRhcmdldE9yaWdpbkNvZGVzKS5XaWxsUmV0dXJuUm93cyhhbGxUYXJnZXRPcmlnaW5Db2RlUm93cykuUm93c1dpbGxCZUNsb3NlZCgpCi8vCQlyZXR1cm4gZGIsIG5pbAovLwl9LCByZXBvc2l0b3JpZXMuTmV3Q2FjaGUoKSkKLy8KLy8JXywgZXJyIDo9IGluc3RhbmNlLkdldEFjdGl2ZU91dGJhY2soCi8vCQljb250ZXh0LkJhY2tncm91bmQoKSwKLy8JCXJlZ2lvbnMuT3JpZ2luLkNvZGUsCi8vCQlyZWdpb25zLkRlc3RpbmF0aW9uLkNvZGUsCi8vCSkKLy8JYXNzZXJ0LkVycm9yKHQsIGVycikKLy99Cg==</text>
+        <text encoding="base64">CW1vY2tfZHJpdmVyX3JlcG8JCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -399,50 +317,48 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="8">
-        <text encoding="base64">IA==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CW1vY2tPdXRiYWNrUmVwbyA6PSBtb2NrX291dGJhY2suTmV3TW9ja0ludGVyZmFjZShtb2NrQ3RybCkKCW1vY2tPdXRiYWNrUmVwby5FWFBFQ1QoKS5HZXRBY3RpdmVPdXRiYWNrKGdvbW9jay5BbnkoKSwgZ29tb2NrLkFueSgpLCBnb21vY2suQW55KCkpLlJldHVybihmYWN0b3JpZXMuT3V0YmFjaygpLCBuaWwpLlRpbWVzKDEp</text>
       </register>
-      <register name="3" type="8">
-        <text encoding="base64">IA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">CW1vY2tPdXRiYWNrUmVwbyA6PSBtb2NrX291dGJhY2suTmV3TW9ja0ludGVyZmFjZShtb2NrQ3RybCkKCW1vY2tPdXRiYWNrUmVwby5FWFBFQ1QoKS5HZXRBY3RpdmVPdXRiYWNrKGdvbW9jay5BbnkoKSwgZ29tb2NrLkFueSgpLCBnb21vY2suQW55KCkpLlJldHVybihmYWN0b3JpZXMuT3V0YmFjaygpLCBuaWwpLlRpbWVzKDEpCg==</text>
       </register>
       <register name="s" type="4">
         <text>assname = &quot;PolicyProto&quot;;</text>
       </register>
-      <register name="4" type="8">
-        <text encoding="base64">IA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">CQlnb21vY2suQW55KCksCg==</text>
       </register>
-      <register name="5" type="8">
-        <text encoding="base64">IERpc3BhdGNoU3RhdHVzCiBEaXNwYXRjaFN0YXR1cwogRGlzcGF0Y2hTdGF0dXMKIERpc3BhdGNoU3RhdHVz</text>
+      <register name="5" type="2">
+        <text encoding="base64">CQlsb2NhdGlvbiBzMi5MYXRMbmcsCg==</text>
       </register>
-      <register name="6" type="8">
-        <text encoding="base64">ID0gMTEKID0gMTIKID0gMjA=</text>
+      <register name="6" type="2">
+        <text encoding="base64">CQlMb2NhdGlvbjogZmFjdG9yaWVzLkNvb3JkKCksCg==</text>
       </register>
-      <register name="7" type="8">
-        <text encoding="base64">ICsgaW90YQogKyBpb3RhCiArIGlvdGEKICsgaW90YQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWFzc2VydC5Ob0Vycm9yKHQsIGVycikKCWFzc2VydC5Ob3ROaWwodCwgcmVzdWx0KQo=</text>
+        <text encoding="base64">CXQuUGFyYWxsZWwoKQoKCWN0eCA6PSBjb250ZXh0LkJhY2tncm91bmQoKQoJcmVxIDo9ICZwYi5HZXREaXNwYXRjaFN0YXR1c1JlcXVlc3R7CgkJUHJvZHVjdDogIHBiLlByb2R1Y3RfRFJJVkVSLAoJCURyaXZlcklkOiBmYWN0b3JpZXMuRHJpdmVySWQoKSwKCX0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWRpc3BhdGNoU3RhdHVzIDo9IGZhY3Rvcmllcy5EaXNwYXRjaFN0YXR1cygpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>40</text>
       </register>
     </registers>
     <search>
-      <last-search>ss</last-search>
+      <last-search encoding="base64">XDxnb21vY2tcPg==</last-search>
       <last-offset />
-      <last-pattern>ss</last-pattern>
+      <last-pattern encoding="base64">XDxnb21vY2tcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>[</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>id</entry>
-        <entry>str</entry>
         <entry>(</entry>
         <entry>test</entry>
         <entry>end</entry>
@@ -461,6 +377,8 @@
         <entry>'</entry>
         <entry encoding="base64">IA==</entry>
         <entry>ss</entry>
+        <entry>_</entry>
+        <entry encoding="base64">XDxnb21vY2tcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>o index.html.erb</entry>
