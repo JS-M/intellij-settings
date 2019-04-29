@@ -24,7 +24,6 @@
       <file name="/Ruby Console" timestamp="1556523460131">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/user_car.rb" timestamp="1556521621950" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/application_controller.rb" timestamp="1556016346739">
         <mark key="[" line="22" column="7" />
         <mark key="]" line="22" column="6" />
@@ -37,7 +36,6 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/spec/controllers/calls/accept_spec.rb" timestamp="1556519252122" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/interactions/notifications/warn_abnormal_calls.rb" timestamp="1547803769752">
         <mark key="[" line="84" column="26" />
         <mark key="]" line="84" column="26" />
@@ -50,7 +48,6 @@
         <mark key="." line="1" column="12" />
         <mark key="^" line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/wheel_driver/calls_controller.rb" timestamp="1556523423554" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/doc/wheel_user/calls/create.md" timestamp="1547713416773">
         <mark key="[" line="28" column="2" />
         <mark key="]" line="28" column="4" />
@@ -87,7 +84,7 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/interactions/producers/logging/price_acceptance.rb" timestamp="1556521550712">
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/interactions/producers/logging/price_acceptance.rb" timestamp="1556528687612">
         <mark key="[" line="7" column="6" />
         <mark key="]" line="7" column="6" />
         <mark key="." line="7" column="6" />
@@ -136,7 +133,6 @@
         <mark key="." line="89" column="11" />
         <mark key="^" line="89" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/serializers/open_call_serializer.rb" timestamp="1556520047458" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/concerns/base_call.rb" timestamp="1547803170418">
         <mark key="[" line="33" column="68" />
         <mark key="]" line="33" column="67" />
@@ -160,7 +156,6 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/avro/schema/wheel/driver/activity.avsc" timestamp="1556521594442" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/interactions/notifications/send_plusfriend.rb" timestamp="1547803111950">
         <mark key="[" line="18" column="1" />
         <mark key="]" line="18" column="0" />
