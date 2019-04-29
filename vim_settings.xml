@@ -9,6 +9,7 @@
         <mark key="." line="26" column="98" />
         <mark key="^" line="26" column="98" />
       </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/config/integration.yaml" timestamp="1556529214720" />
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/entities/dispatch_status.go" timestamp="1556526290698">
         <mark key="'" line="31" column="14" />
         <mark key="[" line="35" column="4" />
@@ -22,7 +23,7 @@
         <mark key="^" line="20" column="99" />
         <mark key="." line="20" column="99" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/docker-compose.yaml" timestamp="1556527295397">
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/docker-compose.yaml" timestamp="1556529147510">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
