@@ -21,7 +21,10 @@
         <mark key="^" line="0" column="27" />
         <mark key="." line="0" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/super_app_user/calls_controller.rb" timestamp="1556093763911" />
+      <file name="/Ruby Console" timestamp="1556523460131">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/user_car.rb" timestamp="1556521621950" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/application_controller.rb" timestamp="1556016346739">
         <mark key="[" line="22" column="7" />
         <mark key="]" line="22" column="6" />
@@ -34,6 +37,7 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="30" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/spec/controllers/calls/accept_spec.rb" timestamp="1556519252122" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/interactions/notifications/warn_abnormal_calls.rb" timestamp="1547803769752">
         <mark key="[" line="84" column="26" />
         <mark key="]" line="84" column="26" />
@@ -46,11 +50,18 @@
         <mark key="." line="1" column="12" />
         <mark key="^" line="1" column="12" />
       </file>
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/wheel_driver/calls_controller.rb" timestamp="1556523423554" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/doc/wheel_user/calls/create.md" timestamp="1547713416773">
         <mark key="[" line="28" column="2" />
         <mark key="]" line="28" column="4" />
         <mark key="^" line="28" column="4" />
         <mark key="." line="28" column="4" />
+      </file>
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/spec/factories/call_factory.rb" timestamp="1556521777498">
+        <mark key="[" line="11" column="47" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/doc/internal/calls/index.md" timestamp="1556073078222">
         <mark key="[" line="67" column="65" />
@@ -76,11 +87,18 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/interactions/producers/logging/price_acceptance.rb" timestamp="1556017636780">
-        <mark key="[" line="5" column="14" />
-        <mark key="]" line="5" column="28" />
-        <mark key="." line="5" column="27" />
-        <mark key="^" line="5" column="27" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/interactions/producers/logging/price_acceptance.rb" timestamp="1556521550712">
+        <mark key="[" line="7" column="6" />
+        <mark key="]" line="7" column="6" />
+        <mark key="." line="7" column="6" />
+        <mark key="^" line="7" column="6" />
+      </file>
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/interactions/producers/driver.rb" timestamp="1556523605782">
+        <mark key="'" line="112" column="1" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="32" column="24" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/jobs/kafka_produce_job.rb" timestamp="1556089273383">
         <mark key="[" line="3" column="1" />
@@ -93,6 +111,12 @@
         <mark key="]" line="7" column="27" />
         <mark key="." line="7" column="27" />
         <mark key="^" line="7" column="27" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1556519307416">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.rb" timestamp="1556521688464">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/wheel_driver/actions_controller.rb" timestamp="1556070500229">
         <mark key="[" line="1" column="8" />
@@ -112,6 +136,7 @@
         <mark key="." line="89" column="11" />
         <mark key="^" line="89" column="11" />
       </file>
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/serializers/open_call_serializer.rb" timestamp="1556520047458" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/concerns/base_call.rb" timestamp="1547803170418">
         <mark key="[" line="33" column="68" />
         <mark key="]" line="33" column="67" />
@@ -130,11 +155,12 @@
         <mark key="." line="7" column="27" />
         <mark key="^" line="7" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/interactions/producers/base.rb" timestamp="1556089456195">
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/interactions/producers/base.rb" timestamp="1556521077104">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/avro/schema/wheel/driver/activity.avsc" timestamp="1556521594442" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/interactions/notifications/send_plusfriend.rb" timestamp="1547803111950">
         <mark key="[" line="18" column="1" />
         <mark key="]" line="18" column="0" />
@@ -167,12 +193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="0" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/test/helpers/security_helper_test.rb" />
-      <jump line="79" column="0" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/spec/helpers/security_helper_spec.rb" />
-      <jump line="75" column="0" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/spec/helpers/security_helper_spec.rb" />
-      <jump line="62" column="0" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/spec/helpers/security_helper_spec.rb" />
-      <jump line="12" column="0" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/spec/helpers/security_helper_spec.rb" />
-      <jump line="18" column="6" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/spec/helpers/security_helper_spec.rb" />
       <jump line="22" column="12" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/spec/helpers/security_helper_spec.rb" />
       <jump line="25" column="6" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/spec/helpers/security_helper_spec.rb" />
       <jump line="32" column="6" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/spec/helpers/security_helper_spec.rb" />
@@ -267,10 +287,16 @@
       <jump line="20" column="28" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/internal/calls_controller.rb" />
       <jump line="3" column="45" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/spec/interactions/producers/logging/price_spec.rb" />
       <jump line="1" column="0" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/interactions/base_interaction.rb" />
+      <jump line="41" column="52" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/interactions/producers/driver.rb" />
+      <jump line="42" column="60" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/interactions/producers/driver.rb" />
+      <jump line="64" column="11" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/interactions/producers/driver.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/interactions/producers/driver.rb" />
+      <jump line="126" column="0" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/interactions/producers/driver.rb" />
+      <jump line="112" column="1" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/interactions/producers/driver.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgcHJvdGVjdGVkCgogICMgZXJyb3Jz6rCAIOyhtOyerO2VmOuptCBTZW50cnnroZwg66Gc6re4IOuwnOyGoQogIGRlZiBydW4KICAgIHN1cGVyCgogICAgdW5sZXNzIHZhbGlkPwogICAgICBXaGVlbDo6TG9nZ2VyLmxvZ193YXJuKEFjdGl2ZUludGVyYWN0aW9uOjpJbnZhbGlkSW50ZXJhY3Rpb25FcnJvci5uZXcoZXJyb3JzLmZ1bGxfbWVzc2FnZXMuam9pbignLCAnKSkpCiAgICBlbmQKCiAgICByZXN1bHQKICBlbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -280,137 +306,74 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ID0=</text>
       </register>
       <register name="/" type="4">
-        <text>api!</text>
+        <text>=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhc3luYyA/IGFzeW5jaHJvbm91c2x5X3Byb2R1Y2UgOiBzeW5jaHJvbm91c2x5X3Byb2R1Y2UK</text>
+      <register name="0" type="4">
+        <text>SuperCallSerializer</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgcHJvdGVjdGVkCgogICMgZXJyb3Jz6rCAIOyhtOyerO2VmOuptCBTZW50cnnroZwg66Gc6re4IOuwnOyGoQogIGRlZiBydW4KICAgIHN1cGVyCgogICAgdW5sZXNzIHZhbGlkPwogICAgICBXaGVlbDo6TG9nZ2VyLmxvZ193YXJuKEFjdGl2ZUludGVyYWN0aW9uOjpJbnZhbGlkSW50ZXJhY3Rpb25FcnJvci5uZXcoZXJyb3JzLmZ1bGxfbWVzc2FnZXMuam9pbignLCAnKSkpCiAgICBlbmQKCiAgICByZXN1bHQKICBlbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
           <key char="47" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="115" code="0" mods="0" />
-          <key char="115" code="0" mods="0" />
-          <key char="65535" code="10" mods="0" />
-          <key char="47" code="0" mods="0" />
-          <key char="109" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="115" code="0" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="65535" code="10" mods="0" />
-          <key char="118" code="0" mods="0" />
-          <key char="36" code="0" mods="0" />
-          <key char="34" code="0" mods="0" />
-          <key char="115" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="94" code="0" mods="0" />
-          <key char="118" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="115" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="120" code="0" mods="0" />
-          <key char="112" code="0" mods="0" />
-          <key char="114" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="99" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="41" code="0" mods="0" />
-          <key char="40" code="0" mods="0" />
-          <key char="65535" code="8" mods="0" />
-          <key char="65535" code="8" mods="0" />
-          <key char="40" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="34" code="0" mods="0" />
-          <key char="115" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="104" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="112" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="114" code="0" mods="0" />
           <key char="46" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="34" code="0" mods="0" />
-          <key char="115" code="0" mods="0" />
-          <key char="112" code="0" mods="0" />
-          <key char="47" code="0" mods="0" />
-          <key char="39" code="0" mods="0" />
           <key char="65535" code="10" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="113" code="0" mods="0" />
-          <key char="40" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="91" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
           <key char="36" code="0" mods="0" />
-          <key char="118" code="0" mods="0" />
-          <key char="104" code="0" mods="0" />
-          <key char="115" code="0" mods="0" />
-          <key char="41" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="63" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="65535" code="10" mods="0" />
           <key char="105" code="0" mods="0" />
-          <key char="46" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="111" code="0" mods="0" />
+          <key char="93" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkZWYgc2VsZi5yZXN1bHQhKCphcmdzKQogICAgcnVuISgqYXJncykKICByZXNjdWUgV2hlZWxFcnJvcjo6RXJyb3IKICAgIHJhaXNlICN0byByZXJhaXNlIHRoZSBzYW1lIGV4Y2VwdGlvbiB3aXRob3V0IGNoYW5naW5nIGl0CiAgcmVzY3VlID0+IGUKICAgIHJhaXNlIFdoZWVsRXJyb3I6OkludGVybmFsU2VydmVyRXJyb3IubmV3LndpdGhfb2JqZWN0KGUpCiAgZW5kCgo=</text>
+        <text encoding="base64">ICAgICAgaCA9IHNlcmlhbGl6ZWQuYXNfanNvbgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaCA9IHNlcmlhbGl6ZWQuYXNfanNvbgo=</text>
       </register>
       <register name="s" type="4">
         <text>mask_address('경기도 성남시 분당구 판교역로 152 알파돔시티 13층')end</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAjIGVycm9yc+qwgCDsobTsnqztlZjrqbQgU2VudHJ566GcIOuhnOq3uCDrsJzshqEKICAgIGRlZiBydW4KICAgICAgc3VwZXIKCiAgICAgIHVubGVzcyB2YWxpZD8KICAgICAgICBXaGVlbDo6TG9nZ2VyLmxvZ193YXJuKEFjdGl2ZUludGVyYWN0aW9uOjpJbnZhbGlkSW50ZXJhY3Rpb25FcnJvci5uZXcoZXJyb3JzLmZ1bGxfbWVzc2FnZXMuam9pbignLCAnKSkpCiAgICAgIGVuZAoKICAgICAgcmVzdWx0CiAgICBlbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZGVmIGV4ZWN1dGUKICAgICAgICBzdXBlcgogICAgICByZXNjdWUgPT4gZQogICAgICAgIFdoZWVsOjpMb2dnZXIubG9nX3dhcm4oZSkKICAgICAgZW5kCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICByZXRyeV9vbiBDdXN0b21BcHBFeGNlcHRpb24gIyBkZWZhdWx0cyB0byAzcyB3YWl0LCA1IGF0dGVtcHRzCiAgCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgICBpZiBjYWxsLnByZXNlbnQ/CiAgICAgICAgICBjX21lc3NhZ2UgPSBjYWxsX21lc3NhZ2UKICAgICAgICBlbHNlCiAgICAgICAgICBjX21lc3NhZ2UgPSBvcGVuX2NhbGxfbWVzc2FnZQogICAgICAgIGVuZA==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlbmQK</text>
+        <text encoding="base64">ICAgICAgb3Blbl9jYWxsLnByZXNlbnQ/Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBiZWdpbgo=</text>
+        <text encoding="base64">ICAgICAgICAgIGMgPSBvcGVuX2NhbGwK</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
       </register>
     </registers>
     <search>
-      <last-search>api!</last-search>
+      <last-search>=</last-search>
       <last-offset />
-      <last-pattern>api!</last-pattern>
+      <last-pattern>=</last-pattern>
       <last-replace>~</last-replace>
-      <last-substitute>[</last-substitute>
+      <last-substitute>=</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>(</entry>
-        <entry>test</entry>
         <entry>end</entry>
         <entry>assert</entry>
         <entry>ass</entry>
@@ -429,6 +392,8 @@
         <entry encoding="base64">XDxkZXZlbG9wbWVudFw+</entry>
         <entry>api</entry>
         <entry>api!</entry>
+        <entry>.</entry>
+        <entry>=</entry>
       </history-search>
       <history-cmd>
         <entry>o index.html.erb</entry>
