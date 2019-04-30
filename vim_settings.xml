@@ -58,6 +58,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/docker-compose.dev.yaml" timestamp="1556588312769">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+      </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/repositories/driver/repository.go" timestamp="1556528149631">
         <mark key="[" line="23" column="8" />
         <mark key="]" line="23" column="8" />
@@ -105,8 +110,8 @@
       <jump line="31" column="14" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/entities/dispatch_status.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyAgZHJpdmVyLXNlcnZpY2U6CiMgICAgI2J1aWxkOiAuCiMgICAgaW1hZ2U6IGlkb2NrLmRhdW1rYWthby5pby9kcml2ZXIvZHJpdmVyLXNlcnZpY2UKIyAgICByZXN0YXJ0OiBhbHdheXMKIyAgICBwb3J0czoKIyAgICAgIC0gIjgwODA6ODA4MCIKIyAgICAgIC0gIjUwMDUxOjUwMDUxIgojICAgIGVudmlyb25tZW50OgojICAgICAgTU9CX0VOVjogaW50ZWdyYXRpb24KIyAgICAgIFZBVUxUX1RPS0VOOiAwZGY1MjI0MC01MTNiLTExZTktYjQ3NS0wODAwMjAwYzlhNjYKIyAgICBjb21tYW5kOiBbIi4vaW50ZWdyYXRpb24tc3RhcnR1cC5zaCJdCiMgICAgZGVwZW5kc19vbjoKIyAgICAgIC0gc2NoZW1hLXJlZ2lzdHJ5CiMgICAgICAtIG15c3FsCiMgICAgICAtIHZhdWx0CiMgICAgICAtIHJlZGlzCgo=</text>
       </register>
       <register name="-" type="4">
         <text>0</text>
@@ -117,18 +122,8 @@
       <register name="0" type="4">
         <text encoding="base64">cm93cy5TY2FuKCZkaXNwYXRjaFN0YXR1cyk=</text>
       </register>
-      <register name="1" type="4">
-        <text>{
-    &quot;product&quot;: &quot;DRIVER&quot;,
-    &quot;origin&quot;: {
-        &quot;lat&quot;: 37.395001,
-        &quot;lng&quot;: 127.110955
-    },
-    &quot;destination&quot;: {
-        &quot;lat&quot;: 37.395001,
-        &quot;lng&quot;: 127.110955
-    }
-}</text>
+      <register name="1" type="2">
+        <text encoding="base64">IyAgZHJpdmVyLXNlcnZpY2U6CiMgICAgI2J1aWxkOiAuCiMgICAgaW1hZ2U6IGlkb2NrLmRhdW1rYWthby5pby9kcml2ZXIvZHJpdmVyLXNlcnZpY2UKIyAgICByZXN0YXJ0OiBhbHdheXMKIyAgICBwb3J0czoKIyAgICAgIC0gIjgwODA6ODA4MCIKIyAgICAgIC0gIjUwMDUxOjUwMDUxIgojICAgIGVudmlyb25tZW50OgojICAgICAgTU9CX0VOVjogaW50ZWdyYXRpb24KIyAgICAgIFZBVUxUX1RPS0VOOiAwZGY1MjI0MC01MTNiLTExZTktYjQ3NS0wODAwMjAwYzlhNjYKIyAgICBjb21tYW5kOiBbIi4vaW50ZWdyYXRpb24tc3RhcnR1cC5zaCJdCiMgICAgZGVwZW5kc19vbjoKIyAgICAgIC0gc2NoZW1hLXJlZ2lzdHJ5CiMgICAgICAtIG15c3FsCiMgICAgICAtIHZhdWx0CiMgICAgICAtIHJlZGlzCgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -153,13 +148,26 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlcGVuZHNfb246CiAgICAgIC0gZHJpdmVyLXNlcnZpY2UK</text>
+      <register name="2" type="4">
+        <text>{
+    &quot;product&quot;: &quot;DRIVER&quot;,
+    &quot;origin&quot;: {
+        &quot;lat&quot;: 37.395001,
+        &quot;lng&quot;: 127.110955
+    },
+    &quot;destination&quot;: {
+        &quot;lat&quot;: 37.395001,
+        &quot;lng&quot;: 127.110955
+    }
+}</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIGRlcGVuZHNfb246CiAgICAgIC0gZHJpdmVyLXNlcnZpY2UK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text># This config is being used by docker-compose
 app:
   kafka:
@@ -175,20 +183,17 @@ app:
     addr: redis:6379
     db: 1</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CXZhciBkaXNwYXRjaFN0YXR1cyBlbnRpdGllcy5EaXNwYXRjaFN0YXR1cwo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CXJvdy5OZXh0KCkK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CWRlZmVyIHJvd3MuQ2xvc2UoKQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CWlmIGVyciAhPSBuaWwgewoJCXJldHVybiBlbnRpdGllcy5JTlZBTElEX0RJU1BBVENIX1NUQVRVUywgZXJyCgl9Cg==</text>
+        <text encoding="base64">CWRlZmVyIHJvd3MuQ2xvc2UoKQo=</text>
       </register>
     </registers>
     <search>
