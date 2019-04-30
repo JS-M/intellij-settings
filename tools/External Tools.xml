@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="startup-shell" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/development-startup.sh" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service" />
+    </exec>
+  </tool>
+</toolSet>
