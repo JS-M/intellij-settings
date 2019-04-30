@@ -1,9 +1,11 @@
 <code_scheme name="Default" version="173">
+  <codeStyleSettings language="go">
+    <indentOptions>
+      <option name="SMART_TABS" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="ruby">
     <option name="SPACE_WITHIN_BRACES" value="true" />
     <option name="SPACE_WITHIN_ARRAY_INITIALIZER_BRACES" value="true" />
-    <indentOptions>
-      <option name="CONTINUATION_INDENT_SIZE" value="2" />
-    </indentOptions>
   </codeStyleSettings>
 </code_scheme>
