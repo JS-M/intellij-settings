@@ -133,11 +133,11 @@
         <mark key="." line="13" column="42" />
         <mark key="^" line="13" column="42" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/mobdata/price-service/Makefile" timestamp="1556609355502">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="21" column="39" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/mobdata/price-service/Makefile" timestamp="1556784261453">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="12" column="61" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="vim_settings.xml" timestamp="1556589883119">
         <mark key="[" line="0" column="0" />
@@ -226,11 +226,11 @@
         <mark key="." line="35" column="10" />
         <mark key="^" line="35" column="10" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/Makefile" timestamp="1556783579300">
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/Makefile" timestamp="1556784283024">
         <mark key="[" line="13" column="61" />
         <mark key="]" line="13" column="61" />
+        <mark key="^" line="13" column="61" />
         <mark key="." line="13" column="61" />
-        <mark key="^" line="14" column="49" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-insurance/config/locales/shared/push_message.ko.yml" timestamp="1547799926330">
         <mark key="[" line="365" column="6" />
@@ -463,7 +463,7 @@
         <text>VerifyRestingWork</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CUdPMTExTU9EVUxFPW9uIGdvIGdlbmVyYXRlIC4vLi4uCg==</text>
+        <text encoding="base64">CW1vY2tnZW4gLXNvdXJjZT1oYW5kbGVycy9wcmljZS9pbnRlcmZhY2UuZ28gLWRlc3RpbmF0aW9uIG1vY2tzL2hhbmRsZXJzL3ByaWNlL2ludGVyZmFjZS5nbwoJbW9ja2dlbiAtc291cmNlPXNlcnZpY2VzL3ByaWNlL2ludGVyZmFjZS5nbyAtZGVzdGluYXRpb24gbW9ja3Mvc2VydmljZXMvcHJpY2UvaW50ZXJmYWNlLmdvCgltb2NrZ2VuIC1zb3VyY2U9c2VydmljZXMvZGF0YS9pbnRlcmZhY2UuZ28gLWRlc3RpbmF0aW9uIG1vY2tzL3NlcnZpY2VzL2RhdGEvaW50ZXJmYWNlLmdvCgltb2NrZ2VuIC1zb3VyY2U9c2VydmljZXMvbG9jYWwvaW50ZXJmYWNlLmdvIC1kZXN0aW5hdGlvbiBtb2Nrcy9zZXJ2aWNlcy9sb2NhbC9pbnRlcmZhY2UuZ28KCW1vY2tnZW4gLXNvdXJjZT1zZXJ2aWNlcy9naXMvaW50ZXJmYWNlLmdvIC1kZXN0aW5hdGlvbiBtb2Nrcy9zZXJ2aWNlcy9naXMvaW50ZXJmYWNlLmdvCgltb2NrZ2VuIC1zb3VyY2U9cmVwb3NpdG9yaWVzL291dGJhY2svaW50ZXJmYWNlLmdvIC1kZXN0aW5hdGlvbiBtb2Nrcy9yZXBvc2l0b3JpZXMvb3V0YmFjay9pbnRlcmZhY2UuZ28KCW1vY2tnZW4gLXNvdXJjZT1yZXBvc2l0b3JpZXMvZmFyZS9pbnRlcmZhY2UuZ28gLWRlc3RpbmF0aW9uIG1vY2tzL3JlcG9zaXRvcmllcy9mYXJlL2ludGVyZmFjZS5nbwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -481,7 +481,7 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG1vY2tnZW4gLWRlc3RpbmF0aW9uPW1vY2tzL2dvLnViZXIub3JnL2Z4L2xpZmVjeWNsZS5nbyBnby51YmVyLm9yZy9meCBMaWZlY3ljbGUK</text>
+        <text encoding="base64">CUdPMTExTU9EVUxFPW9uIGdvIGdlbmVyYXRlIC4vLi4uCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIG1vY2tnZW4gLWRlc3RpbmF0aW9uPW1vY2tzL2dvLnViZXIub3JnL2Z4L2xpZmVjeWNsZS5nbyBnby51YmVyLm9yZy9meCBMaWZlY3ljbGUK</text>
@@ -493,19 +493,19 @@
         <text encoding="base64">ICAgIG1vY2tnZW4gLWRlc3RpbmF0aW9uPW1vY2tzL2dvLnViZXIub3JnL2Z4L2xpZmVjeWNsZS5nbyBnby51YmVyLm9yZy9meCBMaWZlY3ljbGUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1vY2tnZW4gLWRlc3RpbmF0aW9uPW1vY2tzL2dvLnViZXIub3JnL2Z4L2xpZmVjeWNsZS5nbyBnby51YmVyLm9yZy9meCBMaWZlY3ljbGUK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CW1vY2tnZW4gLWRlc3RpbmF0aW9uPW1vY2tzL2dvLnViZXIub3JnL2Z4L2xpZmVjeWNsZS5nbyBnby51YmVyLm9yZy9meCBMaWZlY3ljbGUK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">CW1vY2tnZW4gLWRlc3RpbmF0aW9uPW1vY2tzL2dvLnViZXIub3JnL2Z4L2xpZmVjeWNsZS5nbyBnby51YmVyLm9yZy9meCBMaWZlY3ljbGUK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CSNkb2NrZXIgYnVpbGQgLXQgaWRvY2suZGF1bWtha2FvLmlvLyR7T1JHfS8ke1NFUlZJQ0V9IC4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
