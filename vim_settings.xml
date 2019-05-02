@@ -226,11 +226,11 @@
         <mark key="." line="35" column="10" />
         <mark key="^" line="35" column="10" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/Makefile" timestamp="1556772561619">
-        <mark key="[" line="10" column="14" />
-        <mark key="]" line="10" column="13" />
-        <mark key="." line="10" column="13" />
-        <mark key="^" line="10" column="13" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/Makefile" timestamp="1556783579300">
+        <mark key="[" line="13" column="61" />
+        <mark key="]" line="13" column="61" />
+        <mark key="." line="13" column="61" />
+        <mark key="^" line="14" column="49" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-insurance/config/locales/shared/push_message.ko.yml" timestamp="1547799926330">
         <mark key="[" line="365" column="6" />
@@ -443,8 +443,8 @@
       <jump line="13" column="59" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/handlers/policy/interface.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CUdPMTExTU9EVUxFPW9uIGdvIGdlbmVyYXRlIC4vLi4uCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -454,7 +454,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>VerifyGoingWork</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>V</text>
