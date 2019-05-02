@@ -63,6 +63,11 @@
         <mark key="^" line="67" column="64" />
         <mark key="." line="67" column="64" />
       </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/handlers/driver/interface.go" timestamp="1556787192637">
+        <mark key="[" line="7" column="56" />
+        <mark key="]" line="7" column="56" />
+        <mark key="." line="7" column="56" />
+      </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/docker-compose.yaml" timestamp="1556606041116">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -81,6 +86,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/Makefile" timestamp="1556787548963">
+        <mark key="[" line="13" column="61" />
+        <mark key="]" line="13" column="61" />
+        <mark key="." line="13" column="61" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/config/base.yaml" timestamp="1556606009572">
         <mark key="[" line="15" column="0" />
@@ -133,7 +143,7 @@
         <mark key="." line="13" column="42" />
         <mark key="^" line="13" column="42" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/mobdata/price-service/Makefile" timestamp="1556784261453">
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/mobdata/price-service/Makefile" timestamp="1556787429769">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="^" line="12" column="61" />
@@ -207,6 +217,12 @@
         <mark key="^" line="7" column="59" />
         <mark key="." line="7" column="59" />
       </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/services/driver/interface.go" timestamp="1556787265865">
+        <mark key="[" line="13" column="1" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/doc/wheel_user/calls/create.md" timestamp="1547713416773">
         <mark key="[" line="28" column="2" />
         <mark key="]" line="28" column="4" />
@@ -226,11 +242,11 @@
         <mark key="." line="35" column="10" />
         <mark key="^" line="35" column="10" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/Makefile" timestamp="1556784283024">
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/Makefile" timestamp="1556787456253">
         <mark key="[" line="13" column="61" />
-        <mark key="]" line="13" column="61" />
-        <mark key="^" line="13" column="61" />
-        <mark key="." line="13" column="61" />
+        <mark key="]" line="36" column="0" />
+        <mark key="^" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-insurance/config/locales/shared/push_message.ko.yml" timestamp="1547799926330">
         <mark key="[" line="365" column="6" />
@@ -304,7 +320,7 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/handlers/policy/interface.go" timestamp="1556617046776">
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/handlers/policy/interface.go" timestamp="1556787142183">
         <mark key="'" line="13" column="59" />
         <mark key="[" line="13" column="91" />
         <mark key="]" line="13" column="90" />
@@ -339,6 +355,7 @@
         <mark key="^" line="9" column="31" />
         <mark key="." line="9" column="31" />
       </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/repositories/driver/interface.go" timestamp="1556787230565" />
     </filemarks>
     <jumps>
       <jump line="43" column="12" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/spec/helpers/security_helper_spec.rb" />
@@ -444,7 +461,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>=</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -454,7 +471,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>V</text>
