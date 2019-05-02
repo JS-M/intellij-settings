@@ -99,12 +99,12 @@
         <mark key="." line="13" column="53" />
         <mark key="^" line="13" column="53" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/interactions/producers/driver.rb" timestamp="1556773338739">
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/interactions/producers/driver.rb" timestamp="1556775746608">
         <mark key="'" line="112" column="1" />
-        <mark key="[" line="157" column="140" />
-        <mark key="]" line="157" column="140" />
-        <mark key="." line="157" column="140" />
-        <mark key="^" line="32" column="24" />
+        <mark key="[" line="6" column="39" />
+        <mark key="]" line="6" column="40" />
+        <mark key="." line="6" column="40" />
+        <mark key="^" line="6" column="40" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/jobs/kafka_produce_job.rb" timestamp="1556590584153">
         <mark key="[" line="3" column="1" />
@@ -165,6 +165,7 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/avro/schema/wheel/driver/activity.avsc" timestamp="1556774758023" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/interactions/notifications/send_plusfriend.rb" timestamp="1547803111950">
         <mark key="[" line="18" column="1" />
         <mark key="]" line="18" column="0" />
@@ -300,7 +301,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text encoding="base64">IGRvCiAgICAgIGZsb2F0IDpsYXQKICAgICAgZmxvYXQgOmxuZwogICAgZW5k</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -310,7 +311,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>decimal</text>
       </register>
       <register name="/" type="4">
         <text>=</text>
@@ -318,8 +319,8 @@
       <register name="0" type="4">
         <text>SuperCallSerializer</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IGRvCiAgICAgIGZsb2F0IDpsYXQKICAgICAgZmxvYXQgOmxuZwogICAgZW5k</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -337,31 +338,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgaCA9IHNlcmlhbGl6ZWQuYXNfanNvbgo=</text>
+        <text encoding="base64">ICAgICAgWzpsYXQsIDpsbmddCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgaCA9IHNlcmlhbGl6ZWQuYXNfanNvbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>mask_address('경기도 성남시 분당구 판교역로 152 알파돔시티 13층')end</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaCA9IHNlcmlhbGl6ZWQuYXNfanNvbgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaCA9IHNlcmlhbGl6ZWQuYXNfanNvbgo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICBpZiBjYWxsLnByZXNlbnQ/CiAgICAgICAgICBjX21lc3NhZ2UgPSBjYWxsX21lc3NhZ2UKICAgICAgICBlbHNlCiAgICAgICAgICBjX21lc3NhZ2UgPSBvcGVuX2NhbGxfbWVzc2FnZQogICAgICAgIGVuZA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgb3Blbl9jYWxsLnByZXNlbnQ/Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICAgICBpZiBjYWxsLnByZXNlbnQ/CiAgICAgICAgICBjX21lc3NhZ2UgPSBjYWxsX21lc3NhZ2UKICAgICAgICBlbHNlCiAgICAgICAgICBjX21lc3NhZ2UgPSBvcGVuX2NhbGxfbWVzc2FnZQogICAgICAgIGVuZA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGMgPSBvcGVuX2NhbGwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
