@@ -93,17 +93,17 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/interactions/producers/logging/price_acceptance.rb" timestamp="1556601529381">
-        <mark key="[" line="30" column="1" />
-        <mark key="]" line="16" column="53" />
-        <mark key="." line="16" column="53" />
-        <mark key="^" line="16" column="53" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/interactions/producers/logging/price_acceptance.rb" timestamp="1556773042568">
+        <mark key="[" line="26" column="22" />
+        <mark key="]" line="13" column="53" />
+        <mark key="." line="13" column="53" />
+        <mark key="^" line="13" column="53" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/interactions/producers/driver.rb" timestamp="1556523605782">
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/interactions/producers/driver.rb" timestamp="1556773338739">
         <mark key="'" line="112" column="1" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
+        <mark key="[" line="157" column="140" />
+        <mark key="]" line="157" column="140" />
+        <mark key="." line="157" column="140" />
         <mark key="^" line="32" column="24" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/jobs/kafka_produce_job.rb" timestamp="1556590584153">
@@ -195,7 +195,6 @@
         <mark key="." line="13" column="42" />
         <mark key="^" line="13" column="42" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/config/routes/super_app_user.rb" timestamp="1556590140135" />
     </filemarks>
     <jumps>
       <jump line="22" column="12" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/spec/helpers/security_helper_spec.rb" />
@@ -300,8 +299,8 @@
       <jump line="112" column="1" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/interactions/producers/driver.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -311,7 +310,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID0=</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>=</text>
