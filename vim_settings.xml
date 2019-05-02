@@ -27,6 +27,7 @@
         <mark key="^" line="300" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-web/app/interactions/producers/driver.rb" timestamp="1556788921421" />
       <file name="/Ruby Console" timestamp="1556781434226">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
@@ -70,6 +71,7 @@
         <mark key="^" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/wheel_driver/calls_controller.rb" timestamp="1556788625167" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/doc/wheel_user/calls/create.md" timestamp="1547713416773">
         <mark key="[" line="28" column="2" />
         <mark key="]" line="28" column="4" />
@@ -132,12 +134,6 @@
         <mark key="." line="7" column="27" />
         <mark key="^" line="7" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556519307416">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/fragment.rb" timestamp="1556521688464">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/spec/factories/coordinate_factory.rb" timestamp="1556778674660">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -150,8 +146,12 @@
         <mark key="." line="1" column="14" />
         <mark key="^" line="1" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/wheel_user/calls_controller.rb" timestamp="1556782352646">
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/wheel_user/calls_controller.rb" timestamp="1556788335605">
         <mark key="'" line="792" column="0" />
+        <mark key="[" line="238" column="0" />
+        <mark key="]" line="238" column="0" />
+        <mark key="^" line="235" column="7" />
+        <mark key="." line="238" column="0" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/Gemfile" timestamp="1556070734308">
         <mark key="[" line="89" column="12" />
@@ -310,7 +310,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFmdGVyX2FjdGlvbiA6cHJvZHVjZV9hY2NlcHRlZF9wcmljZSwgb25seTogWzpjcmVhdGUsIDpyZXRyeV0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -329,7 +329,7 @@
         <text encoding="base64">ICAgICAgcHJvZHVjZV9hY2NlcHRlZF9wcmljZShAY2FsbCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFmdGVyX2FjdGlvbiA6cHJvZHVjZV9hY2NlcHRlZF9wcmljZSwgb25seTogWzpjcmVhdGUsIDpyZXRyeV0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -347,7 +347,7 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFmdGVyX2FjdGlvbiA6cHJvZHVjZV9hY2NlcHRlZF9wcmljZSwgb25seTogWzpjcmVhdGUsIDpyZXRyeV0K</text>
+        <text encoding="base64">ICAgICAgcHJvZHVjZV9hY2NlcHRlZF9wcmljZShyZXRyeV9jYWxsKQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIGFmdGVyX2FjdGlvbiA6cHJvZHVjZV9hY2NlcHRlZF9wcmljZSwgb25seTogWzpjcmVhdGUsIDpyZXRyeV0K</text>
@@ -356,22 +356,22 @@
         <text>mask_address('경기도 성남시 분당구 판교역로 152 알파돔시티 13층')end</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFmdGVyX2FjdGlvbiA6cHJvZHVjZV9hY2NlcHRlZF9wcmljZSwgb25seTogWzpjcmVhdGUsIDpyZXRyeV0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFmdGVyX2FjdGlvbiA6cHJvZHVjZV9hY2NlcHRlZF9wcmljZSwgb25seTogWzpjcmVhdGUsIDpyZXRyeSwgOmNhbmNlbF9hbmRfcmV0cnldCg==</text>
+        <text encoding="base64">ICAgIGFmdGVyX2FjdGlvbiA6cHJvZHVjZV9hY2NlcHRlZF9wcmljZSwgb25seTogWzpjcmVhdGUsIDpyZXRyeV0K</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9kdWNlX2FjY2VwdGVkX3ByaWNlKHJldHJ5X2NhbGwpCg==</text>
+        <text encoding="base64">ICAgIGFmdGVyX2FjdGlvbiA6cHJvZHVjZV9hY2NlcHRlZF9wcmljZSwgb25seTogWzpjcmVhdGUsIDpyZXRyeSwgOmNhbmNlbF9hbmRfcmV0cnldCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdChhaSkudG8gYmVfdHJ1dGh5Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlc2NyaWJlZF9jbGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICBwcm9kdWNlX2FjY2VwdGVkX3ByaWNlKHJldHJ5X2NhbGwpCg==</text>
       </register>
       <register name=":" type="4">
         <text>105</text>
