@@ -16,11 +16,11 @@
         <mark key="^" line="23" column="59" />
         <mark key="." line="23" column="59" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/services/policy/service.go" timestamp="1556860547884">
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="20" />
-        <mark key="^" line="88" column="19" />
-        <mark key="." line="79" column="0" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/services/policy/service.go" timestamp="1556870636968">
+        <mark key="[" line="14" column="60" />
+        <mark key="]" line="14" column="59" />
+        <mark key="^" line="14" column="59" />
+        <mark key="." line="14" column="59" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/mocks/services/driver/interface.go" timestamp="1556868036655" />
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/Makefile" timestamp="1556792463351">
@@ -96,14 +96,19 @@
         <mark key="^" line="23" column="15" />
         <mark key="." line="23" column="15" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/services/work/client.go" timestamp="1556851946758" />
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/services/driver/client.go" timestamp="1556868248926">
-        <mark key="[" line="16" column="20" />
-        <mark key="]" line="16" column="38" />
-        <mark key="." line="16" column="38" />
-        <mark key="^" line="16" column="38" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/services/work/client.go" timestamp="1556870670133">
+        <mark key="[" line="11" column="97" />
+        <mark key="]" line="12" column="59" />
+        <mark key="^" line="12" column="59" />
+        <mark key="." line="12" column="59" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/idl/github.kakaocorp.com/driver/work-service/work-service.proto" timestamp="1556868373007">
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/services/driver/client.go" timestamp="1556870690585">
+        <mark key="[" line="12" column="99" />
+        <mark key="]" line="13" column="59" />
+        <mark key="." line="13" column="59" />
+        <mark key="^" line="13" column="59" />
+      </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/idl/github.kakaocorp.com/driver/work-service/work-service.proto" timestamp="1556870564620">
         <mark key="[" line="10" column="48" />
         <mark key="]" line="10" column="47" />
         <mark key="^" line="10" column="47" />
@@ -138,12 +143,6 @@
         <mark key="^" line="55" column="47" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/.gen/github.kakaocorp.com/driver/driver-service/driver-service.pb.go" timestamp="1556865934950" />
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/common-idls/Makefile" timestamp="1556869834230">
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="18" />
-        <mark key="." line="0" column="18" />
-        <mark key="^" line="0" column="18" />
-      </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/idl/github.kakaocorp.com/driver/work-service/move.proto" timestamp="1556867998024">
         <mark key="[" line="5" column="48" />
         <mark key="]" line="5" column="47" />
@@ -156,11 +155,11 @@
         <mark key="." line="14" column="46" />
         <mark key="^" line="14" column="46" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/services/work/interface.go" timestamp="1556848294335">
-        <mark key="[" line="7" column="56" />
-        <mark key="]" line="7" column="59" />
-        <mark key="^" line="7" column="59" />
-        <mark key="." line="7" column="59" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/services/work/interface.go" timestamp="1556870575355">
+        <mark key="[" line="19" column="24" />
+        <mark key="]" line="19" column="23" />
+        <mark key="^" line="19" column="23" />
+        <mark key="." line="19" column="23" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/entities/driver.go" timestamp="1556866921566">
         <mark key="[" line="45" column="1" />
@@ -169,11 +168,11 @@
         <mark key="^" line="45" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/factories/coord.go" timestamp="1556861983416" />
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/Makefile" timestamp="1556869850082">
-        <mark key="[" line="13" column="61" />
-        <mark key="]" line="36" column="0" />
-        <mark key="^" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/Makefile" timestamp="1556870310821">
+        <mark key="[" line="14" column="19" />
+        <mark key="]" line="14" column="18" />
+        <mark key="^" line="14" column="18" />
+        <mark key="." line="14" column="18" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/repositories/driver/interface.go" timestamp="1556792354194">
         <mark key="[" line="8" column="14" />
@@ -286,7 +285,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>policy-service</text>
+        <text>work</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -296,13 +295,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>policy-service</text>
+        <text>work</text>
       </register>
       <register name="/" type="4">
         <text>V</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CXJldHVybiB0cnVlLCBuaWwK</text>
+      <register name="0" type="4">
+        <text>pb_types</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">UFJPVE9fRklMRVM9Li8qLyoucHJvdG8K</text>
