@@ -40,12 +40,11 @@
         <mark key="." line="1" column="12" />
         <mark key="^" line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/services/driver/service_test.go" timestamp="1556605650354">
-        <mark key="'" line="72" column="4" />
-        <mark key="[" line="58" column="34" />
-        <mark key="]" line="58" column="34" />
-        <mark key="." line="58" column="34" />
-        <mark key="^" line="58" column="33" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/services/driver/interface.go" timestamp="1556861784505">
+        <mark key="[" line="7" column="14" />
+        <mark key="]" line="7" column="28" />
+        <mark key="." line="7" column="28" />
+        <mark key="^" line="7" column="28" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/development-startup.sh" timestamp="1556603127299">
         <mark key="[" line="6" column="88" />
@@ -59,7 +58,7 @@
         <mark key="^" line="67" column="64" />
         <mark key="." line="67" column="64" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/handlers/driver/interface.go" timestamp="1556792342613">
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/handlers/driver/interface.go" timestamp="1556859929687">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="144" />
         <mark key="^" line="8" column="133" />
@@ -77,7 +76,19 @@
         <mark key="." line="16" column="53" />
         <mark key="^" line="16" column="53" />
       </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/services/driver/client_test.go" timestamp="1556861931972">
+        <mark key="[" line="23" column="46" />
+        <mark key="]" line="23" column="59" />
+        <mark key="^" line="23" column="59" />
+        <mark key="." line="23" column="59" />
+      </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/.gitignore" timestamp="1556772496440" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/services/policy/service.go" timestamp="1556860547884">
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="20" />
+        <mark key="^" line="88" column="19" />
+        <mark key="." line="79" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/jobs/kafka_produce_job.rb" timestamp="1556590584153">
         <mark key="[" line="3" column="1" />
         <mark key="]" line="3" column="0" />
@@ -91,6 +102,18 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="15" column="21" />
       </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/factories/driver.go" timestamp="1556862016151">
+        <mark key="[" line="25" column="15" />
+        <mark key="]" line="25" column="20" />
+        <mark key="." line="25" column="20" />
+        <mark key="^" line="25" column="20" />
+      </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/main.go" timestamp="1556860890860">
+        <mark key="[" line="10" column="4" />
+        <mark key="]" line="10" column="9" />
+        <mark key="." line="10" column="9" />
+        <mark key="^" line="10" column="9" />
+      </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/idl/github.kakaocorp.com/driver/driver-service/driver-service.proto" timestamp="1556524946399">
         <mark key="[" line="34" column="30" />
         <mark key="]" line="34" column="29" />
@@ -103,33 +126,23 @@
         <mark key="." line="82" column="10" />
         <mark key="^" line="82" column="10" />
       </file>
-      <file name="/fragment.go" timestamp="1556604041866">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/concerns/base_call.rb" timestamp="1547803170418">
         <mark key="[" line="33" column="68" />
         <mark key="]" line="33" column="67" />
         <mark key="." line="33" column="67" />
         <mark key="^" line="33" column="67" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/services/policy/interface.go" timestamp="1556617004991">
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/services/policy/interface.go" timestamp="1556860429078">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
         <mark key="^" line="29" column="18" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/config/config.go" timestamp="1556606074522">
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/config/config.go" timestamp="1556862032908">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
         <mark key="^" line="52" column="94" />
         <mark key="." line="35" column="0" />
-      </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/kubernetes.yaml" timestamp="1556614184767">
-        <mark key="'" line="1" column="3" />
-        <mark key="[" line="1" column="4" />
-        <mark key="]" line="1" column="3" />
-        <mark key="^" line="1" column="3" />
-        <mark key="." line="1" column="3" />
       </file>
       <file name="$USER_HOME$/projects/doowit/Capfile" timestamp="1547993781597">
         <mark key="[" line="13" column="0" />
@@ -142,9 +155,6 @@
         <mark key="]" line="13" column="0" />
         <mark key="^" line="12" column="61" />
         <mark key="." line="13" column="0" />
-      </file>
-      <file name="vim_settings.xml" timestamp="1556589883119">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/application_controller.rb" timestamp="1556015588071">
         <mark key="[" line="0" column="28" />
@@ -200,6 +210,12 @@
         <mark key="." line="84" column="26" />
         <mark key="^" line="84" column="26" />
       </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/config/config.go" timestamp="1556861625030">
+        <mark key="[" line="8" column="25" />
+        <mark key="]" line="8" column="24" />
+        <mark key="^" line="8" column="24" />
+        <mark key="." line="8" column="24" />
+      </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/services/work/interface.go" timestamp="1556848294335">
         <mark key="[" line="7" column="56" />
         <mark key="]" line="7" column="59" />
@@ -212,11 +228,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/services/driver/interface.go" timestamp="1556791641262">
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/services/driver/interface.go" timestamp="1556859938543">
         <mark key="[" line="7" column="144" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+        <mark key="]" line="7" column="13" />
+        <mark key="^" line="7" column="13" />
+        <mark key="." line="7" column="13" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/doc/wheel_user/calls/create.md" timestamp="1547713416773">
         <mark key="[" line="28" column="2" />
@@ -230,13 +246,7 @@
         <mark key="^" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/entities/dispatch_status.go" timestamp="1556602820473">
-        <mark key="'" line="31" column="14" />
-        <mark key="[" line="35" column="4" />
-        <mark key="]" line="35" column="10" />
-        <mark key="." line="35" column="10" />
-        <mark key="^" line="35" column="10" />
-      </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/factories/coord.go" timestamp="1556861983416" />
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/Makefile" timestamp="1556787456253">
         <mark key="[" line="13" column="61" />
         <mark key="]" line="36" column="0" />
@@ -261,17 +271,11 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556614183585">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/services/apipie_disabler.rb" timestamp="1556072849143">
         <mark key="[" line="7" column="28" />
         <mark key="]" line="7" column="27" />
         <mark key="." line="7" column="27" />
         <mark key="^" line="7" column="27" />
-      </file>
-      <file name="/fragment.rb" timestamp="1556521688464">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/wheel_driver/actions_controller.rb" timestamp="1556070500229">
         <mark key="[" line="1" column="8" />
@@ -347,9 +351,14 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="8" column="14" />
       </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/services/driver/client.go" timestamp="1556860996747">
+        <mark key="[" line="20" column="12" />
+        <mark key="]" line="20" column="14" />
+        <mark key="." line="20" column="14" />
+        <mark key="^" line="20" column="14" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="6" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/spec/helpers/security_helper_spec.rb" />
       <jump line="49" column="12" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/spec/helpers/security_helper_spec.rb" />
       <jump line="51" column="6" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/spec/helpers/security_helper_spec.rb" />
       <jump line="55" column="12" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/spec/helpers/security_helper_spec.rb" />
@@ -449,10 +458,11 @@
       <jump line="12" column="43" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/handlers/policy/interface.go" />
       <jump line="13" column="59" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/handlers/policy/interface.go" />
       <jump line="15" column="18" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/Makefile" />
+      <jump line="28" column="0" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/services/driver/client_test.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGdvIGdlbmVyYXRlIC4vLi4uZ28gZ2VuZXJhdGUgLi8uLi4K</text>
+      <register name="&quot;" type="4">
+        <text>Coord</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -462,16 +472,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text>Coord</text>
       </register>
       <register name="/" type="4">
         <text>V</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly9nbzpnZW5lcmF0ZSBtb2NrZ2VuIC1kZXN0aW5hdGlvbj0uLi8uLi9tb2Nrcy9oYW5kbGVycy9kcml2ZXIvaW50ZXJmYWNlLmdvIGdpdGh1Yi5rYWthb2NvcnAuY29tL2RyaXZlci9kcml2ZXItc2VydmljZS9oYW5kbGVycy9kcml2ZXIgSW50ZXJmYWNlCg==</text>
+        <text encoding="base64">CXJldHVybiB0cnVlLCBuaWwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGdvIGdlbmVyYXRlIC4vLi4uZ28gZ2VuZXJhdGUgLi8uLi4K</text>
+        <text encoding="base64">CXJldHVybiB0cnVlCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -488,32 +498,32 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IGdvIGdlbmVyYXRlIC4vLi4uCnByb3RvZ2VuOgoJbWtkaXIgLXAgLmdlbgoJZm9yIEZJTEUgaW4gJHtQUk9UT19GSUxFU30gOyBkbyBcCgkJcHJvdG9jIC1JL3Vzci9sb2NhbC9pbmNsdWRlIC1JLi9pZGwgXAogICAgICAgICAgICAgICAgLUkke0dPUEFUSH0vc3JjIFwKICAgICAgICAgICAgICAgIC1JJHtHT1BBVEh9L3NyYy9naXRodWIuY29tL2dycGMtZWNvc3lzdGVtL2dycGMtZ2F0ZXdheS90aGlyZF9wYXJ0eS9nb29nbGVhcGlzIFwKICAgICAgICAgICAgICAgIC0tZ29fb3V0PXBsdWdpbnM9Z3JwYzouZ2VuIFwKICAgICAgICAgICAgICAgIC0tZ3JwYy1nYXRld2F5X291dD1sb2d0b3N0ZGVycj10cnVlOi5nZW4gXAogICAgICAgICAgICAgICAgLS1zd2FnZ2VyX291dD1sb2d0b3N0ZGVycj10cnVlOi5nZW4gXAogICAgICAgICAgICAgICAgJCRGSUxFIDsgXAoJZG9uZQpzY2hlbWFnZW46Cgkke0dPUEFUSH0vYmluL3NjaGVtYWdlbgpjbGVhbjoKCXJtIC1yZiAuZ2VuIHNlcnZlcgpkb2NrZXI6Cglkb2NrZXIgYnVpbGQgLXQgaWRvY2suZGF1bWtha2FvLmlvL2RyaXZlci8ke09SR30vJHtTRVJWSUNFfSAuCnVwOgoJZG9ja2VyLWNvbXBvc2UgdXAKazhzOgoJa3ViZWN0bCBhcHBseSAtZiBrdWJlcm5ldGVzLnlhbWwKc3dhZ2dlci1zcGVjOgoJaw==</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEdPMTExTU9EVUxFPW9uIGdvIGdlbmVyYXRlIC4vLi4uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>mask_address('경기도 성남시 분당구 판교역로 152 알파돔시티 13층')end</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEdPMTExTU9EVUxFPW9uIGdvIGdlbmVyYXRlIC4vLi4uCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">CmdpdGh1Yi5rYWthb2NvcnAuY29tL2RyaXZlci9wb2xpY3ktc2VydmljZS9zZXJ2aWNlcy9wb2xpY3lnaXRodWIua2FrYW9jb3JwLmNvbS9kcml2ZXIvcG9saWN5LXNlcnZpY2Uvc2VydmljZXMvcG9saWN5Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">Ci8vZ286Z2VuZXJhdGUgbW9ja2dlbiAtZGVzdGluYXRpb249Li4vbW9ja3MvbW9ja19kb2VyLmdvIC1wYWNrYWdlPW1vY2tzIGdpdGh1Yi5jb20vc2dyZWJlbi90ZXN0aW5nLXdpdGgtZ29tb2NrL2RvZXIgRG9lcgo=</text>
+        <text encoding="base64">Z2l0aHViLmtha2FvY29ycC5jb20vZHJpdmVyL3BvbGljeS1zZXJ2aWNlL3NlcnZpY2VzL3BvbGljeWdpdGh1Yi5rYWthb2NvcnAuY29tL2RyaXZlci9wb2xpY3ktc2VydmljZS9zZXJ2aWNlcy9wb2xpY3kK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CW1vY2tnZW4gLXNvdXJjZT1oYW5kbGVycy9wcmljZS9pbnRlcmZhY2UuZ28gLWRlc3RpbmF0aW9uIG1vY2tzL2hhbmRsZXJzL3ByaWNlL2ludGVyZmFjZS5nbwoJbW9ja2dlbiAtc291cmNlPXNlcnZpY2VzL3ByaWNlL2ludGVyZmFjZS5nbyAtZGVzdGluYXRpb24gbW9ja3Mvc2VydmljZXMvcHJpY2UvaW50ZXJmYWNlLmdvCgltb2NrZ2VuIC1zb3VyY2U9c2VydmljZXMvZGF0YS9pbnRlcmZhY2UuZ28gLWRlc3RpbmF0aW9uIG1vY2tzL3NlcnZpY2VzL2RhdGEvaW50ZXJmYWNlLmdvCgltb2NrZ2VuIC1zb3VyY2U9c2VydmljZXMvbG9jYWwvaW50ZXJmYWNlLmdvIC1kZXN0aW5hdGlvbiBtb2Nrcy9zZXJ2aWNlcy9sb2NhbC9pbnRlcmZhY2UuZ28KCW1vY2tnZW4gLXNvdXJjZT1zZXJ2aWNlcy9naXMvaW50ZXJmYWNlLmdvIC1kZXN0aW5hdGlvbiBtb2Nrcy9zZXJ2aWNlcy9naXMvaW50ZXJmYWNlLmdvCgltb2NrZ2VuIC1zb3VyY2U9cmVwb3NpdG9yaWVzL291dGJhY2svaW50ZXJmYWNlLmdvIC1kZXN0aW5hdGlvbiBtb2Nrcy9yZXBvc2l0b3JpZXMvb3V0YmFjay9pbnRlcmZhY2UuZ28KCW1vY2tnZW4gLXNvdXJjZT1yZXBvc2l0b3JpZXMvZmFyZS9pbnRlcmZhY2UuZ28gLWRlc3RpbmF0aW9uIG1vY2tzL3JlcG9zaXRvcmllcy9mYXJlL2ludGVyZmFjZS5nbwo=</text>
+        <text encoding="base64">Z2l0aHViLmtha2FvY29ycC5jb20vZHJpdmVyL3BvbGljeS1zZXJ2aWNlL3NlcnZpY2VzL3BvbGljeQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CUdPMTExTU9EVUxFPW9uIGdvIGdlbmVyYXRlIC4vLi4uCg==</text>
+        <text encoding="base64">CQlnb21vY2suQW55KCksCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG1vY2tnZW4gLWRlc3RpbmF0aW9uPW1vY2tzL2dvLnViZXIub3JnL2Z4L2xpZmVjeWNsZS5nbyBnby51YmVyLm9yZy9meCBMaWZlY3ljbGUK</text>
+        <text encoding="base64">CQlUczogICAgICAgZmFjdG9yaWVzLkJlZ2lubmluZ09mVG9kYXlUUygpLAo=</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
