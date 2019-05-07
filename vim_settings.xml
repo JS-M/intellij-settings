@@ -137,10 +137,11 @@
         <mark key="^" line="4" column="38" />
         <mark key="." line="4" column="38" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/Makefile" timestamp="1557206060038">
-        <mark key="[" line="18" column="9" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/Makefile" timestamp="1557207341222">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="30" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/factories/driver.go" timestamp="1556904958502">
         <mark key="'" line="30" column="0" />
@@ -386,7 +387,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">CTE=</text>
+        <text encoding="base64">R08xMTFNT0RVTEU9b24g</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnaXRodWJcPg==</text>
@@ -413,31 +414,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">cGpqampsa2oK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWZvciBGSUxFIGluICR7UFJPVE9fRklMRVN9IDsgZG8gXAo=</text>
+        <text encoding="base64">ICAgIG1rZGlyIC1wIC5nZW4K</text>
       </register>
       <register name="s" type="4">
         <text>mask_address('경기도 성남시 분당구 판교역로 152 알파돔시티 13층')end</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">CWZvciBGSUxFIGluICR7UFJPVE9fRklMRVN9IDsgZG8gXAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">cHJvdG9nZW46Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJvdG9nZW46Cg==</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
