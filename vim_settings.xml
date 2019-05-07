@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/docker-compose.local.yaml" timestamp="1557214433376">
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/docker-compose.local.yaml" timestamp="1557219830047">
         <mark key="'" line="8" column="0" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-        <mark key="^" line="42" column="0" />
+        <mark key="[" line="48" column="14" />
+        <mark key="]" line="48" column="13" />
+        <mark key="." line="48" column="13" />
+        <mark key="^" line="48" column="13" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/idl/github.kakaocorp.com/driver/work-service/work-service.proto" timestamp="1556900929024">
         <mark key="[" line="10" column="7" />
@@ -16,6 +16,7 @@
         <mark key="." line="10" column="13" />
         <mark key="^" line="10" column="13" />
       </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/docker-compose.yaml" timestamp="1557219336152" />
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/services/policy/service_test.go" timestamp="1556905106071">
         <mark key="[" line="12" column="56" />
         <mark key="]" line="13" column="55" />
@@ -45,7 +46,7 @@
         <mark key="^" line="8" column="133" />
         <mark key="." line="8" column="133" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/docker-compose.yaml" timestamp="1557214419456">
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/docker-compose.yaml" timestamp="1557219361773">
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="0" />
         <mark key="." line="61" column="0" />
@@ -62,11 +63,11 @@
         <mark key="^" line="50" column="62" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/Makefile" timestamp="1557218851607">
-        <mark key="[" line="44" column="157" />
-        <mark key="]" line="44" column="156" />
-        <mark key="." line="44" column="156" />
-        <mark key="^" line="44" column="156" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/Makefile" timestamp="1557219145354">
+        <mark key="[" line="42" column="143" />
+        <mark key="]" line="42" column="142" />
+        <mark key="." line="42" column="142" />
+        <mark key="^" line="42" column="142" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/factories/driver.go" timestamp="1556904958502">
         <mark key="'" line="30" column="0" />
@@ -99,10 +100,11 @@
         <mark key="." line="10" column="37" />
         <mark key="^" line="10" column="37" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/idl/github.kakaocorp.com/driver/driver-service/driver-service.proto" timestamp="1556894892404">
-        <mark key="[" line="10" column="8" />
-        <mark key="]" line="10" column="8" />
-        <mark key="." line="10" column="8" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/idl/github.kakaocorp.com/driver/driver-service/driver-service.proto" timestamp="1557219838234">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="41" column="1" />
+        <mark key="." line="41" column="1" />
+        <mark key="^" line="41" column="1" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/services/policy/interface.go" timestamp="1556900979591">
         <mark key="[" line="8" column="47" />
@@ -153,6 +155,7 @@
         <mark key="." line="5" column="12" />
         <mark key="^" line="5" column="12" />
       </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/docker-compose.local.yaml" timestamp="1557219387564" />
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/mappers/dispatch_status_test.go" timestamp="1556866726697">
         <mark key="[" line="14" column="32" />
         <mark key="]" line="14" column="46" />
@@ -204,17 +207,23 @@
         <mark key="." line="8" column="21" />
         <mark key="^" line="8" column="21" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/Makefile" timestamp="1557076655010">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="20" column="52" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/Makefile" timestamp="1557219160657">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="13" />
+        <mark key="^" line="0" column="13" />
+        <mark key="." line="0" column="13" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/mappers/product_test.go" timestamp="1556900215593">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="^" line="13" column="62" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/kubernetes.yaml" timestamp="1557219497517">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
+        <mark key="^" line="59" column="9" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/mappers/product.go" timestamp="1556886291944">
         <mark key="[" line="4" column="39" />
@@ -247,9 +256,6 @@
         <mark key="^" line="13" column="90" />
         <mark key="." line="7" column="47" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/entities/product.go" timestamp="1556904123191">
-        <mark key="[" line="0" column="16" />
-      </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/entities/driver.go" timestamp="1556867284807">
         <mark key="[" line="23" column="16" />
         <mark key="]" line="23" column="15" />
@@ -262,10 +268,10 @@
         <mark key="^" line="35" column="15" />
         <mark key="." line="35" column="15" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/Dockerfile" timestamp="1556905161542">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/Dockerfile" timestamp="1557219216997">
+        <mark key="[" line="5" column="48" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/repositories/driver/interface.go" timestamp="1556792354194">
         <mark key="[" line="8" column="14" />
@@ -383,8 +389,8 @@
       <jump line="8" column="0" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/docker-compose.local.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>grpcui</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -394,16 +400,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>grpcui</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnaXRodWJcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>grpcui-protoset</text>
+        <text>driver</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgUFJPVE9TRVRfUEFUSDogL3Zhci93d3cvZ3JwY3VpL2dycGN1aS5wcm90b3NldAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -420,32 +426,32 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHZvbHVtZXM6CiAgICAgIC0gLi9pZGw6L3Zhci93d3cvZ3JwY3VpCg==</text>
+      <register name="2" type="8">
+        <text encoding="base64">ICAgIAogICAgCiAgICA=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgUFJPVE9TRVRfUEFUSDogL3Zhci93d3cvZ3JwY3VpL2dycGN1aS5wcm90b3NldAo=</text>
+        <text encoding="base64">ICAgICAgICAgIC0gbmFtZTogVVJMCiAgICAgICAgICAgIHZhbHVlOiBsb2NhbGhvc3Q6NTAwNTEK</text>
       </register>
       <register name="s" type="4">
         <text>mask_address('경기도 성남시 분당구 판교역로 152 알파돔시티 13층')end</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZvbHVtZXM6CiAgICAgIC0gLi9pZGw6L3Zhci93d3cvZ3JwY3VpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">T04KICAgICAgICAgICAg</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG1rZGlyIC1wIC5nZW4K</text>
+        <text encoding="base64">ICAgIGVudmlyb25tZW50Ogo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cGpqampsa2oK</text>
+        <text encoding="base64">ICAgICAgVVJMOiBkb2NrZXIuZm9yLm1hYy5ob3N0LmludGVybmFsOjUwMDUxCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG1rZGlyIC1wIC5nZW4K</text>
+        <text encoding="base64">ICAgICAgVVJMOiBwb2xpY3ktc2VydmljZTo1MDA1MQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgLSBwb2xpY3ktc2VydmljZQo=</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
