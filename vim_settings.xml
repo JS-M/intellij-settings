@@ -138,6 +138,7 @@
         <mark key="^" line="21" column="39" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/wheel_driver/drivers_controller.rb" timestamp="1557380156998" />
       <file name="vim_settings.xml" timestamp="1556589883119">
         <mark key="[" line="0" column="0" />
       </file>
@@ -218,6 +219,7 @@
         <mark key="^" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/config/initializers/error.rb" timestamp="1557380372952" />
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/entities/dispatch_status.go" timestamp="1556602820473">
         <mark key="'" line="31" column="14" />
         <mark key="[" line="35" column="4" />
@@ -261,7 +263,7 @@
       <file name="/fragment.rb" timestamp="1556521688464">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/concerns/base_driver.rb" timestamp="1557224780343">
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/concerns/base_driver.rb" timestamp="1557380055640">
         <mark key="[" line="95" column="98" />
         <mark key="]" line="95" column="97" />
         <mark key="^" line="95" column="97" />
