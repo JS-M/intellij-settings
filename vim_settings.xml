@@ -75,11 +75,12 @@
         <mark key="." line="16" column="53" />
         <mark key="^" line="16" column="53" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/internal/drivers_controller.rb" timestamp="1557396142542">
-        <mark key="[" line="24" column="43" />
-        <mark key="]" line="24" column="25" />
-        <mark key="^" line="24" column="25" />
-        <mark key="." line="24" column="25" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/internal/drivers_controller.rb" timestamp="1557399922575">
+        <mark key="'" line="49" column="72" />
+        <mark key="[" line="49" column="72" />
+        <mark key="]" line="49" column="77" />
+        <mark key="." line="49" column="77" />
+        <mark key="^" line="49" column="77" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/jobs/kafka_produce_job.rb" timestamp="1556590584153">
         <mark key="[" line="3" column="1" />
@@ -225,7 +226,7 @@
         <mark key="^" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/config/initializers/error.rb" timestamp="1557380372952" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/config/initializers/error.rb" timestamp="1557396730620" />
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/entities/dispatch_status.go" timestamp="1556602820473">
         <mark key="'" line="31" column="14" />
         <mark key="[" line="35" column="4" />
@@ -269,7 +270,7 @@
       <file name="/fragment.rb" timestamp="1556521688464">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/concerns/base_driver.rb" timestamp="1557380055640">
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/concerns/base_driver.rb" timestamp="1557397335494">
         <mark key="[" line="95" column="98" />
         <mark key="]" line="95" column="97" />
         <mark key="^" line="95" column="97" />
@@ -360,7 +361,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="12" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/spec/helpers/security_helper_spec.rb" />
       <jump line="45" column="6" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/spec/helpers/security_helper_spec.rb" />
       <jump line="49" column="12" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/spec/helpers/security_helper_spec.rb" />
       <jump line="51" column="6" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/spec/helpers/security_helper_spec.rb" />
@@ -460,10 +460,11 @@
       <jump line="1" column="3" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/kubernetes.yaml" />
       <jump line="12" column="43" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/handlers/policy/interface.go" />
       <jump line="13" column="59" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/handlers/policy/interface.go" />
+      <jump line="49" column="72" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/internal/drivers_controller.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>where</text>
+        <text>Driver.dispatch_statuses[driver.dispatch_status</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -473,16 +474,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>where</text>
+        <text>Driver.dispatch_statuses[driver.dispatch_status</text>
       </register>
       <register name="/" type="4">
-        <text>V</text>
+        <text encoding="base64">XDwjXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>VerifyRestingWork</text>
+        <text>Driver.dispatch_statuses[</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBkcml2ZXIuc2VuZCgibWF5XyN7cGFyYW1zWzpkaXNwYXRjaF9zdGF0dXNdfT8iKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -500,10 +501,10 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlCiAgICAgICAgICByYWlzZSBXaGVlbEVycm9yOjpBdHRyaWJ1dGVzVmFsaWRhdGlvbkZhaWxlZC5uZXcoJ+ygleydmOuQmOyngCDslYrsnYAgYGRpc3BhdGNoX3N0YXR1c2DsnoXri4jri6QuJykKICAgICAgICBlbmQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CW1vY2tnZW4gLWRlc3RpbmF0aW9uPW1vY2tzL2dvLnViZXIub3JnL2Z4L2xpZmVjeWNsZS5nbyBnby51YmVyLm9yZy9meCBMaWZlY3ljbGUK</text>
+        <text encoding="base64">ICAgICAgcmVzY3VlIE1ldGhvZE5vdEZvdW5kCg==</text>
       </register>
       <register name="s" type="4">
         <text>mask_address('경기도 성남시 분당구 판교역로 152 알파돔시티 13층')end</text>
@@ -512,31 +513,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CSNkb2NrZXIgYnVpbGQgLXQgaWRvY2suZGF1bWtha2FvLmlvLyR7T1JHfS8ke1NFUlZJQ0V9IC4K</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBXaGVlbEVycm9yOjpBdHRyaWJ1dGVzVmFsaWRhdGlvbkZhaWxlZC5uZXcoJ+ygleydmOuQmOyngCDslYrsnYAgYGRpc3BhdGNoX3N0YXR1c2DsnoXri4jri6QuJykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBXaGVlbEVycm9yOjpGb3JiaWRkZW4ubmV3KCLsg4Htg5zrpbwg67OA6rK97ZWgIOyImCDsl4bsirXri4jri6QuIChmcm9tOiAje2RyaXZlci5kaXNwYXRjaF9zdGF0dXN9ID0+IHRvOiAje3BhcmFtc1s6ZGlzcGF0Y2hfc3RhdHVzXX0pIikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaCA9IHNlcmlhbGl6ZWQuYXNfanNvbgo=</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBXaGVlbEVycm9yOjpGb3JiaWRkZW4ubmV3KCLsoJXssYXsl5Ag7JyE67Cw65CY7Ja0IOyDge2DnOulvCDrs4Dqsr3tlaAg7IiYIOyXhuyKteuLiOuLpC4gKGZyb206ICN7ZHJpdmVyLmRpc3BhdGNoX3N0YXR1c30gPT4gdG86ICN7c3RhdGV9KSIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgaCA9IHNlcmlhbGl6ZWQuYXNfanNvbgo=</text>
+        <text encoding="base64">ICAgICAgZGlzcGF0Y2hfc3RhdHVzID0gCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICBuYW1lID0gCg==</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
       </register>
     </registers>
     <search>
-      <last-search>V</last-search>
+      <last-search encoding="base64">XDwjXD4=</last-search>
       <last-offset />
-      <last-pattern>V</last-pattern>
+      <last-pattern encoding="base64">XDwjXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>=</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -545,6 +546,7 @@
         <entry>=</entry>
         <entry>rR</entry>
         <entry>V</entry>
+        <entry encoding="base64">XDwjXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>o index.html.erb</entry>
