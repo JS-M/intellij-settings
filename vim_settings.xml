@@ -232,11 +232,11 @@
         <mark key="^" line="4" column="38" />
         <mark key="." line="4" column="38" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/handlers/driver/handler.go" timestamp="1557226201755">
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="0" />
-        <mark key="^" line="79" column="0" />
-        <mark key="." line="89" column="0" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/handlers/driver/handler.go" timestamp="1557365167431">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="^" line="75" column="0" />
+        <mark key="." line="75" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/mappers/product_test.go" timestamp="1556904313819">
         <mark key="[" line="13" column="58" />
