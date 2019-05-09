@@ -75,12 +75,11 @@
         <mark key="." line="16" column="53" />
         <mark key="^" line="16" column="53" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/internal/drivers_controller.rb" timestamp="1557399922575">
-        <mark key="'" line="49" column="72" />
-        <mark key="[" line="49" column="72" />
-        <mark key="]" line="49" column="77" />
-        <mark key="." line="49" column="77" />
-        <mark key="^" line="49" column="77" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/internal/drivers_controller.rb" timestamp="1557406161948">
+        <mark key="[" line="43" column="29" />
+        <mark key="]" line="43" column="28" />
+        <mark key="." line="43" column="28" />
+        <mark key="^" line="43" column="28" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/jobs/kafka_produce_job.rb" timestamp="1556590584153">
         <mark key="[" line="3" column="1" />
@@ -172,8 +171,8 @@
         <mark key="^" line="117" column="29" />
         <mark key="." line="117" column="29" />
       </file>
-      <file name="/Ruby Console" timestamp="1556590887979">
-        <mark key="[" line="0" column="6" />
+      <file name="/Ruby Console" timestamp="1557405334909">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -196,6 +195,7 @@
         <mark key="." line="17" column="24" />
         <mark key="^" line="17" column="24" />
       </file>
+      <file name="$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/activerecord-4.2.11.1/lib/active_record/core.rb" timestamp="1557405729037" />
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/config/development.yaml" timestamp="1556603114604">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -226,7 +226,7 @@
         <mark key="^" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/config/initializers/error.rb" timestamp="1557396730620" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/config/initializers/error.rb" timestamp="1557405779004" />
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/entities/dispatch_status.go" timestamp="1556602820473">
         <mark key="'" line="31" column="14" />
         <mark key="[" line="35" column="4" />
@@ -464,7 +464,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Driver.dispatch_statuses[driver.dispatch_status</text>
+        <text>}!&quot;</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -474,16 +474,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Driver.dispatch_statuses[driver.dispatch_status</text>
+        <text>}!&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwjXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>Driver.dispatch_statuses[</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHJlc2N1ZSBBQVNNOjpJbnZhbGlkVHJhbnNpdGlvbgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBkcml2ZXIuc2VuZCgibWF5XyN7cGFyYW1zWzpkaXNwYXRjaF9zdGF0dXNdfT8iKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -501,31 +501,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlCiAgICAgICAgICByYWlzZSBXaGVlbEVycm9yOjpBdHRyaWJ1dGVzVmFsaWRhdGlvbkZhaWxlZC5uZXcoJ+ygleydmOuQmOyngCDslYrsnYAgYGRpc3BhdGNoX3N0YXR1c2DsnoXri4jri6QuJykKICAgICAgICBlbmQK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcmVzY3VlIE1ldGhvZE5vdEZvdW5kCg==</text>
+        <text encoding="base64">ICAgICAgcmVuZGVyIGpzb246IHsgZGlzcGF0Y2hfc3RhdHVzOiBEcml2ZXIuZGlzcGF0Y2hfc3RhdHVzZXMudmFsdWVzX2F0KHN0YXRlKSB9Cg==</text>
       </register>
       <register name="s" type="4">
         <text>mask_address('경기도 성남시 분당구 판교역로 152 알파돔시티 13층')end</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBXaGVlbEVycm9yOjpBdHRyaWJ1dGVzVmFsaWRhdGlvbkZhaWxlZC5uZXcoJ+ygleydmOuQmOyngCDslYrsnYAgYGRpc3BhdGNoX3N0YXR1c2DsnoXri4jri6QuJykK</text>
+        <text encoding="base64">ICAgICAgYmVnaW4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBXaGVlbEVycm9yOjpGb3JiaWRkZW4ubmV3KCLsg4Htg5zrpbwg67OA6rK97ZWgIOyImCDsl4bsirXri4jri6QuIChmcm9tOiAje2RyaXZlci5kaXNwYXRjaF9zdGF0dXN9ID0+IHRvOiAje3BhcmFtc1s6ZGlzcGF0Y2hfc3RhdHVzXX0pIikK</text>
+        <text encoding="base64">ICAgICAgICBpZiBkcml2ZXIuc2VuZCgibWF5XyN7cGFyYW1zWzpkaXNwYXRjaF9zdGF0dXNdfT8iKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBXaGVlbEVycm9yOjpGb3JiaWRkZW4ubmV3KCLsoJXssYXsl5Ag7JyE67Cw65CY7Ja0IOyDge2DnOulvCDrs4Dqsr3tlaAg7IiYIOyXhuyKteuLiOuLpC4gKGZyb206ICN7ZHJpdmVyLmRpc3BhdGNoX3N0YXR1c30gPT4gdG86ICN7c3RhdGV9KSIpCg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlCiAgICAgICAgICByYWlzZSBXaGVlbEVycm9yOjpBdHRyaWJ1dGVzVmFsaWRhdGlvbkZhaWxlZC5uZXcoJ+ygleydmOuQmOyngCDslYrsnYAgYGRpc3BhdGNoX3N0YXR1c2DsnoXri4jri6QuJykKICAgICAgICBlbmQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZGlzcGF0Y2hfc3RhdHVzID0gCg==</text>
+        <text encoding="base64">ICAgICAgcmVzY3VlIE1ldGhvZE5vdEZvdW5kCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICBuYW1lID0gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
