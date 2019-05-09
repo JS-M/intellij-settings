@@ -89,12 +89,12 @@
         <mark key="." line="38" column="38" />
         <mark key="^" line="38" column="38" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/mappers/driver.go" timestamp="1557392247171">
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/mappers/driver.go" timestamp="1557396982338">
         <mark key="'" line="13" column="18" />
-        <mark key="[" line="9" column="23" />
-        <mark key="]" line="9" column="22" />
-        <mark key="." line="9" column="22" />
-        <mark key="^" line="9" column="22" />
+        <mark key="[" line="19" column="57" />
+        <mark key="]" line="19" column="56" />
+        <mark key="^" line="19" column="56" />
+        <mark key="." line="19" column="56" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/kubernetes-grpcui-config.yaml" timestamp="1557215735295" />
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/errors/invalid_result_error.go" timestamp="1557388243618">
@@ -297,7 +297,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>int</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -307,16 +307,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>int</text>
       </register>
       <register name="/" type="4">
         <text>O</text>
       </register>
       <register name="0" type="4">
-        <text>UpdateDispatchStatus</text>
+        <text>string</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgICJmYXJlIjogMjEwMDAsCiAgICAiYmFzZSI6IDE1MDAwLAogICAgImRpc3RhbmNlIjogMTQwNDEsCiAgICAic2Vjb25kcyI6IDE2MDcsCiAgICAic3RvcG92ZXJfZmFyZSI6IDAsCiAgICAicHVyZV9mYXJlIjogMjEwMDAsCiAgICAicHVyZV9kaXN0YW5jZV9mYXJlIjogMzYxNiwKICAgICJwdXJlX3RpbWVfZmFyZSI6IDI4MDIsCiAgICAiZGlzdGFuY2VfZmFyZSI6IDM2MTYsCiAgICAidGltZV9mYXJlIjogMjgwMiwKICAgICJmcm9tIjogMTkwMDAsCiAgICAidG8iOiAyNDAwMCwKICAgICJzdGFydF9oY29kZSI6IDQxMTM1NjU3MDAsCiAgICAiZGVzdF9oY29kZSI6IDQxMTAwMDAwMDAsCiAgICAiY3JlYXRlZF9hdCI6IDE1NTMwNTkxODU3OTM=</text>
+      <register name="1" type="8">
+        <text>10
+11
+12
+20</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -333,32 +336,32 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQlmYWN0b3JpZXMuSW50ZXJ2YWwoKSwKCQlmYWN0b3JpZXMuUGFuZ3lvTGF0TG5nKCksCgkJMTEwMDAwMDAwMCwKCQlmYWN0b3JpZXMuUGFuZ3lvTGF0TG5nKCksCgkJMTEwMDAwMDAwMCwKCQkmaW50ZXJ2YWwsCgkJJnVybC5WYWx1ZXN7fSwK</text>
+      <register name="2" type="8">
+        <text>int</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQlmYWN0b3JpZXMuSW50ZXJ2YWwoKSwKCQlmYWN0b3JpZXMuUGFuZ3lvTGF0TG5nKCksCgkJMTEwMDAwMDAwMCwKCQlmYWN0b3JpZXMuUGFuZ3lvTGF0TG5nKCksCgkJMTEwMDAwMDAwMCwKCQkmaW50ZXJ2YWwsCgkJJnVybC5WYWx1ZXN7fSwK</text>
+      <register name="3" type="8">
+        <text>int</text>
       </register>
       <register name="s" type="4">
         <text>mask_address('경기도 성남시 분당구 판교역로 152 알파돔시티 13층')end</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CWludGVydmFsIDo9IGZhY3Rvcmllcy5JbnRlcnZhbCgpCg==</text>
+      <register name="4" type="8">
+        <text>int</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CSJuZXQvdXJsIgo=</text>
+      <register name="5" type="8">
+        <text>int</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQlleHRyYVBhcmFtcyAqdXJsLlZhbHVlcywK</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICJmYXJlIjogMjEwMDAsCiAgICAiYmFzZSI6IDE1MDAwLAogICAgImRpc3RhbmNlIjogMTQwNDEsCiAgICAic2Vjb25kcyI6IDE2MDcsCiAgICAic3RvcG92ZXJfZmFyZSI6IDAsCiAgICAicHVyZV9mYXJlIjogMjEwMDAsCiAgICAicHVyZV9kaXN0YW5jZV9mYXJlIjogMzYxNiwKICAgICJwdXJlX3RpbWVfZmFyZSI6IDI4MDIsCiAgICAiZGlzdGFuY2VfZmFyZSI6IDM2MTYsCiAgICAidGltZV9mYXJlIjogMjgwMiwKICAgICJmcm9tIjogMTkwMDAsCiAgICAidG8iOiAyNDAwMCwKICAgICJzdGFydF9oY29kZSI6IDQxMTM1NjU3MDAsCiAgICAiZGVzdF9oY29kZSI6IDQxMTAwMDAwMDAsCiAgICAiY3JlYXRlZF9hdCI6IDE1NTMwNTkxODU3OTM=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlmYWN0b3JpZXMuSW50ZXJ2YWwoKSwKCQlmYWN0b3JpZXMuUGFuZ3lvTGF0TG5nKCksCgkJMTEwMDAwMDAwMCwKCQlmYWN0b3JpZXMuUGFuZ3lvTGF0TG5nKCksCgkJMTEwMDAwMDAwMCwKCQkmaW50ZXJ2YWwsCgkJJnVybC5WYWx1ZXN7fSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CSJuZXQvdXJsIgo=</text>
+        <text encoding="base64">CQlmYWN0b3JpZXMuSW50ZXJ2YWwoKSwKCQlmYWN0b3JpZXMuUGFuZ3lvTGF0TG5nKCksCgkJMTEwMDAwMDAwMCwKCQlmYWN0b3JpZXMuUGFuZ3lvTGF0TG5nKCksCgkJMTEwMDAwMDAwMCwKCQkmaW50ZXJ2YWwsCgkJJnVybC5WYWx1ZXN7fSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlvcmlnaW5Db2RlIGVudGl0aWVzLkhjb2RlLAoJCWRlc3RpbmF0aW9uIHMyLkxhdExuZywKCQlkZXN0aW5hdGlvbkNvZGUgZW50aXRpZXMuSGNvZGUsCgkJc3RyYWlnaHRJbnRlcnZhbCAqZW50aXRpZXMuSW50ZXJ2YWwsCgkJZXh0cmFQYXJhbXMgKnVybC5WYWx1ZXMsCg==</text>
+        <text encoding="base64">CWludGVydmFsIDo9IGZhY3Rvcmllcy5JbnRlcnZhbCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
