@@ -40,11 +40,11 @@
         <mark key="^" line="10" column="15" />
         <mark key="." line="10" column="15" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/handlers/driver/interface.go" timestamp="1556859929687">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="144" />
-        <mark key="^" line="8" column="133" />
-        <mark key="." line="8" column="133" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/handlers/driver/interface.go" timestamp="1557371263242">
+        <mark key="[" line="12" column="86" />
+        <mark key="]" line="12" column="85" />
+        <mark key="^" line="12" column="85" />
+        <mark key="." line="12" column="85" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/docker-compose.yaml" timestamp="1557219361773">
         <mark key="[" line="61" column="0" />
@@ -176,11 +176,11 @@
         <mark key="^" line="13" column="19" />
         <mark key="." line="13" column="19" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/services/driver/interface.go" timestamp="1556859938543">
-        <mark key="[" line="7" column="144" />
-        <mark key="]" line="7" column="13" />
-        <mark key="^" line="7" column="13" />
-        <mark key="." line="7" column="13" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/services/driver/interface.go" timestamp="1557371322611">
+        <mark key="[" line="18" column="23" />
+        <mark key="]" line="18" column="22" />
+        <mark key="^" line="18" column="22" />
+        <mark key="." line="18" column="22" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/common-idls/idl/github.kakaocorp.com/driver/common-idls/types.proto" timestamp="1556882484429">
         <mark key="[" line="6" column="8" />
@@ -192,10 +192,6 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="9" column="22" />
-      </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/entities/driver.go" timestamp="1557206163523">
-        <mark key="'" line="47" column="0" />
-        <mark key="^" line="9" column="6" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/mappers/latlng.go" timestamp="1556900339968">
         <mark key="[" line="8" column="17" />
@@ -262,11 +258,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/repositories/driver/interface.go" timestamp="1556792354194">
-        <mark key="[" line="8" column="14" />
-        <mark key="]" line="8" column="14" />
-        <mark key="^" line="9" column="0" />
-        <mark key="." line="8" column="14" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/repositories/driver/interface.go" timestamp="1557371358486">
+        <mark key="[" line="12" column="4" />
+        <mark key="]" line="12" column="9" />
+        <mark key="^" line="12" column="9" />
+        <mark key="." line="12" column="9" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/services/driver/client.go" timestamp="1556904342503">
         <mark key="[" line="5" column="33" />
@@ -378,8 +374,8 @@
       <jump line="95" column="4" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/handlers/driver/handler_test.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gQ29vcmQgcmV0dXJucyBhIGNvb3JkaW5hdGlvbiBvZiBQYW5neW8gc3RhdGlvbgo=</text>
+      <register name="&quot;" type="4">
+        <text>Get</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -389,13 +385,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>maxId</text>
+        <text>Get</text>
       </register>
       <register name="/" type="4">
         <text>Get</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlnb21vY2suQW55KCksCg==</text>
+        <text encoding="base64">CUdldERpc3BhdGNoU3RhdHVzKAoJCWN0eCBjb250ZXh0LkNvbnRleHQsCgkJZHJpdmVySWQgc3RyaW5nLAoJKSAoZW50aXRpZXMuRGlzcGF0Y2hTdGF0dXMsIGVycm9yKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ly8gQ29vcmQgcmV0dXJucyBhIGNvb3JkaW5hdGlvbiBvZiBQYW5neW8gc3RhdGlvbgo=</text>
