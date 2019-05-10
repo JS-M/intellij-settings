@@ -100,11 +100,11 @@
         <mark key="." line="40" column="62" />
         <mark key="^" line="40" column="62" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/Makefile" timestamp="1557219145354">
-        <mark key="[" line="42" column="143" />
-        <mark key="]" line="42" column="142" />
-        <mark key="." line="42" column="142" />
-        <mark key="^" line="42" column="142" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/Makefile" timestamp="1557464613766">
+        <mark key="[" line="41" column="10" />
+        <mark key="]" line="41" column="10" />
+        <mark key="." line="41" column="10" />
+        <mark key="^" line="41" column="7" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/services/internal-api/client_test.go" timestamp="1557399978225">
         <mark key="[" line="60" column="55" />
@@ -351,11 +351,11 @@
         <mark key="." line="30" column="4" />
         <mark key="^" line="30" column="4" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/Dockerfile" timestamp="1557223767058">
-        <mark key="[" line="7" column="1" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="7" column="0" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/Dockerfile" timestamp="1557464207484">
+        <mark key="[" line="14" column="16" />
+        <mark key="]" line="14" column="15" />
+        <mark key="." line="14" column="15" />
+        <mark key="^" line="14" column="15" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/entities/product.go" timestamp="1556904123191">
         <mark key="[" line="0" column="16" />
@@ -489,7 +489,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>swagger-spec grpcui-protoset</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -499,13 +499,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>swagger-spec grpcui-protoset</text>
       </register>
       <register name="/" type="4">
         <text>en</text>
       </register>
       <register name="0" type="4">
-        <text>originalDispatchStatus</text>
+        <text>protoc</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CWZ1bGxVUkwgOj0gZm10LlNwcmludGYoIiVzL2ludGVybmFsL3YxL2RyaXZlcnMvJWQvdXBkYXRlX2Rpc3BhdGNoX3N0YXR1cyIsIGMudXJsLCBkcml2ZXJJZE51bSkK</text>
