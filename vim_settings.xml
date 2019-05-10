@@ -3,46 +3,24 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/mobdata/price-service/config/base.yaml" timestamp="1557400217076" />
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/docker-compose.local.yaml" timestamp="1557219830047">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="48" column="14" />
-        <mark key="]" line="48" column="13" />
-        <mark key="." line="48" column="13" />
-        <mark key="^" line="48" column="13" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/mobdata/price-service/config/base.yaml" timestamp="1557472205346">
+        <mark key="'" line="17" column="7" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/idl/github.kakaocorp.com/driver/work-service/work-service.proto" timestamp="1556900929024">
-        <mark key="[" line="10" column="7" />
-        <mark key="]" line="10" column="13" />
-        <mark key="." line="10" column="13" />
-        <mark key="^" line="10" column="13" />
-      </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/docker-compose.yaml" timestamp="1557219336152" />
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/services/policy/service_test.go" timestamp="1556905106071">
         <mark key="[" line="12" column="56" />
         <mark key="]" line="13" column="55" />
         <mark key="^" line="13" column="55" />
         <mark key="." line="13" column="55" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/errors/result_not_exist_error.go" timestamp="1557388247722">
-        <mark key="[" line="22" column="5" />
-        <mark key="]" line="22" column="12" />
-        <mark key="^" line="22" column="23" />
-        <mark key="." line="22" column="5" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/service-base/repositories/mysql_init.sql" timestamp="1557471843375">
+        <mark key="'" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/mappers/driver_test.go" timestamp="1557392104731">
-        <mark key="[" line="30" column="51" />
-        <mark key="]" line="30" column="50" />
-        <mark key="^" line="30" column="50" />
-        <mark key="." line="30" column="50" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/service-base/config/base.yaml" timestamp="1557472816549">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/services/driver/service_test.go" timestamp="1557404901899">
-        <mark key="'" line="107" column="35" />
-        <mark key="[" line="196" column="26" />
-        <mark key="]" line="196" column="25" />
-        <mark key="." line="196" column="25" />
-        <mark key="^" line="196" column="25" />
-      </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/mobdata/price-service/config/test.yaml" timestamp="1557472283159" />
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/services/driver/interface.go" timestamp="1556904668435">
         <mark key="[" line="5" column="33" />
         <mark key="]" line="5" column="38" />
@@ -54,12 +32,6 @@
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="19" />
         <mark key="^" line="0" column="19" />
-      </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/handlers/driver/interface.go" timestamp="1557371263242">
-        <mark key="[" line="12" column="86" />
-        <mark key="]" line="12" column="85" />
-        <mark key="^" line="12" column="85" />
-        <mark key="." line="12" column="85" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/docker-compose.yaml" timestamp="1557219361773">
         <mark key="[" line="61" column="0" />
@@ -79,7 +51,6 @@
         <mark key="^" line="126" column="5" />
         <mark key="." line="126" column="5" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/services/internal_api/client_test.go" timestamp="1557389765377" />
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/services/policy/service.go" timestamp="1556904193234">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -87,24 +58,27 @@
         <mark key="." line="5" column="0" />
       </file>
       <file name="/usr/local/Cellar/go/1.12.3/libexec/src/database/sql/sql.go" timestamp="1557389344504" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/service-base/main.go" timestamp="1557472559069">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/fixtures/dispatch_status.json" timestamp="1557395913578">
         <mark key="[" line="1" column="22" />
         <mark key="]" line="1" column="21" />
         <mark key="." line="1" column="21" />
         <mark key="^" line="1" column="21" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/services/api/client_test.go" timestamp="1557409534900">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="40" column="66" />
-        <mark key="]" line="40" column="62" />
-        <mark key="." line="40" column="62" />
-        <mark key="^" line="40" column="62" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/service-base/config/local.yaml" timestamp="1557472805769">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/Makefile" timestamp="1557464613766">
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/Makefile" timestamp="1557471119563">
         <mark key="[" line="41" column="10" />
-        <mark key="]" line="41" column="10" />
-        <mark key="." line="41" column="10" />
-        <mark key="^" line="41" column="7" />
+        <mark key="]" line="40" column="35" />
+        <mark key="." line="40" column="35" />
+        <mark key="^" line="40" column="35" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/services/internal-api/client_test.go" timestamp="1557399978225">
         <mark key="[" line="60" column="55" />
@@ -112,40 +86,17 @@
         <mark key="." line="60" column="54" />
         <mark key="^" line="60" column="54" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/config/base.yaml" timestamp="1557411190419">
-        <mark key="[" line="16" column="51" />
-        <mark key="]" line="16" column="50" />
-        <mark key="." line="16" column="50" />
-        <mark key="^" line="16" column="50" />
-      </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/main.go" timestamp="1556860890860">
         <mark key="[" line="10" column="4" />
         <mark key="]" line="10" column="9" />
         <mark key="." line="10" column="9" />
         <mark key="^" line="10" column="9" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/idl/github.kakaocorp.com/driver/driver-service/driver-service.proto" timestamp="1557366157219">
-        <mark key="'" line="18" column="35" />
-        <mark key="[" line="37" column="25" />
-        <mark key="]" line="38" column="38" />
-        <mark key="." line="38" column="38" />
-        <mark key="^" line="38" column="38" />
-      </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/idl/github.kakaocorp.com/driver/driver-service/driver-service.proto" timestamp="1557219838234">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="41" column="1" />
         <mark key="." line="41" column="1" />
         <mark key="^" line="41" column="1" />
-      </file>
-      <file name="/fragment.go" timestamp="1557409552343">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/mappers/driver.go" timestamp="1557406513556">
-        <mark key="'" line="28" column="33" />
-        <mark key="[" line="33" column="18" />
-        <mark key="]" line="33" column="17" />
-        <mark key="." line="33" column="17" />
-        <mark key="^" line="33" column="17" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/mobdata/price-service/services/local/client_test.go" timestamp="1557409506142" />
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/services/policy/interface.go" timestamp="1556900979591">
@@ -160,14 +111,7 @@
         <mark key="." line="23" column="57" />
         <mark key="^" line="23" column="57" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/handlers/driver/server.go" timestamp="1556865801930">
-        <mark key="[" line="55" column="7" />
-        <mark key="]" line="55" column="47" />
-        <mark key="." line="55" column="47" />
-        <mark key="^" line="55" column="47" />
-      </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/kubernetes-grpcui-config.yaml" timestamp="1557215735295" />
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/config/config.go" timestamp="1556862032908">
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/config/config.go" timestamp="1557471488024">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
         <mark key="^" line="52" column="94" />
@@ -178,27 +122,6 @@
         <mark key="]" line="22" column="30" />
         <mark key="^" line="22" column="30" />
         <mark key="." line="22" column="30" />
-      </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/.gen/github.kakaocorp.com/driver/driver-service/driver-service.pb.go" timestamp="1557409216325" />
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/common-idls/Makefile" timestamp="1556893434104">
-        <mark key="[" line="6" column="15" />
-        <mark key="]" line="6" column="15" />
-        <mark key="^" line="6" column="8" />
-        <mark key="." line="6" column="15" />
-      </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/handlers/driver/handler_test.go" timestamp="1557404377965">
-        <mark key="'" line="119" column="14" />
-        <mark key="[" line="36" column="22" />
-        <mark key="]" line="36" column="44" />
-        <mark key="^" line="36" column="44" />
-        <mark key="." line="36" column="44" />
-      </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/services/internal-api/client.go" timestamp="1557400522223">
-        <mark key="'" line="23" column="35" />
-        <mark key="[" line="34" column="15" />
-        <mark key="]" line="34" column="46" />
-        <mark key="^" line="34" column="46" />
-        <mark key="." line="34" column="46" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/kubernetes.yaml" timestamp="1557215808021">
         <mark key="[" line="21" column="18" />
@@ -212,11 +135,11 @@
         <mark key="^" line="12" column="61" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/entities/driver_test.go" timestamp="1557392516211">
-        <mark key="[" line="19" column="24" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="20" column="0" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/service-base/config/test.yaml" timestamp="1557472288944">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="4" column="31" />
+        <mark key="^" line="4" column="31" />
+        <mark key="." line="4" column="31" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/config/local.yaml" timestamp="1557405964652">
         <mark key="[" line="10" column="11" />
@@ -224,24 +147,11 @@
         <mark key="." line="10" column="17" />
         <mark key="^" line="10" column="17" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/idl/github.kakaocorp.com/driver/work-service/move.proto" timestamp="1556882199941">
-        <mark key="[" line="5" column="13" />
-        <mark key="]" line="5" column="12" />
-        <mark key="." line="5" column="12" />
-        <mark key="^" line="5" column="12" />
-      </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/services/driver/service.go" timestamp="1557407121691">
-        <mark key="[" line="50" column="14" />
-        <mark key="]" line="50" column="23" />
-        <mark key="." line="50" column="23" />
-        <mark key="^" line="50" column="23" />
-      </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/docker-compose.local.yaml" timestamp="1557219387564" />
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/mappers/dispatch_status_test.go" timestamp="1556866726697">
-        <mark key="[" line="14" column="32" />
-        <mark key="]" line="14" column="46" />
-        <mark key="." line="14" column="46" />
-        <mark key="^" line="14" column="46" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/service-base/config/integration.yaml" timestamp="1557472240754">
+        <mark key="[" line="1" column="4" />
+        <mark key="]" line="7" column="37" />
+        <mark key="^" line="7" column="37" />
+        <mark key="." line="7" column="37" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/handlers/policy/handler.go" timestamp="1556900753350">
         <mark key="[" line="61" column="15" />
@@ -255,12 +165,6 @@
         <mark key="^" line="8" column="24" />
         <mark key="." line="8" column="24" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/services/work/interface.go" timestamp="1556900274791">
-        <mark key="[" line="13" column="20" />
-        <mark key="]" line="13" column="19" />
-        <mark key="^" line="13" column="19" />
-        <mark key="." line="13" column="19" />
-      </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/services/driver/interface.go" timestamp="1557403536116">
         <mark key="[" line="18" column="23" />
         <mark key="]" line="18" column="30" />
@@ -273,27 +177,8 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="9" column="22" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/entities/driver.go" timestamp="1557392202005">
-        <mark key="'" line="31" column="32" />
-        <mark key="[" line="31" column="31" />
-        <mark key="]" line="31" column="31" />
-        <mark key="^" line="31" column="31" />
-        <mark key="." line="31" column="31" />
-      </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/mappers/latlng.go" timestamp="1556900339968">
-        <mark key="[" line="8" column="17" />
-        <mark key="]" line="8" column="21" />
-        <mark key="." line="8" column="21" />
-        <mark key="^" line="8" column="21" />
-      </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/mobdata/price-service/services/gis/client_test.go" timestamp="1557395798638" />
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/mobdata/price-service/services/local/client.go" timestamp="1557401505418" />
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/Makefile" timestamp="1557219160657">
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="13" />
-        <mark key="^" line="0" column="13" />
-        <mark key="." line="0" column="13" />
-      </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/mobdata/price-service/config/integration.yaml" timestamp="1557472237231" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/service-base/Makefile" timestamp="1557473042669" />
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/mappers/product_test.go" timestamp="1556900215593">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -318,47 +203,23 @@
         <mark key="." line="0" column="16" />
         <mark key="^" line="0" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557398008624">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/services/api/client.go" timestamp="1557409479712">
-        <mark key="[" line="32" column="52" />
-        <mark key="]" line="32" column="52" />
-        <mark key="." line="32" column="52" />
-        <mark key="^" line="32" column="52" />
-      </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/services/internal-api/interface.go" timestamp="1557400465314">
-        <mark key="[" line="15" column="7" />
-        <mark key="]" line="15" column="7" />
-        <mark key="." line="15" column="7" />
-        <mark key="^" line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/handlers/driver/handler.go" timestamp="1557404541849">
         <mark key="[" line="21" column="26" />
         <mark key="]" line="21" column="25" />
         <mark key="." line="21" column="25" />
         <mark key="^" line="21" column="25" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/mappers/product_test.go" timestamp="1556904313819">
-        <mark key="[" line="13" column="58" />
-        <mark key="]" line="13" column="62" />
-        <mark key="^" line="13" column="62" />
-        <mark key="." line="13" column="62" />
-      </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/repositories/driver/repository.go" timestamp="1557392783184">
-        <mark key="[" line="30" column="5" />
-        <mark key="]" line="30" column="4" />
-        <mark key="." line="30" column="4" />
-        <mark key="^" line="30" column="4" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/service-base/README.md" timestamp="1557473045238">
+        <mark key="[" line="28" column="6" />
+        <mark key="]" line="28" column="18" />
+        <mark key="." line="28" column="18" />
+        <mark key="^" line="28" column="18" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/Dockerfile" timestamp="1557464207484">
         <mark key="[" line="14" column="16" />
         <mark key="]" line="14" column="15" />
         <mark key="." line="14" column="15" />
         <mark key="^" line="14" column="15" />
-      </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/entities/product.go" timestamp="1556904123191">
-        <mark key="[" line="0" column="16" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/entities/driver.go" timestamp="1556867284807">
         <mark key="[" line="23" column="16" />
@@ -372,22 +233,169 @@
         <mark key="^" line="35" column="15" />
         <mark key="." line="35" column="15" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/repositories/driver/interface.go" timestamp="1557394546212">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="11" column="63" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/service-base/config/production.yaml" timestamp="1557472800224">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/mobdata/price-service/integration-startup.sh" timestamp="1557472531760" />
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/services/driver/client.go" timestamp="1556904342503">
         <mark key="[" line="5" column="33" />
         <mark key="]" line="5" column="38" />
         <mark key="." line="5" column="38" />
         <mark key="^" line="5" column="38" />
       </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/mobdata/price-service/config/production.yaml" timestamp="1557472272879" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/mobdata/price-service/logger.go" timestamp="1557472573429" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/idl/github.kakaocorp.com/driver/work-service/work-service.proto" timestamp="1556900929024">
+        <mark key="[" line="10" column="7" />
+        <mark key="]" line="10" column="13" />
+        <mark key="." line="10" column="13" />
+        <mark key="^" line="10" column="13" />
+      </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/docker-compose.yaml" timestamp="1557219336152" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/errors/result_not_exist_error.go" timestamp="1557388247722">
+        <mark key="[" line="22" column="5" />
+        <mark key="]" line="22" column="12" />
+        <mark key="^" line="22" column="23" />
+        <mark key="." line="22" column="5" />
+      </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/mappers/driver_test.go" timestamp="1557392104731">
+        <mark key="[" line="30" column="51" />
+        <mark key="]" line="30" column="50" />
+        <mark key="^" line="30" column="50" />
+        <mark key="." line="30" column="50" />
+      </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/handlers/driver/interface.go" timestamp="1557371263242">
+        <mark key="[" line="12" column="86" />
+        <mark key="]" line="12" column="85" />
+        <mark key="^" line="12" column="85" />
+        <mark key="." line="12" column="85" />
+      </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/service-base/config/config.go" timestamp="1557472193783">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/services/internal_api/client_test.go" timestamp="1557389765377" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/mobdata/price-service/docker-compose.yaml" timestamp="1557472518148" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/config/base.yaml" timestamp="1557411190419">
+        <mark key="[" line="16" column="51" />
+        <mark key="]" line="16" column="50" />
+        <mark key="." line="16" column="50" />
+        <mark key="^" line="16" column="50" />
+      </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/service-base/docker-compose.yaml" timestamp="1557472459438">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="^" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+      </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/mobdata/price-service/main.go" timestamp="1557472563075" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/handlers/driver/server.go" timestamp="1556865801930">
+        <mark key="[" line="55" column="7" />
+        <mark key="]" line="55" column="47" />
+        <mark key="." line="55" column="47" />
+        <mark key="^" line="55" column="47" />
+      </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/kubernetes-grpcui-config.yaml" timestamp="1557215735295" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/mobdata/price-service/config/config.go" timestamp="1557472061353" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/.gen/github.kakaocorp.com/driver/driver-service/driver-service.pb.go" timestamp="1557471137570" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/common-idls/Makefile" timestamp="1556893434104">
+        <mark key="[" line="6" column="15" />
+        <mark key="]" line="6" column="15" />
+        <mark key="^" line="6" column="8" />
+        <mark key="." line="6" column="15" />
+      </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/entities/driver_test.go" timestamp="1557392516211">
+        <mark key="[" line="19" column="24" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/service-base/kubernetes.yaml" timestamp="1557472744335">
+        <mark key="[" line="123" column="10" />
+        <mark key="]" line="123" column="21" />
+        <mark key="." line="123" column="21" />
+        <mark key="^" line="123" column="21" />
+      </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/idl/github.kakaocorp.com/driver/work-service/move.proto" timestamp="1556882199941">
+        <mark key="[" line="5" column="13" />
+        <mark key="]" line="5" column="12" />
+        <mark key="." line="5" column="12" />
+        <mark key="^" line="5" column="12" />
+      </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/services/driver/service.go" timestamp="1557407121691">
+        <mark key="[" line="50" column="14" />
+        <mark key="]" line="50" column="23" />
+        <mark key="." line="50" column="23" />
+        <mark key="^" line="50" column="23" />
+      </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/docker-compose.local.yaml" timestamp="1557219387564" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/mappers/dispatch_status_test.go" timestamp="1556866726697">
+        <mark key="[" line="14" column="32" />
+        <mark key="]" line="14" column="46" />
+        <mark key="." line="14" column="46" />
+        <mark key="^" line="14" column="46" />
+      </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/services/work/interface.go" timestamp="1556900274791">
+        <mark key="[" line="13" column="20" />
+        <mark key="]" line="13" column="19" />
+        <mark key="^" line="13" column="19" />
+        <mark key="." line="13" column="19" />
+      </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/mappers/latlng.go" timestamp="1556900339968">
+        <mark key="[" line="8" column="17" />
+        <mark key="]" line="8" column="21" />
+        <mark key="." line="8" column="21" />
+        <mark key="^" line="8" column="21" />
+      </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/mobdata/price-service/services/gis/client_test.go" timestamp="1557395798638" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/mobdata/price-service/services/local/client.go" timestamp="1557401505418" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/Makefile" timestamp="1557219160657">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="13" />
+        <mark key="^" line="0" column="13" />
+        <mark key="." line="0" column="13" />
+      </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/service-base/docker-compose.local.yaml" timestamp="1557472486377">
+        <mark key="[" line="51" column="20" />
+        <mark key="]" line="51" column="19" />
+        <mark key="^" line="51" column="19" />
+        <mark key="." line="51" column="19" />
+      </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/services/api/client.go" timestamp="1557409479712">
+        <mark key="[" line="32" column="52" />
+        <mark key="]" line="32" column="52" />
+        <mark key="." line="32" column="52" />
+        <mark key="^" line="32" column="52" />
+      </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/services/internal-api/interface.go" timestamp="1557400465314">
+        <mark key="[" line="15" column="7" />
+        <mark key="]" line="15" column="7" />
+        <mark key="." line="15" column="7" />
+        <mark key="^" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/mappers/product_test.go" timestamp="1556904313819">
+        <mark key="[" line="13" column="58" />
+        <mark key="]" line="13" column="62" />
+        <mark key="^" line="13" column="62" />
+        <mark key="." line="13" column="62" />
+      </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/repositories/driver/repository.go" timestamp="1557392783184">
+        <mark key="[" line="30" column="5" />
+        <mark key="]" line="30" column="4" />
+        <mark key="." line="30" column="4" />
+        <mark key="^" line="30" column="4" />
+      </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/repositories/driver/interface.go" timestamp="1557394546212">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="11" column="63" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="0" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/Gemfile" />
-      <jump line="225" column="8" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/wheel_driver/calls_controller.rb" />
       <jump line="10" column="9" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/Gemfile" />
       <jump line="83" column="0" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/Gemfile" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/Gemfile.lock" />
@@ -486,10 +494,12 @@
       <jump line="17" column="0" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/services/api/client_test.go" />
       <jump line="107" column="35" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/services/driver/service_test.go" />
       <jump line="28" column="33" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/mappers/driver.go" />
+      <jump line="2" column="0" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/service-base/repositories/mysql_init.sql" />
+      <jump line="17" column="7" filename="$USER_HOME$/go/src/github.kakaocorp.com/mobdata/price-service/config/base.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>swagger-spec grpcui-protoset</text>
+        <text>test</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -499,7 +509,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>swagger-spec grpcui-protoset</text>
+        <text>test</text>
       </register>
       <register name="/" type="4">
         <text>en</text>
@@ -508,7 +518,7 @@
         <text>protoc</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWZ1bGxVUkwgOj0gZm10LlNwcmludGYoIiVzL2ludGVybmFsL3YxL2RyaXZlcnMvJWQvdXBkYXRlX2Rpc3BhdGNoX3N0YXR1cyIsIGMudXJsLCBkcml2ZXJJZE51bSkK</text>
+        <text encoding="base64">LSBQcm90b2MgZ2VuCiAgICAtIGBnbyBpbnN0YWxsIC4vdmVuZG9yL2dpdGh1Yi5jb20vZ29sYW5nL3Byb3RvYnVmL3Byb3RvYy1nZW4tZ28vYAogICAgLSBgZ28gaW5zdGFsbCAuL3ZlbmRvci9naXRodWIuY29tL2dycGMtZWNvc3lzdGVtL2dycGMtZ2F0ZXdheS9wcm90b2MtZ2VuLWdycGMtZ2F0ZXdheS9gCiAgICAtIGBnbyBpbnN0YWxsIC4vdmVuZG9yL2dpdGh1Yi5jb20vZ3JwYy1lY29zeXN0ZW0vZ3JwYy1nYXRld2F5L3Byb3RvYy1nZW4tc3dhZ2dlci9gCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -526,31 +536,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWRyaXZlcklkTnVtLCBlcnIgOj0gc3RyY29udi5QYXJzZUludChkcml2ZXJJZCwgMTAsIDMyKQo=</text>
+        <text encoding="base64">LSBQcm90b2MgZ2VuCiAgICAtIGBnbyBpbnN0YWxsIC4vdmVuZG9yL2dpdGh1Yi5jb20vZ29sYW5nL3Byb3RvYnVmL3Byb3RvYy1nZW4tZ28vYAogICAgLSBgZ28gaW5zdGFsbCAuL3ZlbmRvci9naXRodWIuY29tL2dycGMtZWNvc3lzdGVtL2dycGMtZ2F0ZXdheS9wcm90b2MtZ2VuLWdycGMtZ2F0ZXdheS9gCiAgICAtIGBnbyBpbnN0YWxsIC4vdmVuZG9yL2dpdGh1Yi5jb20vZ3JwYy1lY29zeXN0ZW0vZ3JwYy1nYXRld2F5L3Byb3RvYy1nZW4tc3dhZ2dlci9gCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CU5ld1Jlc3VsdE5vdEV4aXN0RXJyb3IK</text>
+        <text encoding="base64">ICAgIC0gYGRlcCBlbnN1cmVgCg==</text>
       </register>
       <register name="s" type="4">
         <text>mask_address('경기도 성남시 분당구 판교역로 152 알파돔시티 13층')end</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnVuYyBEaXNwYXRjaFN0YXR1c1RvUmVwbyhvcmlnaW5hbERpc3BhdGNoU3RhdHVzIGludCkgZW50aXRpZXMuRGlzcGF0Y2hTdGF0dXMgewoJdmFyIGQgZW50aXRpZXMuRGlzcGF0Y2hTdGF0dXMKCglzd2l0Y2ggb3JpZ2luYWxEaXNwYXRjaFN0YXR1cyB7CgljYXNlIFdPUktJTkdfRElTUEFUQ0hfU1RBVFVTOgoJCWQgPSBlbnRpdGllcy5XT1JLSU5HX0RJU1BBVENIX1NUQVRVUwoJY2FzZSBEUklWSU5HX0RJU1BBVENIX1NUQVRVUzoKCQlkID0gZW50aXRpZXMuRFJJVklOR19ESVNQQVRDSF9TVEFUVVMKCWNhc2UgUkVTVElOR19ESVNQQVRDSF9TVEFUVVM6CgkJZCA9IGVudGl0aWVzLlJFU1RJTkdfRElTUEFUQ0hfU1RBVFVTCgljYXNlIExFQVZJTkdfRElTUEFUQ0hfU1RBVFVTOgoJCWQgPSBlbnRpdGllcy5MRUFWSU5HX0RJU1BBVENIX1NUQVRVUwoJZGVmYXVsdDoKCQlkID0gZW50aXRpZXMuSU5WQUxJRF9ESVNQQVRDSF9TVEFUVVMKCX0KCglyZXR1cm4gZAp9Cg==</text>
+        <text encoding="base64">LSBEZXA6IGBicmV3IGluc3RhbGwgZGVwYAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXBiICJnaXRodWIua2FrYW9jb3JwLmNvbS9kcml2ZXIvZHJpdmVyLXNlcnZpY2UvLmdlbi9naXRodWIua2FrYW9jb3JwLmNvbS9kcml2ZXIvZHJpdmVyLXNlcnZpY2UiCg==</text>
+        <text encoding="base64">ICAgIHdvcms6CiAgICAgIHVybDogaHR0cDovL2FscGhhLXdoZWVsLWxvY2FsLnBnMS5rcmFuZS45cnVtLmNjL2xvY2FsCiAgICBhcGk6CiAgICAgIHVybDogaHR0cDovL2FscGhhLXdoZWVsLWFwaS5wZzEua3JhbmUuOXJ1bS5jYwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CglpZiAhZGlzcGF0Y2hTdGF0dXMuSXNWYWxpZFN0YXR1cygpIHsKCQlyZXR1cm4gZW50aXRpZXMuSU5WQUxJRF9ESVNQQVRDSF9TVEFUVVMsIGN1c3RvbUVycm9ycy5OZXdJbnZhbGlkUmVzdWx0RXJyb3IoKQoJfQo=</text>
+        <text encoding="base64">ICAgIGFwaToKICAgICAgdXJsOiBodHRwOi8vbG9jYWxob3N0OjMwMDAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJZHJpdmVyU2VydmljZS5OZXcsCg==</text>
+        <text encoding="base64">ICAgIGxvY2FsOgogICAgICB1cmw6IGh0dHBzOi8vd2hlZWwtbG9jYWwtYXBpLmtha2FvLmNvbQogICAgZ2lzOgogICAgICB1cmw6IGh0dHA6Ly9kcml2ZXItZ2lzLmtha2FvLmNvbQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXJldHVybiBlbnRpdGllcy5EaXNwYXRjaFN0YXR1cygxKSwgbmlsCg==</text>
+        <text encoding="base64">CQkJcHJpY2VIYW5kbGVyLk5ldywKCQkJcHJpY2VIYW5kbGVyLk5ld0dSUENTZXJ2ZXIsCgkJCXByaWNlSGFuZGxlci5OZXdIVFRQU2VydmVyLAoJCQlwcmljZVNlcnZpY2UuTmV3LAoJCQlsb2NhbFNlcnZpY2UuTmV3LAoJCQlnaXNTZXJ2aWNlLk5ldywKCQkJZGF0YVNlcnZpY2UuTmV3LAoJCQlvdXRiYWNrUmVwb3NpdG9yeS5OZXcsCgkJCWZhcmVSZXBvc2l0b3J5Lk5ldywK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="8">
+        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAog</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
