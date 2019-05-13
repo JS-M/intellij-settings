@@ -86,7 +86,7 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557724890718">
+      <file name="/Dummy.txt" timestamp="1557726393356">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/Makefile" timestamp="1557716042567">
@@ -126,8 +126,7 @@
         <mark key="]" line="19" column="52" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/zone-service/vendor/go.uber.org/config/internal/merge/merge.go" timestamp="1557725188177" />
-      <file name="$USER_HOME$/go/pkg/mod/go.uber.org/config@v1.3.1/internal/merge/merge.go" timestamp="1557724951541" />
+      <file name="$USER_HOME$/go/pkg/mod/go.uber.org/config@v1.3.1/internal/merge/merge.go" timestamp="1557726218539" />
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/config/base.yaml" timestamp="1557716048555">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
