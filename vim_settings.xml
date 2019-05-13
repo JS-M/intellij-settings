@@ -3,7 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/zone-service/docker-compose.local.yaml" timestamp="1557727518517" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/README.md" timestamp="1557728930803">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="14" column="11" />
+      </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/idl/github.kakaocorp.com/driver/zone-service/zone-service.proto" timestamp="1557720854382">
         <mark key="'" line="15" column="34" />
         <mark key="[" line="23" column="27" />
@@ -51,6 +56,13 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
         <mark key="^" line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/zone-service/README.md" timestamp="1557728878380">
+        <mark key="'" line="67" column="0" />
+        <mark key="[" line="20" column="7" />
+        <mark key="]" line="20" column="22" />
+        <mark key="." line="20" column="7" />
+        <mark key="^" line="15" column="7" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/service-base/config/config.go" timestamp="1557472193783">
         <mark key="[" line="21" column="0" />
@@ -132,12 +144,18 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="38" column="0" />
       </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/zone-service/repositories/mysql_init.sql" timestamp="1557728045812">
+        <mark key="[" line="1" column="10" />
+        <mark key="]" line="1" column="9" />
+        <mark key="." line="1" column="9" />
+        <mark key="^" line="1" column="9" />
+      </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/zone-service/factories/coord.go" timestamp="1557728837596" />
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/zone-service/mappers/zone_test.go" timestamp="1557722726653">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="52" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/go/pkg/mod/go.uber.org/config@v1.3.1/internal/merge/merge.go" timestamp="1557726218539" />
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/config/base.yaml" timestamp="1557716048555">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -148,11 +166,12 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/zone-service/services/zone/service.go" timestamp="1557724707492">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/zone-service/services/zone/service.go" timestamp="1557728437378">
+        <mark key="'" line="53" column="7" />
+        <mark key="[" line="17" column="20" />
+        <mark key="]" line="17" column="7198" />
+        <mark key="." line="17" column="20" />
+        <mark key="^" line="53" column="7" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/service-base/config/production.yaml" timestamp="1557472800224">
         <mark key="[" line="12" column="0" />
@@ -161,12 +180,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="0" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/interactions/notifications/warn_abnormal_calls.rb" />
-      <jump line="44" column="0" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/interactions/notifications/warn_abnormal_calls.rb" />
-      <jump line="66" column="36" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/interactions/notifications/warn_abnormal_calls.rb" />
-      <jump line="151" column="0" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/Gemfile" />
-      <jump line="196" column="0" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/Gemfile" />
-      <jump line="85" column="0" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/Gemfile" />
       <jump line="155" column="0" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/Gemfile" />
       <jump line="38" column="14" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-web/Gemfile" />
       <jump line="14" column="0" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/interactions/notifications/warn_abnormal_calls.rb" />
@@ -261,10 +274,16 @@
       <jump line="85" column="0" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/zone-service/handlers/zone/handler.go" />
       <jump line="10" column="0" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/zone-service/handlers/zone/handler.go" />
       <jump line="42" column="16" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/zone-service/handlers/zone/server.go" />
+      <jump line="2" column="19" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/zone-service/repositories/mysql_init.sql" />
+      <jump line="54" column="0" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/zone-service/services/zone/service.go" />
+      <jump line="0" column="0" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/zone-service/services/zone/service.go" />
+      <jump line="53" column="7" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/zone-service/services/zone/service.go" />
+      <jump line="72" column="1" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/zone-service/README.md" />
+      <jump line="147" column="0" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/zone-service/README.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFwaToKICAgICAgdXJsOiBodHRwOi8vbG9jYWxob3N0OjMwMDAK</text>
+        <text encoding="base64">ICAgIC0gYGRlcCBlbnN1cmVgCg==</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -274,16 +293,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>z</text>
+        <text>price</text>
       </register>
       <register name="/" type="4">
         <text>zoneS</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQlab25lVHlwZTogcGIuWm9uZVR5cGUoZmFjdG9yaWVzLlpvbmVUeXBlKCkpLAo=</text>
+      <register name="0" type="4">
+        <text>GO111MODULE=on</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFwaToKICAgICAgdXJsOiBodHRwOi8vbG9jYWxob3N0OjMwMDAK</text>
+        <text encoding="base64">ICAgIC0gYGRlcCBlbnN1cmVgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -301,31 +320,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHdvcms6CiAgICAgIHVybDogaHR0cDovL2FscGhhLXdoZWVsLWxvY2FsLnBnMS5rcmFuZS45cnVtLmNjL2xvY2FsCg==</text>
+        <text encoding="base64">LSBEZXA6IGBicmV3IGluc3RhbGwgZGVwYAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGxvY2FsOgogICAgICB1cmw6IGh0dHBzOi8vd2hlZWwtbG9jYWwtYXBpLmtha2FvLmNvbQogICAgZ2lzOgogICAgICB1cmw6IGh0dHA6Ly9kcml2ZXItZ2lzLmtha2FvLmNvbQo=</text>
+      <register name="3" type="8">
+        <text>g</text>
       </register>
       <register name="s" type="4">
         <text>mask_address('경기도 성남시 분당구 판교역로 152 알파돔시티 13층')end</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CSJnaXRodWIuY29tL2dvbGFuZy9nZW8vczIiCg==</text>
+      <register name="4" type="8">
+        <text>g</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CWRyaXZlcl9mYWN0b3JpZXMgImdpdGh1Yi5rYWthb2NvcnAuY29tL2RyaXZlci9kcml2ZXItc2VydmljZS9mYWN0b3JpZXMiCg==</text>
+      <register name="5" type="8">
+        <text>g</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CSJnaXRodWIua2FrYW9jb3JwLmNvbS9kcml2ZXIvem9uZS1zZXJ2aWNlLy5nZW4vZ2l0aHViLmtha2FvY29ycC5jb20vZHJpdmVyL3pvbmUtc2VydmljZSIK</text>
+      <register name="6" type="8">
+        <text>g</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQlEcml2ZXJJZDogZHJpdmVyX2ZhY3Rvcmllcy5Ecml2ZXJJZCgpLAo=</text>
+      <register name="7" type="8">
+        <text>g</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlEcml2ZXJJZDogZHJpdmVyX2ZhY3Rvcmllcy5Ecml2ZXJJZCgpLAo=</text>
+        <text encoding="base64">LSBEZXA6IGBicmV3IGluc3RhbGwgZGVwYAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlEcml2ZXJJZDogZHJpdmVyX2ZhY3Rvcmllcy5Ecml2ZXJJZCgpLAo=</text>
+        <text encoding="base64">ICAgIC0gYGRlcCBlbnN1cmVgCg==</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
