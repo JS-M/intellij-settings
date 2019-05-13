@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/zone-service/docker-compose.local.yaml" timestamp="1557727518517" />
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/idl/github.kakaocorp.com/driver/zone-service/zone-service.proto" timestamp="1557720854382">
         <mark key="'" line="15" column="34" />
         <mark key="[" line="23" column="27" />
@@ -20,6 +21,11 @@
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/zone-service/config/local.yaml" timestamp="1557727647893">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/zone-service/main.go" timestamp="1557722972234">
         <mark key="[" line="29" column="4" />
@@ -86,7 +92,7 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557726393356">
+      <file name="/Dummy.txt" timestamp="1557727789098">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/Makefile" timestamp="1557716042567">
@@ -101,6 +107,11 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
         <mark key="^" line="11" column="26" />
+      </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/zone-service/config/production.yaml" timestamp="1557727612103">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/zone-service/entities/zone.go" timestamp="1557721553896">
         <mark key="'" line="8" column="16" />
@@ -131,6 +142,11 @@
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/zone-service/config/base.yaml" timestamp="1557727620160">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/zone-service/services/zone/service.go" timestamp="1557724707492">
         <mark key="'" line="10" column="0" />
@@ -248,7 +264,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CSJnaXRodWIuY29tL2dvbGFuZy9nZW8vczIiCg==</text>
+        <text encoding="base64">ICAgIGFwaToKICAgICAgdXJsOiBodHRwOi8vbG9jYWxob3N0OjMwMDAK</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -267,7 +283,7 @@
         <text encoding="base64">CQlab25lVHlwZTogcGIuWm9uZVR5cGUoZmFjdG9yaWVzLlpvbmVUeXBlKCkpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CSJnaXRodWIuY29tL2dvbGFuZy9nZW8vczIiCg==</text>
+        <text encoding="base64">ICAgIGFwaToKICAgICAgdXJsOiBodHRwOi8vbG9jYWxob3N0OjMwMDAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -285,31 +301,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWRyaXZlcl9mYWN0b3JpZXMgImdpdGh1Yi5rYWthb2NvcnAuY29tL2RyaXZlci9kcml2ZXItc2VydmljZS9mYWN0b3JpZXMiCg==</text>
+        <text encoding="base64">ICAgIHdvcms6CiAgICAgIHVybDogaHR0cDovL2FscGhhLXdoZWVsLWxvY2FsLnBnMS5rcmFuZS45cnVtLmNjL2xvY2FsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CSJnaXRodWIua2FrYW9jb3JwLmNvbS9kcml2ZXIvem9uZS1zZXJ2aWNlLy5nZW4vZ2l0aHViLmtha2FvY29ycC5jb20vZHJpdmVyL3pvbmUtc2VydmljZSIK</text>
+        <text encoding="base64">ICAgIGxvY2FsOgogICAgICB1cmw6IGh0dHBzOi8vd2hlZWwtbG9jYWwtYXBpLmtha2FvLmNvbQogICAgZ2lzOgogICAgICB1cmw6IGh0dHA6Ly9kcml2ZXItZ2lzLmtha2FvLmNvbQo=</text>
       </register>
       <register name="s" type="4">
         <text>mask_address('경기도 성남시 분당구 판교역로 152 알파돔시티 13층')end</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlEcml2ZXJJZDogZHJpdmVyX2ZhY3Rvcmllcy5Ecml2ZXJJZCgpLAo=</text>
+        <text encoding="base64">CSJnaXRodWIuY29tL2dvbGFuZy9nZW8vczIiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlEcml2ZXJJZDogZHJpdmVyX2ZhY3Rvcmllcy5Ecml2ZXJJZCgpLAo=</text>
+        <text encoding="base64">CWRyaXZlcl9mYWN0b3JpZXMgImdpdGh1Yi5rYWthb2NvcnAuY29tL2RyaXZlci9kcml2ZXItc2VydmljZS9mYWN0b3JpZXMiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlEcml2ZXJJZDogZHJpdmVyX2ZhY3Rvcmllcy5Ecml2ZXJJZCgpLAo=</text>
+        <text encoding="base64">CSJnaXRodWIua2FrYW9jb3JwLmNvbS9kcml2ZXIvem9uZS1zZXJ2aWNlLy5nZW4vZ2l0aHViLmtha2FvY29ycC5jb20vZHJpdmVyL3pvbmUtc2VydmljZSIK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">CQlEcml2ZXJJZDogZHJpdmVyX2ZhY3Rvcmllcy5Ecml2ZXJJZCgpLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJd29ya1NlcnZpY2UuTmV3LAoJCQlkcml2ZXJTZXJ2aWNlLk5ldywK</text>
+        <text encoding="base64">CQlEcml2ZXJJZDogZHJpdmVyX2ZhY3Rvcmllcy5Ecml2ZXJJZCgpLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWFzc2VydC5FcXVhbCh0LCBlbnRpdGllcy5Vbmtub3duLCBGcm9tWm9uZVBCKDApKQo=</text>
+        <text encoding="base64">CQlEcml2ZXJJZDogZHJpdmVyX2ZhY3Rvcmllcy5Ecml2ZXJJZCgpLAo=</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
