@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/idl/github.kakaocorp.com/driver/zone-service/zone-service.proto" timestamp="1557715946205">
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/idl/github.kakaocorp.com/driver/zone-service/zone-service.proto" timestamp="1557717717212">
         <mark key="'" line="15" column="34" />
-        <mark key="[" line="22" column="13" />
-        <mark key="]" line="22" column="12" />
-        <mark key="^" line="22" column="12" />
-        <mark key="." line="22" column="12" />
+        <mark key="[" line="23" column="27" />
+        <mark key="]" line="23" column="27" />
+        <mark key="^" line="23" column="27" />
+        <mark key="." line="23" column="27" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/idl/github.kakaocorp.com/driver/work-service/work-service.proto" timestamp="1556900929024">
         <mark key="[" line="10" column="7" />
@@ -488,8 +488,8 @@
       <jump line="15" column="34" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/idl/github.kakaocorp.com/driver/zone-service/zone-service.proto" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>2</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -499,7 +499,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>R</text>
