@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/mobdata/price-service/config/base.yaml" timestamp="1557472205346">
-        <mark key="'" line="17" column="7" />
-      </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/idl/github.kakaocorp.com/driver/work-service/work-service.proto" timestamp="1556900929024">
         <mark key="[" line="10" column="7" />
         <mark key="]" line="10" column="13" />
@@ -17,9 +14,6 @@
         <mark key="]" line="13" column="55" />
         <mark key="^" line="13" column="55" />
         <mark key="." line="13" column="55" />
-      </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/service-base/repositories/mysql_init.sql" timestamp="1557471843375">
-        <mark key="'" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/errors/result_not_exist_error.go" timestamp="1557388247722">
         <mark key="[" line="22" column="5" />
@@ -101,7 +95,8 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/Makefile" timestamp="1557471119563">
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/Makefile" timestamp="1557711306629">
+        <mark key="'" line="6" column="15" />
         <mark key="[" line="41" column="10" />
         <mark key="]" line="40" column="35" />
         <mark key="." line="40" column="35" />
@@ -269,11 +264,12 @@
         <mark key="." line="8" column="21" />
         <mark key="^" line="8" column="21" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/Makefile" timestamp="1557219160657">
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="13" />
-        <mark key="^" line="0" column="13" />
-        <mark key="." line="0" column="13" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/Makefile" timestamp="1557711311835">
+        <mark key="'" line="15" column="5" />
+        <mark key="[" line="18" column="9" />
+        <mark key="]" line="18" column="8" />
+        <mark key="^" line="18" column="8" />
+        <mark key="." line="18" column="8" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/service-base/docker-compose.local.yaml" timestamp="1557472486377">
         <mark key="[" line="51" column="20" />
@@ -378,8 +374,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="9" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/Gemfile" />
-      <jump line="83" column="0" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/Gemfile" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/Gemfile.lock" />
       <jump line="14" column="0" filename="$USER_HOME$/projects/mobility/wheel-webapp/symlink_project.rb" />
       <jump line="293" column="0" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/wheel_user/calls_controller.rb" />
@@ -478,6 +472,8 @@
       <jump line="28" column="33" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/mappers/driver.go" />
       <jump line="2" column="0" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/service-base/repositories/mysql_init.sql" />
       <jump line="17" column="7" filename="$USER_HOME$/go/src/github.kakaocorp.com/mobdata/price-service/config/base.yaml" />
+      <jump line="6" column="15" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/Makefile" />
+      <jump line="15" column="5" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/Makefile" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
