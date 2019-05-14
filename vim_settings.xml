@@ -9,18 +9,18 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="14" column="11" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/work/service.go" timestamp="1557802797199">
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/work/service.go" timestamp="1557812866884">
         <mark key="[" line="47" column="30" />
         <mark key="]" line="47" column="41" />
         <mark key="." line="47" column="41" />
         <mark key="^" line="47" column="41" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/driver/client.go" timestamp="1557802566979">
-        <mark key="'" line="23" column="151" />
-        <mark key="[" line="13" column="1" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="13" column="0" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/driver/client.go" timestamp="1557813724167">
+        <mark key="'" line="41" column="75" />
+        <mark key="[" line="23" column="64" />
+        <mark key="]" line="23" column="69" />
+        <mark key="." line="23" column="69" />
+        <mark key="^" line="23" column="69" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/work/get_driver_status.go" timestamp="1557801884937" />
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/main.go" timestamp="1557736269997">
@@ -53,11 +53,11 @@
         <mark key="^" line="112" column="34" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/work/interface.go" timestamp="1557802012225">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="11" column="0" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/work/interface.go" timestamp="1557813618751">
+        <mark key="[" line="21" column="73" />
+        <mark key="]" line="21" column="72" />
+        <mark key="." line="21" column="72" />
+        <mark key="^" line="21" column="72" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/idl/github.kakaocorp.com/driver/driver-service/driver-service.proto" timestamp="1557715846412">
         <mark key="[" line="38" column="1" />
@@ -221,12 +221,15 @@
         <mark key="^" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/driver/interface.go" timestamp="1557802529506">
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/driver/interface.go" timestamp="1557814188507">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="13" column="87" />
-        <mark key="]" line="13" column="107" />
-        <mark key="." line="13" column="107" />
-        <mark key="^" line="13" column="107" />
+        <mark key="[" line="14" column="94" />
+        <mark key="]" line="14" column="99" />
+        <mark key="." line="14" column="99" />
+        <mark key="^" line="14" column="99" />
+      </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/work/dispatch_status.go" timestamp="1557814239909">
+        <mark key="'" line="12" column="82" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/work/begin.go" timestamp="1557753937866">
         <mark key="[" line="48" column="16" />
@@ -234,13 +237,9 @@
         <mark key="." line="48" column="15" />
         <mark key="^" line="48" column="15" />
       </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/.gen/github.kakaocorp.com/driver/driver-service/driver-service.pb.go" timestamp="1557814020331" />
     </filemarks>
     <jumps>
-      <jump line="82" column="5" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/Gemfile" />
-      <jump line="33" column="2" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/interactions/notifications/warn_abnormal_calls.rb" />
-      <jump line="38" column="130" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/call.rb" />
-      <jump line="33" column="38" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/call.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/call.rb" />
       <jump line="218" column="0" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/call.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/doowit/Gemfile" />
       <jump line="27" column="18" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/wheel_driver/drivers_controller.rb" />
@@ -331,15 +330,20 @@
       <jump line="46" column="4" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/Makefile" />
       <jump line="28" column="0" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/work/begin.go" />
       <jump line="65" column="0" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/work/begin.go" />
-      <jump line="23" column="151" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/driver/client.go" />
       <jump line="13" column="98" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/driver/interface.go" />
       <jump line="0" column="0" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/driver/interface.go" />
       <jump line="16" column="1" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/driver/client_test.go" />
       <jump line="16" column="4" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/work/update_dispatch_status.go" />
+      <jump line="9" column="82" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/work/dispatch_status.go" />
+      <jump line="14" column="0" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/driver/client.go" />
+      <jump line="20" column="20" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/driver/client.go" />
+      <jump line="23" column="103" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/driver/client.go" />
+      <jump line="31" column="18" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/driver/client.go" />
+      <jump line="41" column="75" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/driver/client.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>finishService</text>
+        <text>driver-service</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -349,13 +353,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>finishService</text>
+        <text>driver-service</text>
       </register>
       <register name="/" type="4">
-        <text>bool</text>
+        <text>driver.D</text>
       </register>
       <register name="0" type="4">
-        <text>UpdateDispatchStatus</text>
+        <text>item *entities.WorkDocument</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQk6ICAgbG9jYXRpb24sCg==</text>
@@ -407,9 +411,9 @@
       </register>
     </registers>
     <search>
-      <last-search>bool</last-search>
+      <last-search>driver.D</last-search>
       <last-offset />
-      <last-pattern>bool</last-pattern>
+      <last-pattern>driver.D</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>=</last-substitute>
       <last-dir>1</last-dir>
@@ -433,6 +437,8 @@
         <entry>zoneS</entry>
         <entry>Co</entry>
         <entry>bool</entry>
+        <entry>Is</entry>
+        <entry>driver.D</entry>
       </history-search>
       <history-cmd>
         <entry>o index.html.erb</entry>
