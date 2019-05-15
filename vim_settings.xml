@@ -123,6 +123,13 @@
         <mark key="." line="94" column="31" />
         <mark key="^" line="94" column="31" />
       </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/Makefile" timestamp="1557903552955">
+        <mark key="'" line="47" column="4" />
+        <mark key="[" line="5" column="9" />
+        <mark key="]" line="5" column="35" />
+        <mark key="." line="5" column="35" />
+        <mark key="^" line="5" column="35" />
+      </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/work/resume.go" timestamp="1557839714392">
         <mark key="'" line="58" column="0" />
         <mark key="[" line="11" column="21" />
