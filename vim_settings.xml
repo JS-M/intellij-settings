@@ -87,9 +87,6 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="38" column="0" />
       </file>
-      <file name="/fragment.go" timestamp="1557828912162">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/zone/client.go" timestamp="1557909244030">
         <mark key="[" line="23" column="83" />
         <mark key="]" line="23" column="90" />
@@ -120,6 +117,7 @@
         <mark key="^" line="32" column="32" />
         <mark key="." line="32" column="32" />
       </file>
+      <file name="/docker-compose.yaml" timestamp="1557987434732" />
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/idl/github.kakaocorp.com/driver/zone-service/zone-service.proto" timestamp="1557899944439" />
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/Makefile" timestamp="1557903552955">
         <mark key="'" line="47" column="4" />
@@ -139,6 +137,12 @@
         <mark key="]" line="37" column="22" />
         <mark key="." line="37" column="22" />
         <mark key="^" line="37" column="22" />
+      </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/Dockerfile" timestamp="1557987371898">
+        <mark key="[" line="4" column="46" />
+        <mark key="]" line="5" column="47" />
+        <mark key="." line="5" column="47" />
+        <mark key="^" line="5" column="47" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/services/zone/interface.go" timestamp="1557720963000">
         <mark key="[" line="16" column="17" />
@@ -171,6 +175,7 @@
         <mark key="^" line="11" column="26" />
         <mark key="." line="11" column="26" />
       </file>
+      <file name="/Dockerfile" timestamp="1557987369628" />
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/zone-service/mappers/zone.go" timestamp="1557722638000">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -207,6 +212,7 @@
         <mark key="." line="38" column="1" />
         <mark key="^" line="38" column="1" />
       </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/Dockerfile" timestamp="1557987323917" />
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/.gen/github.kakaocorp.com/driver/work-service/move.pb.go" timestamp="1557899748655" />
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/move/service_test.go" timestamp="1557971757365" />
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/.gen/github.kakaocorp.com/driver/driver-service/driver-service.pb.go" timestamp="1557816497467" />
@@ -377,9 +383,6 @@
         <mark key="^" line="36" column="12" />
       </file>
       <file name="$USER_HOME$/go/pkg/mod/github.com/burdiyan/schemagen@v0.0.0-20180404104408-8375eaf85a84/schemagen.go" timestamp="1557905379400" />
-      <file name="/Dummy.txt" timestamp="1557909203276">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/zone-service/services/zone/interface.go" timestamp="1557721783108">
         <mark key="[" line="15" column="17" />
         <mark key="]" line="15" column="25" />
@@ -515,7 +518,7 @@
         <text>, &quot;work_type&quot;: item.WorkType</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Z2l0aHViLmtha2FvY29ycC5jb20vZHJpdmVyL2NvbW1vbi1pZGxzIHYwLjAuMC0yMDE5MDUwMjEzNDI0MC1mYWE4OTZjYzA2NDggaDE6blZjV25RWko5UDZZNWRMNjhzNzg2K3BmRjZaa291MGpLVWlvRU1SMGxxRT0KZ2l0aHViLmtha2FvY29ycC5jb20vZHJpdmVyL2NvbW1vbi1pZGxzIHYwLjAuMC0yMDE5MDUwMjEzNDI0MC1mYWE4OTZjYzA2NDgvZ28ubW9kIGgxOjdvdUJyNXNLc2svdXlRcU42NG45ZmhtcG80S3hPL0x6Lzhub005STlQQzQ9Cg==</text>
+        <text encoding="base64">RU5WIEdPMTExTU9EVUxFIG9uCg==</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -534,7 +537,7 @@
         <text>, &quot;test&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Z2l0aHViLmtha2FvY29ycC5jb20vZHJpdmVyL2NvbW1vbi1pZGxzIHYwLjAuMC0yMDE5MDUwMjEzNDI0MC1mYWE4OTZjYzA2NDggaDE6blZjV25RWko5UDZZNWRMNjhzNzg2K3BmRjZaa291MGpLVWlvRU1SMGxxRT0KZ2l0aHViLmtha2FvY29ycC5jb20vZHJpdmVyL2NvbW1vbi1pZGxzIHYwLjAuMC0yMDE5MDUwMjEzNDI0MC1mYWE4OTZjYzA2NDgvZ28ubW9kIGgxOjdvdUJyNXNLc2svdXlRcU42NG45ZmhtcG80S3hPL0x6Lzhub005STlQQzQ9Cg==</text>
+        <text encoding="base64">RU5WIEdPMTExTU9EVUxFIG9uCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -552,37 +555,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Z2l0aHViLmtha2FvY29ycC5jb20vZHJpdmVyL2NvbW1vbi1pZGxzIHYwLjAuMC0yMDE5MDUwNTE1MDA0NC03YzFhZjI3MjBlYTEgaDE6eFQ0UkFlajM0UldHeXlISnlCZ3oxc0w4ZFFSODN4QndiZkNUTDBiSmc4Yz0KZ2l0aHViLmtha2FvY29ycC5jb20vZHJpdmVyL2NvbW1vbi1pZGxzIHYwLjAuMC0yMDE5MDUwNTE1MDA0NC03YzFhZjI3MjBlYTEvZ28ubW9kIGgxOjdvdUJyNXNLc2svdXlRcU42NG45ZmhtcG80S3hPL0x6Lzhub005STlQQzQ9Cg==</text>
+        <text encoding="base64">UlVOIGNobW9kIDc1NSAuLyR7U0VSVklDRX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICByZWRpczoKICAgIGltYWdlOiByZWRpcwogICAgcG9ydHM6CiAgICAgIC0gIjYzNzk6NjM3OSIKCg==</text>
+        <text encoding="base64">Z2l0aHViLmtha2FvY29ycC5jb20vZHJpdmVyL2NvbW1vbi1pZGxzIHYwLjAuMC0yMDE5MDUwMjEzNDI0MC1mYWE4OTZjYzA2NDggaDE6blZjV25RWko5UDZZNWRMNjhzNzg2K3BmRjZaa291MGpLVWlvRU1SMGxxRT0KZ2l0aHViLmtha2FvY29ycC5jb20vZHJpdmVyL2NvbW1vbi1pZGxzIHYwLjAuMC0yMDE5MDUwMjEzNDI0MC1mYWE4OTZjYzA2NDgvZ28ubW9kIGgxOjdvdUJyNXNLc2svdXlRcU42NG45ZmhtcG80S3hPL0x6Lzhub005STlQQzQ9Cg==</text>
       </register>
       <register name="s" type="4">
         <text>mask_address('경기도 성남시 분당구 판교역로 152 알파돔시티 13층')end</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBteXNxbDoK</text>
+        <text encoding="base64">Z2l0aHViLmtha2FvY29ycC5jb20vZHJpdmVyL2NvbW1vbi1pZGxzIHYwLjAuMC0yMDE5MDUwNTE1MDA0NC03YzFhZjI3MjBlYTEgaDE6eFQ0UkFlajM0UldHeXlISnlCZ3oxc0w4ZFFSODN4QndiZkNUTDBiSmc4Yz0KZ2l0aHViLmtha2FvY29ycC5jb20vZHJpdmVyL2NvbW1vbi1pZGxzIHYwLjAuMC0yMDE5MDUwNTE1MDA0NC03YzFhZjI3MjBlYTEvZ28ubW9kIGgxOjdvdUJyNXNLc2svdXlRcU42NG45ZmhtcG80S3hPL0x6Lzhub005STlQQzQ9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZWRpczoKICAgIGltYWdlOiByZWRpcwogICAgcG9ydHM6CiAgICAgIC0gIjYzNzk6NjM3OSIKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGltYWdlOiBteXNxbAogICAgcmVzdGFydDogYWx3YXlzCiAgICB2b2x1bWVzOgogICAgICAtIC4vcmVwb3NpdG9yaWVzOi90bXAvZGF0YWJhc2UKICAgIGNvbW1hbmQ6IG15c3FsZCAtLWluaXQtZmlsZT0iL3RtcC9kYXRhYmFzZS9teXNxbF9pbml0LnNxbCIKICAgIHBvcnRzOgogICAgICAtICIzMzA3OjMzMDYiCiAgICBlbnZpcm9ubWVudDoKICAgICAgTVlTUUxfUk9PVF9QQVNTV09SRDogcGFzc3cwcmQK</text>
+        <text encoding="base64">ICBteXNxbDoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CSJnaXRodWIua2FrYW9jb3JwLmNvbS9kcml2ZXIvd29yay1zZXJ2aWNlLy5nZW4vZ2l0aHViLmtha2FvY29ycC5jb20vZHJpdmVyL3pvbmUtc2VydmljZSIK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>curl -X POST -H &quot;Content-Type: application/vnd.schemaregistry.v1+json&quot; \
-  --data '{&quot;schema&quot;: &quot;{\&quot;type\&quot;:\&quot;record\&quot;,\&quot;name\&quot;:\&quot;finish\&quot;,\&quot;namespace\&quot;:\&quot;wheel.work\&quot;,\&quot;fields\&quot;:[{\&quot;name\&quot;:\&quot;work_type\&quot;,\&quot;type\&quot;:\&quot;string\&quot;},{\&quot;name\&quot;:\&quot;driver_id\&quot;,\&quot;type\&quot;:\&quot;string\&quot;},{\&quot;name\&quot;:\&quot;finish_at\&quot;,\&quot;type\&quot;:\&quot;long\&quot;}]}&quot;}' \
-  http://mobility-zero-devsr01.pg1.krane.9rum.cc:8081/subjects/wheel-work-finish/versions
-}
-curl -X POST -H &quot;Content-Type: application/vnd.schemaregistry.v1+json&quot; \
-  --data '{&quot;schema&quot;: &quot;{\&quot;type\&quot;:\&quot;record\&quot;,\&quot;name\&quot;:\&quot;finish\&quot;,\&quot;namespace\&quot;:\&quot;wheel.work\&quot;,\&quot;fields\&quot;:[{\&quot;name\&quot;:\&quot;work_type\&quot;,\&quot;type\&quot;:\&quot;string\&quot;},{\&quot;name\&quot;:\&quot;driver_id\&quot;,\&quot;type\&quot;:\&quot;string\&quot;},{\&quot;name\&quot;:\&quot;finish_at\&quot;,\&quot;type\&quot;:\&quot;long\&quot;}]}&quot;}' \
-  http://mobility-zero-devsr01.pg1.krane.9rum.cc:8081/subjects/wheel-work-finish/versions</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGltYWdlOiBteXNxbAogICAgcmVzdGFydDogYWx3YXlzCiAgICB2b2x1bWVzOgogICAgICAtIC4vcmVwb3NpdG9yaWVzOi90bXAvZGF0YWJhc2UKICAgIGNvbW1hbmQ6IG15c3FsZCAtLWluaXQtZmlsZT0iL3RtcC9kYXRhYmFzZS9teXNxbF9pbml0LnNxbCIKICAgIHBvcnRzOgogICAgICAtICIzMzA3OjMzMDYiCiAgICBlbnZpcm9ubWVudDoKICAgICAgTVlTUUxfUk9PVF9QQVNTV09SRDogcGFzc3cwcmQK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">CSJnaXRodWIua2FrYW9jb3JwLmNvbS9kcml2ZXIvd29yay1zZXJ2aWNlLy5nZW4vZ2l0aHViLmtha2FvY29ycC5jb20vZHJpdmVyL3pvbmUtc2VydmljZSIK</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
