@@ -238,11 +238,11 @@
         <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/idl/github.kakaocorp.com/driver/driver-service/driver-service.proto" timestamp="1557802171078" />
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/repositories/work/repository.go" timestamp="1557971736716">
-        <mark key="[" line="110" column="62" />
-        <mark key="]" line="110" column="78" />
-        <mark key="." line="92" column="53" />
-        <mark key="^" line="92" column="53" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/repositories/work/repository.go" timestamp="1557982438966">
+        <mark key="[" line="107" column="20" />
+        <mark key="]" line="107" column="19" />
+        <mark key="." line="107" column="19" />
+        <mark key="^" line="107" column="19" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/handlers/work/begin.go" timestamp="1557908782703">
         <mark key="[" line="36" column="10" />
