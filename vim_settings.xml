@@ -191,11 +191,11 @@
         <mark key="^" line="36" column="75" />
         <mark key="." line="36" column="75" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/work/begin_test.go" timestamp="1557971725024">
-        <mark key="[" line="27" column="56" />
-        <mark key="]" line="27" column="70" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/work/begin_test.go" timestamp="1557974119341">
+        <mark key="[" line="110" column="56" />
+        <mark key="]" line="110" column="70" />
         <mark key="^" line="122" column="43" />
-        <mark key="." line="27" column="56" />
+        <mark key="." line="110" column="56" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/zone-service/Makefile" timestamp="1557747290548">
         <mark key="[" line="4" column="38" />
@@ -333,11 +333,11 @@
         <mark key="^" line="5" column="5" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/work/get_driver_status_test.go" timestamp="1557828017707">
-        <mark key="[" line="14" column="71" />
-        <mark key="]" line="14" column="74" />
-        <mark key="." line="14" column="74" />
-        <mark key="^" line="14" column="74" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/work/get_driver_status_test.go" timestamp="1557974151110">
+        <mark key="[" line="92" column="72" />
+        <mark key="]" line="92" column="80" />
+        <mark key="." line="92" column="72" />
+        <mark key="^" line="41" column="71" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/zone-service/services/zone/interface.go" timestamp="1557721783108">
         <mark key="[" line="15" column="17" />
@@ -501,7 +501,7 @@
         <text>, &quot;work_type&quot;: item.WorkType</text>
       </register>
       <register name="&quot;" type="4">
-        <text>, r.GetWorkType()</text>
+        <text>, &quot;test&quot;</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -511,13 +511,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>WorkType</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
       </register>
       <register name="0" type="4">
-        <text>, r.GetWorkType()</text>
+        <text>, &quot;test&quot;</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CSJnaXRodWIua2FrYW9jb3JwLmNvbS9kcml2ZXIvd29yay1zZXJ2aWNlLy5nZW4vZ2l0aHViLmtha2FvY29ycC5jb20vZHJpdmVyL3pvbmUtc2VydmljZSIK</text>
