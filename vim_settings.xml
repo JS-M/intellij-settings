@@ -135,12 +135,11 @@
       </file>
       <file name="/docker-compose.yaml" timestamp="1557987434732" />
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/idl/github.kakaocorp.com/driver/zone-service/zone-service.proto" timestamp="1557899944439" />
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/Makefile" timestamp="1558070418876">
-        <mark key="'" line="47" column="4" />
-        <mark key="[" line="22" column="9" />
-        <mark key="]" line="22" column="9" />
-        <mark key="." line="22" column="9" />
-        <mark key="^" line="22" column="9" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/Makefile" timestamp="1558074766012">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="22" column="4" />
+        <mark key="]" line="22" column="19" />
+        <mark key="." line="22" column="4" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/services/driver/interface.go" timestamp="1558001250311" />
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/repositories/work/repository.go" timestamp="1557982438966">
@@ -155,11 +154,8 @@
         <mark key="." line="37" column="22" />
         <mark key="^" line="37" column="22" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/Dockerfile" timestamp="1558001178191">
-        <mark key="[" line="4" column="46" />
-        <mark key="]" line="5" column="47" />
-        <mark key="." line="5" column="47" />
-        <mark key="^" line="5" column="47" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/Dockerfile" timestamp="1558073307333">
+        <mark key="^" line="14" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/services/zone/interface.go" timestamp="1557720963000">
         <mark key="[" line="16" column="17" />
@@ -359,8 +355,8 @@
         <mark key="." line="6" column="18" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/internal/mini_vault.go" timestamp="1557993714884" />
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/idl/github.kakaocorp.com/driver/work-service/work-service.proto" timestamp="1557899387784">
-        <mark key="'" line="34" column="4" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/idl/github.kakaocorp.com/driver/work-service/work-service.proto" timestamp="1558072803002">
+        <mark key="'" line="107" column="0" />
         <mark key="[" line="94" column="32" />
         <mark key="]" line="94" column="31" />
         <mark key="." line="94" column="31" />
@@ -478,8 +474,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="126" column="0" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/interactions/producers/driver.rb" />
-      <jump line="112" column="1" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/interactions/producers/driver.rb" />
       <jump line="12" column="11" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/kubernetes.yaml" />
       <jump line="1" column="3" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/kubernetes.yaml" />
       <jump line="12" column="43" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/handlers/policy/interface.go" />
@@ -575,16 +569,18 @@
       <jump line="42" column="31" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/idl/github.kakaocorp.com/driver/work-service/work-service.proto" />
       <jump line="36" column="27" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/idl/github.kakaocorp.com/driver/work-service/work-service.proto" />
       <jump line="87" column="0" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/idl/github.kakaocorp.com/driver/work-service/work-service.proto" />
-      <jump line="107" column="0" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/idl/github.kakaocorp.com/driver/work-service/work-service.proto" />
       <jump line="34" column="4" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/idl/github.kakaocorp.com/driver/work-service/work-service.proto" />
       <jump line="14" column="49" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/work/is_driver_done.go" />
+      <jump line="12" column="0" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/Makefile" />
+      <jump line="68" column="24" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/idl/github.kakaocorp.com/driver/work-service/work-service.proto" />
+      <jump line="107" column="0" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/idl/github.kakaocorp.com/driver/work-service/work-service.proto" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>, &quot;work_type&quot;: item.WorkType</text>
       </register>
       <register name="&quot;" type="4">
-        <text>o</text>
+        <text encoding="base64">R08xMTFNT0RVTEU9b24g</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -594,16 +590,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text encoding="base64">IC1JLg==</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
       </register>
       <register name="0" type="4">
-        <text>, &quot;test&quot;</text>
+        <text encoding="base64">R08xMTFNT0RVTEU9b24g</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNlY3JldHM6VlYKICAgICAgbW9uZ286IHNlY3JldC9rYWthb21vYmlsaXR5X2RyaXZlci9tb25nby9hbHBoYS9jb25maWcK</text>
+        <text encoding="base64">ICAgIGNkIC4uCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -621,31 +617,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB2YXVsdDoK</text>
+        <text encoding="base64">ICAgIG1rZGlyIC1wIH4vdG1wICYmIGNkIH4vdG1wCg==</text>
       </register>
-      <register name="3" type="8">
-        <text encoding="base64">Y2FzZSAKY2FzZSAKY2FzZSAKY2FzZSA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLUkke0dPUEFUSH0vc3JjL2dpdGh1Yi5jb20vZ3JwYy1lY29zeXN0ZW0vZ3JwYy1nYXRld2F5L3RoaXJkX3BhcnR5L2dvb2dsZWFwaXMgXAo=</text>
       </register>
       <register name="s" type="4">
         <text>mask_address('경기도 성남시 분당구 판교역로 152 알파돔시티 13층')end</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJZmlsZXMgPSBhcHBlbmQoZmlsZXMsIHBhdGguSm9pbihkaXIsIGZtdC5TcHJpbnRmKCIlcy55YW1sIiwgb3MuR2V0ZW52KCJNT0JfRU5WIikpKSkK</text>
+        <text encoding="base64">UlVOIG1rZGlyIC1wIH4vdG1wICYmIGNkIH4vdG1wCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJZmlsZXMgPSBhcHBlbmQoZmlsZXMsIHBhdGguSm9pbihkaXIsIGZtdC5TcHJpbnRmKCIlcy55YW1sIiwgb3MuR2V0ZW52KCJNT0JfRU5WIikpKSkK</text>
+        <text encoding="base64">UlVOIGNkIC4uCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJZmlsZXMgPSBhcHBlbmQoZmlsZXMsIHBhdGguSm9pbihkaXIsIGZtdC5TcHJpbnRmKCIlcy55YW1sIiwgb3MuR2V0ZW52KCJNT0JfRU5WIikpKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB2YXVsdDoKICAgIGNvbmZpZzoKICAgICAgYWRkcmVzczogaHR0cHM6Ly92YXVsdC5kYXVta2FrYW8uaW8vCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBsaW5lLWxlbmd0aDogZGlzYWJsZQo=</text>
+        <text encoding="base64">V09SS0RJUiAkR09QQVRIL3NyYy8ke3BrZ30KCkVYUE9TRSA1MDA1OQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cnVsZXM6Cg==</text>
+        <text encoding="base64">ICAgIG1rZGlyIC1wIH4vdG1wICYmIGNkIH4vdG1wCiAgICBnbyBnZXQgLXUgZ2l0aHViLmNvbS9ncnBjLWVjb3N5c3RlbS9ncnBjLWdhdGV3YXkvcHJvdG9jLWdlbi1ncnBjLWdhdGV3YXkKICAgIGdvIGdldCAtdSBnaXRodWIuY29tL2dycGMtZWNvc3lzdGVtL2dycGMtZ2F0ZXdheS9wcm90b2MtZ2VuLXN3YWdnZXIKICAgIGdvIGdldCAtdSBnaXRodWIuY29tL2dvbGFuZy9wcm90b2J1Zi9wcm90b2MtZ2VuLWdvCiAgICBjZCAuLgo=</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
