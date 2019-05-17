@@ -174,8 +174,11 @@
         <mark key="]" line="15" column="15" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/service-base/Makefile" timestamp="1558109018387">
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/service-base/Makefile" timestamp="1558116844116">
         <mark key="'" line="2" column="21" />
+        <mark key="[" line="24" column="8" />
+        <mark key="]" line="24" column="8" />
+        <mark key="." line="24" column="8" />
       </file>
       <file name="/.gitignore" timestamp="1558108505181" />
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/config/base.yaml" timestamp="1558003154916">
