@@ -201,7 +201,7 @@
         <mark key="." line="92" column="72" />
         <mark key="^" line="41" column="71" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/work/begin.go" timestamp="1558104537039">
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/work/begin.go" timestamp="1558265607568">
         <mark key="'" line="5" column="92" />
         <mark key="[" line="32" column="89" />
         <mark key="]" line="32" column="92" />
@@ -271,11 +271,11 @@
         <mark key="^" line="14" column="56" />
         <mark key="." line="14" column="56" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/work/interface.go" timestamp="1557971927475">
-        <mark key="[" line="18" column="40" />
-        <mark key="]" line="18" column="57" />
-        <mark key="." line="18" column="57" />
-        <mark key="^" line="18" column="57" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/work/interface.go" timestamp="1558265576321">
+        <mark key="[" line="18" column="8" />
+        <mark key="]" line="18" column="8" />
+        <mark key="." line="18" column="8" />
+        <mark key="^" line="18" column="8" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/kubernetes.yaml" timestamp="1558101479082">
         <mark key="[" line="45" column="21" />
@@ -351,7 +351,7 @@
         <mark key="^" line="12" column="59" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/handlers/work/begin.go" timestamp="1557908782703">
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/handlers/work/begin.go" timestamp="1558265666982">
         <mark key="[" line="36" column="10" />
         <mark key="]" line="36" column="9" />
         <mark key="." line="36" column="9" />
@@ -369,7 +369,7 @@
         <mark key="." line="15" column="30" />
         <mark key="^" line="15" column="30" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/entities/work_document.go" timestamp="1557898852242">
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/entities/work_document.go" timestamp="1558265628473">
         <mark key="[" line="5" column="12" />
         <mark key="]" line="5" column="11" />
         <mark key="." line="5" column="11" />
@@ -549,8 +549,8 @@
       <register name="a" type="4">
         <text>, &quot;work_type&quot;: item.WorkType</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlMb2NhdGlvbjogZmFjdG9yaWVzLkNvb3JkKCksCg==</text>
+      <register name="&quot;" type="4">
+        <text>Resume</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -560,7 +560,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Coord</text>
+        <text>Resume</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
