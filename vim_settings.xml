@@ -255,11 +255,11 @@
         <mark key="]" line="19" column="99" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/kubernetes.yaml" timestamp="1558359903162">
-        <mark key="[" line="82" column="1" />
-        <mark key="]" line="82" column="0" />
-        <mark key="^" line="82" column="0" />
-        <mark key="." line="82" column="0" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/kubernetes.yaml" timestamp="1558404934611">
+        <mark key="[" line="84" column="27" />
+        <mark key="]" line="84" column="30" />
+        <mark key="^" line="84" column="30" />
+        <mark key="." line="84" column="30" />
       </file>
       <file name="$USER_HOME$/go/pkg/mod/github.kakaocorp.com/driver/common-idls@v0.0.0-20190516062010-85a68bfcc5c2/types/types.pb.go" timestamp="1558272492283" />
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/local-startup.sh" timestamp="1558346663423">
@@ -565,8 +565,8 @@
       <register name="a" type="4">
         <text>, &quot;work_type&quot;: item.WorkType</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>command</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -576,7 +576,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>u</text>
+        <text>command</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
