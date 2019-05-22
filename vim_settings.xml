@@ -50,12 +50,12 @@
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/zone-service/services/zone/service.go" timestamp="1558513746973" />
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/work/pause_test.go" timestamp="1558511489980" />
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/wheel_api/client_test.go" timestamp="1558508036747">
-        <mark key="'" line="134" column="0" />
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="16" />
-        <mark key="." line="0" column="16" />
-        <mark key="^" line="0" column="16" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/wheel_api/client_test.go" timestamp="1558517649063">
+        <mark key="'" line="1" column="1" />
+        <mark key="[" line="24" column="37" />
+        <mark key="]" line="24" column="42" />
+        <mark key="." line="24" column="42" />
+        <mark key="^" line="24" column="42" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/work/pause.go" timestamp="1558510078420">
         <mark key="[" line="28" column="5" />
@@ -127,7 +127,6 @@
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/move/service_test.go" timestamp="1558501402296" />
     </filemarks>
     <jumps>
-      <jump line="85" column="0" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/zone-service/services/zone/service_test.go" />
       <jump line="57" column="24" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/zone-service/services/zone/service_test.go" />
       <jump line="61" column="0" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/zone-service/handlers/zone/handler.go" />
       <jump line="85" column="0" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/zone-service/handlers/zone/handler.go" />
@@ -227,13 +226,14 @@
       <jump line="40" column="1" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/work/is_driver_done_test.go" />
       <jump line="29" column="11" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/factories/work_document.go" />
       <jump line="24" column="2" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/work/get_current_working_status.go" />
+      <jump line="1" column="1" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/wheel_api/client_test.go" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>, &quot;work_type&quot;: item.WorkType</text>
       </register>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>DriverService</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -243,7 +243,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>DriverService</text>
       </register>
       <register name="/" type="4">
         <text>Tru</text>
