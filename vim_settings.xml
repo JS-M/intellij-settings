@@ -69,9 +69,6 @@
         <mark key="." line="26" column="18" />
         <mark key="^" line="26" column="18" />
       </file>
-      <file name="/fragment.go" timestamp="1558429721582">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/finish/interface.go" timestamp="1558437561861" />
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/kubernetes.yaml" timestamp="1558417454157">
         <mark key="[" line="38" column="22" />
@@ -115,6 +112,12 @@
         <mark key="]" line="63" column="0" />
         <mark key="^" line="54" column="122" />
         <mark key="." line="63" column="0" />
+      </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/wheel_api/client_test.go" timestamp="1558503715854">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="16" />
+        <mark key="." line="0" column="16" />
+        <mark key="^" line="0" column="16" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/errors/not_workable_error.go" timestamp="1558428948630">
         <mark key="[" line="8" column="39" />
@@ -195,7 +198,7 @@
         <mark key="." line="49" column="76" />
         <mark key="^" line="49" column="76" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/repositories/work/repository.go" timestamp="1558501497630">
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/repositories/work/repository.go" timestamp="1558504230854">
         <mark key="[" line="130" column="36" />
         <mark key="]" line="130" column="44" />
         <mark key="." line="130" column="44" />
@@ -213,14 +216,12 @@
         <mark key="^" line="21" column="36" />
         <mark key="." line="109" column="0" />
       </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/wheel_api/client.go" timestamp="1558504360759" />
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/zone-service/handlers/zone/handler.go" timestamp="1558277050538">
         <mark key="[" line="36" column="13" />
         <mark key="]" line="36" column="12" />
         <mark key="." line="36" column="12" />
         <mark key="^" line="36" column="12" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1558437001114">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/work/is_driver_done_test.go" timestamp="1558429362371">
         <mark key="'" line="43" column="0" />
@@ -410,7 +411,7 @@
         <text>, &quot;work_type&quot;: item.WorkType</text>
       </register>
       <register name="&quot;" type="4">
-        <text>fmt.Sprintf(&quot;The driver is not working as a supporters driver&quot;)</text>
+        <text>driver</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -420,7 +421,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>fmt.Sprintf(&quot;The driver is not working as a supporters driver&quot;)</text>
+        <text>driver</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
