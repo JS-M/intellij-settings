@@ -183,7 +183,7 @@
         <mark key="." line="49" column="76" />
         <mark key="^" line="49" column="76" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/repositories/work/repository.go" timestamp="1558490542738">
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/repositories/work/repository.go" timestamp="1558491318894">
         <mark key="[" line="130" column="36" />
         <mark key="]" line="130" column="44" />
         <mark key="." line="130" column="44" />
@@ -250,12 +250,12 @@
         <mark key="." line="27" column="12" />
         <mark key="^" line="27" column="12" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/docker-compose.yaml" timestamp="1558421685873">
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/docker-compose.yaml" timestamp="1558491568484">
         <mark key="'" line="95" column="119" />
-        <mark key="[" line="95" column="21" />
-        <mark key="]" line="95" column="120" />
-        <mark key="^" line="85" column="1" />
-        <mark key="." line="95" column="21" />
+        <mark key="[" line="58" column="5" />
+        <mark key="]" line="58" column="5" />
+        <mark key="^" line="58" column="5" />
+        <mark key="." line="58" column="5" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/work/workable_test.go" timestamp="1558429026913">
         <mark key="'" line="120" column="0" />
@@ -270,6 +270,7 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="33" column="4" />
       </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/repositories/work/interface.go" timestamp="1558491101580" />
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/work/workable_zones.go" timestamp="1558340235399">
         <mark key="[" line="15" column="22" />
         <mark key="]" line="15" column="22" />
