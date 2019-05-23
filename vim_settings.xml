@@ -162,11 +162,6 @@
         <mark key="^" line="28" column="4" />
         <mark key="." line="28" column="4" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/work/begin_test.go" timestamp="1558611724333">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
-      </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/handlers/work/workable_zones_test.go" timestamp="1558278428687">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
