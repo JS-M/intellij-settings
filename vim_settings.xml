@@ -31,11 +31,16 @@
         <mark key="." line="4" column="7" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/main.go" timestamp="1558616711905" />
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/finish/service.go" timestamp="1558671320078">
-        <mark key="[" line="93" column="26" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/finish/service.go" timestamp="1558684014639">
+        <mark key="[" line="58" column="7" />
         <mark key="]" line="40" column="22" />
         <mark key="^" line="40" column="22" />
         <mark key="." line="40" column="22" />
+      </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/work/is_driver_done.go" timestamp="1558684104263">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/handlers/work/get_driver_status.go" timestamp="1558273659145">
         <mark key="[" line="25" column="65" />
@@ -49,11 +54,11 @@
         <mark key="." line="0" column="11" />
         <mark key="^" line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/factories/work_document.go" timestamp="1558672957084">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="^" line="70" column="38" />
-        <mark key="." line="61" column="0" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/factories/work_document.go" timestamp="1558685147827">
+        <mark key="[" line="68" column="44" />
+        <mark key="]" line="68" column="62" />
+        <mark key="^" line="68" column="62" />
+        <mark key="." line="68" column="62" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/entities/is_supporters_driver.go" timestamp="1558621532856">
         <mark key="[" line="5" column="0" />
@@ -105,12 +110,12 @@
         <mark key="." line="162" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/local-startup.sh" timestamp="1558618488624" />
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/entities/supporters_working_times.go" timestamp="1558677524204">
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/entities/supporters_working_times.go" timestamp="1558684887827">
         <mark key="'" line="132" column="35" />
-        <mark key="[" line="26" column="27" />
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+        <mark key="[" line="83" column="1" />
+        <mark key="]" line="83" column="0" />
+        <mark key="^" line="83" column="0" />
+        <mark key="." line="83" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/kubernetes.yaml" timestamp="1558432115775">
         <mark key="[" line="124" column="9" />
@@ -258,19 +263,26 @@
         <mark key="." line="37" column="12" />
         <mark key="^" line="37" column="12" />
       </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/work/is_driver_done_test.go" timestamp="1558685028872">
+        <mark key="'" line="48" column="1" />
+        <mark key="[" line="54" column="92" />
+        <mark key="]" line="54" column="93" />
+        <mark key="^" line="54" column="93" />
+        <mark key="." line="54" column="93" />
+      </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/factories/WorkingTimesFactory.go" timestamp="1558670290730">
         <mark key="[" line="0" column="17" />
         <mark key="]" line="32" column="0" />
         <mark key="^" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/work/workable.go" timestamp="1558664069601">
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/work/workable.go" timestamp="1558684127971">
         <mark key="'" line="68" column="50" />
         <mark key="j" line="75" column="4" />
-        <mark key="[" line="92" column="7" />
-        <mark key="]" line="92" column="7" />
-        <mark key="." line="92" column="7" />
-        <mark key="^" line="92" column="7" />
+        <mark key="[" line="57" column="23" />
+        <mark key="]" line="57" column="22" />
+        <mark key="." line="57" column="22" />
+        <mark key="^" line="57" column="22" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/work/supporters_workerble.go" timestamp="1558271279784">
         <mark key="[" line="40" column="52" />
@@ -304,12 +316,12 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="33" column="4" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/entities/supporters_working_times_test.go" timestamp="1558677317498">
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/entities/supporters_working_times_test.go" timestamp="1558684513447">
         <mark key="'" line="124" column="1" />
-        <mark key="[" line="162" column="20" />
-        <mark key="]" line="162" column="20" />
-        <mark key="." line="162" column="20" />
-        <mark key="^" line="162" column="20" />
+        <mark key="[" line="122" column="20" />
+        <mark key="]" line="122" column="21" />
+        <mark key="." line="122" column="21" />
+        <mark key="^" line="122" column="21" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/work/workable_zones.go" timestamp="1558525876536">
         <mark key="[" line="15" column="22" />
@@ -437,7 +449,7 @@
         <text>, &quot;work_type&quot;: item.WorkType</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>0</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -447,16 +459,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>w</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CmZ1bmMgVGVzdFN1cHBvcnRlcnNCZWdpbkF0X1N1Y2Nlc3NfU2hvcnRUaW1lKHQgKnRlc3RpbmcuVCkgewoJdC5QYXJhbGxlbCgpCgoJd3QgOj0gQWxsRGF5U3VwcG9ydGVyc1dvcmtpbmdUaW1lc0ZhY3RvcnkoKQoJdG0sIGVyciA6PSB3dC5TdXBwb3J0ZXJzQmVnaW5BdCgpCgoJYXNzZXJ0Lk5vRXJyb3IodCwgZXJyKQoJYXNzZXJ0LkVxdWFsKHQsIDEsIHRtLkRheSgpKQoJYXNzZXJ0LkVxdWFsKHQsIDIxLCB0bS5Ib3VyKCkpCglhc3NlcnQuRXF1YWwodCwgMCwgdG0uTWludXRlKCkpCglhc3NlcnQuRXF1YWwodCwgMCwgdG0uU2Vjb25kKCkpCn0KCmZ1bmMgVGVzdFN1cHBvcnRlcnNFbmRBdF9TdWNjZXNzX1Nob3J0VGltZSh0ICp0ZXN0aW5nLlQpIHsKCXQuUGFyYWxsZWwoKQoKCXd0IDo9IFNob3J0U3VwcG9ydGVyc1dvcmtpbmdUaW1lc0ZhY3RvcnkoKQoJdG0sIGVyciA6PSB3dC5TdXBwb3J0ZXJzRW5kQXQoKQoKCWFzc2VydC5Ob0Vycm9yKHQsIGVycikKCWFzc2VydC5FcXVhbCh0LCAxLCB0bS5EYXkoKSkKCWFzc2VydC5FcXVhbCh0LCAyMSwgdG0uSG91cigpKQoJYXNzZXJ0LkVxdWFsKHQsIDEsIHRtLk1pbnV0ZSgpKQoJYXNzZXJ0LkVxdWFsKHQsIDAsIHRtLlNlY29uZCgpKQp9Cg==</text>
+      <register name="0" type="4">
+        <text>todayBeginAt</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CS8vIE5vb24K</text>
+        <text encoding="base64">CQkJCVRpbWVzdGFtcDogaW50NjQoMTU1NjYzNjQwMCksIC8vMjAxOS4gNS4gMS4g7Jik7KCEIDEyOjAwOjAwCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -473,11 +485,17 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CS8vIE1pZG5pZ2h0Cg==</text>
+      <register name="2" type="8">
+        <text>-
+-
+-
+-
+-
+-
++</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnVuYyBmb3JtYXRTdXBwb3J0ZXJzVGltZSh5ZWFyIGludCwgbW9udGggdGltZS5Nb250aCwgZGF5LCBob3VyLCBtaW51dGUsIHNlY29uZCBpbnQsIGxvYyAqdGltZS5Mb2NhdGlvbikgKCp0aW1lLlRpbWUsIGVycm9yKSB7CglyIDo9IHRpbWUuRGF0ZSh5ZWFyLCBtb250aCwgZGF5LCBob3VyLCBtaW51dGUsIHNlY29uZCwgMCwgbG9jKQoJcmV0dXJuICZyLCBuaWwKfQoK</text>
       </register>
       <register name="s" type="4">
         <text>mask_address('경기도 성남시 분당구 판교역로 152 알파돔시티 13층')end</text>
@@ -486,19 +504,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQl3dC5Ob3cuWWVhcigpLCB3dC5Ob3cuTW9udGgoKSwgd3QuTm93LkRheSgpCg==</text>
+        <text encoding="base64">CWRheUNoYW5nZUF0IDo9IHRpbWUuRGF0ZSh3dC5Ob3cuWWVhcigpLCB3dC5Ob3cuTW9udGgoKSwgd3QuTm93LkRheSgpLCBlaCwgMCwgMCwgMCwgd3QuTm93LkxvY2F0aW9uKCkpCglpZiBkYXlDaGFuZ2VBdC5BZnRlcih3dC5Ob3cpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQl3dC5Ob3cuWWVhcigpLCB3dC5Ob3cuTW9udGgoKSwgd3QuTm93LkRheSgpCg==</text>
+        <text encoding="base64">CWlmIGRheUNoYW5nZUF0LkFmdGVyKHd0Lk5vdykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CS8vCg==</text>
+        <text encoding="base64">CWJlZ2luQXQgOj0gdGltZS5EYXRlKHd0Lk5vdy5ZZWFyKCksIHd0Lk5vdy5Nb250aCgpLCB3dC5Ob3cuRGF5KCksIGhvdXIsIG1pbiwgc2VjLCAwLCB3dC5Ob3cuTG9jYXRpb24oKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CWlmIGJlZ2luQXQuQWZ0ZXIoZW5kQXQpIHsKCQllbmRBdCA9IGVuZEF0LkFkZERhdGUoMCwgMCwgMSkKCX0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQl0aW1lLmF3dC5Ob3cK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
