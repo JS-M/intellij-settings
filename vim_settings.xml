@@ -31,11 +31,10 @@
         <mark key="." line="4" column="7" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/main.go" timestamp="1558616711905" />
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/finish/service.go" timestamp="1558684014639">
-        <mark key="[" line="58" column="7" />
-        <mark key="]" line="40" column="22" />
-        <mark key="^" line="40" column="22" />
-        <mark key="." line="40" column="22" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/finish/service.go" timestamp="1558879393569">
+        <mark key="[" line="137" column="0" />
+        <mark key="]" line="137" column="0" />
+        <mark key="." line="137" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/work/is_driver_done.go" timestamp="1558684104263">
         <mark key="[" line="36" column="0" />
@@ -263,6 +262,9 @@
         <mark key="." line="37" column="12" />
         <mark key="^" line="37" column="12" />
       </file>
+      <file name="/Dummy.txt" timestamp="1558879036982">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/work/is_driver_done_test.go" timestamp="1558685028872">
         <mark key="'" line="48" column="1" />
         <mark key="[" line="54" column="92" />
@@ -316,6 +318,7 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="33" column="4" />
       </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/logger_test.go" timestamp="1558879106379" />
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/entities/supporters_working_times_test.go" timestamp="1558684513447">
         <mark key="'" line="124" column="1" />
         <mark key="[" line="122" column="20" />
@@ -448,8 +451,8 @@
       <register name="a" type="4">
         <text>, &quot;work_type&quot;: item.WorkType</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZAo=</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -459,7 +462,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>w</text>
@@ -468,7 +471,7 @@
         <text>todayBeginAt</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCVRpbWVzdGFtcDogaW50NjQoMTU1NjYzNjQwMCksIC8vMjAxOS4gNS4gMS4g7Jik7KCEIDEyOjAwOjAwCg==</text>
+        <text encoding="base64">ZAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -485,7 +488,16 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="8">
+      <register name="2" type="4">
+        <text encoding="base64">CglmbXQuUHJpbnRsbihlbmQp</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJCVRpbWVzdGFtcDogaW50NjQoMTU1NjYzNjQwMCksIC8vMjAxOS4gNS4gMS4g7Jik7KCEIDEyOjAwOjAwCg==</text>
+      </register>
+      <register name="s" type="4">
+        <text>mask_address('경기도 성남시 분당구 판교역로 152 알파돔시티 13층')end</text>
+      </register>
+      <register name="4" type="8">
         <text>-
 -
 -
@@ -494,29 +506,20 @@
 -
 +</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ZnVuYyBmb3JtYXRTdXBwb3J0ZXJzVGltZSh5ZWFyIGludCwgbW9udGggdGltZS5Nb250aCwgZGF5LCBob3VyLCBtaW51dGUsIHNlY29uZCBpbnQsIGxvYyAqdGltZS5Mb2NhdGlvbikgKCp0aW1lLlRpbWUsIGVycm9yKSB7CglyIDo9IHRpbWUuRGF0ZSh5ZWFyLCBtb250aCwgZGF5LCBob3VyLCBtaW51dGUsIHNlY29uZCwgMCwgbG9jKQoJcmV0dXJuICZyLCBuaWwKfQoK</text>
       </register>
-      <register name="s" type="4">
-        <text>mask_address('경기도 성남시 분당구 판교역로 152 알파돔시티 13층')end</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CWRheUNoYW5nZUF0IDo9IHRpbWUuRGF0ZSh3dC5Ob3cuWWVhcigpLCB3dC5Ob3cuTW9udGgoKSwgd3QuTm93LkRheSgpLCBlaCwgMCwgMCwgMCwgd3QuTm93LkxvY2F0aW9uKCkpCglpZiBkYXlDaGFuZ2VBdC5BZnRlcih3dC5Ob3cpCg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">CWlmIGRheUNoYW5nZUF0LkFmdGVyKHd0Lk5vdykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWJlZ2luQXQgOj0gdGltZS5EYXRlKHd0Lk5vdy5ZZWFyKCksIHd0Lk5vdy5Nb250aCgpLCB3dC5Ob3cuRGF5KCksIGhvdXIsIG1pbiwgc2VjLCAwLCB3dC5Ob3cuTG9jYXRpb24oKSkK</text>
+        <text encoding="base64">CWRheUNoYW5nZUF0IDo9IHRpbWUuRGF0ZSh3dC5Ob3cuWWVhcigpLCB3dC5Ob3cuTW9udGgoKSwgd3QuTm93LkRheSgpLCBlaCwgMCwgMCwgMCwgd3QuTm93LkxvY2F0aW9uKCkpCglpZiBkYXlDaGFuZ2VBdC5BZnRlcih3dC5Ob3cpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWlmIGJlZ2luQXQuQWZ0ZXIoZW5kQXQpIHsKCQllbmRBdCA9IGVuZEF0LkFkZERhdGUoMCwgMCwgMSkKCX0K</text>
+        <text encoding="base64">CWlmIGRheUNoYW5nZUF0LkFmdGVyKHd0Lk5vdykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWJlZ2luQXQgOj0gdGltZS5EYXRlKHd0Lk5vdy5ZZWFyKCksIHd0Lk5vdy5Nb250aCgpLCB3dC5Ob3cuRGF5KCksIGhvdXIsIG1pbiwgc2VjLCAwLCB3dC5Ob3cuTG9jYXRpb24oKSkK</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
