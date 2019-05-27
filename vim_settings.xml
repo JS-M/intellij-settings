@@ -17,6 +17,12 @@
         <mark key="^" line="16" column="52" />
         <mark key="." line="16" column="52" />
       </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/handlers/move/handler.go" timestamp="1558948958360">
+        <mark key="[" line="45" column="22" />
+        <mark key="]" line="45" column="21" />
+        <mark key="." line="45" column="21" />
+        <mark key="^" line="45" column="21" />
+      </file>
       <file name="/usr/local/Cellar/go/1.12.3/libexec/src/time/time.go" timestamp="1558945399528" />
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/entities/supporters_working_hours.go" timestamp="1558420668508">
         <mark key="[" line="4" column="4" />
@@ -29,6 +35,12 @@
         <mark key="[" line="152" column="0" />
         <mark key="]" line="152" column="0" />
         <mark key="." line="152" column="0" />
+      </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/finish/service.go" timestamp="1558948994562">
+        <mark key="[" line="137" column="5" />
+        <mark key="]" line="138" column="0" />
+        <mark key="." line="138" column="0" />
+        <mark key="^" line="138" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/work/is_driver_done.go" timestamp="1558684104263">
         <mark key="[" line="37" column="0" />
@@ -57,6 +69,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
         <mark key="^" line="3" column="17" />
+      </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/factories/work_document.go" timestamp="1558948294558">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
+        <mark key="^" line="51" column="20" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/config/production.yaml" timestamp="1558618586078">
         <mark key="[" line="9" column="10" />
@@ -106,6 +124,12 @@
         <mark key="^" line="42" column="60" />
         <mark key="." line="162" column="0" />
       </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/entities/supporters_working_times.go" timestamp="1558949205948">
+        <mark key="[" line="139" column="77" />
+        <mark key="]" line="112" column="30" />
+        <mark key="^" line="112" column="30" />
+        <mark key="." line="112" column="30" />
+      </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/kubernetes.yaml" timestamp="1558432115775">
         <mark key="[" line="124" column="9" />
         <mark key="]" line="124" column="8" />
@@ -124,11 +148,11 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/work/pause_test.go" timestamp="1558946579173">
-        <mark key="[" line="23" column="123" />
-        <mark key="]" line="23" column="122" />
-        <mark key="^" line="23" column="122" />
-        <mark key="." line="23" column="122" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/work/pause_test.go" timestamp="1558948323957">
+        <mark key="[" line="72" column="119" />
+        <mark key="]" line="72" column="125" />
+        <mark key="^" line="72" column="125" />
+        <mark key="." line="72" column="125" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/errors/not_workable_error.go" timestamp="1558428948630">
         <mark key="[" line="8" column="39" />
@@ -397,8 +421,8 @@
       <register name="a" type="4">
         <text>, &quot;work_type&quot;: item.WorkType</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>d</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CXRpbWUuTm93KCkuVW5peE5hbm8oKS8oaW50NjQodGltZS5NaWxsaXNlY29uZCkvaW50NjQodGltZS5OYW5vc2Vjb25kKSksCg==</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -408,16 +432,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>xNano()/(int64(time.Millisecond)/int64(time.Nanosecond)),</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQlpc0ZpbmlzaGVkID0gZmFsc2UK</text>
+      <register name="0" type="4">
+        <text>ResumeWorkDocument</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CmZ1bmMgVGVzdFJlc3VtZV9TdWNjZXNzX1Jlc3VtZSh0ICp0ZXN0aW5nLlQpIHsKCXQuUGFyYWxsZWwoKQoKCW1vY2tDdHJsIDo9IGdvbW9jay5OZXdDb250cm9sbGVyKHQpCglkZWZlciBtb2NrQ3RybC5GaW5pc2goKQoJbW9ja1JlcG8gOj0gbW9ja193b3JrLk5ld01vY2tJbnRlcmZhY2UobW9ja0N0cmwpCgltb2NrUmVwby5FWFBFQ1QoKS5HZXRMYXN0T25lQnlEcml2ZXJJRChnb21vY2suQW55KCksIGdvbW9jay5BbnkoKSwgZ29tb2NrLkFueSgpKS5SZXR1cm4oZmFjdG9yaWVzLlJlc3VtZVdvcmtEb2N1bWVudCgpLCBuaWwpLlRpbWVzKDEpCgltb2NrUmVwby5FWFBFQ1QoKS5BcHBlbmQoZ29tb2NrLkFueSgpLCBnb21vY2suQW55KCkpLlJldHVybihuaWwpLlRpbWVzKDEpCgoJbW9ja0FjdGl2aXR5U2VydmljZUNsaWVudCA6PSBtb2NrX2FjdGl2aXR5Lk5ld01vY2tJbnRlcmZhY2UobW9ja0N0cmwpCgltb2NrQWN0aXZpdHlTZXJ2aWNlQ2xpZW50LkVYUEVDVCgpLlByb2R1Y2VBY3Rpdml0eShnb21vY2suQW55KCksIGdvbW9jay5BbnkoKSkuUmV0dXJuKG5pbCkuVGltZXMoMSkKCgltb2NrWm9uZVNlcnZpY2VDbGllbnQgOj0gbW9ja196b25lLk5ld01vY2tJbnRlcmZhY2UobW9ja0N0cmwpCgoJbW9ja0ZpbmlzaFNlcnZpY2UgOj0gbW9ja19maW5pc2guTmV3TW9ja0ludGVyZmFjZShtb2NrQ3RybCkKCgltb2NrRHJpdmVyQ2xpZW50IDo9IG1vY2tfZHJpdmVyLk5ld01vY2tJbnRlcmZhY2UobW9ja0N0cmwpCgltb2NrRHJpdmVyQ2xpZW50LkVYUEVDVCgpLkdldERpc3BhdGNoU3RhdHVzKGdvbW9jay5BbnkoKSwgZ29tb2NrLkFueSgpLCBnb21vY2suQW55KCkpLlJldHVybihkcml2ZXIuRGlzcGF0Y2hTdGF0dXNfV09SS0lORywgbmlsKS5UaW1lcygxKQoKCW1vY2tXaGVlbEFQSSA6PSBtb2NrX3doZWVsX2FwaS5OZXdNb2NrSW50ZXJmYWNlKG1vY2tDdHJsKQoKCW1vY2tTdXBwb3J0ZXJzIDo9IG1vY2tfc3VwcG9ydGVycy5OZXdNb2NrSW50ZXJmYWNlKG1vY2tDdHJsKQoKCWluc3RhbmNlLCBlcnIgOj0gTmV3KHphcC5OZXdOb3AoKSwgbW9ja1JlcG8sIG1vY2tBY3Rpdml0eVNlcnZpY2VDbGllbnQsIG1vY2tab25lU2VydmljZUNsaWVudCwgbW9ja0ZpbmlzaFNlcnZpY2UsIG1vY2tEcml2ZXJDbGllbnQsIG1vY2tXaGVlbEFQSSwgbW9ja1N1cHBvcnRlcnMpCglhc3NlcnQuTm9FcnJvcih0LCBlcnIpCgoJcmVzdWx0LCBlcnIgOj0gaW5zdGFuY2UuUmVzdW1lKGNvbnRleHQuQmFja2dyb3VuZCgpLCBmYWN0b3JpZXMuV29ya0RvY3VtZW50KCksIGZhY3Rvcmllcy5Db29yZCgpKQoJYXNzZXJ0Lk5vRXJyb3IodCwgZXJyKQoJYXNzZXJ0LlRydWUodCwgcmVzdWx0KQp9Cg==</text>
+        <text encoding="base64">CXRpbWUuTm93KCkuVW5peE5hbm8oKS8oaW50NjQodGltZS5NaWxsaXNlY29uZCkvaW50NjQodGltZS5OYW5vc2Vjb25kKSksCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -435,31 +459,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CUNvbW1hbmRGaW5pc2goY3R4IGNvbnRleHQuQ29udGV4dCwgd29ya0RvYyAqZW50aXRpZXMuV29ya0RvY3VtZW50KSAoYm9vbCwgZXJyb3IpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CmZ1bmMgKHMgKnNlcnZpY2UpIENvbW1hbmRGaW5pc2goY3R4IGNvbnRleHQuQ29udGV4dCwgaXRlbSAqZW50aXRpZXMuV29ya0RvY3VtZW50KSAoYm9vbCwgZXJyb3IpIHsKCWxvZ2dlciA6PSB1bG9nLkxvZ2dlcihjdHgpCgoJbG9nZ2VyLkRlYnVnKCJGaW5pc2ggd29yayIsIHphcC5BbnkoIml0ZW0iLCBpdGVtKSkKCgkvL3RvZG86IGZpbmlzaCBjb21tYW5kIHByb2R1Y2UKCWVyciA6PSBzLmNvbW1hbmRTdmMuQ29tbWFuZEZpbmlzaChjdHgsIG1hcHBlcnMuVG9GaW5pc2hGcm9tV29yayhpdGVtKSkKCWlmIGVyciAhPSBuaWwgewoJCWxvZ2dlci5EZWJ1ZygiRmluaXNoIGNvbW1hbmQgZmFpbCIsIHphcC5FcnJvcihlcnIpKQoJCXJldHVybiBmYWxzZSwgZXJyCgl9CgoJcmV0dXJuIHRydWUsIG5pbAp9Cg==</text>
+        <text encoding="base64">CmZ1bmMgVGVzdFJlc3VtZV9TdWNjZXNzX1Jlc3VtZSh0ICp0ZXN0aW5nLlQpIHsKCXQuUGFyYWxsZWwoKQoKCW1vY2tDdHJsIDo9IGdvbW9jay5OZXdDb250cm9sbGVyKHQpCglkZWZlciBtb2NrQ3RybC5GaW5pc2goKQoJbW9ja1JlcG8gOj0gbW9ja193b3JrLk5ld01vY2tJbnRlcmZhY2UobW9ja0N0cmwpCgltb2NrUmVwby5FWFBFQ1QoKS5HZXRMYXN0T25lQnlEcml2ZXJJRChnb21vY2suQW55KCksIGdvbW9jay5BbnkoKSwgZ29tb2NrLkFueSgpKS5SZXR1cm4oZmFjdG9yaWVzLlJlc3VtZVdvcmtEb2N1bWVudCgpLCBuaWwpLlRpbWVzKDEpCgltb2NrUmVwby5FWFBFQ1QoKS5BcHBlbmQoZ29tb2NrLkFueSgpLCBnb21vY2suQW55KCkpLlJldHVybihuaWwpLlRpbWVzKDEpCgoJbW9ja0FjdGl2aXR5U2VydmljZUNsaWVudCA6PSBtb2NrX2FjdGl2aXR5Lk5ld01vY2tJbnRlcmZhY2UobW9ja0N0cmwpCgltb2NrQWN0aXZpdHlTZXJ2aWNlQ2xpZW50LkVYUEVDVCgpLlByb2R1Y2VBY3Rpdml0eShnb21vY2suQW55KCksIGdvbW9jay5BbnkoKSkuUmV0dXJuKG5pbCkuVGltZXMoMSkKCgltb2NrWm9uZVNlcnZpY2VDbGllbnQgOj0gbW9ja196b25lLk5ld01vY2tJbnRlcmZhY2UobW9ja0N0cmwpCgoJbW9ja0ZpbmlzaFNlcnZpY2UgOj0gbW9ja19maW5pc2guTmV3TW9ja0ludGVyZmFjZShtb2NrQ3RybCkKCgltb2NrRHJpdmVyQ2xpZW50IDo9IG1vY2tfZHJpdmVyLk5ld01vY2tJbnRlcmZhY2UobW9ja0N0cmwpCgltb2NrRHJpdmVyQ2xpZW50LkVYUEVDVCgpLkdldERpc3BhdGNoU3RhdHVzKGdvbW9jay5BbnkoKSwgZ29tb2NrLkFueSgpLCBnb21vY2suQW55KCkpLlJldHVybihkcml2ZXIuRGlzcGF0Y2hTdGF0dXNfV09SS0lORywgbmlsKS5UaW1lcygxKQoKCW1vY2tXaGVlbEFQSSA6PSBtb2NrX3doZWVsX2FwaS5OZXdNb2NrSW50ZXJmYWNlKG1vY2tDdHJsKQoKCW1vY2tTdXBwb3J0ZXJzIDo9IG1vY2tfc3VwcG9ydGVycy5OZXdNb2NrSW50ZXJmYWNlKG1vY2tDdHJsKQoKCWluc3RhbmNlLCBlcnIgOj0gTmV3KHphcC5OZXdOb3AoKSwgbW9ja1JlcG8sIG1vY2tBY3Rpdml0eVNlcnZpY2VDbGllbnQsIG1vY2tab25lU2VydmljZUNsaWVudCwgbW9ja0ZpbmlzaFNlcnZpY2UsIG1vY2tEcml2ZXJDbGllbnQsIG1vY2tXaGVlbEFQSSwgbW9ja1N1cHBvcnRlcnMpCglhc3NlcnQuTm9FcnJvcih0LCBlcnIpCgoJcmVzdWx0LCBlcnIgOj0gaW5zdGFuY2UuUmVzdW1lKGNvbnRleHQuQmFja2dyb3VuZCgpLCBmYWN0b3JpZXMuV29ya0RvY3VtZW50KCksIGZhY3Rvcmllcy5Db29yZCgpKQoJYXNzZXJ0Lk5vRXJyb3IodCwgZXJyKQoJYXNzZXJ0LlRydWUodCwgcmVzdWx0KQp9Cg==</text>
       </register>
       <register name="s" type="4">
         <text>mask_address('경기도 성남시 분당구 판교역로 152 알파돔시티 13층')end</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CUNvbW1hbmRGaW5pc2goY3R4IGNvbnRleHQuQ29udGV4dCwgd29ya0RvYyAqZW50aXRpZXMuV29ya0RvY3VtZW50KSAoYm9vbCwgZXJyb3IpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQoJaWYgZXJyICE9bmlsIHsKCQkKCX0K</text>
+        <text encoding="base64">CmZ1bmMgKHMgKnNlcnZpY2UpIENvbW1hbmRGaW5pc2goY3R4IGNvbnRleHQuQ29udGV4dCwgaXRlbSAqZW50aXRpZXMuV29ya0RvY3VtZW50KSAoYm9vbCwgZXJyb3IpIHsKCWxvZ2dlciA6PSB1bG9nLkxvZ2dlcihjdHgpCgoJbG9nZ2VyLkRlYnVnKCJGaW5pc2ggd29yayIsIHphcC5BbnkoIml0ZW0iLCBpdGVtKSkKCgkvL3RvZG86IGZpbmlzaCBjb21tYW5kIHByb2R1Y2UKCWVyciA6PSBzLmNvbW1hbmRTdmMuQ29tbWFuZEZpbmlzaChjdHgsIG1hcHBlcnMuVG9GaW5pc2hGcm9tV29yayhpdGVtKSkKCWlmIGVyciAhPSBuaWwgewoJCWxvZ2dlci5EZWJ1ZygiRmluaXNoIGNvbW1hbmQgZmFpbCIsIHphcC5FcnJvcihlcnIpKQoJCXJldHVybiBmYWxzZSwgZXJyCgl9CgoJcmV0dXJuIHRydWUsIG5pbAp9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXJldHVybiB0cnVlLCBpc0ZpbmlzaGVkLCBlcnIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWNvbW1hbmRTZXJ2aWNlICJnaXRodWIua2FrYW9jb3JwLmNvbS9kcml2ZXIvd29yay1zZXJ2aWNlL3NlcnZpY2VzL2NvbW1hbmQiCg==</text>
+        <text encoding="base64">CQoJaWYgZXJyICE9bmlsIHsKCQkKCX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CSAgICAgY29tbWFuZFNlcnZpY2UuSW50ZXJmYWNlCg==</text>
+        <text encoding="base64">CXJldHVybiB0cnVlLCBpc0ZpbmlzaGVkLCBlcnIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQljb21tYW5kU3ZjOiAgICAgLAo=</text>
+        <text encoding="base64">CWNvbW1hbmRTZXJ2aWNlICJnaXRodWIua2FrYW9jb3JwLmNvbS9kcml2ZXIvd29yay1zZXJ2aWNlL3NlcnZpY2VzL2NvbW1hbmQiCg==</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
