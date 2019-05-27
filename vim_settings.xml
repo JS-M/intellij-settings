@@ -124,11 +124,11 @@
         <mark key="^" line="42" column="60" />
         <mark key="." line="162" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/entities/supporters_working_times.go" timestamp="1558949205948">
-        <mark key="[" line="139" column="77" />
-        <mark key="]" line="112" column="30" />
-        <mark key="^" line="112" column="30" />
-        <mark key="." line="112" column="30" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/entities/supporters_working_times.go" timestamp="1558955169798">
+        <mark key="[" line="167" column="5" />
+        <mark key="]" line="167" column="4" />
+        <mark key="^" line="167" column="4" />
+        <mark key="." line="167" column="4" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/kubernetes.yaml" timestamp="1558432115775">
         <mark key="[" line="124" column="9" />
