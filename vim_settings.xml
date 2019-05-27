@@ -73,21 +73,21 @@
         <mark key="." line="54" column="35" />
         <mark key="^" line="54" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/commission_rule/supporters_rule.rb" timestamp="1558925901798">
-        <mark key="[" line="8" column="35" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="10" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/commission_rule/supporters_rule.rb" timestamp="1558936805817">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="9" column="35" />
+        <mark key="^" line="9" column="34" />
+        <mark key="." line="9" column="34" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/concerns/base_commission_rule.rb" timestamp="1558925606628" />
       <file name="/Dummy.txt" timestamp="1558510529803">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/models/commission_rule/supporters_rule.rb" timestamp="1558922728398">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/models/commission_rule/supporters_rule.rb" timestamp="1558936811011">
+        <mark key="[" line="8" column="5" />
+        <mark key="]" line="8" column="4" />
         <mark key="^" line="8" column="4" />
-        <mark key="." line="10" column="0" />
+        <mark key="." line="8" column="4" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/handlers/work/get_current_working_status.go" timestamp="1558510102261">
         <mark key="[" line="26" column="17" />
@@ -270,7 +270,7 @@
         <text>, &quot;work_type&quot;: item.WorkType</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgVE9ETzogY2FsbOydmCB0YWcg7KCV67O066W8IO2Gte2VtOyEnCDtjJDrs4TtlZjripQg6rKD7Jy866GcIOuzgOqyvSjsnKDsoIDsnZgg7Lac6re87IOB7YOc66GcIO2ZleyduO2VmOuptCDth7Tqt7wg7ZuE7JeQ64qUIOyYpOyekeuPmSwg7Yq57Z6IIGFkbWluIOqysOygnCDsnqzsi5zrj4Qg65WMKQo=</text>
+        <text encoding="base64">ICAgIEdhdGV3YXk6Oldvcmsud29ya19zdGF0dXMoY2FsbC5kcml2ZXIudHJ5KDppZCkpID09ICdCRUdJTicK</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -286,10 +286,10 @@
         <text>Tru</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB1bmxlc3MgR2F0ZXdheTo6V29yay53b3JrX3N0YXR1cyhjYWxsLmRyaXZlci50cnkoOmlkKSkgPT0gJ0JFR0lOJwo=</text>
+        <text encoding="base64">ICAgICMg7ISc7Y+s7YSw7KaIIOq4sOyCrOyduCDqsr3smrAgY29tbWlzc2lvbiA5OS45OSgxMDAlKQogICAgcGFyYW1zWzpjYWxsXS50cnkoOnN1cHBvcnRlcnM/KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgVE9ETzogY2FsbOydmCB0YWcg7KCV67O066W8IO2Gte2VtOyEnCDtjJDrs4TtlZjripQg6rKD7Jy866GcIOuzgOqyvSjsnKDsoIDsnZgg7Lac6re87IOB7YOc66GcIO2ZleyduO2VmOuptCDth7Tqt7wg7ZuE7JeQ64qUIOyYpOyekeuPmSwg7Yq57Z6IIGFkbWluIOqysOygnCDsnqzsi5zrj4Qg65WMKQo=</text>
+        <text encoding="base64">ICAgIEdhdGV3YXk6Oldvcmsud29ya19zdGF0dXMoY2FsbC5kcml2ZXIudHJ5KDppZCkpID09ICdCRUdJTicK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -307,31 +307,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEdhdGV3YXk6Oldvcmsud29ya19zdGF0dXMoY2FsbC5kcml2ZXIudHJ5KDppZCkpID09ICdCRUdJTicK</text>
+        <text encoding="base64">ICAgICMgVE9ETzogY2FsbOydmCB0YWcg7KCV67O066W8IO2Gte2VtOyEnCDtjJDrs4TtlZjripQg6rKD7Jy866GcIOuzgOqyvSjsnKDsoIDsnZgg7Lac6re87IOB7YOc66GcIO2ZleyduO2VmOuptCDth7Tqt7wg7ZuE7JeQ64qUIOyYpOyekeuPmSwg7Yq57Z6IIGFkbWluIOqysOygnCDsnqzsi5zrj4Qg65WMKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNhbGwuc3VwcG9ydGVycz8K</text>
+        <text encoding="base64">ICAgIEdhdGV3YXk6Oldvcmsud29ya19zdGF0dXMoY2FsbC5kcml2ZXIudHJ5KDppZCkpID09ICdCRUdJTicK</text>
       </register>
       <register name="s" type="4">
         <text>mask_address('경기도 성남시 분당구 판교역로 152 알파돔시티 13층')end</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNhbGwuc3VwcG9ydGVycz8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgIyBvdmVycmlkZQogIGRlZiBkaXNwbGF5X2Rlc2NyaXB0aW9uCiAgICAnJwogIGVuZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">CiAgIyBvdmVycmlkZQogIGRlZiBkaXNwbGF5X2Rlc2NyaXB0aW9uCiAgICAnJwogIGVuZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNhbGwgPSBwYXJhbXNbOmNhbGxdCiAgICAjIGNhbGwg7IOd7ISxIOyLnOuKlCBkaXNwYXRjaGVkX2F0IOyXhuydjAogICAgcmV0dXJuIGZhbHNlIGlmIGNhbGwuZGlzcGF0Y2hlZF9hdC5uaWw/CgogICAgIyDthYzsiqTtirjrpbwg7JyE7ZW0IOyVjO2MjOyXkOyEoCDsi5zqsITsnYQg67O07KeAIOyViuuKlOuLpC4KICAgIGlmIFJhaWxzLmVudi5wcm9kdWN0aW9uPwogICAgICByZXR1cm4gZmFsc2UgdW5sZXNzIFsyMSwgMjIsIDIzLCAwXS5pbmNsdWRlPyAoY2FsbC5kaXNwYXRjaGVkX2F0LmhvdXIpCiAgICBlbmQKICAgIHJldHVybiBmYWxzZSB1bmxlc3MgUHJvbW90aW9uSW5uZXJEcml2ZXIud2hlcmUoZHJpdmVyX2lkOiBjYWxsLmRyaXZlci5pZCwgZ3JvdXBfbmFtZTogJ1NVUFBPUlRFUicpLmV4aXN0cz8KICAgIHRydWUK</text>
+        <text encoding="base64">CiAgIyBvdmVycmlkZQogIGRlZiBkaXNwbGF5X2Rlc2NyaXB0aW9uCiAgICAnJwogIGVuZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CgogICAgY2FsbCA9IHBhcmFtc1s6Y2FsbF0KICAgICMgY2FsbCDsg53shLEg7Iuc64qUIGRpc3BhdGNoZWRfYXQg7JeG7J2MCiAgICByZXR1cm4gZmFsc2UgaWYgY2FsbC5kaXNwYXRjaGVkX2F0Lm5pbD8K</text>
+        <text encoding="base64">ICAgIGNhbGwgPSBwYXJhbXNbOmNhbGxdCiAgICAjIGNhbGwg7IOd7ISxIOyLnOuKlCBkaXNwYXRjaGVkX2F0IOyXhuydjAogICAgcmV0dXJuIGZhbHNlIGlmIGNhbGwuZGlzcGF0Y2hlZF9hdC5uaWw/CgogICAgIyDthYzsiqTtirjrpbwg7JyE7ZW0IOyVjO2MjOyXkOyEoCDsi5zqsITsnYQg67O07KeAIOyViuuKlOuLpC4KICAgIGlmIFJhaWxzLmVudi5wcm9kdWN0aW9uPwogICAgICByZXR1cm4gZmFsc2UgdW5sZXNzIFsyMSwgMjIsIDIzLCAwXS5pbmNsdWRlPyAoY2FsbC5kaXNwYXRjaGVkX2F0LmhvdXIpCiAgICBlbmQKICAgIHJldHVybiBmYWxzZSB1bmxlc3MgUHJvbW90aW9uSW5uZXJEcml2ZXIud2hlcmUoZHJpdmVyX2lkOiBjYWxsLmRyaXZlci5pZCwgZ3JvdXBfbmFtZTogJ1NVUFBPUlRFUicpLmV4aXN0cz8KICAgIHRydWUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgogICAgY2FsbCA9IHBhcmFtc1s6Y2FsbF0KICAgICMgY2FsbCDsg53shLEg7Iuc64qUIGRpc3BhdGNoZWRfYXQg7JeG7J2MCiAgICByZXR1cm4gZmFsc2UgaWYgY2FsbC5kaXNwYXRjaGVkX2F0Lm5pbD8K</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
