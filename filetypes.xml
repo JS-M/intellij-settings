@@ -10,6 +10,7 @@
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
       <mapping pattern=".env.development" type="PLAIN_TEXT" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
+      <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-dev" type="PLAIN_TEXT" />
       <mapping pattern=".yamllint" type="PLAIN_TEXT" />
       <mapping ext="development" type="PLAIN_TEXT" />
