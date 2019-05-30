@@ -217,11 +217,11 @@
         <mark key="." line="155" column="0" />
         <mark key="^" line="155" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/go.sum" timestamp="1559199247568">
-        <mark key="[" line="154" column="0" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/go.sum" timestamp="1559200932268">
+        <mark key="[" line="154" column="1" />
         <mark key="]" line="154" column="0" />
         <mark key="." line="154" column="0" />
-        <mark key="^" line="154" column="43" />
+        <mark key="^" line="154" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/handlers/work/begin.go" timestamp="1559192473229">
         <mark key="'" line="10" column="15" />
@@ -248,7 +248,7 @@
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/zone-service/go.sum" timestamp="1559199280868">
         <mark key="[" line="151" column="0" />
         <mark key="]" line="151" column="0" />
-        <mark key="^" line="166" column="73" />
+        <mark key="^" line="169" column="73" />
         <mark key="." line="151" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/work/workable.go" timestamp="1559194879971" />
