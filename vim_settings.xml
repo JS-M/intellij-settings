@@ -117,6 +117,11 @@
         <mark key="^" line="167" column="4" />
         <mark key="." line="167" column="4" />
       </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/config/local.yaml" timestamp="1558967486541">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/kubernetes.yaml" timestamp="1558432115775">
         <mark key="[" line="124" column="9" />
         <mark key="]" line="124" column="8" />
@@ -201,6 +206,11 @@
         <mark key="^" line="44" column="13" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/zone-service/mappers/product_test.go" timestamp="1559192746473" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/handlers/work/get_active_driver_count.go" timestamp="1559118930703">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/go/pkg/mod/google.golang.org/grpc@v1.21.0/status/status.go" timestamp="1559139902353" />
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/handlers/work/is_driver_done.go" timestamp="1559118892962">
         <mark key="[" line="19" column="4" />
@@ -268,6 +278,11 @@
         <mark key="^" line="0" column="13" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/common-idls/errors/errors.pb.go" timestamp="1559134692500" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/zone-service/go.mod" timestamp="1559193786856">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="$USER_HOME$/go/pkg/mod/github.kakaocorp.com/driver/grpc@v0.0.0-20190529085330-7c1aef718a5d/status/status.go" timestamp="1559120280106">
         <mark key="[" line="26" column="9" />
         <mark key="]" line="26" column="8" />
@@ -401,7 +416,11 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/go.sum" timestamp="1559144902465" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/go.sum" timestamp="1559193777784">
+        <mark key="[" line="154" column="0" />
+        <mark key="]" line="154" column="0" />
+        <mark key="." line="154" column="0" />
+      </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/handlers/work/begin.go" timestamp="1559192473229">
         <mark key="'" line="10" column="15" />
         <mark key="[" line="23" column="0" />
@@ -447,6 +466,12 @@
         <mark key="]" line="32" column="0" />
         <mark key="^" line="32" column="0" />
         <mark key="." line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/zone-service/go.sum" timestamp="1559193792696">
+        <mark key="[" line="152" column="1" />
+        <mark key="]" line="152" column="0" />
+        <mark key="." line="152" column="0" />
+        <mark key="^" line="152" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/work/supporters_workerble.go" timestamp="1558271279784">
         <mark key="[" line="40" column="52" />
@@ -593,8 +618,8 @@
       <register name="a" type="4">
         <text>, &quot;work_type&quot;: item.WorkType</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>No</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Z2l0aHViLmtha2FvY29ycC5jb20vZHJpdmVyL2NvbW1vbi1pZGxzIHYwLjAuMC0yMDE5MDUyOTA3NDkxOS1lYzFlNGIyYjdiMzYgaDE6OHppQk9rL3RZT3VmZWxmcEVqZDkxb2ZwK3c2aFBuNmkxMGw4SXI1RHdGcz0KZ2l0aHViLmtha2FvY29ycC5jb20vZHJpdmVyL2NvbW1vbi1pZGxzIHYwLjAuMC0yMDE5MDUyOTA3NDkxOS1lYzFlNGIyYjdiMzYvZ28ubW9kIGgxOk5uZ2RpdlVhdzFSTW10ZVpHT2M3MDkrM1lvR3k5dnVwZmcwa0E5SUtiKzA9Cg==</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -613,7 +638,7 @@
         <text encoding="base64">CSJnaXRodWIua2FrYW9jb3JwLmNvbS9kcml2ZXIvem9uZS1zZXJ2aWNlLy5nZW4vZ2l0aHViLmtha2FvY29ycC5jb20vZHJpdmVyL2NvbW1vbi1pZGxzL3R5cGVzIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Z2l0aHViLmtha2FvY29ycC5jb20vZHJpdmVyL2NvbW1vbi1pZGxzIHYwLjAuMC0yMDE5MDUyOTA3NDkxOS1lYzFlNGIyYjdiMzYgaDE6OHppQk9rL3RZT3VmZWxmcEVqZDkxb2ZwK3c2aFBuNmkxMGw4SXI1RHdGcz0KZ2l0aHViLmtha2FvY29ycC5jb20vZHJpdmVyL2NvbW1vbi1pZGxzIHYwLjAuMC0yMDE5MDUyOTA3NDkxOS1lYzFlNGIyYjdiMzYvZ28ubW9kIGgxOk5uZ2RpdlVhdzFSTW10ZVpHT2M3MDkrM1lvR3k5dnVwZmcwa0E5SUtiKzA9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -631,28 +656,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CSJnb29nbGUuZ29sYW5nLm9yZy9nZW5wcm90by9nb29nbGVhcGlzL3JwYy9jb2RlIgo=</text>
+        <text encoding="base64">CWdpdGh1Yi5rYWthb2NvcnAuY29tL2RyaXZlci9jb21tb24taWRscyB2MC4wLjAtMjAxOTA1MjkwNzQ5MTktZWMxZTRiMmI3YjM2Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Z2l0aHViLmtha2FvY29ycC5jb20vZHJpdmVyL2NvbW1vbi1pZGxzIHYwLjAuMC0yMDE5MDUyOTA3NDkxOS1lYzFlNGIyYjdiMzYvZ28ubW9kIGgxOk5uZ2RpdlVhdzFSTW10ZVpHT2M3MDkrM1lvR3k5dnVwZmcwa0E5SUtiKzA9Cg==</text>
       </register>
       <register name="s" type="4">
         <text>mask_address('경기도 성남시 분당구 판교역로 152 알파돔시티 13층')end</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlyZXR1cm4gbmlsLCBlcnIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJcmV0dXJuIEVycm9yUmVzcG9uc2UoY29kZS5Db2RlX09VVF9PRl9SQU5HRSwgZXJyLkVycm9yKCkpCg==</text>
+        <text encoding="base64">CSJnb29nbGUuZ29sYW5nLm9yZy9nZW5wcm90by9nb29nbGVhcGlzL3JwYy9jb2RlIgo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlyZXR1cm4gRXJyb3JSZXNwb25zZShjb2RlLkNvZGVfSU5WQUxJRF9BUkdVTUVOVCwgKQo=</text>
+        <text encoding="base64">CQlyZXR1cm4gbmlsLCBlcnIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlyZXR1cm4gRXJyb3JSZXNwb25zZShjb2RlLkNvZGVfSU5WQUxJRF9BUkdVTUVOVCwgKQo=</text>
+        <text encoding="base64">CQkJcmV0dXJuIEVycm9yUmVzcG9uc2UoY29kZS5Db2RlX09VVF9PRl9SQU5HRSwgZXJyLkVycm9yKCkpCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
