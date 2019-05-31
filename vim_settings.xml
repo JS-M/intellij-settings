@@ -23,6 +23,12 @@
         <mark key="." line="6" column="33" />
         <mark key="^" line="6" column="33" />
       </file>
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/jobs/send_supporters_beginning_notification_job.rb" timestamp="1559272720552">
+        <mark key="[" line="7" column="3" />
+        <mark key="]" line="7" column="3" />
+        <mark key="." line="7" column="3" />
+        <mark key="^" line="7" column="3" />
+      </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/docker-compose.local.yaml" timestamp="1559135241254">
         <mark key="[" line="66" column="123" />
         <mark key="]" line="66" column="123" />
@@ -94,11 +100,11 @@
         <mark key="^" line="49" column="0" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/lib/tasks/year_end_event_plusfriends_notification.rake" timestamp="1559271767513">
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/lib/tasks/year_end_event_plusfriends_notification.rake" timestamp="1559272545931">
         <mark key="[" line="104" column="4" />
-        <mark key="]" line="105" column="21" />
-        <mark key="^" line="105" column="21" />
-        <mark key="." line="105" column="21" />
+        <mark key="]" line="124" column="36" />
+        <mark key="^" line="124" column="36" />
+        <mark key="." line="124" column="36" />
       </file>
       <file name="/fragment.go" timestamp="1559140098699">
         <mark key="[" line="0" column="0" />
@@ -365,7 +371,7 @@
         <text>, &quot;work_type&quot;: item.WorkType</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Begin</text>
+        <text>SharedDriverSyncJob</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -375,7 +381,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Begin</text>
+        <text>SharedDriverSyncJob</text>
       </register>
       <register name="/" type="4">
         <text>NT</text>
