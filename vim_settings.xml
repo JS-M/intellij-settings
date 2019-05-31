@@ -51,13 +51,6 @@
         <mark key="^" line="5" column="98" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/handlers/work/begin.go" timestamp="1559192473229">
-        <mark key="'" line="10" column="15" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-      </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/routing-service/services/data/interface.go" timestamp="1559207360325">
         <mark key="[" line="2" column="130" />
         <mark key="]" line="2" column="133" />
