@@ -21,11 +21,11 @@
         <mark key="^" line="7" column="3" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/interactions/producers/logging/price_acceptance.rb" timestamp="1559537872971" />
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/lib/tasks/year_end_event_plusfriends_notification.rake" timestamp="1559542100886">
-        <mark key="[" line="104" column="4" />
-        <mark key="]" line="124" column="36" />
-        <mark key="^" line="124" column="36" />
-        <mark key="." line="124" column="36" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/lib/tasks/year_end_event_plusfriends_notification.rake" timestamp="1559547847298">
+        <mark key="[" line="101" column="1" />
+        <mark key="]" line="101" column="0" />
+        <mark key="^" line="101" column="0" />
+        <mark key="." line="101" column="0" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/spec/factories/driver_factory.rb" timestamp="1559279533431" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/spec/controllers/calls/cancel_spec.rb" timestamp="1559280105329" />
@@ -45,11 +45,11 @@
         <mark key="." line="3" column="6" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/spec/factories/call_factory.rb" timestamp="1559278628928" />
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/jobs/send_supporters_beginning_notification_job.rb" timestamp="1559544948785">
-        <mark key="[" line="28" column="17" />
-        <mark key="]" line="28" column="16" />
-        <mark key="." line="28" column="16" />
-        <mark key="^" line="28" column="16" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/jobs/send_supporters_beginning_notification_job.rb" timestamp="1559547857554">
+        <mark key="[" line="28" column="18" />
+        <mark key="]" line="28" column="18" />
+        <mark key="." line="28" column="18" />
+        <mark key="^" line="28" column="18" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/common-idls/types/types.pb.go" timestamp="1559197474176">
         <mark key="[" line="181" column="0" />
@@ -63,17 +63,15 @@
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/wheel_user/calls_controller.rb" timestamp="1559537302197" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/gateway/graphql_client.rb" timestamp="1559537836737" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/interactions/producers/logging/base.rb" timestamp="1559537224987" />
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/wheel/supporters.rb" timestamp="1559544350359">
-        <mark key="'" line="79" column="0" />
-        <mark key="[" line="79" column="106" />
-        <mark key="]" line="79" column="105" />
-        <mark key="^" line="79" column="105" />
-        <mark key="." line="79" column="105" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/wheel/supporters.rb" timestamp="1559547582981">
+        <mark key="'" line="91" column="6" />
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="91" column="0" />
+        <mark key="^" line="91" column="25" />
+        <mark key="." line="91" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="95" column="119" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/docker-compose.yaml" />
-      <jump line="3" column="25" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/Makefile" />
       <jump line="2" column="23" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/zone-service/Makefile" />
       <jump line="5" column="92" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/work/begin.go" />
       <jump line="2" column="16" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/Makefile" />
@@ -172,13 +170,15 @@
       <jump line="101" column="0" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/wheel/supporters.rb" />
       <jump line="5" column="4" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/wheel/supporters.rb" />
       <jump line="79" column="0" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/wheel/supporters.rb" />
+      <jump line="101" column="21" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/lib/tasks/year_end_event_plusfriends_notification.rake" />
+      <jump line="91" column="6" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/wheel/supporters.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>, &quot;work_type&quot;: item.WorkType</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>''</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -188,16 +188,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>''</text>
+        <text>supporters_begin_at</text>
       </register>
       <register name="/" type="4">
-        <text>sta</text>
+        <text>=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGZldGNoX3N1cHBvcnRlcnNfZHJpdmVyc19pbmZvLnRyeSg6W10sICdkcml2ZXJzJykudHJ5KDptYXApIHsgfGhzaHwgaHNoLnRyeSg6W10sICdkcml2ZXJfaWQnKSB9IHx8IFtdCg==</text>
+      <register name="0" type="4">
+        <text>supporters_begin_at</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -215,41 +215,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG1lc3NhZ2UgPSAK</text>
+        <text encoding="base64">ICAgIFNlbmRTdXBwb3J0ZXJzQmVnaW5uaW5nTm90aWZpY2F0aW9uSm9iLnBlcmZvcm1fYXQoCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFdoZWVsOjpTdXBwb3J0ZXJzLnN1cHBvcnRlcnNfYmVnaW5fYXQK</text>
       </register>
       <register name="s" type="4">
         <text>mask_address('경기도 성남시 분당구 판교역로 152 알파돔시티 13층')end</text>
       </register>
-      <register name="4" type="4">
-        <text>).try(:[], 'drivers')
-        .try(:map) { |hsh| hsh.try(:[], 'driver_id') } || []</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHN1cHBvcnRlcnNfYmVnaW5fYXQgPSBUaW1lLnBhcnNlKFByb3BlcnR5LmdldF9qc29uX3ZhbHVlKCdEUklWRVJfU1VQUE9SVEVSU19XT1JLX0lORk8nKVsnd29ya0JlZ2luVGltZSddKQogICAgc3VwcG9ydGVyc19iZWdpbl9hdCA9IHN1cHBvcnRlcnNfYmVnaW5fYXQgKyAxLmRheSBpZiBzdXBwb3J0ZXJzX2JlZ2luX2F0IDwgVGltZS5jdXJyZW50Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgc3RhdHVzLnRvX3MudXBjYXNlCg==</text>
+        <text encoding="base64">ICAgICAK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdhJy51cGNhc2UK</text>
+      <register name="7" type="4">
+        <text encoding="base64">dXBwb3J0ZXJzX2JlZ2luX2F0ID0gc3VwcG9ydGVyc19iZWdpbl9hdCArIDEuZGF5IGlmIHN1cHBvcnRlcnNfYmVnaW5fYXQgPCBUaW1lLmN1cnJlbnQKICAgICAg</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgc3RhdHVzID0gCg==</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgIHF1ZXJ5ID0gewogICAgICAgICAgc3RhdHVzOiBwYXJhbXNbOnN0YXR1c10sCiAgICAgICAgICBwYWdlOiBwYXJhbXNbOnBhZ2VdLAogICAgICAgICAgc2l6ZTogcGFyYW1zWzpwZXJdCiAgICAgIH0K</text>
+        <text encoding="base64">ICAgIGlmIHN1cHBvcnRlcnNfYmVnaW5fYXQgPCBUaW1lLmN1cnJlbnQK</text>
       </register>
       <register name=":" type="4">
         <text>60</text>
       </register>
     </registers>
     <search>
-      <last-search>sta</last-search>
+      <last-search>=</last-search>
       <last-offset />
-      <last-pattern>sta</last-pattern>
+      <last-pattern>=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>fmt</last-substitute>
       <last-dir>1</last-dir>
@@ -257,7 +256,6 @@
     </search>
     <history>
       <history-search>
-        <entry>.dri</entry>
         <entry>true</entry>
         <entry>Get</entry>
         <entry>work</entry>
@@ -277,6 +275,7 @@
         <entry>code.C</entry>
         <entry>NT</entry>
         <entry>sta</entry>
+        <entry>=</entry>
       </history-search>
       <history-cmd>
         <entry>o index.html.erb</entry>
