@@ -7,6 +7,7 @@
     <filemarks>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/gateway/tag_gateway.rb" timestamp="1559538064613" />
       <file name="$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/kaminari-0.16.3/lib/kaminari/config.rb" timestamp="1559544290501" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/jobs/plus_friend_send_job.rb" timestamp="1559551310991" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/spec/spec_helper.rb" timestamp="1559538070655">
         <mark key="[" line="132" column="4" />
         <mark key="]" line="134" column="39" />
@@ -21,7 +22,7 @@
         <mark key="^" line="7" column="3" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/interactions/producers/logging/price_acceptance.rb" timestamp="1559537872971" />
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/lib/tasks/year_end_event_plusfriends_notification.rake" timestamp="1559549231826">
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/lib/tasks/year_end_event_plusfriends_notification.rake" timestamp="1559551870360">
         <mark key="[" line="103" column="0" />
         <mark key="]" line="103" column="0" />
         <mark key="^" line="103" column="0" />
@@ -45,11 +46,11 @@
         <mark key="." line="3" column="6" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/spec/factories/call_factory.rb" timestamp="1559278628928" />
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/jobs/send_supporters_beginning_notification_job.rb" timestamp="1559549030447">
-        <mark key="[" line="20" column="4" />
-        <mark key="]" line="20" column="12" />
-        <mark key="." line="20" column="12" />
-        <mark key="^" line="20" column="12" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/jobs/send_supporters_beginning_notification_job.rb" timestamp="1559552245922">
+        <mark key="[" line="22" column="5" />
+        <mark key="]" line="22" column="4" />
+        <mark key="." line="22" column="4" />
+        <mark key="^" line="22" column="4" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/common-idls/types/types.pb.go" timestamp="1559197474176">
         <mark key="[" line="181" column="0" />
@@ -183,8 +184,8 @@
       <register name="a" type="4">
         <text>, &quot;work_type&quot;: item.WorkType</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>sms</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIFsxMDA0ODM4XQo=</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -203,7 +204,7 @@
         <text encoding="base64">ICAgICAgc3VwcG9ydGVyc19iZWdpbl9hdCA9IFRpbWUucGFyc2UoUHJvcGVydHkuZ2V0X2pzb25fdmFsdWUoJ0RSSVZFUl9TVVBQT1JURVJTX1dPUktfSU5GTycpWyd3b3JrQmVnaW5UaW1lJ10pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICBkZWYgc2VsZi53b3JrX2JlZ2luX2Nsb2NrCiAgICAgIFRpbWUucGFyc2UoUHJvcGVydHkuZ2V0X2pzb25fdmFsdWUoJ0RSSVZFUl9TVVBQT1JURVJTX1dPUktfSU5GTycpWyd3b3JrQmVnaW5UaW1lJ10pCiAgICBlbmQKCiAgICBkZWYgc2VsZi5lbmRfY2xvY2sKICAgICAgVGltZS5wYXJzZShQcm9wZXJ0eS5nZXRfanNvbl92YWx1ZSgnRFJJVkVSX1NVUFBPUlRFUlNfV09SS19JTkZPJylbJ3dvcmtFbmRUaW1lJ10pCiAgICBlbmQK</text>
+        <text encoding="base64">ICAgIFsxMDA0ODM4XQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -221,31 +222,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgc3VwcG9ydGVyc19iZWdpbl9hdCArPSAxLmRheSBpZiBzdXBwb3J0ZXJzX2JlZ2luX2F0IDwgVGltZS5jdXJyZW50CgogICAgICBTZW5kU3VwcG9ydGVyc0JlZ2lubmluZ05vdGlmaWNhdGlvbkpvYi5wZXJmb3JtX2F0KHN1cHBvcnRlcnNfYmVnaW5fYXQpCg==</text>
+        <text encoding="base64">CiAgICBkZWYgc2VsZi53b3JrX2JlZ2luX2Nsb2NrCiAgICAgIFRpbWUucGFyc2UoUHJvcGVydHkuZ2V0X2pzb25fdmFsdWUoJ0RSSVZFUl9TVVBQT1JURVJTX1dPUktfSU5GTycpWyd3b3JrQmVnaW5UaW1lJ10pCiAgICBlbmQKCiAgICBkZWYgc2VsZi5lbmRfY2xvY2sKICAgICAgVGltZS5wYXJzZShQcm9wZXJ0eS5nZXRfanNvbl92YWx1ZSgnRFJJVkVSX1NVUFBPUlRFUlNfV09SS19JTkZPJylbJ3dvcmtFbmRUaW1lJ10pCiAgICBlbmQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgc3VwcG9ydGVyc19iZWdpbl9hdCArPSAxLmRheSBpZiBzdXBwb3J0ZXJzX2JlZ2luX2F0IDwgVGltZS5jdXJyZW50CgogICAgICBTZW5kU3VwcG9ydGVyc0JlZ2lubmluZ05vdGlmaWNhdGlvbkpvYi5wZXJmb3JtX2F0KHN1cHBvcnRlcnNfYmVnaW5fYXQpCg==</text>
       </register>
       <register name="s" type="4">
         <text>mask_address('경기도 성남시 분당구 판교역로 152 알파돔시티 13층')end</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgc3VwcG9ydGVyc19iZWdpbl9hdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgc3VwcG9ydGVyc19iZWdpbl9hdAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiBzZWxmLnN1cHBvcnRlcnNfYmVnaW5fYXQK</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFNlbmRTdXBwb3J0ZXJzQmVnaW5uaW5nTm90aWZpY2F0aW9uSm9iLnBlcmZvcm1fYXQoV2hlZWw6OlN1cHBvcnRlcnMuc3VwcG9ydGVyc19iZWdpbl9hdCkK</text>
+        <text encoding="base64">ICAgIGRlZiBzZWxmLnN1cHBvcnRlcnNfYmVnaW5fYXQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBzZWxmLnN1cHBvcnRlcnNfYmVnaW5fYXQKICAgICAgc3VwcG9ydGVyc19iZWdpbl9hdCA9IFRpbWUucGFyc2UoUHJvcGVydHkuZ2V0X2pzb25fdmFsdWUoJ0RSSVZFUl9TVVBQT1JURVJTX1dPUktfSU5GTycpWyd3b3JrQmVnaW5UaW1lJ10pCiAgICAgIHN1cHBvcnRlcnNfYmVnaW5fYXQgKz0gMS5kYXkgaWYgc3VwcG9ydGVyc19iZWdpbl9hdCA8IFRpbWUuY3VycmVudAogICAgICBzdXBwb3J0ZXJzX2JlZ2luX2F0CiAgICBlbmQKCg==</text>
+        <text encoding="base64">ICAgIFNlbmRTdXBwb3J0ZXJzQmVnaW5uaW5nTm90aWZpY2F0aW9uSm9iLnBlcmZvcm1fYXQoV2hlZWw6OlN1cHBvcnRlcnMuc3VwcG9ydGVyc19iZWdpbl9hdCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBzZWxmLnN1cHBvcnRlcnNfYmVnaW5fYXQKICAgICAgc3VwcG9ydGVyc19iZWdpbl9hdCA9IFRpbWUucGFyc2UoUHJvcGVydHkuZ2V0X2pzb25fdmFsdWUoJ0RSSVZFUl9TVVBQT1JURVJTX1dPUktfSU5GTycpWyd3b3JrQmVnaW5UaW1lJ10pCiAgICAgIHN1cHBvcnRlcnNfYmVnaW5fYXQgKz0gMS5kYXkgaWYgc3VwcG9ydGVyc19iZWdpbl9hdCA8IFRpbWUuY3VycmVudAogICAgICBzdXBwb3J0ZXJzX2JlZ2luX2F0CiAgICBlbmQKCg==</text>
       </register>
       <register name=":" type="4">
         <text>60</text>
