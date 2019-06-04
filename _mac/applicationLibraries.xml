@@ -9025,6 +9025,17 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/iceland_papi_client-1.65.2/lib" />
       </SOURCES>
     </library>
+    <library name="iceland_papi_client (v1.79.0, rbenv: 2.3.8) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/iceland_papi_client-1.79.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/iceland_papi_client-1.79.0/lib" />
+      </SOURCES>
+    </library>
     <library name="iconv (v1.0.5, rbenv: 2.5.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/iconv-1.0.5/ext" />
@@ -11937,6 +11948,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/multipart-post-2.0.0/test" />
+      </excluded>
+    </library>
+    <library name="multipart-post (v2.1.1, rbenv: 2.3.8) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/multipart-post-2.1.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/multipart-post-2.1.1/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/multipart-post-2.1.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/multipart-post-2.1.1/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/multipart-post-2.1.1/spec" />
       </excluded>
     </library>
     <library name="mysql2 (v0.3.20, rbenv: 2.2.3) [gem]">
@@ -19550,6 +19577,32 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/thread_safe-0.3.6/yard-template" />
       </excluded>
     </library>
+    <library name="thrift (v0.11.0.0, rbenv: 2.3.8) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/thrift/0.11.0.0" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/thrift-0.11.0.0/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/thrift-0.11.0.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/thrift-0.11.0.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/thrift-0.11.0.0/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/thrift-0.11.0.0/benchmark" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/thrift/0.11.0.0" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/thrift-0.11.0.0/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/thrift-0.11.0.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/thrift-0.11.0.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/thrift-0.11.0.0/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/thrift-0.11.0.0/benchmark" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/thrift-0.11.0.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/thrift-0.11.0.0/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/thrift-0.11.0.0/benchmark" />
+      </excluded>
+    </library>
     <library name="thrift (v0.9.3.0, rbenv: 2.2.3) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/thrift/0.9.3.0" />
@@ -19631,6 +19684,22 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/thrift-multiplexer-0.0.1/lib" />
       </SOURCES>
+    </library>
+    <library name="thrift_client (v0.11.0, rbenv: 2.3.8) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/thrift_client-0.11.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/thrift_client-0.11.0/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/thrift_client-0.11.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/thrift_client-0.11.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/thrift_client-0.11.0/test" />
+      </excluded>
     </library>
     <library name="thrift_client (v0.9.2, rbenv: 2.2.3) [gem]">
       <CLASSES>

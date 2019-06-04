@@ -5,16 +5,46 @@
       <mark key="F" line="59" column="23" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/Makefile" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/gateway/tag_gateway.rb" timestamp="1559538064613" />
       <file name="$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/kaminari-0.16.3/lib/kaminari/config.rb" timestamp="1559544290501" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/jobs/plus_friend_send_job.rb" timestamp="1559551310991" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/gateway/gateway.rb" timestamp="1559537829442" />
+      <file name="$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/iceland_papi_client-1.65.2/lib/gen-rb/p_api_service.rb" timestamp="1559623757085" />
+      <file name="/fragment.go" timestamp="1559140098699">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/interactions/producers/base.rb" timestamp="1559537480944" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/spec/jobs/send_supporters_beginning_notification_job_spec.rb" timestamp="1559542047177">
+        <mark key="[" line="2" column="50" />
+        <mark key="]" line="3" column="6" />
+        <mark key="^" line="3" column="6" />
+        <mark key="." line="3" column="6" />
+      </file>
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/jobs/send_supporters_beginning_notification_job.rb" timestamp="1559552245922">
+        <mark key="[" line="22" column="5" />
+        <mark key="]" line="22" column="4" />
+        <mark key="." line="22" column="4" />
+        <mark key="^" line="22" column="4" />
+      </file>
+      <file name="/fragment.rb" timestamp="1559537850792">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/jobs/kakao_friend_add_job.rb" timestamp="1559624047086" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/wheel_user/calls_controller.rb" timestamp="1559537302197" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/interactions/producers/logging/base.rb" timestamp="1559537224987" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/interactions/notifications/send_plusfriend.rb" timestamp="1559549460842">
+        <mark key="[" line="7" column="20" />
+        <mark key="]" line="7" column="23" />
+        <mark key="." line="7" column="23" />
+        <mark key="^" line="7" column="23" />
+      </file>
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/gateway/tag_gateway.rb" timestamp="1559538064613" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/Gemfile" timestamp="1559623514642" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/spec/spec_helper.rb" timestamp="1559538070655">
         <mark key="[" line="132" column="4" />
         <mark key="]" line="134" column="39" />
         <mark key="." line="134" column="39" />
         <mark key="^" line="134" column="39" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/gateway/gateway.rb" timestamp="1559537829442" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/jobs/send_supporters_beginning_notification_job.rb" timestamp="1559278164178">
         <mark key="[" line="7" column="3" />
         <mark key="]" line="7" column="3" />
@@ -30,55 +60,28 @@
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/spec/factories/driver_factory.rb" timestamp="1559279533431" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/spec/controllers/calls/cancel_spec.rb" timestamp="1559280105329" />
-      <file name="/fragment.go" timestamp="1559140098699">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/concerns/base_call.rb" timestamp="1559538003314" />
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/config/shared/url.yml" timestamp="1559615705870" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/config/shared/url.yml" timestamp="1559624891088" />
       <file name="/year_end_event_plusfriends_notification.rake" timestamp="1559271035481" />
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/interactions/producers/base.rb" timestamp="1559537480944" />
       <file name="/Ruby Console" timestamp="1559538088773">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/spec/jobs/send_supporters_beginning_notification_job_spec.rb" timestamp="1559542047177">
-        <mark key="[" line="2" column="50" />
-        <mark key="]" line="3" column="6" />
-        <mark key="^" line="3" column="6" />
-        <mark key="." line="3" column="6" />
-      </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/spec/factories/call_factory.rb" timestamp="1559278628928" />
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/jobs/send_supporters_beginning_notification_job.rb" timestamp="1559552245922">
-        <mark key="[" line="22" column="5" />
-        <mark key="]" line="22" column="4" />
-        <mark key="." line="22" column="4" />
-        <mark key="^" line="22" column="4" />
-      </file>
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/config/shared/plusfriend.yml" timestamp="1559624935387" />
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/common-idls/types/types.pb.go" timestamp="1559197474176">
         <mark key="[" line="181" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1559033609758">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.rb" timestamp="1559537850792">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/jobs/kakao_friend_add_job.rb" timestamp="1559616086426" />
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/wheel_user/calls_controller.rb" timestamp="1559537302197" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-web/app/controllers/reservations_controller.rb" timestamp="1559616139732" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/gateway/graphql_client.rb" timestamp="1559537836737" />
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/interactions/producers/logging/base.rb" timestamp="1559537224987" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/wheel/supporters.rb" timestamp="1559549206878">
         <mark key="'" line="91" column="6" />
         <mark key="[" line="86" column="0" />
         <mark key="]" line="86" column="0" />
         <mark key="^" line="86" column="0" />
         <mark key="." line="86" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/interactions/notifications/send_plusfriend.rb" timestamp="1559549460842">
-        <mark key="[" line="7" column="20" />
-        <mark key="]" line="7" column="23" />
-        <mark key="." line="7" column="23" />
-        <mark key="^" line="7" column="23" />
       </file>
     </filemarks>
     <jumps>
