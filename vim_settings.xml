@@ -132,11 +132,12 @@
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/spec/lib/wheel/dispatch_spec.rb" timestamp="1559634942707" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/spec/factories/call_factory.rb" timestamp="1559278628928" />
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/config/shared/plusfriend.yml" timestamp="1559636200242">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="6" column="61" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/config/shared/plusfriend.yml" timestamp="1559639796454">
+        <mark key="'" line="36" column="2" />
+        <mark key="[" line="4" column="40" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="5" column="0" />
       </file>
       <file name="$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/iceland_papi_client-1.79.0/lib/gen-rb/p_api_service.rb" timestamp="1559635679186">
         <mark key="[" line="504" column="0" />
@@ -161,7 +162,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="16" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/Makefile" />
       <jump line="2" column="21" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/service-base/Makefile" />
       <jump line="2" column="28" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/command-service/Makefile" />
       <jump line="24" column="22" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/command-service/Makefile" />
@@ -261,6 +261,7 @@
       <jump line="91" column="6" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/wheel/supporters.rb" />
       <jump line="12" column="6" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/jobs/kakao_friend_add_job.rb" />
       <jump line="24" column="0" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/jobs/kakao_friend_add_job.rb" />
+      <jump line="30" column="2" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/config/shared/plusfriend.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -277,13 +278,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>binding.pry</text>
+        <text>srp098kvomhnis2s5fuvlbtk9bz3r59c</text>
       </register>
       <register name="/" type="4">
         <text>{</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY2xpZW50ID0gSWNlbGFuZFBhcGlDbGllbnRGYWN0b3J5LmNyZWF0ZShwaGFzZTogUmFpbHMuZW52LnRvX3N5bSwgaG9zdDogQ09ORklHLnBsdXNmcmllbmQudGFsa19pY2VsYW5kX3BhcGlfYWRkciwgYXV0aG9yaXphdGlvbjogQ09ORklHLnBsdXNmcmllbmQudGFsa19pY2VsYW5kX3BhcGlfYXV0aF9rZXkpCg==</text>
+        <text encoding="base64">ICB0YWxrX2ljZWxhbmRfcGFwaV9hdXRoX2tleTogeDlud2lqc2g5cjRkbGRubGVpaXVyZ2lmaWp0YnVuaW0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -304,31 +305,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiMgSWNlbGFuZC1wYXBpIOyEnOu5hOyKpCDthqDtgbAKIyAocmVhbOydgCBiZXRhIO2CpCDrsJjsmIEpCiMgYWxwaGE6IHJuMWRzcHllNHRpa3ZqN2NrbTNuZGJuemlxb2h0ODlrCiMgc2FuZGJveDogeDlud2lqc2g5cjRkbGRubGVpaXVyZ2lmaWp0YnVuaW0KIyBiZXRhOiBzcnAwOThrdm9taG5pczJzNWZ1dmxidGs5YnozcjU5Ywo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyByZWFsOiBzcnAwOThrdm9taG5pczJzNWZ1dmxidGs5YnozcjU5Ywo=</text>
       </register>
       <register name="s" type="4">
         <text>mask_address('경기도 성남시 분당구 판교역로 152 알파돔시티 13층')end</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CgojIG1vZHVsZSBXaGVlbAojICAgbW9kdWxlIEljZWxhbmRUYWxrVXNlcgojCiMgICAgIGRlZiBzZWxmLmFkZF9mcmllbmQoZnJpZW5kX2tleSx0YWxrX3VzZXJfaWQpCiMKIyAgICAgICBjbGllbnQgPSBJY2VsYW5kUGFwaUNsaWVudEZhY3RvcnkuY3JlYXRlKHs6cGhhc2UgPT4gUmFpbHMuZW52LnRvX3N5bSwgOmhvc3QgPT4gQ09ORklHLnBsdXNmcmllbmQudGFsa19pY2VsYW5kX3BhcGlfYWRkcn0pCiMgICAgICAgcmVzdWx0ID0gY2xpZW50LmFkZEZyaWVuZCh0YWxrX3VzZXJfaWQsZnJpZW5kX2tleSxDT05GSUcucGx1c2ZyaWVuZC50YWxrX2ljZWxhbmRfcGx1c191c2VyX3R5cGUsZmFsc2UpCiMgICAgICAgcmVzdWx0LmNvZGUKIyAgICAgZW5kCiMKIyAgICAgcHJpdmF0ZQojCiMgICBlbmQKIyBlbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY2xpZW50ID0gSWNlbGFuZFBhcGlDbGllbnRGYWN0b3J5LmNyZWF0ZShob3N0OiBDT05GSUcucGx1c2ZyaWVuZC50YWxrX2ljZWxhbmRfcGFwaV9hZGRyLCBhdXRob3JpemF0aW9uOiBDT05GSUcucGx1c2ZyaWVuZC50YWxrX2ljZWxhbmRfcGFwaV9hdXRoX2tleSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBieWVidWcK</text>
+        <text encoding="base64">CgojIG1vZHVsZSBXaGVlbAojICAgbW9kdWxlIEljZWxhbmRUYWxrVXNlcgojCiMgICAgIGRlZiBzZWxmLmFkZF9mcmllbmQoZnJpZW5kX2tleSx0YWxrX3VzZXJfaWQpCiMKIyAgICAgICBjbGllbnQgPSBJY2VsYW5kUGFwaUNsaWVudEZhY3RvcnkuY3JlYXRlKHs6cGhhc2UgPT4gUmFpbHMuZW52LnRvX3N5bSwgOmhvc3QgPT4gQ09ORklHLnBsdXNmcmllbmQudGFsa19pY2VsYW5kX3BhcGlfYWRkcn0pCiMgICAgICAgcmVzdWx0ID0gY2xpZW50LmFkZEZyaWVuZCh0YWxrX3VzZXJfaWQsZnJpZW5kX2tleSxDT05GSUcucGx1c2ZyaWVuZC50YWxrX2ljZWxhbmRfcGx1c191c2VyX3R5cGUsZmFsc2UpCiMgICAgICAgcmVzdWx0LmNvZGUKIyAgICAgZW5kCiMKIyAgICAgcHJpdmF0ZQojCiMgICBlbmQKIyBlbmQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cmVxdWlyZV9yZWxhdGl2ZSAnLi4vLi4vLi4vbGliL3doZWVsL3Rlc3QnCg==</text>
+        <text encoding="base64">ICAgICAgY2xpZW50ID0gSWNlbGFuZFBhcGlDbGllbnRGYWN0b3J5LmNyZWF0ZShob3N0OiBDT05GSUcucGx1c2ZyaWVuZC50YWxrX2ljZWxhbmRfcGFwaV9hZGRyLCBhdXRob3JpemF0aW9uOiBDT05GSUcucGx1c2ZyaWVuZC50YWxrX2ljZWxhbmRfcGFwaV9hdXRoX2tleSkK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IyBjb2Rpbmc6IHV0Zi04CnJlcXVpcmUgJ3JhaWxzX2hlbHBlcicKcmVxdWlyZV9yZWxhdGl2ZSAnLi4vLi4vLi4vbGliL3doZWVsL3NldHRsZW1lbnRfaGVscGVyJwpyZXF1aXJlICdpY2VsYW5kX3BhcGlfY2xpZW50X2ZhY3RvcnknCg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>60</text>
