@@ -38,7 +38,7 @@
         <mark key="^" line="5" column="98" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/entities/work_document.go" timestamp="1559560618028" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/entities/work_document.go" timestamp="1559711537155" />
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/zone-service/idl/github.kakaocorp.com/driver/zone-service/zone-service.proto" timestamp="1559629868611" />
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/routing-service/services/data/interface.go" timestamp="1559207360325">
         <mark key="[" line="2" column="130" />
@@ -47,18 +47,18 @@
         <mark key="." line="2" column="133" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/factories/work_document.go" timestamp="1559560746429" />
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/work/interface.go" timestamp="1559560693978">
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/work/interface.go" timestamp="1559711567384">
         <mark key="'" line="31" column="19" />
-        <mark key="[" line="5" column="13" />
-        <mark key="]" line="6" column="95" />
-        <mark key="." line="6" column="95" />
-        <mark key="^" line="6" column="95" />
+        <mark key="[" line="31" column="62" />
+        <mark key="]" line="31" column="83" />
+        <mark key="." line="31" column="83" />
+        <mark key="^" line="31" column="83" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/work/get_working_begin_at_test.go" timestamp="1559560947663">
-        <mark key="[" line="40" column="136" />
-        <mark key="]" line="40" column="136" />
-        <mark key="." line="40" column="136" />
-        <mark key="^" line="40" column="136" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/work/get_working_begin_at_test.go" timestamp="1559711618156">
+        <mark key="[" line="50" column="90" />
+        <mark key="]" line="50" column="118" />
+        <mark key="." line="50" column="118" />
+        <mark key="^" line="50" column="118" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/zone-service/handlers/zone/handler.go" timestamp="1559629877262" />
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/routing-service/Makefile" timestamp="1559210484111">
@@ -68,11 +68,11 @@
         <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/work/workable.go" timestamp="1559560129205" />
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/work/get_working_begin_at.go" timestamp="1559560656993">
-        <mark key="[" line="8" column="55" />
-        <mark key="]" line="8" column="77" />
-        <mark key="." line="8" column="71" />
-        <mark key="^" line="8" column="71" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/work/get_working_begin_at.go" timestamp="1559711546581">
+        <mark key="[" line="9" column="78" />
+        <mark key="]" line="9" column="101" />
+        <mark key="." line="9" column="101" />
+        <mark key="^" line="9" column="101" />
       </file>
       <file name="/usr/local/Cellar/go/1.12.3/libexec/src/builtin/builtin.go" timestamp="1559560302206">
         <mark key="[" line="51" column="6" />
@@ -232,7 +232,7 @@
         <text>, &quot;work_type&quot;: item.WorkType</text>
       </register>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>work.WorkType()</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -242,7 +242,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>work.WorkType()</text>
       </register>
       <register name="/" type="4">
         <text>Re</text>
