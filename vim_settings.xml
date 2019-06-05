@@ -131,6 +131,12 @@
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/config/shared/url.yml" timestamp="1559624891088" />
       <file name="/year_end_event_plusfriends_notification.rake" timestamp="1559271035481" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/concerns/base_account.rb" timestamp="1559632837932" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/wheel/point_box.rb" timestamp="1559710877323">
+        <mark key="[" line="568" column="0" />
+        <mark key="]" line="568" column="0" />
+        <mark key="." line="568" column="0" />
+        <mark key="^" line="568" column="425" />
+      </file>
       <file name="/Ruby Console" timestamp="1559635081867">
         <mark key="[" line="0" column="0" />
       </file>
@@ -148,7 +154,7 @@
         <mark key="[" line="181" column="0" />
       </file>
       <file name="$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/thrift_client-0.9.2/lib/thrift_client/abstract_thrift_client.rb" timestamp="1559635394492" />
-      <file name="/Dummy.txt" timestamp="1559033609758">
+      <file name="/Dummy.txt" timestamp="1559710679575">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-web/app/controllers/reservations_controller.rb" timestamp="1559616139732" />
@@ -267,7 +273,7 @@
         <text>, &quot;work_type&quot;: item.WorkType</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgcXVlcnlbOmRyaXZlcklkXSA9IGlkIHVubGVzcyBpZC5uaWw/CiAgICAgIHF1ZXJ5Wzpkcml2ZXJJZHNdID0gZHJpdmVyX2lkcy5qb2luKCcsJykgaWYgZHJpdmVyX2lkcy5wcmVzZW50Pwo=</text>
+        <text encoding="base64">eyA6cmVjb3JkcyA9PiBbeyA6dHlwZSA9PiAiY2FyZCIsIDpkaXNwbGF5X25hbWUgPT4gIuy5tOuTnOqysOygnOyatO2WiSIsIDpjYWxsX2lkID0+ICJDTlZSQUkiLCA6cG9pbnRfaWQgPT4gMzE1NzcwLCA6c2V0dGxlX3N0YXR1cyA9PiBuaWwsIDpwb2ludCA9PiAxMjAwMCwgOmNyZWF0ZWRfYXQgPT4gIjIwMTktMDYtMDRUMTk6MjA6MjUuMDAwKzA5OjAwIiB9LCB7IDp0eXBlID0+ICJjYXJkIiwgOmRpc3BsYXlfbmFtZSA9PiAi7Lm065Oc6rKw7KCc7Jq07ZaJIiwgOmNhbGxfaWQgPT4gIkNOVlI3NSIsIDpwb2ludF9pZCA9PiAzMTU3NTcsIDpzZXR0bGVfc3RhdHVzID0+IG5pbCwgOnBvaW50ID0+IDI5NjAwLCA6Y3JlYXRlZF9hdCA9PiAiMjAxOS0wNi0wNFQxODozMzoyNi4wMDArMDk6MDAiIH1dLCA6c3VtbWFyeSA9PiB7IDpjb3VudCA9PiAyLCA6dG90YWxfcG9pbnQgPT4gNDE2MDAgfSB9Cg==</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -286,7 +292,7 @@
         <text encoding="base64">ICB0YWxrX2ljZWxhbmRfcGFwaV9hdXRoX2tleTogeDlud2lqc2g5cjRkbGRubGVpaXVyZ2lmaWp0YnVuaW0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcXVlcnlbOmRyaXZlcklkXSA9IGlkIHVubGVzcyBpZC5uaWw/CiAgICAgIHF1ZXJ5Wzpkcml2ZXJJZHNdID0gZHJpdmVyX2lkcy5qb2luKCcsJykgaWYgZHJpdmVyX2lkcy5wcmVzZW50Pwo=</text>
+        <text encoding="base64">eyA6cmVjb3JkcyA9PiBbeyA6dHlwZSA9PiAiY2FyZCIsIDpkaXNwbGF5X25hbWUgPT4gIuy5tOuTnOqysOygnOyatO2WiSIsIDpjYWxsX2lkID0+ICJDTlZSQUkiLCA6cG9pbnRfaWQgPT4gMzE1NzcwLCA6c2V0dGxlX3N0YXR1cyA9PiBuaWwsIDpwb2ludCA9PiAxMjAwMCwgOmNyZWF0ZWRfYXQgPT4gIjIwMTktMDYtMDRUMTk6MjA6MjUuMDAwKzA5OjAwIiB9LCB7IDp0eXBlID0+ICJjYXJkIiwgOmRpc3BsYXlfbmFtZSA9PiAi7Lm065Oc6rKw7KCc7Jq07ZaJIiwgOmNhbGxfaWQgPT4gIkNOVlI3NSIsIDpwb2ludF9pZCA9PiAzMTU3NTcsIDpzZXR0bGVfc3RhdHVzID0+IG5pbCwgOnBvaW50ID0+IDI5NjAwLCA6Y3JlYXRlZF9hdCA9PiAiMjAxOS0wNi0wNFQxODozMzoyNi4wMDArMDk6MDAiIH1dLCA6c3VtbWFyeSA9PiB7IDpjb3VudCA9PiAyLCA6dG90YWxfcG9pbnQgPT4gNDE2MDAgfSB9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -307,28 +313,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiMgSWNlbGFuZC1wYXBpIOyEnOu5hOyKpCDthqDtgbAKIyAocmVhbOydgCBiZXRhIO2CpCDrsJjsmIEpCiMgYWxwaGE6IHJuMWRzcHllNHRpa3ZqN2NrbTNuZGJuemlxb2h0ODlrCiMgc2FuZGJveDogeDlud2lqc2g5cjRkbGRubGVpaXVyZ2lmaWp0YnVuaW0KIyBiZXRhOiBzcnAwOThrdm9taG5pczJzNWZ1dmxidGs5YnozcjU5Ywo=</text>
+        <text encoding="base64">eyA6cmVjb3JkcyA9PiBbeyA6dHlwZSA9PiAiY2FyZCIsIDpkaXNwbGF5X25hbWUgPT4gIuy5tOuTnOqysOygnOyatO2WiSIsIDpjYWxsX2lkID0+ICJDTlZSQUkiLCA6cG9pbnRfaWQgPT4gMzE1NzcwLCA6c2V0dGxlX3N0YXR1cyA9PiBuaWwsIDpwb2ludCA9PiAxMjAwMCwgOmNyZWF0ZWRfYXQgPT4gIjIwMTktMDYtMDRUMTk6MjA6MjUuMDAwKzA5OjAwIiB9LCB7IDp0eXBlID0+ICJjYXJkIiwgOmRpc3BsYXlfbmFtZSA9PiAi7Lm065Oc6rKw7KCc7Jq07ZaJIiwgOmNhbGxfaWQgPT4gIkNOVlI3NSIsIDpwb2ludF9pZCA9PiAzMTU3NTcsIDpzZXR0bGVfc3RhdHVzID0+IG5pbCwgOnBvaW50ID0+IDI5NjAwLCA6Y3JlYXQgLSAwNiAtIDA0IFQxODogMzMgOiAyNi4wMDAgKyAwOSA6IDAwICJ9XSwgOnN1bW1hcnk9Pns6Y291bnQ9PjIsIDp0b3RhbF9wb2ludD0+NDE2MDB9fQo=</text>
       </register>
       <register name="s" type="4">
         <text>mask_address('경기도 성남시 분당구 판교역로 152 알파돔시티 13층')end</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyByZWFsOiBzcnAwOThrdm9taG5pczJzNWZ1dmxidGs5YnozcjU5Ywo=</text>
+        <text encoding="base64">ICAgICAgcXVlcnlbOmRyaXZlcklkXSA9IGlkIHVubGVzcyBpZC5uaWw/CiAgICAgIHF1ZXJ5Wzpkcml2ZXJJZHNdID0gZHJpdmVyX2lkcy5qb2luKCcsJykgaWYgZHJpdmVyX2lkcy5wcmVzZW50Pwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiMgSWNlbGFuZC1wYXBpIOyEnOu5hOyKpCDthqDtgbAKIyAocmVhbOydgCBiZXRhIO2CpCDrsJjsmIEpCiMgYWxwaGE6IHJuMWRzcHllNHRpa3ZqN2NrbTNuZGJuemlxb2h0ODlrCiMgc2FuZGJveDogeDlud2lqc2g5cjRkbGRubGVpaXVyZ2lmaWp0YnVuaW0KIyBiZXRhOiBzcnAwOThrdm9taG5pczJzNWZ1dmxidGs5YnozcjU5Ywo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyByZWFsOiBzcnAwOThrdm9taG5pczJzNWZ1dmxidGs5YnozcjU5Ywo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CgojIG1vZHVsZSBXaGVlbAojICAgbW9kdWxlIEljZWxhbmRUYWxrVXNlcgojCiMgICAgIGRlZiBzZWxmLmFkZF9mcmllbmQoZnJpZW5kX2tleSx0YWxrX3VzZXJfaWQpCiMKIyAgICAgICBjbGllbnQgPSBJY2VsYW5kUGFwaUNsaWVudEZhY3RvcnkuY3JlYXRlKHs6cGhhc2UgPT4gUmFpbHMuZW52LnRvX3N5bSwgOmhvc3QgPT4gQ09ORklHLnBsdXNmcmllbmQudGFsa19pY2VsYW5kX3BhcGlfYWRkcn0pCiMgICAgICAgcmVzdWx0ID0gY2xpZW50LmFkZEZyaWVuZCh0YWxrX3VzZXJfaWQsZnJpZW5kX2tleSxDT05GSUcucGx1c2ZyaWVuZC50YWxrX2ljZWxhbmRfcGx1c191c2VyX3R5cGUsZmFsc2UpCiMgICAgICAgcmVzdWx0LmNvZGUKIyAgICAgZW5kCiMKIyAgICAgcHJpdmF0ZQojCiMgICBlbmQKIyBlbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY2xpZW50ID0gSWNlbGFuZFBhcGlDbGllbnRGYWN0b3J5LmNyZWF0ZShob3N0OiBDT05GSUcucGx1c2ZyaWVuZC50YWxrX2ljZWxhbmRfcGFwaV9hZGRyLCBhdXRob3JpemF0aW9uOiBDT05GSUcucGx1c2ZyaWVuZC50YWxrX2ljZWxhbmRfcGFwaV9hdXRoX2tleSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>60</text>
