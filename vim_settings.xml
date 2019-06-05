@@ -132,6 +132,7 @@
         <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/interactions/producers/logging/price_acceptance.rb" timestamp="1559537872971" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/commission_rule/supporters_rule.rb" timestamp="1559718044465" />
       <file name="$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/iceland_papi_client-1.65.2/lib/gen-rb/papi-app_types.rb" timestamp="1559629236052" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/lib/tasks/year_end_event_plusfriends_notification.rake" timestamp="1559551870360">
         <mark key="[" line="103" column="0" />
@@ -141,7 +142,12 @@
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/spec/factories/driver_factory.rb" timestamp="1559279533431" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/spec/controllers/calls/cancel_spec.rb" timestamp="1559280105329" />
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/concerns/base_call.rb" timestamp="1559538003314" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/concerns/base_call.rb" timestamp="1559718284945">
+        <mark key="[" line="952" column="24" />
+        <mark key="]" line="952" column="23" />
+        <mark key="^" line="952" column="23" />
+        <mark key="." line="952" column="23" />
+      </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/config/shared/url.yml" timestamp="1559624891088" />
       <file name="/year_end_event_plusfriends_notification.rake" timestamp="1559271035481" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/concerns/base_account.rb" timestamp="1559632837932" />
