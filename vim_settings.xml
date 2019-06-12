@@ -31,11 +31,11 @@
         <mark key="^" line="17" column="1" />
         <mark key="." line="17" column="1" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/docker-compose.local.yaml" timestamp="1560320346458">
-        <mark key="[" line="56" column="4" />
-        <mark key="]" line="56" column="4" />
-        <mark key="." line="56" column="4" />
-        <mark key="^" line="57" column="17" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/docker-compose.local.yaml" timestamp="1560321558403">
+        <mark key="[" line="35" column="36" />
+        <mark key="]" line="35" column="35" />
+        <mark key="." line="35" column="35" />
+        <mark key="^" line="35" column="35" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/handlers/work/handler.go" timestamp="1560315886601">
         <mark key="[" line="54" column="50" />
@@ -74,13 +74,7 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/common-idls/idl/github.kakaocorp.com/driver/common-idls/types/types.proto" timestamp="1559720625624">
-        <mark key="a" line="21" column="23" />
-        <mark key="[" line="21" column="24" />
-        <mark key="]" line="21" column="24" />
-        <mark key="." line="21" column="24" />
-        <mark key="^" line="22" column="13" />
-      </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/docker-compose.yaml" timestamp="1560321554390" />
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/work/get_working_end_at.go" timestamp="1560315222712">
         <mark key="'" line="26" column="11" />
         <mark key="[" line="23" column="12" />
@@ -208,8 +202,8 @@
       <register name="a" type="4">
         <text>, &quot;work_type&quot;: item.WorkType</text>
       </register>
-      <register name="&quot;" type="8">
-        <text encoding="base64">ICAKICA=</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -219,7 +213,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0.9.6</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
