@@ -37,6 +37,7 @@
         <mark key="." line="35" column="35" />
         <mark key="^" line="35" column="35" />
       </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/handlers/work/begin.go" timestamp="1560332527474" />
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/handlers/work/handler.go" timestamp="1560315886601">
         <mark key="[" line="54" column="50" />
         <mark key="]" line="54" column="65" />
@@ -49,11 +50,11 @@
         <mark key="^" line="18" column="25" />
         <mark key="." line="18" column="25" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/handlers/work/get_working_end_at.go" timestamp="1560317023516">
-        <mark key="[" line="42" column="46" />
-        <mark key="]" line="42" column="46" />
-        <mark key="." line="42" column="46" />
-        <mark key="^" line="42" column="46" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/handlers/work/get_working_end_at.go" timestamp="1560332544422">
+        <mark key="[" line="15" column="30" />
+        <mark key="]" line="16" column="41" />
+        <mark key="." line="16" column="41" />
+        <mark key="^" line="16" column="41" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/work/interface.go" timestamp="1560316782754">
         <mark key="'" line="31" column="19" />
@@ -88,12 +89,12 @@
         <mark key="." line="28" column="19" />
         <mark key="^" line="28" column="19" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/handlers/work/get_working_begin_at.go" timestamp="1560316966459">
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/handlers/work/get_working_begin_at.go" timestamp="1560332535348">
         <mark key="'" line="0" column="11" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-        <mark key="^" line="43" column="51" />
+        <mark key="[" line="16" column="30" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="17" column="0" />
       </file>
     </filemarks>
     <jumps>
