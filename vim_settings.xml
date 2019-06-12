@@ -31,11 +31,11 @@
         <mark key="^" line="17" column="1" />
         <mark key="." line="17" column="1" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/docker-compose.local.yaml" timestamp="1560319276559">
-        <mark key="[" line="51" column="22" />
-        <mark key="]" line="51" column="21" />
-        <mark key="." line="51" column="21" />
-        <mark key="^" line="51" column="21" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/docker-compose.local.yaml" timestamp="1560320346458">
+        <mark key="[" line="56" column="4" />
+        <mark key="]" line="56" column="4" />
+        <mark key="." line="56" column="4" />
+        <mark key="^" line="57" column="17" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/handlers/work/handler.go" timestamp="1560315886601">
         <mark key="[" line="54" column="50" />
@@ -208,8 +208,8 @@
       <register name="a" type="4">
         <text>, &quot;work_type&quot;: item.WorkType</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>0.9.6</text>
+      <register name="&quot;" type="8">
+        <text encoding="base64">ICAKICA=</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -227,8 +227,8 @@
       <register name="0" type="2">
         <text encoding="base64">CWlmIGMsIGVyciA6PSB2YWxpZGF0ZVByb2R1Y3Qoci5HZXRQcm9kdWN0KCkpOyBjICE9IGNvZGVzLk9LIHsKCQlsb2dnZXIuRGVidWcoImJlZ2luIHJlc3BvbnNlIGVycm9yIiwgemFwLkVycm9yKGVycikpCgkJcmV0dXJuIG5pbCwgc3RhdHVzLkVycm9yKGMsIGVyci5FcnJvcigpKQoJfQoK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="8">
+        <text encoding="base64">ICAKICA=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -246,28 +246,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CW1vY2tTdXBwb3J0ZXJzIDo9IG1vY2tfc3VwcG9ydGVycy5OZXdNb2NrSW50ZXJmYWNlKG1vY2tDdHJsKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CW1vY2tTdXBwb3J0ZXJzIDo9IG1vY2tfc3VwcG9ydGVycy5OZXdNb2NrSW50ZXJmYWNlKG1vY2tDdHJsKQo=</text>
       </register>
       <register name="s" type="4">
         <text>mask_address('경기도 성남시 분당구 판교역로 152 알파돔시티 13층')end</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CW1vY2tTdXBwb3J0ZXJzIDo9IG1vY2tfc3VwcG9ydGVycy5OZXdNb2NrSW50ZXJmYWNlKG1vY2tDdHJsKQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CW1vY2tTdXBwb3J0ZXJzIDo9IG1vY2tfc3VwcG9ydGVycy5OZXdNb2NrSW50ZXJmYWNlKG1vY2tDdHJsKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">CW1vY2tTdXBwb3J0ZXJzIDo9IG1vY2tfc3VwcG9ydGVycy5OZXdNb2NrSW50ZXJmYWNlKG1vY2tDdHJsKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CW1vY2tfc3VwcG9ydGVycyAiZ2l0aHViLmtha2FvY29ycC5jb20vZHJpdmVyL3dvcmstc2VydmljZS9tb2Nrcy9zZXJ2aWNlcy9zdXBwb3J0ZXJzIgo=</text>
+        <text encoding="base64">CW1vY2tTdXBwb3J0ZXJzIDo9IG1vY2tfc3VwcG9ydGVycy5OZXdNb2NrSW50ZXJmYWNlKG1vY2tDdHJsKQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">CW1vY2tfc3VwcG9ydGVycyAiZ2l0aHViLmtha2FvY29ycC5jb20vZHJpdmVyL3dvcmstc2VydmljZS9tb2Nrcy9zZXJ2aWNlcy9zdXBwb3J0ZXJzIgo=</text>
