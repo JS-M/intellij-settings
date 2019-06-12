@@ -7,7 +7,12 @@
     <filemarks>
       <file name="$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/kaminari-0.16.3/lib/kaminari/config.rb" timestamp="1559544290501" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/jobs/plus_friend_send_job.rb" timestamp="1559551310991" />
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/gateway/gateway.rb" timestamp="1559537829442" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/gateway/gateway.rb" timestamp="1560315454219">
+        <mark key="[" line="10" column="3" />
+        <mark key="]" line="10" column="2" />
+        <mark key="^" line="10" column="2" />
+        <mark key="." line="10" column="2" />
+      </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/spec/lib/test.rb" timestamp="1559634964784">
         <mark key="[" line="3" column="46" />
         <mark key="]" line="4" column="0" />
