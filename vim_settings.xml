@@ -5,12 +5,12 @@
       <mark key="F" line="79" column="23" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/Makefile" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/gateway/work_gateway.rb" timestamp="1560399361762">
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/gateway/work_gateway.rb" timestamp="1560403230190">
         <mark key="'" line="76" column="37" />
-        <mark key="[" line="128" column="60" />
-        <mark key="]" line="128" column="59" />
-        <mark key="." line="128" column="59" />
-        <mark key="^" line="128" column="59" />
+        <mark key="[" line="123" column="1" />
+        <mark key="]" line="123" column="0" />
+        <mark key="." line="123" column="0" />
+        <mark key="^" line="123" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/work/begin_test.go" timestamp="1559279272940">
         <mark key="[" line="84" column="64" />
@@ -58,6 +58,11 @@
         <mark key="^" line="157" column="111" />
         <mark key="." line="157" column="111" />
       </file>
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/jobs/send_supporters_beginning_notification_job.rb" timestamp="1560403767290">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/factories/work_document.go" timestamp="1560310056229">
         <mark key="[" line="18" column="26" />
         <mark key="]" line="18" column="25" />
@@ -88,14 +93,14 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/wheel/clock.rb" timestamp="1560401755029">
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/wheel/clock.rb" timestamp="1560403002515">
         <mark key="'" line="9" column="48" />
-        <mark key="[" line="19" column="1" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="19" column="0" />
+        <mark key="[" line="15" column="55" />
+        <mark key="]" line="15" column="61" />
+        <mark key="." line="15" column="61" />
+        <mark key="^" line="15" column="61" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/lib/tasks/year_end_event_plusfriends_notification.rake" timestamp="1560345102613">
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/lib/tasks/year_end_event_plusfriends_notification.rake" timestamp="1560403824092">
         <mark key="[" line="102" column="36" />
         <mark key="]" line="102" column="35" />
         <mark key="." line="102" column="35" />
@@ -118,6 +123,12 @@
         <mark key="]" line="0" column="12" />
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="12" />
+      </file>
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/wheel/supporters.rb" timestamp="1560403890165">
+        <mark key="[" line="105" column="40" />
+        <mark key="]" line="105" column="48" />
+        <mark key="^" line="105" column="48" />
+        <mark key="." line="105" column="48" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/handlers/work/interface.go" timestamp="1559559978724">
         <mark key="[" line="28" column="20" />
@@ -232,8 +243,8 @@
       <register name="a" type="4">
         <text>, &quot;work_type&quot;: item.WorkType</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>SUPPORTERS_STATUS</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -243,7 +254,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>SUPPORTERS_STATUS</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -252,7 +263,7 @@
         <text>(Wheel::Clock.beginning_time_today + 1.day).strftime(&quot;%Y%m%d&quot;)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YnllYnVnCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -269,32 +280,32 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CldoZWVsOjpDbG9jay5iZWdpbm5pbmdfdGltZV90b2RheQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGRhdGVfY2hhbmdlX2NyaXRlcmlhID0gUHJvcGVydHkuZ2V0X3ZhbHVlKCdEQVRFX0NIQU5HRV9DUklURVJJQScpLnRvX2kKCiAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgaWYgVGltZS5jdXJyZW50LmhvdXIgPj0gOAogICAgICAgIFRpbWUuY3VycmVudC5iZWdpbm5pbmdfb2ZfZGF5ICsgOC5ob3VycwogICAgICBlbHNlCiAgICAgICAgVGltZS5jdXJyZW50LmJlZ2lubmluZ19vZl9kYXkgLSAxNi5ob3VycwogICAgICBlbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>mask_address('경기도 성남시 분당구 판교역로 152 알파돔시티 13층')end</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">CldoZWVsOjpDbG9jay5iZWdpbm5pbmdfdGltZV90b2RheQ==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgVGltZS5jdXJyZW50LmhvdXIgPj0gOAogICAgICAgIFRpbWUuY3VycmVudC5iZWdpbm5pbmdfb2ZfZGF5ICsgOC5ob3VycwogICAgICBlbHNlCiAgICAgICAgVGltZS5jdXJyZW50LmJlZ2lubmluZ19vZl9kYXkgLSAxNi5ob3VycwogICAgICBlbmQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdG8gPSB0YXJnZXRfZGF5LmJlZ2lubmluZ19vZl9kYXkgKyA4LmhvdXJzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdG8gPSB0YXJnZXRfZGF5LmJlZ2lubmluZ19vZl9kYXkgKyA4LmhvdXJzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgdG8gPSB0YXJnZXRfZGF5LmJlZ2lubmluZ19vZl9kYXkgKyA4LmhvdXJzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBub3cgPSAK</text>
+        <text encoding="base64">ICAgICAgdG8gPSB0YXJnZXRfZGF5LmJlZ2lubmluZ19vZl9kYXkgKyA4LmhvdXJzCg==</text>
       </register>
       <register name=":" type="4">
         <text>60</text>
