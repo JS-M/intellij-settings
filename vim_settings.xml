@@ -53,7 +53,7 @@
         <mark key="^" line="157" column="111" />
         <mark key="." line="157" column="111" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/controllers/supporters_controller.rb" timestamp="1560419155423">
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/controllers/supporters_controller.rb" timestamp="1560481415019">
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="0" />
         <mark key="." line="61" column="0" />
@@ -365,7 +365,7 @@
         <text encoding="base64">ICBwcml2YXRlCg==</text>
       </register>
       <register name=":" type="4">
-        <text>60</text>
+        <text>120</text>
       </register>
     </registers>
     <search>
@@ -410,6 +410,7 @@
         <entry>354</entry>
         <entry>34</entry>
         <entry>60</entry>
+        <entry>120</entry>
       </history-cmd>
       <history-expr />
       <history-input />
