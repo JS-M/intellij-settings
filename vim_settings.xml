@@ -88,10 +88,6 @@
         <mark key="]" line="24" column="33" />
         <mark key="." line="24" column="33" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/views/drivers/_points.html.erb" timestamp="1560414189442">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="13" column="107" />
-      </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/lib/tasks/year_end_event_plusfriends_notification.rake" timestamp="1560488225153" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/lib/wheel/clock.rb" timestamp="1560399546907">
         <mark key="[" line="5" column="9" />
@@ -105,6 +101,7 @@
         <mark key="^" line="12" column="52" />
         <mark key="." line="12" column="52" />
       </file>
+      <file name="/calls_controller.rb" timestamp="1560494984321" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/views/supporters/_working_list.html.erb" timestamp="1560414110056">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -121,6 +118,11 @@
         <mark key="]" line="86" column="58" />
         <mark key="." line="86" column="58" />
         <mark key="^" line="86" column="58" />
+      </file>
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/super_app_user/calls_controller.rb" timestamp="1560495286298">
+        <mark key="[" line="286" column="0" />
+        <mark key="]" line="286" column="0" />
+        <mark key="." line="286" column="0" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/controllers/coupon_abuse_reports_controller.rb" timestamp="1560401668502" />
       <file name="/Ruby Console" timestamp="1560491650214">
@@ -168,7 +170,7 @@
         <mark key="^" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/wheel_user/base_controller.rb" timestamp="1560492374666">
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/wheel_user/base_controller.rb" timestamp="1560494619814">
         <mark key="[" line="30" column="68" />
         <mark key="]" line="30" column="68" />
         <mark key="^" line="30" column="68" />
@@ -180,7 +182,12 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/wheel_user/calls_controller.rb" timestamp="1560491632418" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/wheel_user/calls_controller.rb" timestamp="1560495294378">
+        <mark key="[" line="370" column="0" />
+        <mark key="]" line="370" column="0" />
+        <mark key="." line="370" column="0" />
+        <mark key="^" line="287" column="9" />
+      </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/gateway/graphql_client.rb" timestamp="1560344800153" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/lib/tasks/penalize_driver.rake" timestamp="1560415952933" />
       <file name="/send_supporters_beginning_notification_job.rb" timestamp="1560416046175" />
@@ -347,31 +354,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQogICAgQG1lc3NhZ2UgfHw9ICfshJztj6zthLDspognCj4+Pj4+Pj4g7ISc7Y+s7YSw7KaIIOy2nOq3vCDsoIQg7JWM66a8KOyXheustOyLnOyekeyLnOqwhCDrr7jsoIHsmqksIOusuOq1rCDsiJjsoJUg7ZWE7JqUKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">CiAgICAgIHByb2R1Y2VfYWNjZXB0ZWRfcHJpY2UoQGNhbGwpCg==</text>
       </register>
       <register name="s" type="4">
         <text>mask_address('경기도 성남시 분당구 판교역로 152 알파돔시티 13층')end</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgZmV0Y2hfc3VwcG9ydGVyc19kcml2ZXJzX2luZm8udHJ5KDpbXSwgOmRyaXZlcnMpLnRyeSg6bWFwKSB7IHxoc2h8IGhzaC50cnkoOltdLCA6ZHJpdmVyX2lkKSB9IHx8IFtdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Pj4+Pj4+PiDshJztj6zthLDspogg7Lac6re8IOyghCDslYzrprwo7JeF66y07Iuc7J6R7Iuc6rCEIOuvuOyggeyaqSwg66y46rWsIOyImOyglSDtlYTsmpQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFsxMDA0ODM4XQo=</text>
+        <text encoding="base64">ICAgICAgcHJvZHVjZV9hY2NlcHRlZF9wcmljZShAY2FsbCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICBwcm9kdWNlX2FjY2VwdGVkX3ByaWNlKHJldHJ5X2NhbGwpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcml2YXRlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>120</text>
