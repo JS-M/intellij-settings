@@ -148,10 +148,11 @@
         <mark key="^" line="287" column="9" />
       </file>
       <file name="$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/activerecord-4.2.11.1/lib/active_record/connection_adapters/abstract/connection_pool.rb" timestamp="1560761535571" />
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/gateway/graphql_client.rb" timestamp="1560762986292">
-        <mark key="]" line="50" column="10" />
-        <mark key="^" line="50" column="10" />
-        <mark key="." line="50" column="10" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/gateway/graphql_client.rb" timestamp="1560764468912">
+        <mark key="[" line="45" column="1" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+        <mark key="^" line="45" column="0" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/lib/tasks/penalize_driver.rake" timestamp="1560415952933" />
       <file name="/send_supporters_beginning_notification_job.rb" timestamp="1560416046175" />
@@ -279,8 +280,8 @@
       <register name="a" type="4">
         <text>, &quot;work_type&quot;: item.WorkType</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>8</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgICAgICAgZGVmIGNvbm5lY3Rpb24KICAgICAgICAgIE5ldDo6SFRUUC5uZXcodXJpLmhvc3QsIHVyaS5wb3J0KS50YXAgZG8gfGNsaWVudHwKICAgICAgICAgICAgY2xpZW50LnVzZV9zc2wgPSB1cmkuc2NoZW1lID09ICJodHRwcyIKICAgICAgICAgIGVuZAogICAgICAgIGVuZAo=</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -299,7 +300,7 @@
         <text encoding="base64">IHx8IGZhcmUgPT0gY29tbWlzc2lvbl9hbW91bnQ=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYnllYnVnCg==</text>
+        <text encoding="base64">CiAgICAgICAgZGVmIGNvbm5lY3Rpb24KICAgICAgICAgIE5ldDo6SFRUUC5uZXcodXJpLmhvc3QsIHVyaS5wb3J0KS50YXAgZG8gfGNsaWVudHwKICAgICAgICAgICAgY2xpZW50LnVzZV9zc2wgPSB1cmkuc2NoZW1lID09ICJodHRwcyIKICAgICAgICAgIGVuZAogICAgICAgIGVuZAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -317,10 +318,10 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBieWVidWcK</text>
+        <text encoding="base64">ICAgICAgYnllYnVnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBieWVidWcK</text>
       </register>
       <register name="s" type="4">
         <text>mask_address('경기도 성남시 분당구 판교역로 152 알파돔시티 13층')end</text>
@@ -329,19 +330,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgIHByb2R1Y2VfYWNjZXB0ZWRfcHJpY2UoQGNhbGwpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgIHByb2R1Y2VfYWNjZXB0ZWRfcHJpY2UoQGNhbGwpCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcHJvZHVjZV9hY2NlcHRlZF9wcmljZShAY2FsbCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcHJvZHVjZV9hY2NlcHRlZF9wcmljZShAY2FsbCkK</text>
       </register>
       <register name=":" type="4">
         <text>120</text>
