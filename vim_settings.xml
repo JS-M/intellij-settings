@@ -70,6 +70,10 @@
         <mark key="^" line="71" column="150" />
         <mark key="." line="71" column="150" />
       </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/config/payroll_policy.go" timestamp="1560748027941" />
+      <file name="/Dummy.txt" timestamp="1560748212445">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/work/get_working_begin_at.go" timestamp="1560315139992">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
