@@ -5,12 +5,6 @@
       <mark key="F" line="79" column="23" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/Makefile" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/views/drivers/_basic_info.html.erb" timestamp="1560415058676">
-        <mark key="[" line="60" column="28" />
-        <mark key="]" line="60" column="60" />
-        <mark key="." line="60" column="60" />
-        <mark key="^" line="60" column="60" />
-      </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/gateway/work_gateway.rb" timestamp="1560500321331">
         <mark key="[" line="85" column="0" />
         <mark key="]" line="85" column="0" />
@@ -24,12 +18,6 @@
         <mark key="^" line="10" column="2" />
         <mark key="." line="10" column="2" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/views/supporters/working_histories.html.erb" timestamp="1560414982546">
-        <mark key="[" line="1" column="33" />
-        <mark key="]" line="1" column="65" />
-        <mark key="^" line="1" column="64" />
-        <mark key="." line="1" column="64" />
-      </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/controllers/supporters_controller.rb" timestamp="1560481415019">
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="0" />
@@ -42,41 +30,23 @@
         <mark key="^" line="8" column="47" />
         <mark key="." line="13" column="43" />
       </file>
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/wheel/clock.rb" timestamp="1560403002515">
+        <mark key="'" line="9" column="48" />
+        <mark key="[" line="15" column="55" />
+        <mark key="]" line="15" column="61" />
+        <mark key="." line="15" column="61" />
+        <mark key="^" line="15" column="61" />
+      </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/concerns/base_list_call.rb" timestamp="1560754426499" />
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/base_controller.rb" timestamp="1560839292697" />
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/lib/tasks/year_end_event_plusfriends_notification.rake" timestamp="1560488225153" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/lib/wheel/clock.rb" timestamp="1560399546907">
         <mark key="[" line="5" column="9" />
         <mark key="]" line="5" column="8" />
         <mark key="^" line="5" column="8" />
         <mark key="." line="5" column="8" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/concerns/base_call.rb" timestamp="1560839438692" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/concerns/base_payment.rb" timestamp="1560497324585" />
       <file name="/calls_controller.rb" timestamp="1560494984321" />
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/jobs/pay_request_job.rb" timestamp="1560497080940" />
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/views/supporters/_working_list.html.erb" timestamp="1560414110056">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/wheel_driver/drivers_controller.rb" timestamp="1560760355853">
-        <mark key="[" line="191" column="46" />
-        <mark key="]" line="191" column="45" />
-        <mark key="^" line="191" column="45" />
-        <mark key="." line="191" column="45" />
-      </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/config/initializers/config.rb" timestamp="1560765429387" />
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/wheel_driver/premium_dispatch_items_controller.rb" timestamp="1560754173206" />
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/super_app_user/calls_controller.rb" timestamp="1560760269007">
-        <mark key="[" line="286" column="0" />
-        <mark key="]" line="286" column="0" />
-        <mark key="." line="286" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/controllers/coupon_abuse_reports_controller.rb" timestamp="1560401668502" />
-      <file name="/Ruby Console" timestamp="1560839105882">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/controllers/drivers_controller.rb" timestamp="1560754505572" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/lib/gateway/work_gateway.rb" timestamp="1560419132651">
         <mark key="[" line="127" column="5" />
@@ -91,7 +61,6 @@
         <mark key="." line="198" column="105" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/wheel_driver/calls_controller.rb" timestamp="1560760432620" />
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/serializers/driver_serializer.rb" timestamp="1560758159677" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/concerns/base_payment_request.rb" timestamp="1560497583535">
         <mark key="[" line="225" column="48" />
         <mark key="]" line="225" column="49" />
@@ -110,11 +79,6 @@
         <mark key="." line="4" column="9" />
         <mark key="^" line="4" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/jobs/send_supporters_beginning_notification_job.rb" timestamp="1560418752759">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/views/drivers/index.html.erb" timestamp="1560411826826" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/views/layouts/_supporters.html.erb" timestamp="1560414611579">
         <mark key="[" line="7" column="58" />
@@ -123,6 +87,65 @@
         <mark key="^" line="7" column="91" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/config/shards.yml" timestamp="1560836275956" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/wheel_user/base_controller.rb" timestamp="1560494619814">
+        <mark key="[" line="30" column="68" />
+        <mark key="]" line="30" column="68" />
+        <mark key="^" line="30" column="68" />
+        <mark key="." line="30" column="68" />
+      </file>
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/wheel/db.rb" timestamp="1560838930873" />
+      <file name="$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/graphql-client-0.2.3/lib/graphql/client/http.rb" timestamp="1560762970659" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/wheel_user/calls_controller.rb" timestamp="1560841275334">
+        <mark key="[" line="165" column="26" />
+        <mark key="]" line="165" column="28" />
+        <mark key="." line="165" column="28" />
+        <mark key="^" line="165" column="28" />
+      </file>
+      <file name="$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/activerecord-4.2.11.1/lib/active_record/connection_adapters/abstract/connection_pool.rb" timestamp="1560761535571" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/lib/tasks/penalize_driver.rake" timestamp="1560415952933" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/config/locales/errors.ko.yml" timestamp="1560492313227" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/concerns/base_open_call_point_request.rb" timestamp="1560497594900">
+        <mark key="[" line="82" column="76" />
+        <mark key="]" line="82" column="75" />
+        <mark key="." line="82" column="75" />
+        <mark key="^" line="82" column="75" />
+      </file>
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/views/drivers/_basic_info.html.erb" timestamp="1560415058676">
+        <mark key="[" line="60" column="28" />
+        <mark key="]" line="60" column="60" />
+        <mark key="." line="60" column="60" />
+        <mark key="^" line="60" column="60" />
+      </file>
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/views/supporters/working_histories.html.erb" timestamp="1560414982546">
+        <mark key="[" line="1" column="33" />
+        <mark key="]" line="1" column="65" />
+        <mark key="^" line="1" column="64" />
+        <mark key="." line="1" column="64" />
+      </file>
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/base_controller.rb" timestamp="1560839292697" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/lib/tasks/year_end_event_plusfriends_notification.rake" timestamp="1560488225153" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/concerns/base_call.rb" timestamp="1560841021938">
+        <mark key="[" line="951" column="12" />
+        <mark key="]" line="951" column="21" />
+        <mark key="^" line="951" column="21" />
+        <mark key="." line="951" column="21" />
+      </file>
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/jobs/pay_request_job.rb" timestamp="1560497080940" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/wheel_driver/drivers_controller.rb" timestamp="1560760355853">
+        <mark key="[" line="191" column="46" />
+        <mark key="]" line="191" column="45" />
+        <mark key="^" line="191" column="45" />
+        <mark key="." line="191" column="45" />
+      </file>
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/config/initializers/config.rb" timestamp="1560765429387" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/wheel_driver/premium_dispatch_items_controller.rb" timestamp="1560754173206" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/tag.rb" timestamp="1560840892964">
+        <mark key="[" line="5" column="52" />
+        <mark key="]" line="5" column="56" />
+        <mark key="." line="5" column="56" />
+        <mark key="^" line="5" column="56" />
+      </file>
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/serializers/driver_serializer.rb" timestamp="1560758159677" />
       <file name="$USER_HOME$/projects/mobility/wheel-deploy/config.yml" timestamp="1560498018332">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="26" column="32" />
@@ -135,12 +158,6 @@
         <mark key="^" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/wheel_user/base_controller.rb" timestamp="1560494619814">
-        <mark key="[" line="30" column="68" />
-        <mark key="]" line="30" column="68" />
-        <mark key="^" line="30" column="68" />
-        <mark key="." line="30" column="68" />
-      </file>
       <file name="$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/graphql-client-0.2.3/lib/graphql/client.rb" timestamp="1560766044871">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -148,25 +165,21 @@
         <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/concerns/base_commission_rule.rb" timestamp="1560821879515" />
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/wheel/db.rb" timestamp="1560838930873" />
-      <file name="$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/graphql-client-0.2.3/lib/graphql/client/http.rb" timestamp="1560762970659" />
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/wheel_user/calls_controller.rb" timestamp="1560495294378">
-        <mark key="[" line="370" column="0" />
-        <mark key="]" line="370" column="0" />
-        <mark key="." line="370" column="0" />
-        <mark key="^" line="287" column="9" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/tag_fetcher.rb" timestamp="1560840860182">
+        <mark key="'" line="1" column="10" />
+        <mark key="[" line="4" column="52" />
+        <mark key="]" line="4" column="54" />
+        <mark key="." line="4" column="54" />
+        <mark key="^" line="4" column="54" />
       </file>
-      <file name="$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/activerecord-4.2.11.1/lib/active_record/connection_adapters/abstract/connection_pool.rb" timestamp="1560761535571" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/gateway/graphql_client.rb" timestamp="1560764468912">
         <mark key="[" line="45" column="1" />
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
         <mark key="^" line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/lib/tasks/penalize_driver.rake" timestamp="1560415952933" />
       <file name="/send_supporters_beginning_notification_job.rb" timestamp="1560416046175" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/wheel/selective_logger.rb" timestamp="1560765532660" />
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/config/locales/errors.ko.yml" timestamp="1560492313227" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/wheel/driver_clock.rb" timestamp="1560399994009">
         <mark key="[" line="0" column="6" />
         <mark key="]" line="0" column="12" />
@@ -175,18 +188,17 @@
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/wheel/supporters.rb" timestamp="1560756766960" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/serializers/super_call_serializer.rb" timestamp="1560760328610" />
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/concerns/base_open_call_point_request.rb" timestamp="1560497594900">
-        <mark key="[" line="82" column="76" />
-        <mark key="]" line="82" column="75" />
-        <mark key="." line="82" column="75" />
-        <mark key="^" line="82" column="75" />
-      </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/wheel/error.rb" timestamp="1560500268082" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/concerns/base_verification_code.rb" timestamp="1560835731352" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/wheel/tag_fetcher.rb" timestamp="1560840115963">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+        <mark key="^" line="0" column="11" />
+      </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/config/puma.rb" timestamp="1560755464305" />
     </filemarks>
     <jumps>
-      <jump line="18" column="102" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/work/supporters_workable_test.go" />
       <jump line="56" column="0" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/work/begin_test.go" />
       <jump line="23" column="14" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/work/workable_zones.go" />
       <jump line="67" column="0" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/work/general_workable_test.go" />
@@ -286,13 +298,14 @@
       <jump line="76" column="37" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/gateway/work_gateway.rb" />
       <jump line="9" column="48" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/wheel/clock.rb" />
       <jump line="13" column="17" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/views/supporters/_working_list.html.erb" />
+      <jump line="1" column="10" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/tag_fetcher.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>, &quot;work_type&quot;: item.WorkType</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgICAgZGVmIGNvbm5lY3Rpb24KICAgICAgICAgIE5ldDo6SFRUUC5uZXcodXJpLmhvc3QsIHVyaS5wb3J0KS50YXAgZG8gfGNsaWVudHwKICAgICAgICAgICAgY2xpZW50LnVzZV9zc2wgPSB1cmkuc2NoZW1lID09ICJodHRwcyIKICAgICAgICAgIGVuZAogICAgICAgIGVuZAo=</text>
+      <register name="&quot;" type="4">
+        <text>@call</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -302,16 +315,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>@call</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IHx8IGZhcmUgPT0gY29tbWlzc2lvbl9hbW91bnQ=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAjIGRlZiB0YWdzCiAgIyAgIHRhZ3MgPSBzZWxmLmtpbmQgPT0gQ2FsbDo6S0lORF9WQUxVRVNbOmFpXSA/IFsnQUknXSA6IFtdCiAgIyAgIGNhbGxfdGFncyA9IEdhdGV3YXk6OlRhZy50YWdzKCd3aGVlbDpjYWxsOicgKyBzZWxmLmlkLnRvX3MpCiAgIyAgIGNhbGxfdGFncy5lYWNoIHsgfGNhbGxfdGFnfCB0YWdzLnB1c2goY2FsbF90YWdbOm5hbWVdKSB9IHVubGVzcyBjYWxsX3RhZ3MubmlsPwogICMgICB0YWdzCiAgIyBlbmQKICAjCiAgIyBkZWYgc3VwcG9ydGVycz8KICAjICAgdGFncy5pbmNsdWRlPygnU1VQUE9SVEVSUycpCiAgIyBlbmQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgZGVmIGNvbm5lY3Rpb24KICAgICAgICAgIE5ldDo6SFRUUC5uZXcodXJpLmhvc3QsIHVyaS5wb3J0KS50YXAgZG8gfGNsaWVudHwKICAgICAgICAgICAgY2xpZW50LnVzZV9zc2wgPSB1cmkuc2NoZW1lID09ICJodHRwcyIKICAgICAgICAgIGVuZAogICAgICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgQGNhbGwKICAgICBwdXRzICdoaScK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -329,31 +342,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYnllYnVnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBieWVidWcK</text>
+        <text encoding="base64">ICBkZWYgdGFncwogICAgdGFncyA9IHNlbGYua2luZCA9PSBDYWxsOjpLSU5EX1ZBTFVFU1s6YWldID8gWydBSSddIDogW10KICAgIGNhbGxfdGFncyA9IEdhdGV3YXk6OlRhZy50YWdzKCd3aGVlbDpjYWxsOicgKyBzZWxmLmlkLnRvX3MpCiAgICBjYWxsX3RhZ3MuZWFjaCB7IHxjYWxsX3RhZ3wgdGFncy5wdXNoKGNhbGxfdGFnWzpuYW1lXSkgfSB1bmxlc3MgY2FsbF90YWdzLm5pbD8KICAgIHRhZ3MKICBlbmQKCiAgZGVmIHN1cHBvcnRlcnM/CiAgICB0YWdzLmluY2x1ZGU/KCdTVVBQT1JURVJTJykKICBlbmQK</text>
       </register>
       <register name="s" type="4">
         <text>mask_address('경기도 성남시 분당구 판교역로 152 알파돔시티 13층')end</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZW5kCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bW9kdWxlIFdoZWVsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgIHByb2R1Y2VfYWNjZXB0ZWRfcHJpY2UoQGNhbGwpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgZGVmIGNvbm5lY3Rpb24KICAgICAgICAgIE5ldDo6SFRUUC5uZXcodXJpLmhvc3QsIHVyaS5wb3J0KS50YXAgZG8gfGNsaWVudHwKICAgICAgICAgICAgY2xpZW50LnVzZV9zc2wgPSB1cmkuc2NoZW1lID09ICJodHRwcyIKICAgICAgICAgIGVuZAogICAgICAgIGVuZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYnllYnVnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcHJvZHVjZV9hY2NlcHRlZF9wcmljZShAY2FsbCkK</text>
+        <text encoding="base64">ICAgICAgICBieWVidWcK</text>
       </register>
       <register name=":" type="4">
         <text>120</text>
