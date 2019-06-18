@@ -95,11 +95,11 @@
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/wheel/db.rb" timestamp="1560838930873" />
       <file name="$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/graphql-client-0.2.3/lib/graphql/client/http.rb" timestamp="1560762970659" />
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/wheel_user/calls_controller.rb" timestamp="1560841275334">
-        <mark key="[" line="165" column="26" />
-        <mark key="]" line="165" column="28" />
-        <mark key="." line="165" column="28" />
-        <mark key="^" line="165" column="28" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/wheel_user/calls_controller.rb" timestamp="1560841671208">
+        <mark key="[" line="351" column="0" />
+        <mark key="]" line="351" column="0" />
+        <mark key="." line="351" column="0" />
+        <mark key="^" line="351" column="0" />
       </file>
       <file name="$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/activerecord-4.2.11.1/lib/active_record/connection_adapters/abstract/connection_pool.rb" timestamp="1560761535571" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/lib/tasks/penalize_driver.rake" timestamp="1560415952933" />
@@ -124,11 +124,12 @@
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/base_controller.rb" timestamp="1560839292697" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/lib/tasks/year_end_event_plusfriends_notification.rake" timestamp="1560488225153" />
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/concerns/base_call.rb" timestamp="1560841021938">
-        <mark key="[" line="951" column="12" />
-        <mark key="]" line="951" column="21" />
-        <mark key="^" line="951" column="21" />
-        <mark key="." line="951" column="21" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/concerns/base_call.rb" timestamp="1560841582265">
+        <mark key="'" line="1109" column="0" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="^" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/jobs/pay_request_job.rb" timestamp="1560497080940" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/wheel_driver/drivers_controller.rb" timestamp="1560760355853">
@@ -144,6 +145,9 @@
         <mark key="]" line="5" column="56" />
         <mark key="." line="5" column="56" />
         <mark key="^" line="5" column="56" />
+      </file>
+      <file name="/Ruby Console" timestamp="1560841441526">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/serializers/driver_serializer.rb" timestamp="1560758159677" />
       <file name="$USER_HOME$/projects/mobility/wheel-deploy/config.yml" timestamp="1560498018332">
@@ -199,8 +203,6 @@
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/config/puma.rb" timestamp="1560755464305" />
     </filemarks>
     <jumps>
-      <jump line="56" column="0" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/work/begin_test.go" />
-      <jump line="23" column="14" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/work/workable_zones.go" />
       <jump line="67" column="0" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/work/general_workable_test.go" />
       <jump line="96" column="24" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/idl/github.kakaocorp.com/driver/work-service/work-service.proto" />
       <jump line="42" column="15" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/work/general_workable_test.go" />
@@ -299,6 +301,8 @@
       <jump line="9" column="48" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/wheel/clock.rb" />
       <jump line="13" column="17" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/views/supporters/_working_list.html.erb" />
       <jump line="1" column="10" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/tag_fetcher.rb" />
+      <jump line="961" column="32" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/concerns/base_call.rb" />
+      <jump line="1109" column="0" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/concerns/base_call.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
