@@ -11,7 +11,10 @@
         <mark key="." line="35" column="35" />
         <mark key="^" line="35" column="35" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/handlers/server.go" timestamp="1560924866607" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/handlers/server.go" timestamp="1560927923672">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="33" column="30" />
+      </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/handlers/work/finish.go" timestamp="1560924423989" />
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/Makefile" timestamp="1560835919312" />
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/mocks/pb/work-report-service/work-report-service.pb.go" timestamp="1560340783343" />
@@ -149,7 +152,7 @@
         <text>, &quot;work_type&quot;: item.WorkType</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJLy8gcGFuaWMgcmVjb3ZlcnkKCQkJZGVmZXIgZnVuYygpIHsKCQkJCWlmIHIgOj0gcmVjb3ZlcigpOyByICE9IG5pbCB7CgkJCQkJbG9nZ2VyLkVycm9yKCJoYW5kbGVyIHBhbmljIGZvdW5kIiwgemFwLkFueSgicmVjb3ZlcmVkIiwgcikpCgkJCQl9CgkJCX0oKQoJCQkvLyBhZGRpbmcgdHJhY2UgaW5mb3JtYXRpb24gaW4gdGhlIGNvbnRleHQKCQkJdCA6PSB0aW1lLk5vdygpCgkJCXJlc3VsdCwgZXJyIDo9IGhhbmRsZXIoZ2V0VHJhY2luZ0NvbnRleHQoY3R4LCBpbmZvLkZ1bGxNZXRob2QpLCByZXEpCgkJCWxvZ2dlci5JbmZvKCJncnBjIGNhbGwgbGF0ZW5jeSIsIHphcC5TdHJpbmcoIm1ldGhvZCIsIGluZm8uRnVsbE1ldGhvZCksIHphcC5BbnkoInJlcXVlc3QiLCByZXEpLCB6YXAuRHVyYXRpb24oImxhdGVuY3kiLCB0aW1lLk5vdygpLlN1Yih0KSkpCgkJCXJldHVybiByZXN1bHQsIGVycgo=</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -165,7 +168,7 @@
         <text encoding="base64">XDwpXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJbG9nZ2VyLkluZm8oImdycGMgY2FsbCBsYXRlbmN5IiwgemFwLlN0cmluZygibWV0aG9kIiwgaW5mby5GdWxsTWV0aG9kKSwgemFwLkFueSgicmVxdWVzdCIsIHJlcSksIHphcC5EdXJhdGlvbigibGF0ZW5jeSIsIHRpbWUuTm93KCkuU3ViKHQpKSkK</text>
+        <text encoding="base64">CQkJLy8gcGFuaWMgcmVjb3ZlcnkKCQkJZGVmZXIgZnVuYygpIHsKCQkJCWlmIHIgOj0gcmVjb3ZlcigpOyByICE9IG5pbCB7CgkJCQkJbG9nZ2VyLkVycm9yKCJoYW5kbGVyIHBhbmljIGZvdW5kIiwgemFwLkFueSgicmVjb3ZlcmVkIiwgcikpCgkJCQl9CgkJCX0oKQoJCQkvLyBhZGRpbmcgdHJhY2UgaW5mb3JtYXRpb24gaW4gdGhlIGNvbnRleHQKCQkJdCA6PSB0aW1lLk5vdygpCgkJCXJlc3VsdCwgZXJyIDo9IGhhbmRsZXIoZ2V0VHJhY2luZ0NvbnRleHQoY3R4LCBpbmZvLkZ1bGxNZXRob2QpLCByZXEpCgkJCWxvZ2dlci5JbmZvKCJncnBjIGNhbGwgbGF0ZW5jeSIsIHphcC5TdHJpbmcoIm1ldGhvZCIsIGluZm8uRnVsbE1ldGhvZCksIHphcC5BbnkoInJlcXVlc3QiLCByZXEpLCB6YXAuRHVyYXRpb24oImxhdGVuY3kiLCB0aW1lLk5vdygpLlN1Yih0KSkpCgkJCXJldHVybiByZXN1bHQsIGVycgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
