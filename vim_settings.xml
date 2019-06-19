@@ -201,11 +201,11 @@
         <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/jobs/pay_request_job.rb" timestamp="1560497080940" />
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/wheel_driver/drivers_controller.rb" timestamp="1560914436604">
-        <mark key="[" line="45" column="23" />
-        <mark key="]" line="45" column="22" />
-        <mark key="^" line="45" column="22" />
-        <mark key="." line="45" column="22" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/wheel_driver/drivers_controller.rb" timestamp="1560920180912">
+        <mark key="[" line="60" column="19" />
+        <mark key="]" line="60" column="19" />
+        <mark key="." line="60" column="19" />
+        <mark key="^" line="60" column="31" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/config/initializers/config.rb" timestamp="1560765429387" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/wheel_driver/premium_dispatch_items_controller.rb" timestamp="1560754173206" />
@@ -283,7 +283,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="15" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/work/general_workable_test.go" />
       <jump line="44" column="13" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/work/workable_zones_test.go" />
       <jump line="78" column="12" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/command-service/kubernetes.yaml" />
       <jump line="94" column="14" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/command-service/kubernetes.yaml" />
@@ -383,13 +382,14 @@
       <jump line="1109" column="0" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/concerns/base_call.rb" />
       <jump line="32" column="28" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/wheel_driver/drivers_controller.rb" />
       <jump line="33" column="24" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/wheel_driver/drivers_controller.rb" />
+      <jump line="40" column="6" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/wheel_driver/drivers_controller.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>, &quot;work_type&quot;: item.WorkType</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgdGFzayA9IEFzeW5jIGRvIHxzdWJ0YXNrfAogICAgICAgIHt9LnRhcCBkbyB8cmVzdWx0fAogICAgICAgICAgcmVzdWx0WzpzdXBwb3J0ZXJzX2RyaXZlcl9pbmZvXSA9IHN1YnRhc2sud2l0aF90aW1lb3V0KDUpIHsgcHV0cyAnMTogJywgVGltZS5ub3cudG9fZjsgYSA9IFdoZWVsOjpTdXBwb3J0ZXJzLnN1cHBvcnRlcnNfZHJpdmVyX2luZm8oY3VycmVudF9hY2NvdW50LmlkKTsgcHV0cyAnMTogJywgVGltZS5ub3cudG9fZjthIH0KICAgICAgICAgIHJlc3VsdFs6d29ya19zdGF0dXNdID0gc3VidGFzay53aXRoX3RpbWVvdXQoNSkgCiAgICAgICAgICByZXN1bHRbOm1vdmVfc3RhdHVzXSA9IHN1YnRhc2sud2l0aF90aW1lb3V0KDUpIAogICAgICAgICAgcmVzdWx0CiAgICAgICAgZW5kCiAgICAgIGVuZAogICAgICByZXN1bHQgPSB0YXNrLndhaXQKCg==</text>
+      <register name="&quot;" type="4">
+        <text>s.</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -399,16 +399,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>s.</text>
       </register>
       <register name="/" type="4">
-        <text>put</text>
+        <text>{</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IHsgcHV0cyAnMTogJywgVGltZS5ub3cudG9fZjsgYSA9IFdoZWVsOjpTdXBwb3J0ZXJzLnN1cHBvcnRlcnNfZHJpdmVyX2luZm8oY3VycmVudF9hY2NvdW50LmlkKTsgcHV0cyAnMTogJywgVGltZS5ub3cudG9fZjthIH0=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB0YXNrLmFzeW5jIHsgfHN8IHB1dHMgImI6ICN7cy5zbGVlcCg1KX0iIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdGFzayA9IEFzeW5jIGRvIHxzdWJ0YXNrfAogICAgICAgIHt9LnRhcCBkbyB8cmVzdWx0fAogICAgICAgICAgcmVzdWx0WzpzdXBwb3J0ZXJzX2RyaXZlcl9pbmZvXSA9IHN1YnRhc2sud2l0aF90aW1lb3V0KDUpIHsgcHV0cyAnMTogJywgVGltZS5ub3cudG9fZjsgYSA9IFdoZWVsOjpTdXBwb3J0ZXJzLnN1cHBvcnRlcnNfZHJpdmVyX2luZm8oY3VycmVudF9hY2NvdW50LmlkKTsgcHV0cyAnMTogJywgVGltZS5ub3cudG9fZjthIH0KICAgICAgICAgIHJlc3VsdFs6d29ya19zdGF0dXNdID0gc3VidGFzay53aXRoX3RpbWVvdXQoNSkgCiAgICAgICAgICByZXN1bHRbOm1vdmVfc3RhdHVzXSA9IHN1YnRhc2sud2l0aF90aW1lb3V0KDUpIAogICAgICAgICAgcmVzdWx0CiAgICAgICAgZW5kCiAgICAgIGVuZAogICAgICByZXN1bHQgPSB0YXNrLndhaXQKCg==</text>
+        <text encoding="base64">ICAgICAgICAgdGFzay5hc3luYyB7IHxzfCBwdXRzIHMuc2xlZXAoMSkgfQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -426,40 +426,41 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0YXNrLmFzeW5jIHtwdXRzInNzOiAje1RpbWUuY3VycmVudC50b19mfSJ9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0YXNrLmFzeW5jIHtwdXRzIHNsZWVwKDEpfQogICAgICAgIHRhc2suYXN5bmMge3B1dHMgc2xlZXAoMSl9Cg==</text>
       </register>
       <register name="s" type="4">
         <text>mask_address('경기도 성남시 분당구 판교역로 152 알파돔시티 13층')end</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIyBzdXBwb3J0ZXJzX2RyaXZlcl9pbmZvID0gV2hlZWw6OlN1cHBvcnRlcnMuc3VwcG9ydGVyc19kcml2ZXJfaW5mbyhjdXJyZW50X2FjY291bnQuaWQpCiAgICAgICMKICAgICAgIyB3b3JrX3N0YXR1cyA9IEdhdGV3YXk6Oldvcmsud29ya19zdGF0dXMoY3VycmVudF9hY2NvdW50LmlkKSByZXNjdWUgbmlsCiAgICAgICMgbW92ZV9zdGF0dXMgPSBHYXRld2F5OjpNb3ZlLmFjdGl2ZV9tb3ZlKEBkcml2ZXIuaWQpWzpzdGF0dXNdIHJlc2N1ZSBuaWwKCg==</text>
+        <text encoding="base64">ICAgICAgICB0YXNrLmFzeW5jIHtwdXRzIHNsZWVwKDEpfQogICAgICAgIHRhc2suYXN5bmMge3B1dHMgc2xlZXAoMSl9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIyBkaXNwYXRjaF9zdGF0dXMgPSBAZHJpdmVyLmRpc3BhdGNoX3N0YXR1cwo=</text>
+        <text encoding="base64">ICAgICAgcHV0cyAiNDogI3tUaW1lLmN1cnJlbnQudG9fZn0iCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgc3VwcG9ydGVyc19kcml2ZXJfaW5mbz1uaWwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgc3VwcG9ydGVyc19kcml2ZXJfaW5mbyA9IG5pbAogICAgICB3b3JrX3N0YXR1cyA9IG5pbAogICAgICBtb3ZlX3N0YXR1cyA9IG5pbAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="8">
+        <text>work_status.wait
+move_status.wait</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdWJ0YXNrLndhaXQK</text>
+        <text encoding="base64">ICAgICAgR2F0ZXdheTo6V29yay53b3JrX3N0YXR1cyhjdXJyZW50X2FjY291bnQuaWQpIAogICAgICBHYXRld2F5OjpNb3ZlLmFjdGl2ZV9tb3ZlKEBkcml2ZXIuaWQpWzpzdGF0dXNdIAo=</text>
       </register>
       <register name=":" type="4">
         <text>120</text>
       </register>
     </registers>
     <search>
-      <last-search>put</last-search>
+      <last-search>{</last-search>
       <last-offset />
-      <last-pattern>put</last-pattern>
+      <last-pattern>{</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDwpXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -467,7 +468,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDwiXD4=</entry>
         <entry>Tru</entry>
         <entry encoding="base64">XDwxXD4=</entry>
         <entry>w</entry>
@@ -487,6 +487,7 @@
         <entry encoding="base64">XDxUb2RheUVuZEF0XD4=</entry>
         <entry encoding="base64">XDwpXD4=</entry>
         <entry>put</entry>
+        <entry>{</entry>
       </history-search>
       <history-cmd>
         <entry>o index.html.erb</entry>
