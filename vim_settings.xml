@@ -16,7 +16,7 @@
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/Makefile" timestamp="1560835919312" />
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/mocks/pb/work-report-service/work-report-service.pb.go" timestamp="1560340783343" />
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/config/payroll_policy.go" timestamp="1560753621097" />
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/command-service/handlers/server.go" timestamp="1560925402866">
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/command-service/handlers/server.go" timestamp="1560927834727">
         <mark key="[" line="29" column="4" />
         <mark key="]" line="29" column="0" />
         <mark key="^" line="29" column="0" />
