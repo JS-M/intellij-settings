@@ -201,11 +201,11 @@
         <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/jobs/pay_request_job.rb" timestamp="1560497080940" />
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/wheel_driver/drivers_controller.rb" timestamp="1560920180912">
-        <mark key="[" line="60" column="19" />
-        <mark key="]" line="60" column="19" />
-        <mark key="." line="60" column="19" />
-        <mark key="^" line="60" column="31" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/wheel_driver/drivers_controller.rb" timestamp="1560933243220">
+        <mark key="[" line="43" column="26" />
+        <mark key="]" line="43" column="25" />
+        <mark key="." line="43" column="25" />
+        <mark key="^" line="43" column="25" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/config/initializers/config.rb" timestamp="1560765429387" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/wheel_driver/premium_dispatch_items_controller.rb" timestamp="1560754173206" />
@@ -221,7 +221,7 @@
         <mark key="." line="5" column="56" />
         <mark key="^" line="5" column="56" />
       </file>
-      <file name="/Ruby Console" timestamp="1560913339535">
+      <file name="/Ruby Console" timestamp="1560933246171">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/serializers/driver_serializer.rb" timestamp="1560758159677" />
@@ -388,8 +388,8 @@
       <register name="a" type="4">
         <text>, &quot;work_type&quot;: item.WorkType</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>s.</text>
+      <register name="&quot;" type="8">
+        <text encoding="base64">dGFzay5hc3luYyB7IA==</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -399,16 +399,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s.</text>
+        <text>task.async</text>
       </register>
       <register name="/" type="4">
         <text>{</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0YXNrLmFzeW5jIHsgfHN8IHB1dHMgImI6ICN7cy5zbGVlcCg1KX0iIH0K</text>
+      <register name="0" type="4">
+        <text encoding="base64">QXN5bmMgeyB8c3VidGFza3wg</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgdGFzay5hc3luYyB7IHxzfCBwdXRzIHMuc2xlZXAoMSkgfQo=</text>
+      <register name="1" type="8">
+        <text encoding="base64">dGFzay5hc3luYyB7IA==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -425,33 +425,32 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0YXNrLmFzeW5jIHtwdXRzInNzOiAje1RpbWUuY3VycmVudC50b19mfSJ9Cg==</text>
+      <register name="2" type="8">
+        <text encoding="base64">dGFzay5hc3luYyB7IA==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0YXNrLmFzeW5jIHtwdXRzIHNsZWVwKDEpfQogICAgICAgIHRhc2suYXN5bmMge3B1dHMgc2xlZXAoMSl9Cg==</text>
+      <register name="3" type="8">
+        <text encoding="base64">fHN1YnRhc2t8IHN1YnRhc2suYXN5bmMgeyAKfHN1YnRhc2t8IHN1YnRhc2suYXN5bmMgeyA=</text>
       </register>
       <register name="s" type="4">
         <text>mask_address('경기도 성남시 분당구 판교역로 152 알파돔시티 13층')end</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0YXNrLmFzeW5jIHtwdXRzIHNsZWVwKDEpfQogICAgICAgIHRhc2suYXN5bmMge3B1dHMgc2xlZXAoMSl9Cg==</text>
+        <text encoding="base64">ICAgICAgICBBc3luYyB7IHdvcmtfc3RhdHVzID0gR2F0ZXdheTo6V29yay53b3JrX3N0YXR1cyhjdXJyZW50X2FjY291bnQuaWQpOyBwdXRzIFRpbWUuY3VycmVudC50b19mIH0KICAgICAgICBBc3luYyBkbyB8dGFza3wKICAgICAgICAgIHRhc2suc2xlZXAgNQogICAgICAgICAgcHV0cyAiSSdtIGRvbmUgc2xlZXBpbmcsIHRpbWUgZm9yIGFjdGlvbiEiCiAgICAgICAgZW5kCiAgICAgICAgQXN5bmMgeyBzdXBwb3J0ZXJzX2RyaXZlcl9pbmZvID0gV2hlZWw6OlN1cHBvcnRlcnMuc3VwcG9ydGVyc19kcml2ZXJfaW5mbyhjdXJyZW50X2FjY291bnQuaWQpOyBwdXRzIFRpbWUuY3VycmVudC50b19mIH0K</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcHV0cyAiNDogI3tUaW1lLmN1cnJlbnQudG9fZn0iCg==</text>
+      <register name="5" type="8">
+        <text encoding="base64">bW92ZV9zdGF0dXMgPSAKbW92ZV9zdGF0dXMgPSAKbW92ZV9zdGF0dXMgPSA=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgc3VwcG9ydGVyc19kcml2ZXJfaW5mbz1uaWwK</text>
+        <text encoding="base64">ICAgICAgICBBc3luYyBkbyB8dGFza3wKICAgICAgICAgIHRhc2suc2xlZXAgNQogICAgICAgICAgcHV0cyAiSSdtIGRvbmUgc2xlZXBpbmcsIHRpbWUgZm9yIGFjdGlvbiEiCiAgICAgICAgZW5kCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgc3VwcG9ydGVyc19kcml2ZXJfaW5mbyA9IG5pbAogICAgICB3b3JrX3N0YXR1cyA9IG5pbAogICAgICBtb3ZlX3N0YXR1cyA9IG5pbAo=</text>
+        <text encoding="base64">ICAgICAgICBBc3luYyB7IHdvcmtfc3RhdHVzID0gR2F0ZXdheTo6V29yay53b3JrX3N0YXR1cyhjdXJyZW50X2FjY291bnQuaWQpOyBwdXRzIFRpbWUuY3VycmVudC50b19mIH0K</text>
       </register>
-      <register name="8" type="8">
-        <text>work_status.wait
-move_status.wait</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBBc3luYyB7IHN1cHBvcnRlcnNfZHJpdmVyX2luZm8gPSBXaGVlbDo6U3VwcG9ydGVycy5zdXBwb3J0ZXJzX2RyaXZlcl9pbmZvKGN1cnJlbnRfYWNjb3VudC5pZCk7IHB1dHMgVGltZS5jdXJyZW50LnRvX2YgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgR2F0ZXdheTo6V29yay53b3JrX3N0YXR1cyhjdXJyZW50X2FjY291bnQuaWQpIAogICAgICBHYXRld2F5OjpNb3ZlLmFjdGl2ZV9tb3ZlKEBkcml2ZXIuaWQpWzpzdGF0dXNdIAo=</text>
+        <text encoding="base64">ICAgICAgICBBc3luYyB7IHdvcmtfc3RhdHVzID0gR2F0ZXdheTo6V29yay53b3JrX3N0YXR1cyhjdXJyZW50X2FjY291bnQuaWQpOyBwdXRzIFRpbWUuY3VycmVudC50b19mIH0K</text>
       </register>
       <register name=":" type="4">
         <text>120</text>
