@@ -15,29 +15,23 @@
         <mark key="^" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/wheel/clock.rb" timestamp="1561010723132">
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/wheel/clock.rb" timestamp="1561015118505">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="19" column="1" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="19" column="0" />
+        <mark key="[" line="28" column="92" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+        <mark key="^" line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/mongoid-5.1.3/lib/mongoid/clients/options.rb" timestamp="1561013432633" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/lib/tasks/year_end_event_plusfriends_notification.rake" timestamp="1561015145848">
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="104" column="0" />
+        <mark key="." line="104" column="0" />
+        <mark key="^" line="104" column="0" />
+      </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/Makefile" timestamp="1560835919312" />
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/zone-service/handlers/zone/server.go" timestamp="1560924988081">
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/concerns/base_call_report.rb" timestamp="1561010292492">
         <mark key="[" line="104" column="11" />
         <mark key="]" line="104" column="23" />
-      </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/handlers/work/get_working_end_at.go" timestamp="1560332544422">
-        <mark key="[" line="15" column="30" />
-        <mark key="]" line="16" column="41" />
-        <mark key="." line="16" column="41" />
-        <mark key="^" line="16" column="41" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/handlers/server.go" timestamp="1560928363546">
         <mark key="[" line="23" column="0" />
@@ -48,6 +42,27 @@
         <mark key="]" line="35" column="35" />
         <mark key="." line="35" column="35" />
         <mark key="^" line="35" column="35" />
+      </file>
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/wheel/supporters.rb" timestamp="1561015545713">
+        <mark key="[" line="65" column="13" />
+        <mark key="]" line="65" column="12" />
+        <mark key="." line="65" column="12" />
+        <mark key="^" line="65" column="12" />
+      </file>
+      <file name="$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/mongoid-5.1.3/lib/mongoid/clients/options.rb" timestamp="1561013432633" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/zone-service/handlers/zone/server.go" timestamp="1560924988081">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
+      </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/handlers/work/get_working_end_at.go" timestamp="1560332544422">
+        <mark key="[" line="15" column="30" />
+        <mark key="]" line="16" column="41" />
+        <mark key="." line="16" column="41" />
+        <mark key="^" line="16" column="41" />
+      </file>
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/wheel_driver/drivers_controller.rb" timestamp="1561015252046">
+        <mark key="[" line="32" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -157,7 +172,7 @@
         <text>, &quot;work_type&quot;: item.WorkType</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgQHN1cHBvcnRlcnNfZW5kX2F0IHVubGVzcyBAc3VwcG9ydGVyc19lbmRfYXQubmlsPwoKICAgICAgdGltZWRfaG91ciA9IFRpbWUucGFyc2Uoc3VwcG9ydGVyc19lbmRfaG91cikKICAgICAgZW5kX2F0ID0gYmVnaW5uaW5nX3RpbWVfdG9kYXkuY2hhbmdlKGhvdXI6IHRpbWVkX2hvdXIuaG91ciwgbWluOiB0aW1lZF9ob3VyLm1pbiwgc2VjOiB0aW1lZF9ob3VyLnNlYykKICAgICAgZW5kX2F0ICs9IDEuZGF5IGlmIGVuZF9hdCA8IHN1cHBvcnRlcnNfYmVnaW5fYXQKICAgICAgQHN1cHBvcnRlcnNfZW5kX2F0ID0gZW5kX2F0Cg==</text>
+        <text encoding="base64">ICAgICAganNvbgo=</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -167,16 +182,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text encoding="base64">anNvbiA9IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgc3VwcG9ydGVyc190aW1lc1s6ZW5kX2F0XQo=</text>
+      <register name="0" type="4">
+        <text>Wheel::Clock.new.supporters_begin_at</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgQHN1cHBvcnRlcnNfZW5kX2F0IHVubGVzcyBAc3VwcG9ydGVyc19lbmRfYXQubmlsPwoKICAgICAgdGltZWRfaG91ciA9IFRpbWUucGFyc2Uoc3VwcG9ydGVyc19lbmRfaG91cikKICAgICAgZW5kX2F0ID0gYmVnaW5uaW5nX3RpbWVfdG9kYXkuY2hhbmdlKGhvdXI6IHRpbWVkX2hvdXIuaG91ciwgbWluOiB0aW1lZF9ob3VyLm1pbiwgc2VjOiB0aW1lZF9ob3VyLnNlYykKICAgICAgZW5kX2F0ICs9IDEuZGF5IGlmIGVuZF9hdCA8IHN1cHBvcnRlcnNfYmVnaW5fYXQKICAgICAgQHN1cHBvcnRlcnNfZW5kX2F0ID0gZW5kX2F0Cg==</text>
+        <text encoding="base64">ICAgICAganNvbgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -194,31 +209,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgQHN1cHBvcnRlcnNfYmVnaW5fYXQgdW5sZXNzIEBzdXBwb3J0ZXJzX2JlZ2luX2F0Lm5pbD8KCiAgICAgIHRpbWVkX2hvdXIgPSBUaW1lLnBhcnNlKHN1cHBvcnRlcnNfYmVnaW5faG91cikKICAgICAgYmVnaW5fYXQgPSBiZWdpbm5pbmdfdGltZV90b2RheS5jaGFuZ2UoaG91cjogdGltZWRfaG91ci5ob3VyLCBtaW46IHRpbWVkX2hvdXIubWluLCBzZWM6IHRpbWVkX2hvdXIuc2VjKQogICAgICBiZWdpbl9hdCArPSAxLmRheSBpZiBiZWdpbl9hdCA8IGJlZ2lubmluZ190aW1lX3RvZGF5CiAgICAgIEBzdXBwb3J0ZXJzX2JlZ2luX2F0ID0gYmVnaW5fYXQK</text>
+        <text encoding="base64">ICAgICAgY2xvY2sgPSBXaGVlbDo6Q2xvY2submV3Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAogICAgICBjbG9jay5zdXBwb3J0ZXJzX2VuZF9hdAo=</text>
       </register>
       <register name="s" type="4">
         <text>mask_address('경기도 성남시 분당구 판교역로 152 알파돔시티 13층')end</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZW5kX2F0ID0gdGltZV9wYXJzZV9mb3JfdG9kYXkoc3VwcG9ydGVyc19lbmRfaG91cikK</text>
+        <text encoding="base64">ICAgIFdoZWVsOjpDbG9jay5uZXcuc3VwcG9ydGVyc19iZWdpbl9hdAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZW5kX2F0ID0gYmVnaW5uaW5nX3RpbWVfdG9kYXkuY2hhbmdlKGhvdXI6IHRpbWVkX2hvdXIuaG91ciwgbWluOiB0aW1lZF9ob3VyLm1pbiwgc2VjOiB0aW1lZF9ob3VyLnNlYykK</text>
+        <text encoding="base64">ICAgICAgQHN1cHBvcnRlcnNfZW5kX2F0IHVubGVzcyBAc3VwcG9ydGVyc19lbmRfYXQubmlsPwoKICAgICAgdGltZWRfaG91ciA9IFRpbWUucGFyc2Uoc3VwcG9ydGVyc19lbmRfaG91cikKICAgICAgZW5kX2F0ID0gYmVnaW5uaW5nX3RpbWVfdG9kYXkuY2hhbmdlKGhvdXI6IHRpbWVkX2hvdXIuaG91ciwgbWluOiB0aW1lZF9ob3VyLm1pbiwgc2VjOiB0aW1lZF9ob3VyLnNlYykKICAgICAgZW5kX2F0ICs9IDEuZGF5IGlmIGVuZF9hdCA8IHN1cHBvcnRlcnNfYmVnaW5fYXQKICAgICAgQHN1cHBvcnRlcnNfZW5kX2F0ID0gZW5kX2F0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgYmVnaW5fYXQgPSBiZWdpbm5pbmdfdGltZV90b2RheS5jaGFuZ2UoaG91cjogdGltZWRfaG91ci5ob3VyLCBtaW46IHRpbWVkX2hvdXIubWluLCBzZWM6IHRpbWVkX2hvdXIuc2VjKQo=</text>
+        <text encoding="base64">ICAgICAgQHN1cHBvcnRlcnNfYmVnaW5fYXQgdW5sZXNzIEBzdXBwb3J0ZXJzX2JlZ2luX2F0Lm5pbD8KCiAgICAgIHRpbWVkX2hvdXIgPSBUaW1lLnBhcnNlKHN1cHBvcnRlcnNfYmVnaW5faG91cikKICAgICAgYmVnaW5fYXQgPSBiZWdpbm5pbmdfdGltZV90b2RheS5jaGFuZ2UoaG91cjogdGltZWRfaG91ci5ob3VyLCBtaW46IHRpbWVkX2hvdXIubWluLCBzZWM6IHRpbWVkX2hvdXIuc2VjKQogICAgICBiZWdpbl9hdCArPSAxLmRheSBpZiBiZWdpbl9hdCA8IGJlZ2lubmluZ190aW1lX3RvZGF5CiAgICAgIEBzdXBwb3J0ZXJzX2JlZ2luX2F0ID0gYmVnaW5fYXQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgZW5kX2F0ID0gdGltZV9wYXJzZV9mb3JfdG9kYXkoc3VwcG9ydGVyc19lbmRfaG91cikK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGluY2x1ZGUgU2luZ2xldG9uCg==</text>
+        <text encoding="base64">ICAgICAgZW5kX2F0ID0gYmVnaW5uaW5nX3RpbWVfdG9kYXkuY2hhbmdlKGhvdXI6IHRpbWVkX2hvdXIuaG91ciwgbWluOiB0aW1lZF9ob3VyLm1pbiwgc2VjOiB0aW1lZF9ob3VyLnNlYykK</text>
       </register>
       <register name=":" type="4">
         <text>120</text>
