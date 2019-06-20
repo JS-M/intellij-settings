@@ -5528,6 +5528,27 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/bson-4.4.2/spec" />
       </excluded>
     </library>
+    <library name="bson (v4.5.0, rbenv: 2.3.8) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bson/4.5.0" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/bson-4.5.0/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/bson-4.5.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/bson-4.5.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bson/4.5.0" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/bson-4.5.0/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/bson-4.5.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/bson-4.5.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/bson-4.5.0/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/bson-4.5.0/spec" />
+      </excluded>
+    </library>
     <library name="builder (v3.2.2, rbenv: 2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/builder-3.2.2/doc" />
