@@ -6,6 +6,9 @@
     </globalmarks>
     <filemarks>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/helpers/call_helper.rb" timestamp="1561528985408" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/lib/gateway/graphql_client.rb" timestamp="1561541456188">
+        <mark key="'" line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/mobility/wheel-deploy/projects/wheel-worker/recipes/deploy.cap" timestamp="1561013338962" />
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/Makefile" timestamp="1561453213479" />
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/docker-compose.local.yaml" timestamp="1560321558403">
@@ -61,6 +64,7 @@
         <mark key="." line="48" column="0" />
         <mark key="^" line="48" column="0" />
       </file>
+      <file name="$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/graphql-client-0.2.3/lib/graphql/client/http.rb" timestamp="1561541462649" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/config/shared/url.yml" timestamp="1561434478998" />
       <file name="$USER_HOME$/projects/mobility/wheel-deploy/recipes/setup.cap" timestamp="1561434288061" />
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-report-service/local-startup.sh" timestamp="1561453510883">
@@ -108,7 +112,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="24" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/idl/github.kakaocorp.com/driver/work-service/work-service.proto" />
       <jump line="42" column="15" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/work/general_workable_test.go" />
       <jump line="44" column="13" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/work/workable_zones_test.go" />
       <jump line="78" column="12" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/command-service/kubernetes.yaml" />
@@ -208,6 +211,7 @@
       <jump line="0" column="16" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/wheel/supporters.rb" />
       <jump line="57" column="4" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/docker-compose.local.yaml" />
       <jump line="28" column="4" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-report-service/docker-compose.local.yaml" />
+      <jump line="5" column="0" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/lib/gateway/graphql_client.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
