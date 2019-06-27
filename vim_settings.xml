@@ -51,11 +51,11 @@
         <mark key="." line="67" column="56" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/factories/coord.go" timestamp="1561533015083" />
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-report-gen-service/services/policy/client.go" timestamp="1561599495917">
-        <mark key="[" line="39" column="57" />
-        <mark key="]" line="39" column="67" />
-        <mark key="." line="39" column="67" />
-        <mark key="^" line="39" column="67" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-report-gen-service/services/policy/client.go" timestamp="1561612499136">
+        <mark key="[" line="38" column="11" />
+        <mark key="]" line="38" column="11" />
+        <mark key="." line="38" column="11" />
+        <mark key="^" line="38" column="11" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-report-service/local-startup.sh" timestamp="1561453510883">
         <mark key="[" line="11" column="0" />
@@ -82,6 +82,7 @@
         <mark key="^" line="12" column="59" />
         <mark key="." line="12" column="59" />
       </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-report-gen-service/handlers/finish/kafka.go" timestamp="1561612576912" />
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/zone-service/services/zone/service.go" timestamp="1561528252637">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -323,7 +324,7 @@
         <text>, &quot;work_type&quot;: item.WorkType</text>
       </register>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>.</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -333,7 +334,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXRyaWNMYWJlbElzRHJpdmVyRG9uZVw+</text>
