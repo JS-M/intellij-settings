@@ -5,6 +5,7 @@
       <mark key="F" line="79" column="23" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/Makefile" protocol="file" />
     </globalmarks>
     <filemarks>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-report-gen-service/handlers/finish/handler.go" timestamp="1561599539088" />
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/work/service.go" timestamp="1561535143598">
         <mark key="[" line="47" column="36" />
         <mark key="]" line="47" column="35" />
@@ -23,7 +24,7 @@
         <mark key="^" line="23" column="20" />
         <mark key="." line="23" column="20" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-report-gen-service/services/workreport/client.go" timestamp="1561543573610">
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-report-gen-service/services/workreport/client.go" timestamp="1561599468964">
         <mark key="'" line="46" column="52" />
         <mark key="[" line="35" column="48" />
         <mark key="]" line="35" column="47" />
@@ -49,11 +50,12 @@
         <mark key="^" line="67" column="56" />
         <mark key="." line="67" column="56" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-report-gen-service/services/policy/client.go" timestamp="1561543590297">
-        <mark key="[" line="62" column="15" />
-        <mark key="]" line="62" column="14" />
-        <mark key="." line="62" column="14" />
-        <mark key="^" line="62" column="14" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/factories/coord.go" timestamp="1561533015083" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-report-gen-service/services/policy/client.go" timestamp="1561599495917">
+        <mark key="[" line="39" column="57" />
+        <mark key="]" line="39" column="67" />
+        <mark key="." line="39" column="67" />
+        <mark key="^" line="39" column="67" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-report-service/local-startup.sh" timestamp="1561453510883">
         <mark key="[" line="11" column="0" />
@@ -320,8 +322,8 @@
       <register name="a" type="4">
         <text>, &quot;work_type&quot;: item.WorkType</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -331,7 +333,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>workreport</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXRyaWNMYWJlbElzRHJpdmVyRG9uZVw+</text>
