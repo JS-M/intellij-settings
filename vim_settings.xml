@@ -11,7 +11,6 @@
         <mark key="." line="26" column="4" />
         <mark key="^" line="26" column="4" />
       </file>
-      <file name="$USER_HOME$/go/pkg/mod/github.com/prometheus/client_golang@v1.0.0/prometheus/registry.go" timestamp="1561957088683" />
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/move-service/services/move/move_canceled.go" timestamp="1561964510403">
         <mark key="'" line="88" column="8" />
         <mark key="[" line="88" column="9" />
@@ -19,7 +18,6 @@
         <mark key="^" line="88" column="8" />
         <mark key="." line="88" column="8" />
       </file>
-      <file name="$USER_HOME$/go/src/github.com/prometheus/client_golang/prometheus/registry.go" timestamp="1561947159961" />
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/move-service/services/move/move_recommended.go" timestamp="1561964433283">
         <mark key="'" line="14" column="18" />
         <mark key="[" line="41" column="0" />
@@ -27,7 +25,6 @@
         <mark key="^" line="43" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/go/pkg/mod/github.kakaocorp.com/driver/go@v0.0.0-20190701024238-0327dff6af30/metrics/prom_metrics.go" timestamp="1561956176640" />
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/move-service/services/move/move_refused.go" timestamp="1561964497122">
         <mark key="'" line="60" column="0" />
         <mark key="[" line="58" column="0" />
@@ -86,6 +83,12 @@
         <mark key="]" line="26" column="54" />
         <mark key="." line="26" column="54" />
         <mark key="^" line="26" column="54" />
+      </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/move-service/services/activity/client.go" timestamp="1561966479568">
+        <mark key="[" line="66" column="42" />
+        <mark key="]" line="66" column="48" />
+        <mark key="^" line="63" column="48" />
+        <mark key="." line="66" column="42" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/move-service/services/move/move_accepted.go" timestamp="1561964514250">
         <mark key="'" line="57" column="0" />
@@ -202,7 +205,7 @@
         <text>, &quot;work_type&quot;: item.WorkType</text>
       </register>
       <register name="&quot;" type="4">
-        <text>commandmove</text>
+        <text>.Inc()</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">CW1ldHJpY0xhYmVscyA6PSBwcm9tZXRoZXVzLkxhYmVsc3sibmFtZSI6ICJjb21tYW5kbW92ZSJ9CglkZWZlciBzLm1ldHJpY3MuRHVyYXRpb24obWV0cmljTGFiZWxzKSgpCglzLm1ldHJpY3MuQ2FsbHMuV2l0aChtZXRyaWNMYWJlbHMpLkluYygpCg==</text>
@@ -224,7 +227,7 @@
         <text>comman</text>
       </register>
       <register name="0" type="4">
-        <text>IsLocated</text>
+        <text>.Inc()</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
