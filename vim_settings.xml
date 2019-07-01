@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="F" line="79" column="23" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/Makefile" protocol="file" />
     </globalmarks>
@@ -49,11 +49,11 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/go/metrics/prom_metrics.go" timestamp="1561946947889">
-        <mark key="[" line="58" column="19" />
-        <mark key="]" line="58" column="25" />
-        <mark key="^" line="58" column="25" />
-        <mark key="." line="58" column="25" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/go/metrics/prom_metrics.go" timestamp="1561957047824">
+        <mark key="[" line="35" column="26" />
+        <mark key="]" line="35" column="26" />
+        <mark key="^" line="35" column="26" />
+        <mark key="." line="35" column="26" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/Makefile" timestamp="1561947041328" />
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/work/resume.go" timestamp="1561622966950">
@@ -82,6 +82,7 @@
         <mark key="^" line="20" column="0" />
         <mark key="." line="220" column="76" />
       </file>
+      <file name="$USER_HOME$/go/pkg/mod/github.com/prometheus/client_golang@v1.0.0/prometheus/registry.go" timestamp="1561956946024" />
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/work/is_driver_done.go" timestamp="1561622849850">
         <mark key="'" line="14" column="4" />
         <mark key="[" line="13" column="21" />
@@ -115,6 +116,7 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="26" column="0" />
       </file>
+      <file name="$USER_HOME$/go/pkg/mod/github.kakaocorp.com/driver/go@v0.0.0-20190701024238-0327dff6af30/metrics/prom_metrics.go" timestamp="1561956176640" />
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/config/payroll_policy.go" timestamp="1561455511151">
         <mark key="[" line="107" column="26" />
         <mark key="]" line="107" column="30" />
@@ -348,8 +350,8 @@
       <register name="a" type="4">
         <text>, &quot;work_type&quot;: item.WorkType</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Z2l0aHViLmtha2FvY29ycC5jb20vZHJpdmVyL2dvIHYwLjAuMC0yMDE5MDYzMDE1NTc0OC05OTU3MThjYjJmODQgaDE6U0dwQmpQcFFvSkl6V3NFcG5ya2d1dUpaazk4SG1BUncrd2VhQzZiTkdJWT0KZ2l0aHViLmtha2FvY29ycC5jb20vZHJpdmVyL2dvIHYwLjAuMC0yMDE5MDYzMDE1NTc0OC05OTU3MThjYjJmODQvZ28ubW9kIGgxOmxzdHp6NTk5VmpTdzRFMTIrSHRBR2Z3dGNxd2tIMnFEWnpXNWNoYzYySGs9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>*</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -359,7 +361,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;github.kakaocorp.com</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>pro</text>
