@@ -100,11 +100,12 @@
         <mark key="^" line="46" column="47" />
         <mark key="." line="46" column="47" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/zone-service/services/zone/service.go" timestamp="1561528252637">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="20" column="23" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/zone-service/services/zone/service.go" timestamp="1561968533114">
+        <mark key="'" line="62" column="18" />
+        <mark key="[" line="83" column="5" />
+        <mark key="]" line="83" column="4" />
+        <mark key="." line="83" column="4" />
+        <mark key="^" line="83" column="4" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-finish-service/handlers/finish/handler.go" timestamp="1561538870051">
         <mark key="[" line="19" column="0" />
@@ -177,6 +178,13 @@
         <mark key="^" line="35" column="26" />
         <mark key="." line="35" column="26" />
       </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/zone-service/services/region/service.go" timestamp="1561968519512">
+        <mark key="'" line="26" column="18" />
+        <mark key="[" line="27" column="48" />
+        <mark key="]" line="27" column="47" />
+        <mark key="^" line="27" column="47" />
+        <mark key="." line="27" column="47" />
+      </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/work/resume.go" timestamp="1561622966950">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -213,12 +221,6 @@
         <mark key="]" line="107" column="30" />
         <mark key="^" line="107" column="30" />
         <mark key="." line="107" column="30" />
-      </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/config/production.yaml" timestamp="1561454998773">
-        <mark key="[" line="5" column="21" />
-        <mark key="]" line="5" column="21" />
-        <mark key="." line="5" column="21" />
-        <mark key="^" line="5" column="23" />
       </file>
       <file name="/Dummy.txt" timestamp="1561946392179">
         <mark key="[" line="0" column="0" />
@@ -288,12 +290,6 @@
         <mark key="^" line="57" column="0" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/config/base.yaml" timestamp="1561455250699">
-        <mark key="[" line="7" column="21" />
-        <mark key="]" line="7" column="21" />
-        <mark key="." line="7" column="21" />
-        <mark key="^" line="7" column="21" />
-      </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/activity/client.go" timestamp="1561625913986">
         <mark key="[" line="21" column="81" />
         <mark key="]" line="21" column="89" />
@@ -314,13 +310,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="43" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/handlers/work/finish.go" />
-      <jump line="158" column="11" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/idl/github.kakaocorp.com/driver/work-service/work-service.proto" />
-      <jump line="108" column="65" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/handlers/work/workable_zones_test.go" />
-      <jump line="106" column="4" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/handlers/work/workable_zones_test.go" />
-      <jump line="107" column="11" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/handlers/work/workable_zones_test.go" />
-      <jump line="93" column="41" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/handlers/work/workable_zones_test.go" />
-      <jump line="109" column="41" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/handlers/work/workable_zones_test.go" />
       <jump line="79" column="0" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/zone-service/handlers/zone/handler.go" />
       <jump line="110" column="0" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/zone-service/handlers/zone/handler_test.go" />
       <jump line="1" column="9" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/zone-service/Makefile" />
@@ -414,13 +403,20 @@
       <jump line="19" column="4" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/command-service/services/connection/client.go" />
       <jump line="0" column="0" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/command-service/services/connection/client.go" />
       <jump line="65" column="56" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/command-service/services/connection/client.go" />
+      <jump line="29" column="4" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/zone-service/services/zone/service.go" />
+      <jump line="74" column="19" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/zone-service/services/zone/service.go" />
+      <jump line="75" column="8" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/zone-service/services/zone/service.go" />
+      <jump line="57" column="0" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/zone-service/services/zone/service.go" />
+      <jump line="59" column="18" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/zone-service/services/zone/service.go" />
+      <jump line="58" column="21" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/zone-service/services/region/service.go" />
+      <jump line="26" column="18" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/zone-service/services/region/service.go" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>, &quot;work_type&quot;: item.WorkType</text>
       </register>
       <register name="&quot;" type="4">
-        <text>policy</text>
+        <text>commandmove</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">CW1ldHJpY0xhYmVscyA6PSBwcm9tZXRoZXVzLkxhYmVsc3sibmFtZSI6ICJjb21tYW5kbW92ZSJ9CglkZWZlciBzLm1ldHJpY3MuRHVyYXRpb24obWV0cmljTGFiZWxzKSgpCglzLm1ldHJpY3MuQ2FsbHMuV2l0aChtZXRyaWNMYWJlbHMpLkluYygpCg==</text>
@@ -436,13 +432,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>policy</text>
+        <text>commandmove</text>
       </register>
       <register name="/" type="4">
-        <text>comm</text>
+        <text>com</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQlzLm1ldHJpY3MuRXJyb3JzLldpdGgobWV0cmljTGFiZWxzKS5JbmMoKQo=</text>
+      <register name="0" type="4">
+        <text>ConvertToRegion</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQlzLm1ldHJpY3MuRXJyb3JzLldpdGgobWV0cmljTGFiZWxzKS5JbmMoKQo=</text>
@@ -500,9 +496,9 @@
       </register>
     </registers>
     <search>
-      <last-search>comm</last-search>
+      <last-search>com</last-search>
       <last-offset />
-      <last-pattern>comm</last-pattern>
+      <last-pattern>com</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDwpXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -510,10 +506,6 @@
     </search>
     <history>
       <history-search>
-        <entry>NT</entry>
-        <entry>es</entry>
-        <entry>mock</entry>
-        <entry>Re</entry>
         <entry>r</entry>
         <entry encoding="base64">XDxUb2RheUVuZEF0XD4=</entry>
         <entry encoding="base64">XDwpXD4=</entry>
@@ -524,12 +516,16 @@
         <entry>get</entry>
         <entry>met</entry>
         <entry>Error</entry>
-        <entry>com</entry>
         <entry>pro</entry>
         <entry>AbleT</entry>
         <entry>comman</entry>
         <entry>move</entry>
+        <entry>pr</entry>
+        <entry>metr</entry>
+        <entry>Is</entry>
         <entry>comm</entry>
+        <entry>Conver</entry>
+        <entry>com</entry>
       </history-search>
       <history-cmd>
         <entry>o index.html.erb</entry>
