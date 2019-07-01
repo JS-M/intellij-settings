@@ -17,6 +17,12 @@
         <mark key="^" line="47" column="35" />
         <mark key="." line="46" column="85" />
       </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/command-service/services/command/dispatch.go" timestamp="1561968030633">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="13" column="65" />
+      </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/work/get_active_driver_count.go" timestamp="1561623293203">
         <mark key="[" line="14" column="40" />
         <mark key="]" line="14" column="39" />
@@ -145,6 +151,13 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="30" column="0" />
       </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/command-service/services/connection/client.go" timestamp="1561968157310">
+        <mark key="'" line="66" column="56" />
+        <mark key="[" line="43" column="27" />
+        <mark key="]" line="43" column="26" />
+        <mark key="^" line="43" column="26" />
+        <mark key="." line="43" column="26" />
+      </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/move-service/repositories/move/repository.go" timestamp="1561962678609">
         <mark key="'" line="42" column="17" />
         <mark key="[" line="66" column="57" />
@@ -244,6 +257,12 @@
         <mark key="^" line="63" column="48" />
         <mark key="." line="66" column="42" />
       </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/command-service/services/command/service.go" timestamp="1561968012646">
+        <mark key="[" line="23" column="73" />
+        <mark key="]" line="23" column="79" />
+        <mark key="." line="23" column="79" />
+        <mark key="^" line="23" column="79" />
+      </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/work/dispatch_status.go" timestamp="1561622565811">
         <mark key="[" line="44" column="28" />
         <mark key="]" line="44" column="27" />
@@ -295,9 +314,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="0" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/handlers/work/get_active_works.go" />
-      <jump line="38" column="0" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/handlers/work/get_current_working_status.go" />
-      <jump line="11" column="15" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/handlers/work/begin.go" />
       <jump line="42" column="43" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/handlers/work/finish.go" />
       <jump line="158" column="11" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/idl/github.kakaocorp.com/driver/work-service/work-service.proto" />
       <jump line="108" column="65" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/handlers/work/workable_zones_test.go" />
@@ -395,13 +411,16 @@
       <jump line="18" column="18" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/auth-service/services/auth/driver.go" />
       <jump line="21" column="4" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/auth-service/services/kapi/client.go" />
       <jump line="87" column="25" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/auth-service/services/kapi/client.go" />
+      <jump line="19" column="4" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/command-service/services/connection/client.go" />
+      <jump line="0" column="0" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/command-service/services/connection/client.go" />
+      <jump line="65" column="56" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/command-service/services/connection/client.go" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>, &quot;work_type&quot;: item.WorkType</text>
       </register>
       <register name="&quot;" type="4">
-        <text>commandmove</text>
+        <text>policy</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">CW1ldHJpY0xhYmVscyA6PSBwcm9tZXRoZXVzLkxhYmVsc3sibmFtZSI6ICJjb21tYW5kbW92ZSJ9CglkZWZlciBzLm1ldHJpY3MuRHVyYXRpb24obWV0cmljTGFiZWxzKSgpCglzLm1ldHJpY3MuQ2FsbHMuV2l0aChtZXRyaWNMYWJlbHMpLkluYygpCg==</text>
@@ -417,16 +436,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>commandmove</text>
+        <text>policy</text>
       </register>
       <register name="/" type="4">
         <text>comm</text>
       </register>
-      <register name="0" type="4">
-        <text>GetAccountByToken</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQlzLm1ldHJpY3MuRXJyb3JzLldpdGgobWV0cmljTGFiZWxzKS5JbmMoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CW1ldHJpY3MgICAgICptZXRyaWNzLk1ldHJpY3MK</text>
+        <text encoding="base64">CQlzLm1ldHJpY3MuRXJyb3JzLldpdGgobWV0cmljTGFiZWxzKS5JbmMoKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -444,7 +463,7 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CW1ldHJpY3MgICAgICptZXRyaWNzLk1ldHJpY3MK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -453,10 +472,10 @@
         <text encoding="base64">CXMubWV0cmljcy5TdWNjZXNzZXMuV2l0aChtZXRyaWNMYWJlbHMpLkluYygpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlzLm1ldHJpY3MuRXJyb3JzLldpdGgobWV0cmljTGFiZWxzKS5JbmMoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlzLm1ldHJpY3MuRXJyb3JzLldpdGgobWV0cmljTGFiZWxzKS5JbmMoKQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -465,13 +484,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWlmIGVyciA9PSBtb25nby5FcnJOb0RvY3VtZW50cyB7CgkJcmV0dXJuIG5pbCwgbmlsCgl9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">CW1ldHJpY3MgICAgICptZXRyaWNzLk1ldHJpY3MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Z2l0aHViLmtha2FvY29ycC5jb20vZHJpdmVyL2dvIHYwLjAuMC0yMDE5MDYyNzAyNDIxOC1kOGY1NjA3ZjFhNDYgaDE6d3JidEpibjZwa0psUm91WGdKWSthaSsvRkJHUXBFOHp4aWhlNUoxb1Bobz0KZ2l0aHViLmtha2FvY29ycC5jb20vZHJpdmVyL2dvIHYwLjAuMC0yMDE5MDYyNzAyNDIxOC1kOGY1NjA3ZjFhNDYvZ28ubW9kIGgxOkV2aHRJdWFvNTgydTJtQ3docFc5SlhsYkpPNGtpNXJKM2trSTlzamZzVFU9CmdpdGh1Yi5rYWthb2NvcnAuY29tL2RyaXZlci9nbyB2MC4wLjAtMjAxOTA2MjcwOTAxMzctY2EwMDIyZWU2NDA4IGgxOnI4M3VlS1FhQU10d1M4VzJxV0tkWnZYOTlMRWVpM3Y3NG11OHhpUjJKbzA9CmdpdGh1Yi5rYWthb2NvcnAuY29tL2RyaXZlci9nbyB2MC4wLjAtMjAxOTA2MjcwOTAxMzctY2EwMDIyZWU2NDA4L2dvLm1vZCBoMTpFdmh0SXVhbzU4MnUybUN3aHBXOUpYbGJKTzRraTVySjNra0k5c2pmc1RVPQo=</text>
+        <text encoding="base64">CWlmIGVyciA9PSBtb25nby5FcnJOb0RvY3VtZW50cyB7CgkJcmV0dXJuIG5pbCwgbmlsCgl9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>120</text>
