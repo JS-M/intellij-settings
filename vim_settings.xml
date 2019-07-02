@@ -107,6 +107,9 @@
         <mark key="." line="5" column="21" />
         <mark key="^" line="5" column="23" />
       </file>
+      <file name="/Dummy.txt" timestamp="1562057444711">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/services/api/client.go" timestamp="1561538582794">
         <mark key="[" line="35" column="48" />
         <mark key="]" line="35" column="47" />
