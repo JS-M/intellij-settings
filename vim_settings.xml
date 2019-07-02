@@ -296,6 +296,12 @@
         <mark key="^" line="107" column="30" />
         <mark key="." line="107" column="30" />
       </file>
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/config/production.yaml" timestamp="1562032466252">
+        <mark key="[" line="5" column="21" />
+        <mark key="]" line="10" column="116" />
+        <mark key="." line="10" column="116" />
+        <mark key="^" line="10" column="116" />
+      </file>
       <file name="/Dummy.txt" timestamp="1561974055411">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="34" />
@@ -499,8 +505,8 @@
       <register name="a" type="4">
         <text>, &quot;work_type&quot;: item.WorkType</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CSJnaXRodWIua2FrYW9jb3JwLmNvbS9kcml2ZXIvcm91dGluZy1zZXJ2aWNlL2NvbmZpZyIK</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">CW1ldHJpY0xhYmVscyA6PSBwcm9tZXRoZXVzLkxhYmVsc3sibmFtZSI6ICJjb21tYW5kbW92ZSJ9CglkZWZlciBzLm1ldHJpY3MuRHVyYXRpb24obWV0cmljTGFiZWxzKSgpCglzLm1ldHJpY3MuQ2FsbHMuV2l0aChtZXRyaWNMYWJlbHMpLkluYygpCg==</text>
@@ -516,7 +522,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>commandmove</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>comm</text>
