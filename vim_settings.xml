@@ -6,17 +6,22 @@
     </globalmarks>
     <filemarks>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/lib/tasks/mongo_to_hdfs.rake" timestamp="1562045837473" />
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/concerns/base_wheel_call.rb" timestamp="1562137448176">
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/concerns/base_wheel_call.rb" timestamp="1562139802587">
         <mark key="'" line="297" column="0" />
+        <mark key="[" line="94" column="79" />
+        <mark key="]" line="94" column="78" />
+        <mark key="^" line="94" column="78" />
+        <mark key="." line="94" column="78" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/concerns/base_call.rb" timestamp="1562135279686">
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/concerns/base_call.rb" timestamp="1562140969517">
         <mark key="'" line="957" column="0" />
-        <mark key="[" line="964" column="22" />
-        <mark key="]" line="964" column="21" />
-        <mark key="^" line="964" column="21" />
-        <mark key="." line="964" column="21" />
+        <mark key="[" line="438" column="32" />
+        <mark key="]" line="440" column="8" />
+        <mark key="^" line="440" column="8" />
+        <mark key="." line="440" column="8" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/concerns/base_payment.rb" timestamp="1562134996851" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/concerns/base_open_call.rb" timestamp="1562140375477" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/wheel/stopover_helper.rb" timestamp="1562054281254" />
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/Makefile" timestamp="1562045761824" />
       <file name="/Dummy.txt" timestamp="1562057444711">
@@ -25,7 +30,7 @@
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/callable.rb" timestamp="1562131039959" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/concerns/base_driver.rb" timestamp="1562046198572" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/wheel/dispatch.rb" timestamp="1562135164518" />
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/wheel_user/calls_controller.rb" timestamp="1562134956268" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/wheel_user/calls_controller.rb" timestamp="1562139636615" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/serializers/super_call_serializer.rb" timestamp="1562054128320">
         <mark key="[" line="3" column="50" />
       </file>
@@ -136,8 +141,8 @@
       <register name="a" type="4">
         <text>, &quot;work_type&quot;: item.WorkType</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBlbmQK</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -147,7 +152,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">Y2FsbC5wYXlfdHlwZSA9IGlmIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXRyaWNMYWJlbElzRHJpdmVyRG9uZVw+</text>
@@ -156,7 +161,7 @@
         <text encoding="base64">CQlzLm1ldHJpY3MuRXJyb3JzLldpdGhMYWJlbFZhbHVlcyhtZXRyaWNMYWJlbCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBlbmQK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -174,31 +179,33 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CSJnaXRodWIua2FrYW9jb3JwLmNvbS9kcml2ZXIvd29yay1yZXBvcnQtc2VydmljZS9tZXRyaWNzIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBlbHNlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGVsc2lmIHNlbGYuaXNfY2FzaF9jYWxsPwogICAgICAgICAgICAgICAgICAgICAgICBQYXltZW50OjpwYXlfdHlwZXNbJ2Nhc2gnXQogICAgICAgICAgICAgICAgICAgICAgZWxzZQogICAgICAgICAgICAgICAgICAgICAgICBQYXltZW50OjpwYXlfdHlwZXNbJ2NhcmQnXQogICAgICAgICAgICAgICAgICAgICAgZW5kCg==</text>
       </register>
       <register name="s" type="4">
         <text>mask_address('경기도 성남시 분당구 판교역로 152 알파돔시티 13층')end</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXJldHVybiAK</text>
+        <text encoding="base64">ICAgIGlmIAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQlyZXR1cm4gZXJyCQo=</text>
+      <register name="5" type="4">
+        <text>if is_biz_call
+                        Payment::pay_types['biz']
+                      els</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBjYWxsLmlzX2E/IE9wZW5DYWxsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXMubWV0cmljcy5FcnJvcnMuV2l0aExhYmVsVmFsdWVzKG1ldHJpY0xhYmVsQmVnaW4pCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CW1ldHJpY3MgKm1ldHJpY3MuTWV0cmljcywK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>120</text>
