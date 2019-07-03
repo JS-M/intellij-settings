@@ -71,12 +71,12 @@
         <mark key="^" line="46" column="47" />
         <mark key="." line="46" column="47" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/zone-service/services/zone/service.go" timestamp="1562138193449">
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/zone-service/services/zone/service.go" timestamp="1562138578720">
         <mark key="'" line="62" column="18" />
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="83" column="4" />
-        <mark key="." line="83" column="4" />
-        <mark key="^" line="83" column="4" />
+        <mark key="[" line="74" column="44" />
+        <mark key="]" line="74" column="43" />
+        <mark key="." line="74" column="43" />
+        <mark key="^" line="74" column="43" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/work/get_work_histories.go" timestamp="1561625007831">
         <mark key="[" line="10" column="0" />
@@ -98,7 +98,7 @@
         <mark key="^" line="126" column="72" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/move-service/services/move/move_completed.go" timestamp="1561964503931">
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/move-service/services/move/move_completed.go" timestamp="1562138527999">
         <mark key="'" line="73" column="0" />
         <mark key="[" line="66" column="9" />
         <mark key="]" line="66" column="8" />
