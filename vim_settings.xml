@@ -71,9 +71,9 @@
         <mark key="^" line="46" column="47" />
         <mark key="." line="46" column="47" />
       </file>
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/zone-service/services/zone/service.go" timestamp="1561968533114">
+      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/zone-service/services/zone/service.go" timestamp="1562138193449">
         <mark key="'" line="62" column="18" />
-        <mark key="[" line="83" column="5" />
+        <mark key="[" line="94" column="0" />
         <mark key="]" line="83" column="4" />
         <mark key="." line="83" column="4" />
         <mark key="^" line="83" column="4" />
