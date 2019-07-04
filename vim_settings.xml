@@ -107,8 +107,11 @@
         <mark key="." line="19" column="46" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/wheel/stopover_helper.rb" timestamp="1562054281254" />
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/config/initializers/mini_profiler.rb" timestamp="1562203623764">
-        <mark key="[" line="4" column="3" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/config/initializers/mini_profiler.rb" timestamp="1562204900039">
+        <mark key="[" line="0" column="3" />
+        <mark key="]" line="0" column="2" />
+        <mark key="^" line="0" column="2" />
+        <mark key="." line="0" column="2" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/work/get_current_working_status.go" timestamp="1561535697810">
         <mark key="[" line="32" column="1" />
@@ -141,7 +144,7 @@
         <mark key="." line="5" column="21" />
         <mark key="^" line="5" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562057444711">
+      <file name="/Dummy.txt" timestamp="1562204898471">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/driver-service/services/api/client.go" timestamp="1561538582794">
@@ -331,7 +334,7 @@
         <text>, &quot;work_type&quot;: item.WorkType</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CnJlcXVpcmUgJ2Nvbm5lY3Rpb25fcG9vbCcKClNlc3Npb25JZC5yZWRpcyA9IENvbm5lY3Rpb25Qb29sLm5ldyhzaXplOiA1LCB0aW1lb3V0OiAzKSB7IFJlZGlzLm5ldyh1cmw6IENPTkZJRy5yZWRpcy5zZXNzaW9uX3JlZGlzX3VybCwgbG9nZ2VyOiBSYWlscy5sb2dnZXIpIH0KUmVkaXM6Ok9iamVjdHMucmVkaXMgPSBDb25uZWN0aW9uUG9vbC5uZXcoc2l6ZTogNSwgdGltZW91dDogMykgeyBSZWRpcy5uZXcodXJsOiBDT05GSUcucmVkaXMub2JqZWN0X3JlZGlzX3VybCwgbG9nZ2VyOiBSYWlscy5sb2dnZXIpIH0KCg==</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -341,7 +344,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>code2</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXRyaWNMYWJlbElzRHJpdmVyRG9uZVw+</text>
@@ -350,7 +353,7 @@
         <text encoding="base64">CQlzLm1ldHJpY3MuRXJyb3JzLldpdGhMYWJlbFZhbHVlcyhtZXRyaWNMYWJlbCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CnJlcXVpcmUgJ2Nvbm5lY3Rpb25fcG9vbCcKClNlc3Npb25JZC5yZWRpcyA9IENvbm5lY3Rpb25Qb29sLm5ldyhzaXplOiA1LCB0aW1lb3V0OiAzKSB7IFJlZGlzLm5ldyh1cmw6IENPTkZJRy5yZWRpcy5zZXNzaW9uX3JlZGlzX3VybCwgbG9nZ2VyOiBSYWlscy5sb2dnZXIpIH0KUmVkaXM6Ok9iamVjdHMucmVkaXMgPSBDb25uZWN0aW9uUG9vbC5uZXcoc2l6ZTogNSwgdGltZW91dDogMykgeyBSZWRpcy5uZXcodXJsOiBDT05GSUcucmVkaXMub2JqZWN0X3JlZGlzX3VybCwgbG9nZ2VyOiBSYWlscy5sb2dnZXIpIH0KCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -368,33 +371,33 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBlbmQK</text>
+        <text encoding="base64">ICB1cmkgPSBVUkkucGFyc2UoRU5WWyJSRURJU19TRVJWRVJfVVJMIl0pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBlbHNlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>mask_address('경기도 성남시 분당구 판교역로 152 알파돔시티 13층')end</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGVsc2lmIHNlbGYuaXNfY2FzaF9jYWxsPwogICAgICAgICAgICAgICAgICAgICAgICBQYXltZW50OjpwYXlfdHlwZXNbJ2Nhc2gnXQogICAgICAgICAgICAgICAgICAgICAgZWxzZQogICAgICAgICAgICAgICAgICAgICAgICBQYXltZW50OjpwYXlfdHlwZXNbJ2NhcmQnXQogICAgICAgICAgICAgICAgICAgICAgZW5kCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBlbmQK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBlbHNlCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGVsc2lmIHNlbGYuaXNfY2FzaF9jYWxsPwogICAgICAgICAgICAgICAgICAgICAgICBQYXltZW50OjpwYXlfdHlwZXNbJ2Nhc2gnXQogICAgICAgICAgICAgICAgICAgICAgZWxzZQogICAgICAgICAgICAgICAgICAgICAgICBQYXltZW50OjpwYXlfdHlwZXNbJ2NhcmQnXQogICAgICAgICAgICAgICAgICAgICAgZW5kCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGlmIAo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>if is_biz_call
                         Payment::pay_types['biz']
                       els</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBjYWxsLmlzX2E/IE9wZW5DYWxsCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBjYWxsLmlzX2E/IE9wZW5DYWxsCg==</text>
       </register>
       <register name=":" type="4">
         <text>120</text>
