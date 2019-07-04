@@ -24,6 +24,12 @@
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/concerns/base_open_call.rb" timestamp="1562140375477" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/wheel/stopover_helper.rb" timestamp="1562054281254" />
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/Makefile" timestamp="1562045761824" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/hcode.rb" timestamp="1562147885052">
+        <mark key="[" line="29" column="3970" />
+        <mark key="]" line="29" column="3959" />
+        <mark key="^" line="29" column="3959" />
+        <mark key="." line="29" column="3959" />
+      </file>
       <file name="/Dummy.txt" timestamp="1562057444711">
         <mark key="[" line="0" column="0" />
       </file>
@@ -141,8 +147,8 @@
       <register name="a" type="4">
         <text>, &quot;work_type&quot;: item.WorkType</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBlbmQK</text>
+      <register name="&quot;" type="4">
+        <text>code2</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -152,7 +158,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y2FsbC5wYXlfdHlwZSA9IGlmIA==</text>
+        <text>code2</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXRyaWNMYWJlbElzRHJpdmVyRG9uZVw+</text>
