@@ -50,6 +50,7 @@
         <mark key="^" line="67" column="56" />
         <mark key="." line="67" column="56" />
       </file>
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/concerns/base_list_call.rb" timestamp="1562226753927" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/concerns/base_call.rb" timestamp="1562140969517">
         <mark key="'" line="957" column="0" />
         <mark key="[" line="438" column="32" />
@@ -132,7 +133,14 @@
         <mark key="^" line="63" column="56" />
         <mark key="." line="63" column="56" />
       </file>
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/wheel_driver/calls_controller.rb" timestamp="1562227705009">
+        <mark key="[" line="50" column="117" />
+        <mark key="]" line="50" column="117" />
+        <mark key="^" line="50" column="117" />
+        <mark key="." line="50" column="117" />
+      </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/hcode.rb" timestamp="1562147885052" />
+      <file name="$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/active_model_serializers-7f25c580d8d6/lib/active_model/serializable_resource.rb" timestamp="1562227380467" />
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/wheel_api/client.go" timestamp="1561534490424">
         <mark key="[" line="52" column="4" />
         <mark key="]" line="52" column="0" />
@@ -199,9 +207,6 @@
         <mark key="]" line="74" column="66" />
         <mark key="^" line="74" column="66" />
         <mark key="." line="74" column="66" />
-      </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/serializers/super_call_serializer.rb" timestamp="1562054128320">
-        <mark key="[" line="3" column="50" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/config/base.yaml" timestamp="1561455250699">
         <mark key="[" line="7" column="21" />
@@ -340,8 +345,8 @@
       <register name="a" type="4">
         <text>, &quot;work_type&quot;: item.WorkType</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBhZ2VudF9lbmFibGVkOiB0cnVlCiAgbW9uaXRvcl9tb2RlOiB0cnVlCg==</text>
+      <register name="&quot;" type="4">
+        <text>.new</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -351,7 +356,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>.new</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXRyaWNMYWJlbElzRHJpdmVyRG9uZVw+</text>
@@ -360,7 +365,7 @@
         <text encoding="base64">CQlzLm1ldHJpY3MuRXJyb3JzLldpdGhMYWJlbFZhbHVlcyhtZXRyaWNMYWJlbCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBhZ2VudF9lbmFibGVkOiB0cnVlCiAgbW9uaXRvcl9tb2RlOiB0cnVlCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNhbGxzOiBjYWxscy5tYXAgeyB8Y2FsbHwgTGlzdENhbGxTZXJpYWxpemVyLm5ldyhjYWxsLCBmYXZvcml0ZV9oY29kZXM6IGZhdm9yaXRlX2hjb2RlcykuYXNfanNvbiB9LAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -377,33 +382,33 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>e
-  d</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNhbGxzOiBjYWxscy5tYXAgeyB8Y2FsbHwgTGlzdENhbGxTZXJpYWxpemVyLm5ldyhjYWxsLCBmYXZvcml0ZV9oY29kZXM6IGZhdm9yaXRlX2hjb2RlcykuYXNfanNvbiB9LAo=</text>
       </register>
-      <register name="3" type="8">
-        <text encoding="base64">ICAKICA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgY2FsbHMuZWFjaCBkbyB8Y2FsbHwKICAgICAgICBMaXN0Q2FsbC5hZGRfYXBwX2NhbGwoY2FsbCkKICAgICAgZW5kCg==</text>
       </register>
       <register name="s" type="4">
         <text>mask_address('경기도 성남시 분당구 판교역로 152 알파돔시티 13층')end</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CnJlcXVpcmUgJ2Nvbm5lY3Rpb25fcG9vbCcKClNlc3Npb25JZC5yZWRpcyA9IENvbm5lY3Rpb25Qb29sLm5ldyhzaXplOiA1LCB0aW1lb3V0OiAzKSB7IFJlZGlzLm5ldyh1cmw6IENPTkZJRy5yZWRpcy5zZXNzaW9uX3JlZGlzX3VybCwgbG9nZ2VyOiBSYWlscy5sb2dnZXIpIH0KUmVkaXM6Ok9iamVjdHMucmVkaXMgPSBDb25uZWN0aW9uUG9vbC5uZXcoc2l6ZTogNSwgdGltZW91dDogMykgeyBSZWRpcy5uZXcodXJsOiBDT05GSUcucmVkaXMub2JqZWN0X3JlZGlzX3VybCwgbG9nZ2VyOiBSYWlscy5sb2dnZXIpIH0KCg==</text>
+        <text encoding="base64">ICBhZ2VudF9lbmFibGVkOiB0cnVlCiAgbW9uaXRvcl9tb2RlOiB0cnVlCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICB1cmkgPSBVUkkucGFyc2UoRU5WWyJSRURJU19TRVJWRVJfVVJMIl0pCg==</text>
+      <register name="5" type="4">
+        <text>e
+  d</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="8">
+        <text encoding="base64">ICAKICA=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBlbmQK</text>
+        <text encoding="base64">CnJlcXVpcmUgJ2Nvbm5lY3Rpb25fcG9vbCcKClNlc3Npb25JZC5yZWRpcyA9IENvbm5lY3Rpb25Qb29sLm5ldyhzaXplOiA1LCB0aW1lb3V0OiAzKSB7IFJlZGlzLm5ldyh1cmw6IENPTkZJRy5yZWRpcy5zZXNzaW9uX3JlZGlzX3VybCwgbG9nZ2VyOiBSYWlscy5sb2dnZXIpIH0KUmVkaXM6Ok9iamVjdHMucmVkaXMgPSBDb25uZWN0aW9uUG9vbC5uZXcoc2l6ZTogNSwgdGltZW91dDogMykgeyBSZWRpcy5uZXcodXJsOiBDT05GSUcucmVkaXMub2JqZWN0X3JlZGlzX3VybCwgbG9nZ2VyOiBSYWlscy5sb2dnZXIpIH0KCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBlbHNlCg==</text>
+        <text encoding="base64">ICB1cmkgPSBVUkkucGFyc2UoRU5WWyJSRURJU19TRVJWRVJfVVJMIl0pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGVsc2lmIHNlbGYuaXNfY2FzaF9jYWxsPwogICAgICAgICAgICAgICAgICAgICAgICBQYXltZW50OjpwYXlfdHlwZXNbJ2Nhc2gnXQogICAgICAgICAgICAgICAgICAgICAgZWxzZQogICAgICAgICAgICAgICAgICAgICAgICBQYXltZW50OjpwYXlfdHlwZXNbJ2NhcmQnXQogICAgICAgICAgICAgICAgICAgICAgZW5kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>120</text>
