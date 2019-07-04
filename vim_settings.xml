@@ -184,11 +184,11 @@
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/concerns/base_driver.rb" timestamp="1562046198572" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/wheel/dispatch.rb" timestamp="1562135164518" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/wheel_user/calls_controller.rb" timestamp="1562139636615" />
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/Gemfile" timestamp="1562203346776">
-        <mark key="[" line="162" column="1" />
-        <mark key="]" line="162" column="0" />
-        <mark key="^" line="162" column="0" />
-        <mark key="." line="162" column="0" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/Gemfile" timestamp="1562229450961">
+        <mark key="[" line="10" column="10" />
+        <mark key="]" line="10" column="9" />
+        <mark key="^" line="10" column="9" />
+        <mark key="." line="10" column="9" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/work/dispatch_status.go" timestamp="1561535405257">
         <mark key="[" line="19" column="65" />
@@ -237,6 +237,12 @@
         <mark key="]" line="72" column="56" />
         <mark key="^" line="72" column="56" />
         <mark key="." line="72" column="56" />
+      </file>
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/config/puma.rb" timestamp="1562229796146">
+        <mark key="[" line="9" column="8" />
+        <mark key="]" line="4" column="15" />
+        <mark key="." line="4" column="15" />
+        <mark key="^" line="4" column="15" />
       </file>
     </filemarks>
     <jumps>
@@ -346,7 +352,7 @@
         <text>, &quot;work_type&quot;: item.WorkType</text>
       </register>
       <register name="&quot;" type="4">
-        <text>.new</text>
+        <text encoding="base64">LCAnfj4gMy40LjAn</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -356,7 +362,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.new</text>
+        <text encoding="base64">LCAnfj4gMy40LjAn</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXRyaWNMYWJlbElzRHJpdmVyRG9uZVw+</text>
