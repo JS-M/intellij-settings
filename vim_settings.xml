@@ -168,9 +168,6 @@
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/wheel_driver/calls_controller.rb" timestamp="1562303854513">
         <mark key="[" line="46" column="0" />
-        <mark key="]" line="47" column="5" />
-        <mark key="^" line="47" column="5" />
-        <mark key="." line="47" column="5" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/hcode.rb" timestamp="1562147885052" />
       <file name="$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/active_model_serializers-7f25c580d8d6/lib/active_model/serializable_resource.rb" timestamp="1562227380467" />
@@ -250,6 +247,9 @@
         <mark key="." line="35" column="69" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/views/tusers/show.html.erb" timestamp="1562234438732" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/serializers/super_call_serializer.rb" timestamp="1562054128320">
+        <mark key="[" line="3" column="50" />
+      </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/config/base.yaml" timestamp="1561455250699">
         <mark key="[" line="7" column="21" />
         <mark key="]" line="7" column="21" />
