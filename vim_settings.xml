@@ -239,11 +239,11 @@
         <mark key="." line="63" column="56" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/hcode.rb" timestamp="1562147885052" />
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/interactions/base_interaction.rb" timestamp="1562579750892">
-        <mark key="[" line="8" column="17" />
-        <mark key="]" line="8" column="16" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/interactions/base_interaction.rb" timestamp="1562636073996">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
         <mark key="^" line="8" column="16" />
-        <mark key="." line="8" column="16" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-insurance/app/services/endorsement_cancel_service.rb" timestamp="1562289161307" />
       <file name="$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/active_interaction-3.6.2/lib/active_interaction/concerns/runnable.rb" timestamp="1562579771044">
@@ -278,11 +278,11 @@
         <mark key="^" line="74" column="66" />
         <mark key="." line="74" column="66" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/interactions/payments/base.rb" timestamp="1562580239805">
-        <mark key="[" line="13" column="13" />
-        <mark key="]" line="13" column="13" />
-        <mark key="^" line="13" column="13" />
-        <mark key="." line="13" column="13" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/interactions/payments/base.rb" timestamp="1562636076299">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="13" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/config/base.yaml" timestamp="1561455250699">
         <mark key="[" line="7" column="21" />
@@ -415,8 +415,8 @@
       <register name="a" type="4">
         <text>, &quot;work_type&quot;: item.WorkType</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>BaseInteraction</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -435,7 +435,7 @@
         <text>BaseInteraction</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgY2xhc3MgT2xkIDwgT2xkQmFzZQogIGVuZAo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -453,31 +453,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIyB0cnVlCg==</text>
+        <text encoding="base64">ICBwcm90ZWN0ZWQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZmFsc2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>mask_address('경기도 성남시 분당구 판교역로 152 알파돔시티 13층')end</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgY2xhc3MgT2xkIDwgT2xkQmFzZQogIGVuZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIyB0cnVlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiBleGVjdXRlCiAgICAgIHB1dHMgJ2hpJwogICAgZW5kCgo=</text>
+        <text encoding="base64">ICAgICAgZmFsc2UK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgY2xhc3MgT2xkIDwgQmFzZQogICAgZGVmIGV4ZWN1dGUKICAgICAgcHV0cyAnaG8nCiAgICBlbmQKCiAgZW5kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgY2xhc3MgT2xkQmFzZSA8IEJhc2VJbnRlcmFjdGlvbgogIGVuZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBleGVjdXRlCiAgICAgIHB1dHMgJ2hpJwogICAgZW5kCgo=</text>
       </register>
       <register name=":" type="4">
         <text>344</text>
