@@ -150,7 +150,6 @@
         <mark key="." line="35" column="26" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/wheel/kakao_checkout_fake_cards.rb" timestamp="1562638797841" />
-      <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/Makefile" timestamp="1562637436443" />
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/work/resume.go" timestamp="1561622966950">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -185,6 +184,7 @@
         <mark key="^" line="17" column="0" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/wheel_user/base_controller.rb" timestamp="1562639933101" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/config/initializers/lograge.rb" timestamp="1562726025387" />
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/policy-service/config/payroll_policy.go" timestamp="1561455511151">
         <mark key="[" line="107" column="26" />
         <mark key="]" line="107" column="30" />
