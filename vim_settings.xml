@@ -78,7 +78,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/interactions/billing/cards/list.rb" timestamp="1563268050424">
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/interactions/billing/cards/list.rb" timestamp="1563269848376">
         <mark key="[" line="55" column="68" />
         <mark key="]" line="55" column="67" />
         <mark key="." line="55" column="67" />
@@ -180,7 +180,7 @@
         <mark key="^" line="5" column="30" />
         <mark key="." line="5" column="30" />
       </file>
-      <file name="/Ruby Console" timestamp="1563265964682">
+      <file name="/Ruby Console" timestamp="1563269903871">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
         <mark key="^" line="0" column="14" />
@@ -215,12 +215,12 @@
         <mark key="^" line="35" column="26" />
         <mark key="." line="35" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/billing_platform/card.rb" timestamp="1563268405414">
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/billing_platform/card.rb" timestamp="1563269835449">
         <mark key="'" line="95" column="0" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="^" line="55" column="45" />
-        <mark key="." line="24" column="0" />
+        <mark key="[" line="27" column="17" />
+        <mark key="]" line="27" column="16" />
+        <mark key="." line="27" column="16" />
+        <mark key="^" line="27" column="16" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/work/resume.go" timestamp="1561622966950">
         <mark key="[" line="18" column="0" />
@@ -240,7 +240,7 @@
         <mark key="." line="42" column="0" />
         <mark key="^" line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/wheel/t_payment_service.rb" timestamp="1563268559833">
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/wheel/t_payment_service.rb" timestamp="1563269135156">
         <mark key="[" line="96" column="29" />
         <mark key="]" line="96" column="28" />
         <mark key="^" line="96" column="28" />
@@ -337,8 +337,13 @@
         <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/gateway/graphql_client.rb" timestamp="1562746163720" />
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/concerns/base_card.rb" timestamp="1563159582371" />
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/wheel/kakao_checkout.rb" timestamp="1563268306051" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/concerns/base_card.rb" timestamp="1563269883569">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="^" line="53" column="58" />
+        <mark key="." line="54" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/wheel/kakao_checkout.rb" timestamp="1563269775610" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/concerns/base_verification_code.rb" timestamp="1563173826436" />
       <file name="$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/lograge-0.3.6/lib/lograge.rb" timestamp="1562746370112" />
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/activity/client.go" timestamp="1561625913986">
@@ -474,7 +479,7 @@
         <text>, &quot;work_type&quot;: item.WorkType</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgYWxpYXNfbWV0aG9kIDpjYXJkX2NvcnBfbmFtZSwgOmNvcnBfbmFtZQo=</text>
+        <text encoding="base64">ICAgICAgUGF5bWVudFNlcnZpY2UuaW5zdGFuY2UuZ2V0X2NhcmRzKGFjY291bnRfaWQsIGlzX3N1cGVyX2FwcCkubWFwIHsgfGVhY2h8IENhcmQuZnJvbV9qc29uKGVhY2gpIH0K</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">CW1ldHJpY0xhYmVscyA6PSBwcm9tZXRoZXVzLkxhYmVsc3sibmFtZSI6ICJjb21tYW5kbW92ZSJ9CglkZWZlciBzLm1ldHJpY3MuRHVyYXRpb24obWV0cmljTGFiZWxzKSgpCglzLm1ldHJpY3MuQ2FsbHMuV2l0aChtZXRyaWNMYWJlbHMpLkluYygpCg==</text>
@@ -490,7 +495,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, is_super: true</text>
+        <text>_app</text>
       </register>
       <register name="/" type="4">
         <text>'</text>
@@ -499,7 +504,7 @@
         <text encoding="base64">ICAgICAgICAgICAgY2FyZHMgPSBCaWxsaW5nUGxhdGZvcm06OkNhcmQuZ2V0X2NhcmRzKGFjY291bnRfaWQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgYWxpYXNfbWV0aG9kIDpjYXJkX2NvcnBfbmFtZSwgOmNvcnBfbmFtZQo=</text>
+        <text encoding="base64">ICAgICAgUGF5bWVudFNlcnZpY2UuaW5zdGFuY2UuZ2V0X2NhcmRzKGFjY291bnRfaWQsIGlzX3N1cGVyX2FwcCkubWFwIHsgfGVhY2h8IENhcmQuZnJvbV9qc29uKGVhY2gpIH0K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -536,34 +541,34 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZGVmIGdldF9jYXJkX2J5X2tleShhdXRvcGF5X2NhcmRfa2V5KQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgYWxpYXNfbWV0aG9kIDpjYXJkX2NvcnBfbmFtZSwgOmNvcnBfbmFtZQo=</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">CXMubWV0cmljcy5TdWNjZXNzZXMuV2l0aChtZXRyaWNMYWJlbHMpLkluYygpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgPSBpc19zdXBlciA/ICdLQUtBT1QnIDogJ1dIRUVMJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgPSBpc19zdXBlciA/ICdLQUtBT1QnIDogJ1dIRUVMJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIOq4sOyhtCDrj5nsnpHsnYAgdmFsaQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">CW1ldHJpY3MgICAgICptZXRyaWNzLk1ldHJpY3MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgICBkZWYgdXBkYXRlX2hhc19jYXJkKGNhcmRzKQogICAgICAgICAgICB1c2VyLmhhc19jYXJkID0gY2FyZHMuY291bnQgPiAwID8gdHJ1ZSA6IGZhbHNlCiAgICAgICAgICAgIGlmIHVzZXIuaGFzX2NhcmRfY2hhbmdlZD8KICAgICAgICAgICAgICB1c2VyLmhhc19jYXJkX2NyZWF0ZWRfYXQgPSBUaW1lLmN1cnJlbnQgaWYgdXNlci5oYXNfY2FyZF9jcmVhdGVkX2F0Lm5pbD8KICAgICAgICAgICAgICB1c2VyLmhhc19jYXJkX3VwZGF0ZWRfYXQgPSBUaW1lLmN1cnJlbnQKICAgICAgICAgICAgICB1c2VyLnNhdmUKICAgICAgICAgICAgZW5kCiAgICAgICAgICBlbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>120</text>
