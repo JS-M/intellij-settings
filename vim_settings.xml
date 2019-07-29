@@ -81,6 +81,7 @@
         <mark key="^" line="3" column="23" />
         <mark key="." line="3" column="20" />
       </file>
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/serializers/card_serializer.rb" timestamp="1564391344971" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/interactions/billing/cards/list.rb" timestamp="1564377988518">
         <mark key="[" line="60" column="0" />
         <mark key="]" line="60" column="0" />
@@ -100,12 +101,12 @@
         <mark key="." line="14" column="34" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/jobs/promotion_reward_job.rb" timestamp="1564376542214" />
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/concerns/base_payment.rb" timestamp="1564379817312">
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/concerns/base_payment.rb" timestamp="1564390957309">
         <mark key="'" line="199" column="0" />
-        <mark key="[" line="198" column="0" />
-        <mark key="]" line="226" column="0" />
-        <mark key="." line="196" column="21" />
-        <mark key="^" line="196" column="21" />
+        <mark key="[" line="510" column="52" />
+        <mark key="]" line="510" column="51" />
+        <mark key="." line="510" column="51" />
+        <mark key="^" line="510" column="51" />
       </file>
       <file name="/calls_controller.rb" timestamp="1564379710682" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/lib/billing_platform/unpaid.rb" timestamp="1564389113468">
@@ -199,6 +200,12 @@
         <mark key="^" line="109" column="84" />
         <mark key="." line="109" column="84" />
       </file>
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/wheel_user/coupons_controller.rb" timestamp="1564391243770">
+        <mark key="[" line="38" column="25" />
+        <mark key="]" line="38" column="24" />
+        <mark key="^" line="38" column="24" />
+        <mark key="." line="38" column="24" />
+      </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/wheel_api/client.go" timestamp="1561625920313">
         <mark key="[" line="61" column="76" />
         <mark key="]" line="61" column="84" />
@@ -238,9 +245,6 @@
         <mark key="." line="19" column="49" />
         <mark key="^" line="19" column="49" />
       </file>
-      <file name="/fragment.rb" timestamp="1564380791707">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/work/get_working_begin_at.go" timestamp="1561622791020">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -272,13 +276,19 @@
         <mark key="^" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/concerns/base_card.rb" timestamp="1564376012225">
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/concerns/base_card.rb" timestamp="1564391350340">
         <mark key="[" line="61" column="60" />
         <mark key="]" line="47" column="22" />
         <mark key="^" line="47" column="22" />
         <mark key="." line="47" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/wheel/kakao_checkout.rb" timestamp="1564330992958" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/config/locales/errors.ko.yml" timestamp="1564391242608" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/wheel/kakao_checkout.rb" timestamp="1564390891023">
+        <mark key="[" line="24" column="8" />
+        <mark key="]" line="24" column="7" />
+        <mark key="^" line="24" column="7" />
+        <mark key="." line="24" column="7" />
+      </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/activity/client.go" timestamp="1561625913986">
         <mark key="[" line="21" column="81" />
         <mark key="]" line="21" column="89" />
@@ -351,6 +361,7 @@
         <mark key="." line="6" column="40" />
         <mark key="^" line="6" column="40" />
       </file>
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/concerns/base_wheel_call.rb" timestamp="1564391619570" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/config/initializers/config.rb" timestamp="1564389111187">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
@@ -469,7 +480,7 @@
         <mark key="^" line="11" column="55" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/config/routes/wheel_user.rb" timestamp="1564335720990" />
-      <file name="/Ruby Console" timestamp="1564389118891">
+      <file name="/Ruby Console" timestamp="1564391322830">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/routing-service/services/routing/service.go" timestamp="1561970598994">
@@ -514,7 +525,12 @@
         <mark key="." line="233" column="0" />
         <mark key="^" line="232" column="115" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/wheel_user/cards_controller.rb" timestamp="1564377955276" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/wheel_user/cards_controller.rb" timestamp="1564391395334">
+        <mark key="[" line="25" column="25" />
+        <mark key="]" line="25" column="51" />
+        <mark key="^" line="25" column="24" />
+        <mark key="." line="25" column="25" />
+      </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/auth-service/services/auth/user.go" timestamp="1561967673074">
         <mark key="[" line="41" column="5" />
         <mark key="]" line="42" column="0" />
@@ -585,10 +601,11 @@
         <mark key="." line="12" column="44" />
         <mark key="^" line="12" column="43" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/lib/billing_platform/card.rb" timestamp="1564389109005">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/lib/billing_platform/card.rb" timestamp="1564391357282">
+        <mark key="[" line="37" column="4" />
+        <mark key="]" line="37" column="3" />
+        <mark key="." line="37" column="3" />
+        <mark key="^" line="37" column="3" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/interactions/billing/payments/collect_unpaid.rb" timestamp="1564369779775">
         <mark key="[" line="6" column="17" />
@@ -722,7 +739,7 @@
         <text>, &quot;work_type&quot;: item.WorkType</text>
       </register>
       <register name="&quot;" type="4">
-        <text>List</text>
+        <text>serializer: CardSerializer</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">CW1ldHJpY0xhYmVscyA6PSBwcm9tZXRoZXVzLkxhYmVsc3sibmFtZSI6ICJjb21tYW5kbW92ZSJ9CglkZWZlciBzLm1ldHJpY3MuRHVyYXRpb24obWV0cmljTGFiZWxzKSgpCglzLm1ldHJpY3MuQ2FsbHMuV2l0aChtZXRyaWNMYWJlbHMpLkluYygpCg==</text>
@@ -738,13 +755,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>List</text>
+        <text>card_corp_display_name</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBMDAwMDAwMDAwMDEzSVQxXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>ChangeCard</text>
+        <text>serializer: CardSerializer</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -793,7 +810,7 @@
         <text encoding="base64">RGlyW1JhaWxzLnJvb3QgKyAnbGliL2JpbGxpbmdfcGxhdGZvcm0vYmFzZS5yYiddLmVhY2ggeyB8ZnwgcmVxdWlyZSBmIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>120</text>
+        <text>145</text>
       </register>
       <register name="z" type="2">
         <text encoding="base64">CQltZXRyaWNzOiAgICAgbWV0cmljcy5HZXRNZXRyaWNzKCJkcml2ZXJfbW92ZV9zZXJ2aWNlX3NlcnZpY2VzX3BvbGljeSIsICJuYW1lIiksCg==</text>
@@ -841,6 +858,8 @@
         <entry>354</entry>
         <entry>34</entry>
         <entry>60</entry>
+        <entry>195</entry>
+        <entry>145</entry>
       </history-cmd>
       <history-expr />
       <history-input />
