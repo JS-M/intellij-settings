@@ -11,12 +11,12 @@
         <mark key="." line="10" column="79" />
         <mark key="^" line="10" column="79" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/super_app_user/payments_controller.rb" timestamp="1564467223719">
-        <mark key="'" line="37" column="5" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/super_app_user/payments_controller.rb" timestamp="1564468065769">
+        <mark key="'" line="34" column="5" />
+        <mark key="[" line="19" column="55" />
+        <mark key="]" line="19" column="54" />
+        <mark key="^" line="19" column="54" />
+        <mark key="." line="19" column="54" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/move-service/services/move/moving.go" timestamp="1561964493916">
         <mark key="[" line="26" column="5" />
@@ -42,11 +42,10 @@
         <mark key="^" line="14" column="39" />
         <mark key="." line="14" column="39" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/serializers/super_payment_serializer.rb" timestamp="1564029930934">
-        <mark key="[" line="86" column="34" />
-        <mark key="]" line="86" column="33" />
-        <mark key="^" line="86" column="33" />
-        <mark key="." line="86" column="33" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/serializers/super_payment_serializer.rb" timestamp="1564468562306">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-report-service/docker-compose.yaml" timestamp="1561442542520">
         <mark key="[" line="43" column="11" />
@@ -568,7 +567,12 @@
         <mark key="." line="12" column="44" />
         <mark key="^" line="12" column="43" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/serializers/super_call_serializer.rb" timestamp="1564466788146" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/serializers/super_call_serializer.rb" timestamp="1564468390721">
+        <mark key="[" line="154" column="5" />
+        <mark key="]" line="154" column="2" />
+        <mark key="^" line="154" column="2" />
+        <mark key="." line="154" column="2" />
+      </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/lib/billing_platform/card.rb" timestamp="1564391357282">
         <mark key="[" line="37" column="4" />
         <mark key="]" line="37" column="3" />
@@ -708,7 +712,7 @@
         <text>, &quot;work_type&quot;: item.WorkType</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBvYmplY3QucGF5X2FwcHJvdmVfbm8gaWYgb2JqZWN0LmlzX2E/KEJpbGxpbmdQbGF0Zm9ybTo6UGF5bWVudCkKCg==</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">CW1ldHJpY0xhYmVscyA6PSBwcm9tZXRoZXVzLkxhYmVsc3sibmFtZSI6ICJjb21tYW5kbW92ZSJ9CglkZWZlciBzLm1ldHJpY3MuRHVyYXRpb24obWV0cmljTGFiZWxzKSgpCglzLm1ldHJpY3MuQ2FsbHMuV2l0aChtZXRyaWNMYWJlbHMpLkluYygpCg==</text>
@@ -724,7 +728,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Payments</text>
+        <text>nil</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBMDAwMDAwMDAwMDEzSVQxXD4=</text>
@@ -733,7 +737,7 @@
         <text>serializer: CardSerializer</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBvYmplY3QucGF5X2FwcHJvdmVfbm8gaWYgb2JqZWN0LmlzX2E/KEJpbGxpbmdQbGF0Zm9ybTo6UGF5bWVudCkKCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -749,34 +753,34 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBvYmplY3QucGFpZF9hdCBpZiBvYmplY3QuaXNfYT8oQmlsbGluZ1BsYXRmb3JtOjpQYXltZW50KQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cmVxdWlyZV9yZWxhdGl2ZSAnLi4vYmlsbGluZ19wbGF0Zm9ybS9iYXNlJwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBvYmplY3QuY29tbWlzc2lvbl9zdXJ0YXhfcHJpY2UgaWYgb2JqZWN0LmlzX2E/KEJpbGxpbmdQbGF0Zm9ybTo6UGF5bWVudCkKCg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">CXMubWV0cmljcy5TdWNjZXNzZXMuV2l0aChtZXRyaWNMYWJlbHMpLkluYygpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">RGlyW1JhaWxzLnJvb3QgKyAnbGliL2JpbGxpbmdfcGxhdGZvcm0vKi5yYiddLmVhY2ggeyB8ZnwgcmVxdWlyZSBmIH0K</text>
+        <text encoding="base64">ICAgIHJldHVybiBvYmplY3QuY29tbWlzc2lvbl9zdXBwbHlfcHJpY2UgaWYgb2JqZWN0LmlzX2E/KEJpbGxpbmdQbGF0Zm9ybTo6UGF5bWVudCkKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBvYmplY3QuZGlzY291bnQgaWYgb2JqZWN0LmlzX2E/KEJpbGxpbmdQbGF0Zm9ybTo6UGF5bWVudCkKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cmVxdWlyZV9yZWxhdGl2ZSAnLi4vYmlsbGluZ19wbGF0Zm9ybS9iYXNlJwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBvYmplY3Quc3RhdHVzIGlmIG9iamVjdC5pc19hPyhCaWxsaW5nUGxhdGZvcm06OlBheW1lbnQpCgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBvYmplY3QuZmFyZSBpZiBvYmplY3QuaXNfYT8oQmlsbGluZ1BsYXRmb3JtOjpQYXltZW50KQoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cmVxdWlyZV9yZWxhdGl2ZSAnLi4vYmlsbGluZ19wbGF0Zm9ybS9iYXNlJwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBvYmplY3Quc3RhdHVzIGlmIG9iamVjdC5pc19hPyhCaWxsaW5nUGxhdGZvcm06OlBheW1lbnQpIAogICAgcmV0dXJuIGJpel9wYXltZW50WzpzdGF0dXNdIGlmIGJpel9wYXltZW50LnByZXNlbnQ/Cg==</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">CW1ldHJpY3MgICAgICptZXRyaWNzLk1ldHJpY3MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">RGlyW1JhaWxzLnJvb3QgKyAnbGliL2JpbGxpbmdfcGxhdGZvcm0vKi5yYiddLmVhY2ggeyB8ZnwgcmVxdWlyZSBmIH0K</text>
+        <text encoding="base64">ICAgIHJldHVybiBvYmplY3QuZmFyZSBpZiBvYmplY3QuaXNfYT8oQmlsbGluZ1BsYXRmb3JtOjpQYXltZW50KQoK</text>
       </register>
       <register name=":" type="4">
         <text>145</text>
