@@ -372,7 +372,8 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/lib/billing_platform/payment.rb" timestamp="1564389099358">
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/lib/billing_platform/payment.rb" timestamp="1564465935531">
+        <mark key="'" line="96" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -618,9 +619,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="18" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/auth-service/services/auth/driver.go" />
-      <jump line="21" column="4" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/auth-service/services/kapi/client.go" />
-      <jump line="87" column="25" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/auth-service/services/kapi/client.go" />
       <jump line="19" column="4" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/command-service/services/connection/client.go" />
       <jump line="0" column="0" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/command-service/services/connection/client.go" />
       <jump line="65" column="56" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/command-service/services/connection/client.go" />
@@ -718,6 +716,9 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/spec/support/mock_server.rb" />
       <jump line="113" column="27" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/spec/support/mock_server.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/billing_platform/payment.rb" />
+      <jump line="82" column="21" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/lib/billing_platform/payment.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/lib/billing_platform/payment.rb" />
+      <jump line="96" column="0" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/lib/billing_platform/payment.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
