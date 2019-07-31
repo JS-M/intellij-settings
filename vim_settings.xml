@@ -303,7 +303,7 @@
         <mark key="^" line="282" column="0" />
         <mark key="." line="282" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/lib/billing_platform/card/fake_cards.rb" timestamp="1564556716421">
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/lib/billing_platform/card/fake_cards.rb" timestamp="1564562152881">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="69" column="15" />
         <mark key="]" line="69" column="15" />
@@ -601,11 +601,11 @@
         <mark key="^" line="154" column="2" />
         <mark key="." line="154" column="2" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/lib/billing_platform/card.rb" timestamp="1564560338260">
-        <mark key="[" line="68" column="35" />
-        <mark key="]" line="68" column="34" />
-        <mark key="." line="68" column="34" />
-        <mark key="^" line="68" column="34" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/lib/billing_platform/card.rb" timestamp="1564562161984">
+        <mark key="[" line="2" column="1" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/interactions/billing/payments/terminate_autopay.rb" timestamp="1564467045772" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/interactions/billing/payments/collect_unpaid.rb" timestamp="1564369779775">
@@ -739,8 +739,8 @@
       <register name="a" type="4">
         <text>, &quot;work_type&quot;: item.WorkType</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>self.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHNpbmdsZXRvbl9jbGFzcy5wcmVwZW5kIEZha2VDYXJkcwoK</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">CW1ldHJpY0xhYmVscyA6PSBwcm9tZXRoZXVzLkxhYmVsc3sibmFtZSI6ICJjb21tYW5kbW92ZSJ9CglkZWZlciBzLm1ldHJpY3MuRHVyYXRpb24obWV0cmljTGFiZWxzKSgpCglzLm1ldHJpY3MuQ2FsbHMuV2l0aChtZXRyaWNMYWJlbHMpLkluYygpCg==</text>
@@ -765,7 +765,7 @@
         <text>cards</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZmFrZV9jYXJkID0gc2VsZi5mYWtlX2NhcmRzLmZpbmQgeyB8Y3wgYy5hdXRvcGF5X2NhcmRfa2V5ID09IGF1dG9wYXlfY2FyZF9rZXkgfQo=</text>
+        <text encoding="base64">ICAgIHNpbmdsZXRvbl9jbGFzcy5wcmVwZW5kIEZha2VDYXJkcwoK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -780,10 +780,8 @@
           <key char="74" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="8">
-        <text>card_
-card_
-card_</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgZmFrZV9jYXJkID0gc2VsZi5mYWtlX2NhcmRzLmZpbmQgeyB8Y3wgYy5hdXRvcGF5X2NhcmRfa2V5ID09IGF1dG9wYXlfY2FyZF9rZXkgfQo=</text>
       </register>
       <register name="3" type="8">
         <text>card_
@@ -798,23 +796,25 @@ card_</text>
 card_
 card_</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZW5kCg==</text>
+      <register name="5" type="8">
+        <text>card_
+card_
+card_</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBtb2R1bGUgCg==</text>
+        <text encoding="base64">ZW5kCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICBtb2R1bGUgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzdHJpbmcgOmRldmljZV9pZGVudGl0eQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">CW1ldHJpY3MgICAgICptZXRyaWNzLk1ldHJpY3MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRlZ2VyIDp1c2VyX2lkCg==</text>
+        <text encoding="base64">ICAgICAgICBzdHJpbmcgOmRldmljZV9pZGVudGl0eQo=</text>
       </register>
       <register name=":" type="4">
         <text>145</text>
