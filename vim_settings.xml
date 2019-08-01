@@ -91,12 +91,12 @@
         <mark key="^" line="14" column="34" />
         <mark key="." line="14" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/concerns/base_payment.rb" timestamp="1564565319695">
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/concerns/base_payment.rb" timestamp="1564638018035">
         <mark key="'" line="131" column="22" />
-        <mark key="[" line="124" column="89" />
-        <mark key="]" line="124" column="88" />
-        <mark key="^" line="124" column="88" />
-        <mark key="." line="124" column="88" />
+        <mark key="[" line="124" column="26" />
+        <mark key="]" line="124" column="25" />
+        <mark key="^" line="124" column="25" />
+        <mark key="." line="124" column="25" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/move-service/services/move/get_active_move.go" timestamp="1561964010504">
         <mark key="[" line="45" column="0" />
@@ -246,11 +246,11 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/wheel_user/calls_controller.rb" timestamp="1564627831824">
-        <mark key="[" line="24" column="74" />
-        <mark key="]" line="24" column="73" />
-        <mark key="." line="24" column="73" />
-        <mark key="^" line="24" column="73" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/wheel_user/calls_controller.rb" timestamp="1564637561527">
+        <mark key="[" line="527" column="7" />
+        <mark key="]" line="527" column="6" />
+        <mark key="." line="527" column="6" />
+        <mark key="^" line="527" column="6" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/move-service/services/activity/client.go" timestamp="1561966479568">
         <mark key="[" line="64" column="42" />
@@ -417,7 +417,7 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="20" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/serializers/call_detail_serializer.rb" timestamp="1564474298813" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/serializers/call_detail_serializer.rb" timestamp="1564637445303" />
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-report-service/local-startup.sh" timestamp="1561453510883">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -473,7 +473,7 @@
         <mark key="." line="11" column="55" />
         <mark key="^" line="11" column="55" />
       </file>
-      <file name="/Ruby Console" timestamp="1564623774797">
+      <file name="/Ruby Console" timestamp="1564637612805">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="^" line="0" column="5" />
@@ -728,7 +728,7 @@
         <text>, &quot;work_type&quot;: item.WorkType</text>
       </register>
       <register name="&quot;" type="4">
-        <text>.includes(:card)</text>
+        <text>?</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">CW1ldHJpY0xhYmVscyA6PSBwcm9tZXRoZXVzLkxhYmVsc3sibmFtZSI6ICJjb21tYW5kbW92ZSJ9CglkZWZlciBzLm1ldHJpY3MuRHVyYXRpb24obWV0cmljTGFiZWxzKSgpCglzLm1ldHJpY3MuQ2FsbHMuV2l0aChtZXRyaWNMYWJlbHMpLkluYygpCg==</text>
@@ -744,16 +744,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.includes(:card)</text>
+        <text>?</text>
       </register>
       <register name="/" type="4">
         <text>create</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">QmlsbGluZzo6Q2FyZHM6OkZpbmQ6OlN1cGVyICAgIA==</text>
+        <text>pay_by_cash?</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+        <text encoding="base64">ICBpc19jYXNoX3BheT8K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -769,34 +769,34 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgaWYgc2VsZi5mYWtlX2NhcmQ/KGF1dG9wYXlfY2FyZF9rZXkpCg==</text>
+        <text encoding="base64">ICAgIFBheW1lbnQucGF5X3R5cGVzWzpjYXNoXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgaWYgYXV0b3BheV9jYXJkX2tleSA9PSBMT0NLWzphdXRvcGF5X2NhcmRfa2V5XQogICAgICAgIHJldHVybiB7ICdzdGF0dXMnID0+IC00MjMgfQogICAgICBlbmQKCg==</text>
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">CXMubWV0cmljcy5TdWNjZXNzZXMuV2l0aChtZXRyaWNMYWJlbHMpLkluYygpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgc2VsZi5mYWtlX2NhcmQ/KGF1dG9wYXlfY2FyZF9rZXkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBFWFBJUkVEID0gewogICAgICAgIGF1dG9wYXlfY2FyZF9rZXk6ICcwMDAwMicsCiAgICAgICAgY2FyZF9jb3JwX2Rpc3BsYXlfbmFtZTogJ+y5tOy5tOyYpCcsCiAgICAgICAgY2FyZF9iaW46ICc5ODc2NScsCiAgICAgICAgY2FyZF9jb3JwX25hbWU6ICdLQUtBTycsCiAgICAgICAgY2FyZF9uYW1lOiAn7Lm07Lm07JikIO2FjOyKpO2KuOy5tOuTnDMnLAogICAgICAgIGNhcmRfbWV0aG9kX3R5cGU6ICfsi6DsmqknLAogICAgICAgIGNhcmRfdXNlcl90eXBlOiAn6rCc7J24JywKICAgICAgICBleHBpcmVfZGF0ZTogJzIwMjAxMDEwJywKICAgICAgICBhdXRvcGF5X3N0YXR1czogJ0VYUElSRUQnCiAgICB9CgogICAgTE9DSyA9IHsKICAgICAgICBhdXRvcGF5X2NhcmRfa2V5OiAnMDAwMDMnLAogICAgICAgIGNhcmRfY29ycF9kaXNwbGF5X25hbWU6ICfsubTsubTsmKQnLAogICAgICAgIGNhcmRfYmluOiAnMjM0NTYnLAogICAgICAgIGNhcmRfY29ycF9uYW1lOiAnS0FLQU8nLAogICAgICAgIGNhcmRfbmFtZTogJ+y5tOy5tOyYpCDthYzsiqTtirjsubTrk5w0JywKICAgICAgICBjYXJkX21ldGhvZF90eXBlOiAn7Iug7JqpJywKICAgICAgICBjYXJkX3VzZXJfdHlwZTogJ+qwnOyduCcsCiAgICAgICAgZXhwaXJlX2RhdGU6ICcyMDIwMTAxMCcsCiAgICAgICAgIyBhdXRvcGF5X3N0YXR1czogJ0hPTEQnCiAgICAgICAgYXV0b3BheV9zdGF0dXM6ICdPSycKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgaWYgYXV0b3BheV9jYXJkX2tleSA9PSBMT0NLWzphdXRvcGF5X2NhcmRfa2V5XQogICAgICAgIHJldHVybiB7ICdzdGF0dXMnID0+IC00MjMgfQogICAgICBlbmQKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgIyBkZWYgY2FyZAogICMgICBTZXJpYWxpemFibGUgQmlsbGluZ1BsYXRmb3JtOjpDYXJkKAogICMgZW5kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGhhc19vbmUgOmNhcmQsIGZvcmVpZ25fa2V5OiAnYXV0b3BheV9jYXJkX2tleScsIHByaW1hcnlfa2V5OiAnYXV0b3BheV9jYXJkX2tleScK</text>
+        <text encoding="base64">CiAgICBFWFBJUkVEID0gewogICAgICAgIGF1dG9wYXlfY2FyZF9rZXk6ICcwMDAwMicsCiAgICAgICAgY2FyZF9jb3JwX2Rpc3BsYXlfbmFtZTogJ+y5tOy5tOyYpCcsCiAgICAgICAgY2FyZF9iaW46ICc5ODc2NScsCiAgICAgICAgY2FyZF9jb3JwX25hbWU6ICdLQUtBTycsCiAgICAgICAgY2FyZF9uYW1lOiAn7Lm07Lm07JikIO2FjOyKpO2KuOy5tOuTnDMnLAogICAgICAgIGNhcmRfbWV0aG9kX3R5cGU6ICfsi6DsmqknLAogICAgICAgIGNhcmRfdXNlcl90eXBlOiAn6rCc7J24JywKICAgICAgICBleHBpcmVfZGF0ZTogJzIwMjAxMDEwJywKICAgICAgICBhdXRvcGF5X3N0YXR1czogJ0VYUElSRUQnCiAgICB9CgogICAgTE9DSyA9IHsKICAgICAgICBhdXRvcGF5X2NhcmRfa2V5OiAnMDAwMDMnLAogICAgICAgIGNhcmRfY29ycF9kaXNwbGF5X25hbWU6ICfsubTsubTsmKQnLAogICAgICAgIGNhcmRfYmluOiAnMjM0NTYnLAogICAgICAgIGNhcmRfY29ycF9uYW1lOiAnS0FLQU8nLAogICAgICAgIGNhcmRfbmFtZTogJ+y5tOy5tOyYpCDthYzsiqTtirjsubTrk5w0JywKICAgICAgICBjYXJkX21ldGhvZF90eXBlOiAn7Iug7JqpJywKICAgICAgICBjYXJkX3VzZXJfdHlwZTogJ+qwnOyduCcsCiAgICAgICAgZXhwaXJlX2RhdGU6ICcyMDIwMTAxMCcsCiAgICAgICAgIyBhdXRvcGF5X3N0YXR1czogJ0hPTEQnCiAgICAgICAgYXV0b3BheV9zdGF0dXM6ICdPSycKICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgYWxpYXNfYXR0cmlidXRlIDpkaXNwbGF5X25hbWUsIDpjb3JwX2Rpc3BsYXlfbmFtZQo=</text>
+        <text encoding="base64">CiAgIyBkZWYgY2FyZAogICMgICBTZXJpYWxpemFibGUgQmlsbGluZ1BsYXRmb3JtOjpDYXJkKAogICMgZW5kCg==</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">CW1ldHJpY3MgICAgICptZXRyaWNzLk1ldHJpY3MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaWYgYnVzaW5lc3NfY2FyZD8K</text>
+        <text encoding="base64">ICAgIGhhc19vbmUgOmNhcmQsIGZvcmVpZ25fa2V5OiAnYXV0b3BheV9jYXJkX2tleScsIHByaW1hcnlfa2V5OiAnYXV0b3BheV9jYXJkX2tleScK</text>
       </register>
       <register name=":" type="4">
         <text>145</text>
