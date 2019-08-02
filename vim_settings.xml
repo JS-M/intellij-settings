@@ -243,8 +243,11 @@
         <mark key="." line="10" column="116" />
         <mark key="^" line="10" column="116" />
       </file>
-      <file name="/fragment.rb" timestamp="1564564245103">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/models/driver.rb" timestamp="1564723893473">
+        <mark key="[" line="276" column="5" />
+        <mark key="]" line="276" column="4" />
+        <mark key="^" line="276" column="4" />
+        <mark key="." line="276" column="4" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/work/get_working_begin_at.go" timestamp="1561622791020">
         <mark key="[" line="9" column="0" />
