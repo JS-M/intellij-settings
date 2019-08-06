@@ -405,7 +405,7 @@
         <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-deploy/projects/wheel-api/config/deploy/real-driver.rb" timestamp="1564999609783" />
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/lib/billing_platform/payment.rb" timestamp="1564995829884">
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/lib/billing_platform/payment.rb" timestamp="1565080737599">
         <mark key="'" line="98" column="0" />
         <mark key="[" line="82" column="33" />
         <mark key="]" line="82" column="37" />
@@ -673,7 +673,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="125" column="0" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/routing-service/services/dispatch/service.go" />
       <jump line="24" column="18" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/routing-service/services/dispatch/service.go" />
       <jump line="32" column="4" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/routing-service/services/data/service.go" />
       <jump line="245" column="76" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/routing-service/services/data/service.go" />
@@ -749,7 +748,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/spec/support/mock_server.rb" />
       <jump line="113" column="27" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/spec/support/mock_server.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/billing_platform/payment.rb" />
-      <jump line="82" column="21" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/lib/billing_platform/payment.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/lib/billing_platform/payment.rb" />
       <jump line="96" column="0" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/lib/billing_platform/payment.rb" />
       <jump line="0" column="27" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/card.rb" />
@@ -773,6 +771,8 @@
       <jump line="102" column="5" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/lib/billing_platform/card/fake_cards.rb" />
       <jump line="137" column="0" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/lib/billing_platform/card/fake_cards.rb" />
       <jump line="1" column="0" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/lib/billing_platform/card/fake_cards.rb" />
+      <jump line="82" column="37" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/lib/billing_platform/payment.rb" />
+      <jump line="98" column="0" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/lib/billing_platform/payment.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
