@@ -105,7 +105,7 @@
         <mark key="^" line="14" column="34" />
         <mark key="." line="14" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/concerns/base_payment.rb" timestamp="1565597083353">
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/concerns/base_payment.rb" timestamp="1565598141505">
         <mark key="'" line="544" column="0" />
         <mark key="[" line="178" column="18" />
         <mark key="]" line="178" column="17" />
@@ -540,6 +540,7 @@
         <mark key="." line="42" column="0" />
         <mark key="^" line="42" column="42" />
       </file>
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/wheel/gis.rb" timestamp="1565598438879" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/config/newrelic.yml" timestamp="1565232361326">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -682,11 +683,11 @@
         <mark key="^" line="154" column="2" />
         <mark key="." line="154" column="2" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/price.rb" timestamp="1565597095262">
-        <mark key="[" line="11" column="7" />
-        <mark key="]" line="12" column="3" />
-        <mark key="^" line="12" column="3" />
-        <mark key="." line="12" column="3" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/price.rb" timestamp="1565597856326">
+        <mark key="[" line="13" column="11" />
+        <mark key="]" line="13" column="14" />
+        <mark key="^" line="13" column="14" />
+        <mark key="." line="13" column="14" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/lib/billing_platform/card.rb" timestamp="1564995841916">
         <mark key="[" line="92" column="18" />
@@ -828,7 +829,7 @@
         <text>, &quot;work_type&quot;: item.WorkType</text>
       </register>
       <register name="&quot;" type="4">
-        <text>if fixed_fare</text>
+        <text>meter_fare</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">CW1ldHJpY0xhYmVscyA6PSBwcm9tZXRoZXVzLkxhYmVsc3sibmFtZSI6ICJjb21tYW5kbW92ZSJ9CglkZWZlciBzLm1ldHJpY3MuRHVyYXRpb24obWV0cmljTGFiZWxzKSgpCglzLm1ldHJpY3MuQ2FsbHMuV2l0aChtZXRyaWNMYWJlbHMpLkluYygpCg==</text>
@@ -844,7 +845,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>if fixed_fare</text>
+        <text>meter_fare</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3b3JrZXJcPg==</text>
