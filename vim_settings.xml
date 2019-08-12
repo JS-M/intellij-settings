@@ -104,8 +104,8 @@
         <mark key="^" line="14" column="34" />
         <mark key="." line="14" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/concerns/base_payment.rb" timestamp="1565594044732">
-        <mark key="'" line="131" column="22" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/concerns/base_payment.rb" timestamp="1565594832853">
+        <mark key="'" line="544" column="0" />
         <mark key="[" line="438" column="63" />
         <mark key="]" line="439" column="5" />
         <mark key="^" line="439" column="5" />
@@ -710,8 +710,6 @@
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/wheel/connection.rb" timestamp="1565339869158" />
     </filemarks>
     <jumps>
-      <jump line="268" column="0" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/routing-service/services/data/service.go" />
-      <jump line="43" column="18" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/routing-service/services/data/service.go" />
       <jump line="47" column="64" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/routing-service/services/data/service.go" />
       <jump line="20" column="4" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/routing-service/services/command/service.go" />
       <jump line="46" column="18" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/routing-service/services/command/service.go" />
@@ -810,6 +808,8 @@
       <jump line="19" column="72" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/config/newrelic.yml" />
       <jump line="19" column="27" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/config/newrelic.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/controllers/drivers_controller.rb" />
+      <jump line="8" column="30" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/concerns/base_payment.rb" />
+      <jump line="544" column="0" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/concerns/base_payment.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
