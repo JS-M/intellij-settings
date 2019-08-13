@@ -112,6 +112,12 @@
         <mark key="^" line="448" column="5" />
         <mark key="." line="449" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/interactions/producers/base.rb" timestamp="1565603538595">
+        <mark key="[" line="33" column="83" />
+        <mark key="]" line="33" column="83" />
+        <mark key="^" line="33" column="83" />
+        <mark key="." line="33" column="83" />
+      </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/pay_info.rb" timestamp="1565589870707">
         <mark key="[" line="0" column="13" />
         <mark key="]" line="0" column="12" />
@@ -136,6 +142,12 @@
         <mark key="]" line="50" column="115" />
         <mark key="." line="50" column="115" />
         <mark key="^" line="50" column="115" />
+      </file>
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/avro/schema/wheel/billing/pay.avsc" timestamp="1565603235841">
+        <mark key="[" line="14" column="1" />
+        <mark key="]" line="14" column="1" />
+        <mark key="^" line="14" column="1" />
+        <mark key="." line="14" column="1" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/serializers/unpaid_payment_serializer.rb" timestamp="1564564843923">
         <mark key="[" line="0" column="1" />
@@ -432,6 +444,12 @@
         <mark key="^" line="28" column="86" />
         <mark key="." line="28" column="86" />
       </file>
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/avro/schema/wheel/billing/order.avsc" timestamp="1565603207698">
+        <mark key="[" line="10" column="1" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/jobs/pay_disconnect_job.rb" timestamp="1563772518124">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="21" column="9" />
@@ -532,6 +550,12 @@
         <mark key="]" line="19" column="57" />
         <mark key="." line="19" column="57" />
         <mark key="^" line="19" column="57" />
+      </file>
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/avro/schema/wheel/billing/invoice.avsc" timestamp="1565602943068">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/cards_controller.rb" timestamp="1564476100908" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/config/initializers/config.rb" timestamp="1564389084465">
@@ -829,8 +853,8 @@
       <register name="a" type="4">
         <text>, &quot;work_type&quot;: item.WorkType</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlmIGZpeGVkX2ZhcmUKICAgICAgZmFyZSArPSBzdG9wb3Zlcl9mYXJlCiAgICBlbHNlCiAgICAgIGZhcmUgPSAobWV0ZXJfZmFyZSA9PSAwID8gZXN0aW1hdGVkX2ZhcmUgOiBtZXRlcl9mYXJlKQogICAgZW5kCgo=</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">CW1ldHJpY0xhYmVscyA6PSBwcm9tZXRoZXVzLkxhYmVsc3sibmFtZSI6ICJjb21tYW5kbW92ZSJ9CglkZWZlciBzLm1ldHJpY3MuRHVyYXRpb24obWV0cmljTGFiZWxzKSgpCglzLm1ldHJpY3MuQ2FsbHMuV2l0aChtZXRyaWNMYWJlbHMpLkluYygpCg==</text>
@@ -846,7 +870,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>meter_fare</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3b3JrZXJcPg==</text>
