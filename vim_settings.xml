@@ -196,6 +196,7 @@
         <mark key="^" line="194" column="18" />
         <mark key="." line="194" column="18" />
       </file>
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/super_user.rb" timestamp="1565774496017" />
       <file name="$USER_HOME$/go/pkg/mod/github.kakaocorp.com/driver/go@v0.0.0-20190627090137-ca0022ee6408/metrics/prom_metrics.go" timestamp="1561628763509">
         <mark key="[" line="32" column="59" />
         <mark key="]" line="33" column="19" />
@@ -641,11 +642,6 @@
         <mark key="^" line="232" column="115" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/wheel_user/cards_controller.rb" timestamp="1564712978040" />
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/lib/billing_platform/price.rb" timestamp="1565596570278">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/auth-service/services/auth/user.go" timestamp="1561967673074">
         <mark key="[" line="41" column="5" />
         <mark key="]" line="42" column="0" />
