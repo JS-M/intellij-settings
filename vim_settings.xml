@@ -556,6 +556,12 @@
         <mark key="." line="19" column="57" />
         <mark key="^" line="19" column="57" />
       </file>
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/interactions/calls/list.rb" timestamp="1565758909882">
+        <mark key="[" line="28" column="78" />
+        <mark key="]" line="28" column="77" />
+        <mark key="." line="28" column="77" />
+        <mark key="^" line="28" column="77" />
+      </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/avro/schema/wheel/billing/invoice.avsc" timestamp="1565602943068">
         <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="0" />
@@ -862,8 +868,8 @@
       <register name="a" type="4">
         <text>, &quot;work_type&quot;: item.WorkType</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgZmFyZSA9IChSYWlscy5lbnYuZGV2ZWxvcG1lbnQ/IGFuZCBmb3JjZWRfZmFyZSkgPyBmb3JjZWRfZmFyZSA6IGZhcmUKCiAgICAgIGNvbW1pc3Npb25fcnVsZSA9IENvbW1pc3Npb25SdWxlLmdldF9jb21taXNzaW9uX3J1bGUoeyBjYWxsOiBjYWxsIH0pCiAgICAgIGlmIHBheW1lbnQuY29tbWlzc2lvbl9ydWxlX2lkICE9IGNvbW1pc3Npb25fcnVsZS5hbmRhbmQuaWQKICAgICAgICBwYXltZW50LnVwZGF0ZV9hdHRyaWJ1dGVzKGNvbW1pc3Npb25fcnVsZV9pZDogY29tbWlzc2lvbl9ydWxlLmFuZGFuZC5pZCwgY29tbWlzc2lvbl9yYXRlOiBjb21taXNzaW9uX3J1bGUuYW5kYW5kLnJhdGUpCiAgICAgIGVuZAoKICAgICAgcGF5bWVudC5hcHBseV9mYXJlIShmYXJlLnRvX2ksIHN1cmdlX3ByaWNlKSAjIOygleyCsOydtOugpSDsoIDsnqUKCg==</text>
+      <register name="&quot;" type="4">
+        <text>, payment: [:coupon]</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">CW1ldHJpY0xhYmVscyA6PSBwcm9tZXRoZXVzLkxhYmVsc3sibmFtZSI6ICJjb21tYW5kbW92ZSJ9CglkZWZlciBzLm1ldHJpY3MuRHVyYXRpb24obWV0cmljTGFiZWxzKSgpCglzLm1ldHJpY3MuQ2FsbHMuV2l0aChtZXRyaWNMYWJlbHMpLkluYygpCg==</text>
@@ -879,7 +885,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>meter_fare</text>
+        <text>, payment: [:coupon]</text>
       </register>
       <register name="/" type="4">
         <text>:</text>
@@ -934,7 +940,7 @@
         <text encoding="base64">ICAgICAgICAgIGZpeGVkX2ZhcmUgPSBwYXltZW50LmZhcmUKICAgICAgICAgIG1ldGVyX2ZhcmUgPSAwCg==</text>
       </register>
       <register name=":" type="4">
-        <text>145</text>
+        <text>20</text>
       </register>
       <register name="z" type="2">
         <text encoding="base64">CQltZXRyaWNzOiAgICAgbWV0cmljcy5HZXRNZXRyaWNzKCJkcml2ZXJfbW92ZV9zZXJ2aWNlX3NlcnZpY2VzX3BvbGljeSIsICJuYW1lIiksCg==</text>
@@ -984,6 +990,7 @@
         <entry>60</entry>
         <entry>195</entry>
         <entry>145</entry>
+        <entry>20</entry>
       </history-cmd>
       <history-expr />
       <history-input />
