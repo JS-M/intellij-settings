@@ -11,11 +11,11 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="10" column="79" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/super_app_user/payments_controller.rb" timestamp="1566202958031">
-        <mark key="[" line="51" column="15" />
-        <mark key="]" line="51" column="14" />
-        <mark key="^" line="51" column="14" />
-        <mark key="." line="51" column="14" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/super_app_user/payments_controller.rb" timestamp="1566204262227">
+        <mark key="[" line="24" column="29" />
+        <mark key="]" line="24" column="33" />
+        <mark key="^" line="24" column="33" />
+        <mark key="." line="24" column="33" />
       </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/move-service/services/move/moving.go" timestamp="1561964493916">
         <mark key="[" line="26" column="5" />
@@ -144,12 +144,12 @@
         <mark key="^" line="4" column="72" />
         <mark key="." line="4" column="72" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/wheel_user/payments_controller.rb" timestamp="1564995013499">
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/wheel_user/payments_controller.rb" timestamp="1566204428105">
         <mark key="'" line="22" column="6" />
-        <mark key="[" line="50" column="46" />
-        <mark key="]" line="50" column="115" />
-        <mark key="." line="50" column="115" />
-        <mark key="^" line="50" column="115" />
+        <mark key="[" line="21" column="50" />
+        <mark key="]" line="21" column="49" />
+        <mark key="." line="21" column="49" />
+        <mark key="^" line="21" column="49" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/avro/schema/wheel/billing/pay.avsc" timestamp="1565603235841">
         <mark key="[" line="14" column="1" />
@@ -926,7 +926,7 @@
         <text>, &quot;work_type&quot;: item.WorkType</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcGF5bWVudF9pZCA9IFBheW1lbnQuZGVjb2RlX2lkKHBhcmFtc1s6aWRdKQo=</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">CW1ldHJpY0xhYmVscyA6PSBwcm9tZXRoZXVzLkxhYmVsc3sibmFtZSI6ICJjb21tYW5kbW92ZSJ9CglkZWZlciBzLm1ldHJpY3MuRHVyYXRpb24obWV0cmljTGFiZWxzKSgpCglzLm1ldHJpY3MuQ2FsbHMuV2l0aChtZXRyaWNMYWJlbHMpLkluYygpCg==</text>
@@ -942,16 +942,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>d, is_super: super?</text>
+        <text>, last_paid_payment_history: last_paid_payment_history, last_succeeded_payment_request: last_succeeded_payment_request, last_succeeded_request_history: last_succeeded_request_history, point_fare: point_fare</text>
       </register>
       <register name="/" type="4">
         <text>Wh</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY2xhc3MgV2hlZWwgPCBDb2xsZWN0VW5wYWlkCiAgICAgIGVuZAo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">cGF5bWVudF9pZCA9IA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcGF5bWVudF9pZCA9IFBheW1lbnQuZGVjb2RlX2lkKHBhcmFtc1s6aWRdKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -967,34 +967,34 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjICMgd2hlZWwtYXBpIERC7JmAIOu5jOunge2UjOueq+2PvOydmCBwYXltZW50IHN0YXR1cyDrj5nquLDtmZQKICAgICAgICAjICMg67mM66eB7ZSM656r7Y+87JeQ7IScIOyEseqzte2WiOuLpOuptCDsl5Drn6zqsIAgcmFpc2XrkJjsp4Ag7JWK6rOgIOydtCDrnbzsnbjsnbQg7Iuk7ZaJ65Cc64ukCiAgICAgICAgcGF5bWVudCA9IFBheW1lbnQudW5wYWlkLmZpbmRfYnkoaWQ6IHBheW1lbnRfaWQpCiAgICAgICAgIyBwYXltZW50LnBhaWQhCg==</text>
+        <text encoding="base64">CiAgICAgIGxhc3RfcGFpZF9wYXltZW50X2hpc3RvcnkgPSBwYXltZW50LnBheW1lbnRfaGlzdG9yaWVzLnNlbGVjdCB7IHxwaHwgcGguc3RhdHVzID09ICdwYWlkJyB9Lmxhc3QKICAgICAgbGFzdF9zdWNjZWVkZWRfcGF5bWVudF9yZXF1ZXN0ID0gcGF5bWVudC5wYXltZW50X3JlcXVlc3RzLnNlbGVjdCB7IHxwcnwgcHIuc3VjY2VlZGVkPyB9Lmxhc3QKICAgICAgbGFzdF9zdWNjZWVkZWRfcmVxdWVzdF9oaXN0b3J5ID0gbGFzdF9zdWNjZWVkZWRfcGF5bWVudF9yZXF1ZXN0LmFuZGFuZC5yZXF1ZXN0X2hpc3Rvcmllcy5hbmRhbmQubGFzdAoKICAgICAgcG9pbnRfZmFyZSA9IG5pbAogICAgICBpZiBwYXltZW50LnBvaW50X2lkLnByZXNlbnQ/CiAgICAgICAgcG9pbnRfZGV0YWlsID0gOjpXaGVlbDo6UG9pbnRCb3gucG9pbnRfZGV0YWlsKHBheW1lbnQucG9pbnRfaWQpIHJlc2N1ZSBuaWwKICAgICAgICBwb2ludF9mYXJlID0gcG9pbnRfZGV0YWlsWzpmYXJlXQogICAgICBlbmQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwYXltZW50ID0gUGF5bWVudC51bnBhaWQuZmluZF9ieShpZDogcGF5bWVudF9pZCkK</text>
+        <text encoding="base64">ICAgICAgYmVnaW4KICAgICAgcmVzY3VlIFdoZWVsRXJyb3I6OkVycm9yCiAgICAgICAgcmFpc2UgV2hlZWxFcnJvcjo6Tm90RXhpc3RlZFBheW1lbnQKICAgICAgZW5kCg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">CXMubWV0cmljcy5TdWNjZXNzZXMuV2l0aChtZXRyaWNMYWJlbHMpLkluYygpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIHdoZWVsLWFwaSBEQuyZgCDruYzrp4HtlIzrnqvtj7zsnZggcGF5bWVudCBzdGF0dXMg64+Z6riw7ZmUCiAgICAgICAgIyDruYzrp4HtlIzrnqvtj7zsl5DshJwg7ISx6rO17ZaI64uk66m0IOyXkOufrOqwgCByYWlzZeuQmOyngCDslYrqs6Ag7J20IOudvOyduOydtCDsi6TtlonrkJzri6QKICAgICAgICAjIHBheW1lbnQucGFpZCEKCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXltZW50ID0gQmlsbGluZzo6UGF5bWVudHM6OkZpbmQ6OldoZWVsLnJ1biEocGF5bWVudF9pZDogQmlsbGluZ1BsYXRmb3JtOjpQYXltZW50LmRlY29kZV9pZChwYXJhbXNbOmlkXSkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgIyB3aGVlbC1hcGkgRELsmYAg67mM66eB7ZSM656r7Y+87J2YIHBheW1lbnQgc3RhdHVzIOuPmeq4sO2ZlAogICAgICAgICMg67mM66eB7ZSM656r7Y+87JeQ7IScIOyEseqzte2WiOuLpOuptCDsl5Drn6zqsIAgcmFpc2XrkJjsp4Ag7JWK6rOgIOydtCDrnbzsnbjsnbQg7Iuk7ZaJ65Cc64ukCiAgICAgICAgcGF5bWVudC5wYWlkIQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjICMgd2hlZWwtYXBpIERC7JmAIOu5jOunge2UjOueq+2PvOydmCBwYXltZW50IHN0YXR1cyDrj5nquLDtmZQKICAgICAgICAjICMg67mM66eB7ZSM656r7Y+87JeQ7IScIOyEseqzte2WiOuLpOuptCDsl5Drn6zqsIAgcmFpc2XrkJjsp4Ag7JWK6rOgIOydtCDrnbzsnbjsnbQg7Iuk7ZaJ65Cc64ukCiAgICAgICAgcGF5bWVudCA9IFBheW1lbnQudW5wYWlkLmZpbmRfYnkoaWQ6IHBheW1lbnRfaWQpCiAgICAgICAgIyBwYXltZW50LnBhaWQhCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXltZW50ID0gUGF5bWVudC51bnBhaWQuZmluZF9ieShpZDogcGF5bWVudF9pZCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIHdoZWVsLWFwaSBEQuyZgCDruYzrp4HtlIzrnqvtj7zsnZggcGF5bWVudCBzdGF0dXMg64+Z6riw7ZmUCiAgICAgICAgIyDruYzrp4HtlIzrnqvtj7zsl5DshJwg7ISx6rO17ZaI64uk66m0IOyXkOufrOqwgCByYWlzZeuQmOyngCDslYrqs6Ag7J20IOudvOyduOydtCDsi6TtlonrkJzri6QKICAgICAgICAjIHBheW1lbnQucGFpZCEKCg==</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">CW1ldHJpY3MgICAgICptZXRyaWNzLk1ldHJpY3MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcGF5bWVudC5jb2xsZWN0X3VucGFpZCEocGFyYW1zWzphdXRvcGF5X2NhcmRfa2V5XSkK</text>
+        <text encoding="base64">CiAgICAgICAgIyB3aGVlbC1hcGkgRELsmYAg67mM66eB7ZSM656r7Y+87J2YIHBheW1lbnQgc3RhdHVzIOuPmeq4sO2ZlAogICAgICAgICMg67mM66eB7ZSM656r7Y+87JeQ7IScIOyEseqzte2WiOuLpOuptCDsl5Drn6zqsIAgcmFpc2XrkJjsp4Ag7JWK6rOgIOydtCDrnbzsnbjsnbQg7Iuk7ZaJ65Cc64ukCiAgICAgICAgcGF5bWVudC5wYWlkIQo=</text>
       </register>
       <register name=":" type="4">
         <text>309</text>
@@ -1008,7 +1008,7 @@
       <last-offset />
       <last-pattern>Wh</last-pattern>
       <last-replace>~</last-replace>
-      <last-substitute>ids</last-substitute>
+      <last-substitute>Wh</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
