@@ -62,6 +62,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/helpers/call_helper.rb" timestamp="1566546161315" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/super_app_user/calls_controller.rb" timestamp="1566266597126">
         <mark key="'" line="199" column="13" />
         <mark key="[" line="289" column="0" />
@@ -128,13 +129,13 @@
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/controllers/kpi_records_controller.rb" timestamp="1564999471872" />
       <file name="$USER_HOME$/projects/mobility/wheel-deploy/projects/wheel-api/config/deploy/real-driver.rb" timestamp="1564999609783" />
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/lib/billing_platform/payment.rb" timestamp="1566290488898">
-        <mark key="'" line="129" column="0" />
-        <mark key="[" line="14" column="49" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/lib/billing_platform/payment.rb" timestamp="1566546224234">
+        <mark key="'" line="133" column="0" />
+        <mark key="[" line="66" column="7" />
         <mark key="k" line="20" column="0" />
-        <mark key="]" line="14" column="48" />
-        <mark key="." line="14" column="48" />
-        <mark key="^" line="14" column="48" />
+        <mark key="]" line="69" column="5" />
+        <mark key="." line="69" column="5" />
+        <mark key="^" line="69" column="5" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/lib/tasks/detect_call_ceiling.rake" timestamp="1564727408471" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/interactions/billing/payments/list_by_calls.rb" timestamp="1566285765669">
@@ -230,7 +231,7 @@
         <mark key="." line="0" column="7" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/concerns/base_list_call.rb" timestamp="1566286246830" />
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/concerns/base_payment.rb" timestamp="1566286389902">
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/concerns/base_payment.rb" timestamp="1566546110184">
         <mark key="'" line="581" column="0" />
         <mark key="[" line="0" column="33" />
         <mark key="]" line="481" column="0" />
@@ -289,7 +290,9 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/wheel/biz_payment_service.rb" timestamp="1566293980440" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/wheel/biz_payment_service.rb" timestamp="1566545957922">
+        <mark key="[" line="65" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/concerns/base_stopover.rb" timestamp="1565661286671" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/wheel_user/calls_controller.rb" timestamp="1566266604587">
         <mark key="[" line="279" column="113" />
@@ -325,6 +328,12 @@
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/wheel/biz_service.rb" timestamp="1566546120975">
+        <mark key="[" line="47" column="30" />
+        <mark key="]" line="47" column="29" />
+        <mark key="^" line="47" column="29" />
+        <mark key="." line="47" column="29" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/interactions/billing/invoices/remake.rb" timestamp="1566266383595">
         <mark key="[" line="4" column="21" />
