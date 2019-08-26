@@ -146,12 +146,12 @@
         <mark key="." line="33" column="42" />
         <mark key="^" line="33" column="42" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/super_app_user/calls_controller.rb" timestamp="1566795188769">
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/super_app_user/calls_controller.rb" timestamp="1566798581867">
         <mark key="'" line="199" column="13" />
-        <mark key="[" line="494" column="36" />
-        <mark key="]" line="494" column="35" />
+        <mark key="[" line="462" column="0" />
+        <mark key="]" line="462" column="0" />
         <mark key="^" line="494" column="35" />
-        <mark key="." line="494" column="35" />
+        <mark key="." line="462" column="0" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/spec/models/payment_spec.rb" timestamp="1565936244981" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-insurance/app/lib/billing_platform/base.rb" timestamp="1566796738971" />
@@ -302,12 +302,13 @@
         <mark key="." line="28" column="86" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-deploy/projects/wheel-api/config/deploy/real-driver.rb" timestamp="1564999609783" />
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/lib/billing_platform/payment.rb" timestamp="1566797584413">
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/lib/billing_platform/payment.rb" timestamp="1566798552874">
+        <mark key="'" line="13" column="0" />
         <mark key="k" line="20" column="0" />
-        <mark key="[" line="83" column="9" />
-        <mark key="]" line="83" column="8" />
-        <mark key="." line="83" column="8" />
-        <mark key="^" line="83" column="8" />
+        <mark key="[" line="33" column="6" />
+        <mark key="]" line="33" column="5" />
+        <mark key="." line="33" column="5" />
+        <mark key="^" line="33" column="5" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/lib/tasks/detect_call_ceiling.rake" timestamp="1564727408471" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/lib/tasks/year_end_event_plusfriends_notification.rake" timestamp="1562660682306">
@@ -916,9 +917,6 @@
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/wheel/connection.rb" timestamp="1565339869158" />
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/billing_platform/card.rb" />
-      <jump line="14" column="28" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/billing_platform/card.rb" />
-      <jump line="79" column="34" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/billing_platform/card.rb" />
       <jump line="81" column="26" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/billing_platform/card.rb" />
       <jump line="82" column="21" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/billing_platform/card.rb" />
       <jump line="83" column="28" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/billing_platform/card.rb" />
@@ -1016,13 +1014,16 @@
       <jump line="7" column="10" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/interactions/billing/payments/pay.rb" />
       <jump line="73" column="7" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/lib/billing_platform/payment.rb" />
       <jump line="71" column="0" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/lib/billing_platform/payment.rb" />
+      <jump line="74" column="0" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/lib/billing_platform/payment.rb" />
+      <jump line="107" column="0" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/lib/billing_platform/payment.rb" />
+      <jump line="13" column="0" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/lib/billing_platform/payment.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>, &quot;work_type&quot;: item.WorkType</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgICAgICBwYXltZW50Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">CW1ldHJpY0xhYmVscyA6PSBwcm9tZXRoZXVzLkxhYmVsc3sibmFtZSI6ICJjb21tYW5kbW92ZSJ9CglkZWZlciBzLm1ldHJpY3MuRHVyYXRpb24obWV0cmljTGFiZWxzKSgpCglzLm1ldHJpY3MuQ2FsbHMuV2l0aChtZXRyaWNMYWJlbHMpLkluYygpCg==</text>
@@ -1038,16 +1039,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cGF5bWVudCA9IA==</text>
+        <text>?</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRfZGVmYXVsdF9hbW91bnRcPg==</text>
+        <text>car</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcm9jZXNzX29yX3JhaXNlKHJlc3BvbnNlKSBkbyB8cmVzcG9uc2VfYm9keXwKICAgICAgICAgIHJlc3BvbnNlX2JvZHkudmFsdWVzLm1hcCB7IHxvcmRlcnwgbmV3KG9yZGVyWydwYXltZW50cyddLmxhc3QpIH0KICAgICAgICBlbmQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgICBwYXltZW50Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1070,34 +1071,34 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgICBwYXltZW50ID0gY2FsbC5wYXltZW50CiAgICAgICAgICByYWlzZSBXaGVlbEVycm9yOjpJbnZhbGlkUGF5bWVudENhcmQgdW5sZXNzIHBheW1lbnQucHJlc2VudD8gJiYgcGF5bWVudC5tYXlfcGFpZD8gI+qysOygnOqwgOyZhOujjOuQnOyDge2DnAo=</text>
+        <text encoding="base64">CiAgICAgICAgICBwYXltZW50Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICMgVE9ETzogY2hhbmdlX2NhcmTroZwg67OA6rK9Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICBwYXltZW50ID0gY2FsbC5wYXltZW50CiAgICAgICAgICByYWlzZSBXaGVlbEVycm9yOjpJbnZhbGlkUGF5bWVudENhcmQgdW5sZXNzIHBheW1lbnQucHJlc2VudD8gJiYgcGF5bWVudC5tYXlfcGFpZD8gI+qysOygnOqwgOyZhOujjOuQnOyDge2DnAo=</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">CXMubWV0cmljcy5TdWNjZXNzZXMuV2l0aChtZXRyaWNMYWJlbHMpLkluYygpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHBheW1lbnQudXBkYXRlX2F0dHJpYnV0ZSg6YXV0b3BheV9jYXJkX2tleSwgYXV0b3BheV9jYXJkX2tleSkK</text>
+        <text encoding="base64">ICAgICAgICAgICMgVE9ETzogY2hhbmdlX2NhcmTroZwg67OA6rK9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9jZXNzX29yX3JhaXNlKHJlc3BvbnNlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHBheW1lbnQudXBkYXRlX2F0dHJpYnV0ZSg6YXV0b3BheV9jYXJkX2tleSwgYXV0b3BheV9jYXJkX2tleSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwcm9jZXNzX29yX3JhaXNlKHJlc3BvbnNlKQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">CW1ldHJpY3MgICAgICptZXRyaWNzLk1ldHJpY3MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJhaXNlIFdoZWVsRXJyb3I6Ok5vdEV4aXN0ZWRDYWxsIGlmIGNhbGwubmlsPwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>309</text>
@@ -1107,17 +1108,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRfZGVmYXVsdF9hbW91bnRcPg==</last-search>
+      <last-search>car</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRfZGVmYXVsdF9hbW91bnRcPg==</last-pattern>
+      <last-pattern>car</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>Wh</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>idid</entry>
         <entry>TYPES</entry>
         <entry>&quot;</entry>
         <entry>:commi</entry>
@@ -1137,6 +1137,7 @@
         <entry>,</entry>
         <entry>:</entry>
         <entry encoding="base64">XDxnZXRfZGVmYXVsdF9hbW91bnRcPg==</entry>
+        <entry>car</entry>
       </history-search>
       <history-cmd>
         <entry>o index.html.erb</entry>
