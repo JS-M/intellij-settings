@@ -564,11 +564,11 @@
         <mark key="^" line="3" column="20" />
         <mark key="." line="3" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/wheel_driver/calls_controller.rb" timestamp="1566802931019">
-        <mark key="[" line="346" column="21" />
-        <mark key="]" line="346" column="22" />
-        <mark key="^" line="346" column="22" />
-        <mark key="." line="346" column="22" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/wheel_driver/calls_controller.rb" timestamp="1566807756085">
+        <mark key="[" line="348" column="74" />
+        <mark key="]" line="349" column="5" />
+        <mark key="^" line="349" column="5" />
+        <mark key="." line="349" column="5" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/concerns/base_payment_request.rb" timestamp="1566183378980">
         <mark key="[" line="109" column="85" />
@@ -697,11 +697,11 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/lib/billing_platform/order.rb" timestamp="1566796893570">
-        <mark key="[" line="1" column="13" />
-        <mark key="]" line="1" column="12" />
-        <mark key="." line="1" column="12" />
-        <mark key="^" line="1" column="12" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/lib/billing_platform/order.rb" timestamp="1566808020997">
+        <mark key="[" line="11" column="1" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/interactions/billing/invoices/remake.rb" timestamp="1566266383595">
         <mark key="[" line="4" column="21" />
@@ -1022,8 +1022,8 @@
       <register name="a" type="4">
         <text>, &quot;work_type&quot;: item.WorkType</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">CW1ldHJpY0xhYmVscyA6PSBwcm9tZXRoZXVzLkxhYmVsc3sibmFtZSI6ICJjb21tYW5kbW92ZSJ9CglkZWZlciBzLm1ldHJpY3MuRHVyYXRpb24obWV0cmljTGFiZWxzKSgpCglzLm1ldHJpY3MuQ2FsbHMuV2l0aChtZXRyaWNMYWJlbHMpLkluYygpCg==</text>
@@ -1039,7 +1039,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>summarized_app_calls</text>
       </register>
       <register name="/" type="4">
         <text>car</text>
@@ -1071,34 +1071,36 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgICBwYXltZW50Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBwYWlkX2F0CiAgICAgIFRpbWUuem9uZS5wYXJzZSh0cmFuc2FjdGVkX2F0KS51dGMKICAgIGVuZAoKICAgIGRlZiBnZXRfYml6X3BheW1lbnRzKGNhbGxfaWRzKQogICAgICBXaGVlbDo6Qml6UGF5bWVudFNlcnZpY2UuZ2V0X3BheW1lbnRzKGNhbGxfaWRzKQogICAgZW5kCgogICAgZGVmIGdldF9iaXpfcGF5bWVudChjYWxsX2lkKQogICAgICBnZXRfYml6X3BheW1lbnRzKGNhbGxfaWQpW2NhbGxfaWQudG9fcy50b19zeW1dCiAgICBlbmQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgICBwYXltZW50ID0gY2FsbC5wYXltZW50CiAgICAgICAgICByYWlzZSBXaGVlbEVycm9yOjpJbnZhbGlkUGF5bWVudENhcmQgdW5sZXNzIHBheW1lbnQucHJlc2VudD8gJiYgcGF5bWVudC5tYXlfcGFpZD8gI+qysOygnOqwgOyZhOujjOuQnOyDge2DnAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">CXMubWV0cmljcy5TdWNjZXNzZXMuV2l0aChtZXRyaWNMYWJlbHMpLkluYygpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICMgVE9ETzogY2hhbmdlX2NhcmTroZwg67OA6rK9Cg==</text>
+        <text encoding="base64">ICAgIGV4dGVuZCBXaGVlbDo6QWN0aXZlUmVjb3JkCgogICAgYXR0cl9lbmNvZGVkIDppZCwgZW5jb2RlcjogJ251bWVyaWNfMzYnLCBwcmVmaXg6ICdQJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHBheW1lbnQudXBkYXRlX2F0dHJpYnV0ZSg6YXV0b3BheV9jYXJkX2tleSwgYXV0b3BheV9jYXJkX2tleSkK</text>
+        <text encoding="base64">CiAgICBhbGlhc19hdHRyaWJ1dGUgOmF1dG9wYXlfY2FyZF9rZXksIDprZXkKICAgIGFsaWFzX2F0dHJpYnV0ZSA6ZmFyZSwgOmFtb3VudAogICAgYWxpYXNfYXR0cmlidXRlIDpkaXNjb3VudCwgOmRpc2NvdW50X2Ftb3VudAogICAgYWxpYXNfYXR0cmlidXRlIDpjb21taXNzaW9uX3N1cHBseV9wcmljZSwgOmNvbW1pc3Npb25fdm9zCiAgICBhbGlhc19hdHRyaWJ1dGUgOmNvbW1pc3Npb25fc3VydGF4X3ByaWNlLCA6Y29tbWlzc2lvbl92YXQKICAgIGFsaWFzX2F0dHJpYnV0ZSA6cGF5X2FwcHJvdmVfbm8sIDpwZ19vcmlnaW5fdHJhbnNhY3Rpb25faWQK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9jZXNzX29yX3JhaXNlKHJlc3BvbnNlKQo=</text>
+      <register name="6" type="4">
+        <text>, :amount, :discount_amount, :type, :status, :transacted_at, :method, :pg_origin_transaction_id,
+                  :pg_origin_response_code, :pg_origin_response_message, :coupon_inventory_id, :commission_amount,
+                  :commission_vos, :commission_vat, :key</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGRlZiBjYXJkCiAgICAgIEJpbGxpbmdQbGF0Zm9ybTo6Q2FyZC5maW5kKGtleSwgaXNfc3VwZXI6IGlzX3N1cGVyKQogICAgZW5kCgogICAgZGVmIGNvdXBvbgpCaWxsaW5nUGxhdGZvcm06OkNvdXBvbi5maW5kKCkKICAgIGVuZAoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgcGF5bWVudHMgPSBCaWxsaW5nUGxhdGZvcm06OlBheW1lbnQubGlzdF9ieV9jYWxsX2lkcyhjYWxscy5jYWxsX2lkcykK</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">CW1ldHJpY3MgICAgICptZXRyaWNzLk1ldHJpY3MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcGF5bWVudHMgPSBCaWxsaW5nUGxhdGZvcm06OlBheW1lbnQubGlzdF9ieV9jYWxsX2lkcyhzdW1tYXJpemVkX2FwcF9jYWxscy5jYWxsX2lkcykK</text>
       </register>
       <register name=":" type="4">
         <text>309</text>
