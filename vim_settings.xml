@@ -11,7 +11,7 @@
         <mark key="^" line="10" column="35" />
         <mark key="." line="10" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/lib/tasks/driver.rake" timestamp="1567393541784" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/lib/tasks/driver.rake" timestamp="1567408223709" />
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/move-service/services/move/moving.go" timestamp="1561964493916">
         <mark key="[" line="26" column="5" />
         <mark key="]" line="26" column="4" />
@@ -680,6 +680,7 @@
         <mark key="^" line="12" column="88" />
         <mark key="." line="12" column="88" />
       </file>
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/models/fare_item.rb" timestamp="1567408583325" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/serializers/payment_serializer.rb" timestamp="1564565468944">
         <mark key="[" line="2" column="3" />
         <mark key="]" line="2" column="2" />
