@@ -36,6 +36,13 @@
         <mark key="^" line="47" column="35" />
         <mark key="." line="46" column="85" />
       </file>
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/interactions/billing/payments/validate_payability.rb" timestamp="1567488990911">
+        <mark key="'" line="24" column="13" />
+        <mark key="[" line="24" column="37" />
+        <mark key="]" line="24" column="36" />
+        <mark key="." line="24" column="36" />
+        <mark key="^" line="24" column="36" />
+      </file>
       <file name="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/services/work/get_active_driver_count.go" timestamp="1561623293203">
         <mark key="[" line="14" column="40" />
         <mark key="]" line="14" column="39" />
@@ -317,7 +324,7 @@
         <mark key="^" line="15" column="21" />
         <mark key="." line="15" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/wheel_user/calls_controller.rb" timestamp="1567488057927">
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/wheel_user/calls_controller.rb" timestamp="1567488643228">
         <mark key="[" line="565" column="46" />
         <mark key="]" line="565" column="45" />
         <mark key="." line="565" column="45" />
@@ -810,7 +817,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="20" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/billing_platform/card.rb" />
       <jump line="116" column="0" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/billing_platform/card.rb" />
       <jump line="6" column="31" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/billing_platform/card.rb" />
       <jump line="702" column="10" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/wheel_user/calls_controller.rb" />
@@ -910,13 +916,14 @@
       <jump line="57" column="4" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/user.rb" />
       <jump line="14" column="6" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-insurance/app/lib/billing_platform/unpaid.rb" />
       <jump line="26" column="75" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-insurance/app/lib/billing_platform/unpaid.rb" />
+      <jump line="25" column="13" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/interactions/billing/payments/validate_payability.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>, &quot;work_type&quot;: item.WorkType</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICBwYXltZW50cy51bnBhaWQuZXhpc3RzPwo=</text>
+      <register name="&quot;" type="4">
+        <text>if</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">CW1ldHJpY0xhYmVscyA6PSBwcm9tZXRoZXVzLkxhYmVsc3sibmFtZSI6ICJjb21tYW5kbW92ZSJ9CglkZWZlciBzLm1ldHJpY3MuRHVyYXRpb24obWV0cmljTGFiZWxzKSgpCglzLm1ldHJpY3MuQ2FsbHMuV2l0aChtZXRyaWNMYWJlbHMpLkluYygpCg==</text>
@@ -932,16 +939,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aWQ6IA==</text>
+        <text>if</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1bmxlc3NcPg==</text>
+        <text>]</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9jZXNzX29yX3JhaXNlKHJlc3BvbnNlKSBkbyB8cmVzcG9uc2VfYm9keXwKICAgICAgICAgIHJlc3BvbnNlX2JvZHkubWFwKCZtZXRob2QoOm5ldykpCiAgICAgICAgZW5kCg==</text>
+      <register name="0" type="4">
+        <text>decrypted_autopay_card_key</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICBwYXltZW50cy51bnBhaWQuZXhpc3RzPwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGVuZAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -964,34 +971,34 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIyBUT0RPOiBpbXBsZW1lbnQK</text>
+        <text encoding="base64">CiAgICBwYXltZW50cy51bnBhaWQuZXhpc3RzPwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9jZXNzX29yX3JhaXNlKHJlc3BvbnNlKSBkbyB8cmVzcG9uc2VfYm9keXwKICAgICAgICAgIHBheW1lbnRzID0gOjpQYXltZW50LndoZXJlKGlkOiByZXNwb25zZV9ib2R5Lm1hcCB7IHx1bnBhaWR8IHVucGFpZFsnaWQnXSB9KQogICAgICAgICAgcGF5bWVudHMuZWFjaCBkbyB8cGF5bWVudHwKICAgICAgICAgICAgcGF5bWVudC51cGRhdGUoc3RhdHVzOiA6dW5wYWlkLCBzdGF0dXNfdXBkYXRlZF9hdDogVGltZS5jdXJyZW50KSB1bmxlc3MgcGF5bWVudC51bnBhaWQ/CiAgICAgICAgICBlbmQKICAgICAgICAgIHBheW1lbnRzCiAgICAgICAgZW5kCg==</text>
+        <text encoding="base64">ICAgICAgIyBUT0RPOiBpbXBsZW1lbnQK</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">CXMubWV0cmljcy5TdWNjZXNzZXMuV2l0aChtZXRyaWNMYWJlbHMpLkluYygpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9jZXNzX29yX3JhaXNlKHJlc3BvbnNlKSBkbyB8cmVzcG9uc2VfYm9keXwKICAgICAgICAgIHBheW1lbnQgPSBuZXcoaWQ6IHJlc3BvbnNlX2JvZHlbJ2lkJ10pCiAgICAgICAgICBwYXltZW50LnVwZGF0ZShzdGF0dXM6IDp1bnBhaWQsIHN0YXR1c191cGRhdGVkX2F0OiBUaW1lLmN1cnJlbnQpIHVubGVzcyBwYXltZW50LnVucGFpZD8KICAgICAgICAgIHBheW1lbnQKICAgICAgICBlbmQK</text>
+        <text encoding="base64">ICAgICAgICBwcm9jZXNzX29yX3JhaXNlKHJlc3BvbnNlKSBkbyB8cmVzcG9uc2VfYm9keXwKICAgICAgICAgIHBheW1lbnRzID0gOjpQYXltZW50LndoZXJlKGlkOiByZXNwb25zZV9ib2R5Lm1hcCB7IHx1bnBhaWR8IHVucGFpZFsnaWQnXSB9KQogICAgICAgICAgcGF5bWVudHMuZWFjaCBkbyB8cGF5bWVudHwKICAgICAgICAgICAgcGF5bWVudC51cGRhdGUoc3RhdHVzOiA6dW5wYWlkLCBzdGF0dXNfdXBkYXRlZF9hdDogVGltZS5jdXJyZW50KSB1bmxlc3MgcGF5bWVudC51bnBhaWQ/CiAgICAgICAgICBlbmQKICAgICAgICAgIHBheW1lbnRzCiAgICAgICAgZW5kCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcm9jZXNzX29yX3JhaXNlKHJlc3BvbnNlKSBkbyB8cmVzcG9uc2VfYm9keXwKICAgICAgICAgIHBheW1lbnQgPSBuZXcoaWQ6IHJlc3BvbnNlX2JvZHlbJ2lkJ10pCiAgICAgICAgICBwYXltZW50LnVwZGF0ZShzdGF0dXM6IDp1bnBhaWQsIHN0YXR1c191cGRhdGVkX2F0OiBUaW1lLmN1cnJlbnQpIHVubGVzcyBwYXltZW50LnVucGFpZD8KICAgICAgICAgIHBheW1lbnQKICAgICAgICBlbmQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICMgVE9ETzogCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICMgVE9ETzogCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">CW1ldHJpY3MgICAgICptZXRyaWNzLk1ldHJpY3MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY2xhc3MgU3VwZXIgPCBMaXN0VW5wYWlkCg==</text>
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name=":" type="4">
         <text>309</text>
@@ -1001,17 +1008,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1bmxlc3NcPg==</last-search>
+      <last-search>]</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1bmxlc3NcPg==</last-pattern>
+      <last-pattern>]</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>Wh</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyYWlzZVw+</entry>
         <entry encoding="base64">XDxBMDAwMDAwMDAwMDEzSVQxXD4=</entry>
         <entry>Ba</entry>
         <entry>create</entry>
@@ -1031,6 +1037,7 @@
         <entry>Wheel</entry>
         <entry>=</entry>
         <entry encoding="base64">XDx1bmxlc3NcPg==</entry>
+        <entry>]</entry>
       </history-search>
       <history-cmd>
         <entry>o index.html.erb</entry>
