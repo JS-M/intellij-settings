@@ -5,6 +5,12 @@
       <mark key="F" line="79" column="23" filename="$USER_HOME$/go/src/github.kakaocorp.com/driver/work-service/Makefile" protocol="file" />
     </globalmarks>
     <filemarks>
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/interactions/billing/cards/verify.rb" timestamp="1567504084123">
+        <mark key="[" line="9" column="20" />
+        <mark key="]" line="9" column="20" />
+        <mark key="." line="9" column="20" />
+        <mark key="^" line="14" column="5" />
+      </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/super_app_user/payments_controller.rb" timestamp="1567418016669">
         <mark key="[" line="10" column="36" />
         <mark key="]" line="10" column="35" />
@@ -12,26 +18,12 @@
         <mark key="." line="10" column="35" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/lib/tasks/driver.rake" timestamp="1567412425863" />
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/interactions/billing/payments/validate_payability.rb" timestamp="1567494428758">
-        <mark key="'" line="24" column="13" />
-        <mark key="[" line="24" column="47" />
-        <mark key="]" line="24" column="46" />
-        <mark key="." line="24" column="46" />
-        <mark key="^" line="24" column="46" />
-      </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/interactions/billing/payments/find_by_call_id.rb" timestamp="1566810457243">
-        <mark key="'" line="5" column="16" />
-        <mark key="[" line="6" column="56" />
-        <mark key="]" line="6" column="55" />
-        <mark key="^" line="6" column="55" />
-        <mark key="." line="6" column="55" />
-      </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/interactions/billing/cards/list.rb" timestamp="1565921253394">
-        <mark key="'" line="30" column="0" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="^" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/interactions/billing/payments/validate_payability.rb" timestamp="1567504313787">
+        <mark key="'" line="20" column="13" />
+        <mark key="[" line="33" column="58" />
+        <mark key="]" line="34" column="9" />
+        <mark key="." line="34" column="9" />
+        <mark key="^" line="34" column="9" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/lib/tasks/collect_kpi_stat_attend_drivers.rake" timestamp="1567391248715" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/controllers/forced_call_histories_controller.rb" timestamp="1567409958694">
@@ -40,7 +32,7 @@
         <mark key="." line="16" column="111" />
         <mark key="^" line="16" column="111" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/concerns/base_payment.rb" timestamp="1567498812471">
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/concerns/base_payment.rb" timestamp="1567502899067">
         <mark key="'" line="581" column="0" />
         <mark key="[" line="26" column="19" />
         <mark key="]" line="30" column="4" />
@@ -48,14 +40,19 @@
         <mark key="." line="407" column="56" />
       </file>
       <file name="/calls_controller.rb" timestamp="1567417683287" />
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/wheel_user/payments_controller.rb" timestamp="1566285874369">
-        <mark key="'" line="22" column="6" />
-        <mark key="[" line="32" column="39" />
-        <mark key="]" line="32" column="39" />
-        <mark key="." line="32" column="39" />
-        <mark key="^" line="21" column="49" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/interactions/billing/coupons/validate.rb" timestamp="1567504072524">
+        <mark key="[" line="9" column="20" />
+        <mark key="]" line="9" column="20" />
+        <mark key="." line="9" column="20" />
+        <mark key="^" line="14" column="5" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/super_app_user/calls_controller.rb" timestamp="1567499556057">
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/interactions/billing/base.rb" timestamp="1567504023217">
+        <mark key="[" line="11" column="75" />
+        <mark key="]" line="11" column="22" />
+        <mark key="^" line="11" column="22" />
+        <mark key="." line="11" column="22" />
+      </file>
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/super_app_user/calls_controller.rb" timestamp="1567502334575">
         <mark key="'" line="199" column="13" />
         <mark key="[" line="299" column="12" />
         <mark key="]" line="299" column="11" />
@@ -97,13 +94,6 @@
         <mark key="." line="24" column="7" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/wheel/payment_service.rb" timestamp="1567410227734" />
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/lib/billing_platform/card/fake_cards.rb" timestamp="1564562152881">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="69" column="15" />
-        <mark key="]" line="69" column="15" />
-        <mark key="^" line="70" column="10" />
-        <mark key="." line="69" column="15" />
-      </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/lib/billing_platform/payment.rb" timestamp="1567498817661">
         <mark key="'" line="61" column="84" />
         <mark key="k" line="20" column="0" />
@@ -122,18 +112,12 @@
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/jobs/biz_payment_request_job.rb" timestamp="1567493820231" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/tasks/db.rake" timestamp="1567391971359" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/concerns/base_settlement_hold.rb" timestamp="1567411500356" />
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/config/newrelic.yml" timestamp="1565228911095">
-        <mark key="'" line="19" column="27" />
-        <mark key="[" line="19" column="58" />
-        <mark key="]" line="19" column="57" />
-        <mark key="." line="19" column="57" />
-        <mark key="^" line="19" column="57" />
-      </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/interactions/billing/payments/validate_pin_code.rb" timestamp="1567494651530">
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/interactions/billing/payments/validate_pin_code.rb" timestamp="1567502430845">
         <mark key="'" line="3" column="21" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+        <mark key="[" line="9" column="47" />
+        <mark key="]" line="10" column="7" />
+        <mark key="." line="10" column="7" />
+        <mark key="^" line="10" column="7" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/models/fare_item.rb" timestamp="1567408583325" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/services/collect_kpi_stat_calls_service.rb" timestamp="1567391635410">
@@ -160,13 +144,6 @@
         <mark key="]" line="24" column="0" />
         <mark key="^" line="31" column="9" />
         <mark key="." line="24" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/interactions/billing/payments/collect_unpaid.rb" timestamp="1566797610216">
-        <mark key="'" line="27" column="5" />
-        <mark key="[" line="16" column="40" />
-        <mark key="]" line="16" column="39" />
-        <mark key="." line="16" column="39" />
-        <mark key="^" line="16" column="39" />
       </file>
     </filemarks>
     <jumps>
@@ -275,12 +252,8 @@
       <register name="a" type="4">
         <text>, &quot;work_type&quot;: item.WorkType</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>{
-        card: 'card',
-        cash: 'cash',
-        biz: 'biz'
-    }</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb21wb3NlKENvdXBvbnM6OlZhbGlkYXRlLCBjb3Vwb25faWQ6IGNvdXBvbl9pZCkK</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">CW1ldHJpY0xhYmVscyA6PSBwcm9tZXRoZXVzLkxhYmVsc3sibmFtZSI6ICJjb21tYW5kbW92ZSJ9CglkZWZlciBzLm1ldHJpY3MuRHVyYXRpb24obWV0cmljTGFiZWxzKSgpCglzLm1ldHJpY3MuQ2FsbHMuV2l0aChtZXRyaWNMYWJlbHMpLkluYygpCg==</text>
@@ -296,20 +269,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>pin_verified</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>Co</text>
       </register>
       <register name="0" type="4">
-        <text>{
-        card: 'card',
-        cash: 'cash',
-        biz: 'biz'
-    }</text>
+        <text>actual_other</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdW5sZXNzIHVzZXIucGluX2NvZGUucHJlc2VudD8gJiYgYXV0b3BheV9jYXJkX2tleS5wcmVzZW50Pwo=</text>
+        <text encoding="base64">ICAgICAgICBjb21wb3NlKENvdXBvbnM6OlZhbGlkYXRlLCBjb3Vwb25faWQ6IGNvdXBvbl9pZCkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -332,34 +301,34 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIO2VgOy9lOuTnCDssrTtgawK</text>
+        <text encoding="base64">ICAgICAgY2xhc3MgV2hlZWwgPCBWZXJpZnkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgY2xhc3MgV2hlZWwgPCBWZXJpZnkKICAgICAgICBzdHJpbmcgOmF1dG9wYXlfY2FyZF9rZXkK</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">CXMubWV0cmljcy5TdWNjZXNzZXMuV2l0aChtZXRyaWNMYWJlbHMpLkluYygpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwaW5fdmVyaWZpZWQgPSAK</text>
+        <text encoding="base64">ICAgIGNsYXNzIFdoZWVsIDwgVmFsaWRhdGUKICAgIGVuZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlbmQK</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgIyDrr7jsiJgg7Jes67aAIOyytO2BrAogICAgICAgIHJhaXNlIFdoZWVsRXJyb3I6OlVucGFpZC5uZXcgaWYgdXNlci51bnBhaWQ/CgogICAgICAgICMgY2FyZCDsnKDtmqjshLEg7LK07YGsCiAgICAgICAgaWYgYXV0b3BheV9jYXJkX2tleS5ibGFuaz8gJiYgZml4ZWRfZmFyZS5wcmVzZW50PyAmJiBmaXhlZF9mYXJlLnRvX2kgJSAxMDAwICE9IDAKICAgICAgICAgIHJhaXNlIFdoZWVsRXJyb3I6OkludmFsaWRSZXF1ZXN0Lm5ldy53aXRoX29iamVjdChyZWFzb246ICftmITquIjqsrDsoJzsi5wg7ZmV7KCV7JqU6riI7J2AIDEwMDDsm5Ag64uo7JyE7Jes7JW8IO2VqeuLiOuLpC4nKQogICAgICAgIGVuZAoKICAgICAgICBkZWNyeXB0ZWRfYXV0b3BheV9jYXJkX2tleSA9IFdoZWVsOjpDeXBoZXIuZGVjcnlwdCh2YWx1ZTogYXV0b3BheV9jYXJkX2tleSwga2V5OiB1c2VyLmlkLnRvX3MpIHJlc2N1ZSBuaWwKICAgICAgICByYWlzZSBXaGVlbEVycm9yOjpJbnZhbGlkQ2FyZC5uZXcgaWYgZGVjcnlwdGVkX2F1dG9wYXlfY2FyZF9rZXkubmlsPwogICAgICAgIEJpbGxpbmc6OkNhcmRzOjpGaW5kOjpXaGVlbC5kZWxheS5ydW4hKGF1dG9wYXlfY2FyZF9rZXk6IGRlY3J5cHRlZF9hdXRvcGF5X2NhcmRfa2V5KQogICAgICAgIFdoZWVsOjpLYWthb0NoZWNrb3V0LmF1dGhlbnRpY2F0ZV9jYXJkKGRlY3J5cHRlZF9hdXRvcGF5X2NhcmRfa2V5LCBhY2NvdW50X2lkLCB1c2VyLmRldmljZV9pZGVudGl0eSkKCiAgICAgICAgIyBUT0RPOiDsv6Dtj7Ag7Ya17ZWpIOyekeyXhSDsnbTtm4Qg7IiY7KCVCiAgICAgICAgIyBjb3Vwb24gY2hlY2sKICAgICAgICBpZiBhdXRvcGF5X2NhcmRfa2V5LnByZXNlbnQ/ICYmIGNvdXBvbl9pZC5wcmVzZW50PwogICAgICAgICAgY291cG9uID0gQ291cG9uLmZpbmRfYnlfZW5jb2RlZF9pZCBjb3Vwb25faWQgcmVzY3VlIG5pbAogICAgICAgICAgcmFpc2UgV2hlZWxFcnJvcjo6SW52YWxpZFJlcXVlc3QubmV3IGlmIGNvdXBvbi5uaWw/CiAgICAgICAgICByYWlzZSBXaGVlbEVycm9yOjpJbnZhbGlkUmVxdWVzdC5uZXcgdW5sZXNzIGNvdXBvbi51c2VyX2lkID09IHVzZXIuaWQKICAgICAgICAgIHJhaXNlIFdoZWVsRXJyb3I6OkludmFsaWRSZXF1ZXN0IGlmIGNvdXBvbi51bnJlZ2lzdGVyPwogICAgICAgICAgcmFpc2UgV2hlZWxFcnJvcjo6VW5hdmFpbGFibGVDb3Vwb24ubmV3IHVubGVzcyBjb3Vwb24uY2FsbGFibGU/CiAgICAgICAgZW5kCg==</text>
+        <text encoding="base64">ICAgICAgY2xhc3MgV2hlZWwgPCBWYWxpZGF0ZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaW50ZWdlciA6Zml4ZWRfZmFyZQo=</text>
+        <text encoding="base64">ICAgICAgICBXaGVlbDo6S2FrYW9DaGVja291dC5hdXRoZW50aWNhdGVfY2FyZChkZWNyeXB0ZWRfYXV0b3BheV9jYXJkX2tleSwgYWNjb3VudF9pZCwgdXNlci5kZXZpY2VfaWRlbnRpdHkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IO2VgOy9lOuTnCDsiqTtjpnslYTsm4Mg7JiI7KCVCg==</text>
+        <text encoding="base64">ICAgICAgICBCaWxsaW5nOjpDYXJkczo6RmluZDo6V2hlZWwuZGVsYXkucnVuIShhdXRvcGF5X2NhcmRfa2V5OiBkZWNyeXB0ZWRfYXV0b3BheV9jYXJkX2tleSkK</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">CW1ldHJpY3MgICAgICptZXRyaWNzLk1ldHJpY3MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IO2VgOy9lOuTnCDsiqTtjpnslYTsm4Mg7JiI7KCVCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>309</text>
