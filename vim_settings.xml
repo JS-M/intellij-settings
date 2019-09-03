@@ -12,12 +12,12 @@
         <mark key="." line="10" column="35" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/lib/tasks/driver.rake" timestamp="1567412425863" />
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/interactions/billing/payments/validate_payability.rb" timestamp="1567488990911">
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/interactions/billing/payments/validate_payability.rb" timestamp="1567494428758">
         <mark key="'" line="24" column="13" />
-        <mark key="[" line="24" column="37" />
-        <mark key="]" line="24" column="36" />
-        <mark key="." line="24" column="36" />
-        <mark key="^" line="24" column="36" />
+        <mark key="[" line="24" column="47" />
+        <mark key="]" line="24" column="46" />
+        <mark key="." line="24" column="46" />
+        <mark key="^" line="24" column="46" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/lib/tasks/collect_kpi_stat_attend_drivers.rake" timestamp="1567391248715" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/controllers/forced_call_histories_controller.rb" timestamp="1567409958694">
@@ -65,6 +65,12 @@
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/jobs/biz_payment_request_job.rb" timestamp="1567493820231" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/tasks/db.rake" timestamp="1567391971359" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/concerns/base_settlement_hold.rb" timestamp="1567411500356" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/interactions/billing/payments/validate_pin_code.rb" timestamp="1567494651530">
+        <mark key="'" line="3" column="21" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/models/fare_item.rb" timestamp="1567408583325" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/services/collect_kpi_stat_calls_service.rb" timestamp="1567391635410">
         <mark key="'" line="498" column="16" />
@@ -93,7 +99,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="116" column="0" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/billing_platform/card.rb" />
       <jump line="6" column="31" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/billing_platform/card.rb" />
       <jump line="702" column="10" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/wheel_user/calls_controller.rb" />
       <jump line="80" column="0" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/billing_platform/card.rb" />
@@ -193,13 +198,14 @@
       <jump line="14" column="6" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-insurance/app/lib/billing_platform/unpaid.rb" />
       <jump line="26" column="75" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-insurance/app/lib/billing_platform/unpaid.rb" />
       <jump line="25" column="13" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/interactions/billing/payments/validate_payability.rb" />
+      <jump line="3" column="21" filename="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/interactions/billing/payments/validate_pin_code.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>, &quot;work_type&quot;: item.WorkType</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>if</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdW5sZXNzIHVzZXIucGluX2NvZGUucHJlc2VudD8gJiYgYXV0b3BheV9jYXJkX2tleS5wcmVzZW50Pwo=</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">CW1ldHJpY0xhYmVscyA6PSBwcm9tZXRoZXVzLkxhYmVsc3sibmFtZSI6ICJjb21tYW5kbW92ZSJ9CglkZWZlciBzLm1ldHJpY3MuRHVyYXRpb24obWV0cmljTGFiZWxzKSgpCglzLm1ldHJpY3MuQ2FsbHMuV2l0aChtZXRyaWNMYWJlbHMpLkluYygpCg==</text>
@@ -215,16 +221,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>if</text>
+        <text>pin_verified</text>
       </register>
       <register name="/" type="4">
-        <text>]</text>
+        <text>Co</text>
       </register>
       <register name="0" type="4">
-        <text>decrypted_autopay_card_key</text>
+        <text>ValidatePinCode</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdW5sZXNzIHVzZXIucGluX2NvZGUucHJlc2VudD8gJiYgYXV0b3BheV9jYXJkX2tleS5wcmVzZW50Pwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -247,34 +253,34 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBwYXltZW50cy51bnBhaWQuZXhpc3RzPwo=</text>
+        <text encoding="base64">ICAgICAgICAjIO2VgOy9lOuTnCDssrTtgawK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIyBUT0RPOiBpbXBsZW1lbnQK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">CXMubWV0cmljcy5TdWNjZXNzZXMuV2l0aChtZXRyaWNMYWJlbHMpLkluYygpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9jZXNzX29yX3JhaXNlKHJlc3BvbnNlKSBkbyB8cmVzcG9uc2VfYm9keXwKICAgICAgICAgIHBheW1lbnRzID0gOjpQYXltZW50LndoZXJlKGlkOiByZXNwb25zZV9ib2R5Lm1hcCB7IHx1bnBhaWR8IHVucGFpZFsnaWQnXSB9KQogICAgICAgICAgcGF5bWVudHMuZWFjaCBkbyB8cGF5bWVudHwKICAgICAgICAgICAgcGF5bWVudC51cGRhdGUoc3RhdHVzOiA6dW5wYWlkLCBzdGF0dXNfdXBkYXRlZF9hdDogVGltZS5jdXJyZW50KSB1bmxlc3MgcGF5bWVudC51bnBhaWQ/CiAgICAgICAgICBlbmQKICAgICAgICAgIHBheW1lbnRzCiAgICAgICAgZW5kCg==</text>
+        <text encoding="base64">ICAgICAgICBwaW5fdmVyaWZpZWQgPSAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9jZXNzX29yX3JhaXNlKHJlc3BvbnNlKSBkbyB8cmVzcG9uc2VfYm9keXwKICAgICAgICAgIHBheW1lbnQgPSBuZXcoaWQ6IHJlc3BvbnNlX2JvZHlbJ2lkJ10pCiAgICAgICAgICBwYXltZW50LnVwZGF0ZShzdGF0dXM6IDp1bnBhaWQsIHN0YXR1c191cGRhdGVkX2F0OiBUaW1lLmN1cnJlbnQpIHVubGVzcyBwYXltZW50LnVucGFpZD8KICAgICAgICAgIHBheW1lbnQKICAgICAgICBlbmQK</text>
+        <text encoding="base64">ICAgICAgICBlbmQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgIyDrr7jsiJgg7Jes67aAIOyytO2BrAogICAgICAgIHJhaXNlIFdoZWVsRXJyb3I6OlVucGFpZC5uZXcgaWYgdXNlci51bnBhaWQ/CgogICAgICAgICMgY2FyZCDsnKDtmqjshLEg7LK07YGsCiAgICAgICAgaWYgYXV0b3BheV9jYXJkX2tleS5ibGFuaz8gJiYgZml4ZWRfZmFyZS5wcmVzZW50PyAmJiBmaXhlZF9mYXJlLnRvX2kgJSAxMDAwICE9IDAKICAgICAgICAgIHJhaXNlIFdoZWVsRXJyb3I6OkludmFsaWRSZXF1ZXN0Lm5ldy53aXRoX29iamVjdChyZWFzb246ICftmITquIjqsrDsoJzsi5wg7ZmV7KCV7JqU6riI7J2AIDEwMDDsm5Ag64uo7JyE7Jes7JW8IO2VqeuLiOuLpC4nKQogICAgICAgIGVuZAoKICAgICAgICBkZWNyeXB0ZWRfYXV0b3BheV9jYXJkX2tleSA9IFdoZWVsOjpDeXBoZXIuZGVjcnlwdCh2YWx1ZTogYXV0b3BheV9jYXJkX2tleSwga2V5OiB1c2VyLmlkLnRvX3MpIHJlc2N1ZSBuaWwKICAgICAgICByYWlzZSBXaGVlbEVycm9yOjpJbnZhbGlkQ2FyZC5uZXcgaWYgZGVjcnlwdGVkX2F1dG9wYXlfY2FyZF9rZXkubmlsPwogICAgICAgIEJpbGxpbmc6OkNhcmRzOjpGaW5kOjpXaGVlbC5kZWxheS5ydW4hKGF1dG9wYXlfY2FyZF9rZXk6IGRlY3J5cHRlZF9hdXRvcGF5X2NhcmRfa2V5KQogICAgICAgIFdoZWVsOjpLYWthb0NoZWNrb3V0LmF1dGhlbnRpY2F0ZV9jYXJkKGRlY3J5cHRlZF9hdXRvcGF5X2NhcmRfa2V5LCBhY2NvdW50X2lkLCB1c2VyLmRldmljZV9pZGVudGl0eSkKCiAgICAgICAgIyBUT0RPOiDsv6Dtj7Ag7Ya17ZWpIOyekeyXhSDsnbTtm4Qg7IiY7KCVCiAgICAgICAgIyBjb3Vwb24gY2hlY2sKICAgICAgICBpZiBhdXRvcGF5X2NhcmRfa2V5LnByZXNlbnQ/ICYmIGNvdXBvbl9pZC5wcmVzZW50PwogICAgICAgICAgY291cG9uID0gQ291cG9uLmZpbmRfYnlfZW5jb2RlZF9pZCBjb3Vwb25faWQgcmVzY3VlIG5pbAogICAgICAgICAgcmFpc2UgV2hlZWxFcnJvcjo6SW52YWxpZFJlcXVlc3QubmV3IGlmIGNvdXBvbi5uaWw/CiAgICAgICAgICByYWlzZSBXaGVlbEVycm9yOjpJbnZhbGlkUmVxdWVzdC5uZXcgdW5sZXNzIGNvdXBvbi51c2VyX2lkID09IHVzZXIuaWQKICAgICAgICAgIHJhaXNlIFdoZWVsRXJyb3I6OkludmFsaWRSZXF1ZXN0IGlmIGNvdXBvbi51bnJlZ2lzdGVyPwogICAgICAgICAgcmFpc2UgV2hlZWxFcnJvcjo6VW5hdmFpbGFibGVDb3Vwb24ubmV3IHVubGVzcyBjb3Vwb24uY2FsbGFibGU/CiAgICAgICAgZW5kCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICMgVE9ETzogCg==</text>
+        <text encoding="base64">ICAgICAgaW50ZWdlciA6Zml4ZWRfZmFyZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE86IO2VgOy9lOuTnCDsiqTtjpnslYTsm4Mg7JiI7KCVCg==</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">CW1ldHJpY3MgICAgICptZXRyaWNzLk1ldHJpY3MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE86IO2VgOy9lOuTnCDsiqTtjpnslYTsm4Mg7JiI7KCVCg==</text>
       </register>
       <register name=":" type="4">
         <text>309</text>
@@ -284,9 +290,9 @@
       </register>
     </registers>
     <search>
-      <last-search>]</last-search>
+      <last-search>Co</last-search>
       <last-offset />
-      <last-pattern>]</last-pattern>
+      <last-pattern>Co</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>Wh</last-substitute>
       <last-dir>1</last-dir>
@@ -294,7 +300,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxBMDAwMDAwMDAwMDEzSVQxXD4=</entry>
         <entry>Ba</entry>
         <entry>create</entry>
         <entry encoding="base64">XDzqtazrtoRcPg==</entry>
@@ -314,6 +319,7 @@
         <entry>=</entry>
         <entry encoding="base64">XDx1bmxlc3NcPg==</entry>
         <entry>]</entry>
+        <entry>Co</entry>
       </history-search>
       <history-cmd>
         <entry>o index.html.erb</entry>
