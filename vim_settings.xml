@@ -320,13 +320,13 @@
         <mark key="^" line="28" column="86" />
         <mark key="." line="28" column="86" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/lib/billing_platform/payment.rb" timestamp="1567661860209">
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/lib/billing_platform/payment.rb" timestamp="1567663292849">
         <mark key="'" line="67" column="61" />
         <mark key="k" line="20" column="0" />
-        <mark key="[" line="34" column="6" />
-        <mark key="]" line="34" column="7" />
-        <mark key="." line="34" column="7" />
-        <mark key="^" line="34" column="7" />
+        <mark key="[" line="51" column="38" />
+        <mark key="]" line="52" column="11" />
+        <mark key="." line="52" column="11" />
+        <mark key="^" line="52" column="11" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/serializers/list_call_serializer.rb" timestamp="1567572393764" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/lib/tasks/year_end_event_plusfriends_notification.rake" timestamp="1562660682306">
@@ -1064,8 +1064,8 @@
       <register name="a" type="4">
         <text>, &quot;work_type&quot;: item.WorkType</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>, :pay_id</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgMTUwMDAK</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">CW1ldHJpY0xhYmVscyA6PSBwcm9tZXRoZXVzLkxhYmVsc3sibmFtZSI6ICJjb21tYW5kbW92ZSJ9CglkZWZlciBzLm1ldHJpY3MuRHVyYXRpb24obWV0cmljTGFiZWxzKSgpCglzLm1ldHJpY3MuQ2FsbHMuV2l0aChtZXRyaWNMYWJlbHMpLkluYygpCg==</text>
@@ -1090,7 +1090,7 @@
         <text>ActiveModelSerializers::SerializableResource.new(object.payment, serializer: PaymentSerializer, scope_name: :current_user, scope: current_user)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICBpbmNsdWRlIEFjdGl2ZU1vZGVsOjpNb2RlbAo=</text>
+        <text encoding="base64">ICAgICAgMTUwMDAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1113,34 +1113,34 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEFjdGl2ZU1vZGVsU2VyaWFsaXplcnM6Ok1vZGVsCg==</text>
+        <text encoding="base64">CiAgICBpbmNsdWRlIEFjdGl2ZU1vZGVsOjpNb2RlbAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGluY2x1ZGUgQWN0aXZlTW9kZWw6OlZhbGlkYXRpb25zCg==</text>
+        <text encoding="base64">ICAgIEFjdGl2ZU1vZGVsU2VyaWFsaXplcnM6Ok1vZGVsCg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">CXMubWV0cmljcy5TdWNjZXNzZXMuV2l0aChtZXRyaWNMYWJlbHMpLkluYygpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGluY2x1ZGUgQWN0aXZlTW9kZWw6OlZhbGlkYXRpb25zCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiBwYXltZTFudHMKICAgIGVuZAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGRlZiBwYXltZTFudHMKICAgIGVuZAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaW5zdGFuY2VfdmFyaWFibGVfZ2V0KDpAcGF5bWVudHMpLm1hcCB7IHxwYXltZW50X2F0dHJpYnV0ZXN8IEJpbGxpbmdQbGF0Zm9ybTo6UGF5bWVudC5uZXcocGF5bWVudF9hdHRyaWJ1dGVzKSB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgaW5zdGFuY2VfdmFyaWFibGVfZ2V0KDpAcGF5bWVudHMpLm1hcCB7IHxwYXltZW50X2F0dHJpYnV0ZXN8IEJpbGxpbmdQbGF0Zm9ybTo6UGF5bWVudC5uZXcocGF5bWVudF9hdHRyaWJ1dGVzKSB9Cg==</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">CW1ldHJpY3MgICAgICptZXRyaWNzLk1ldHJpY3MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcGFyYW1zCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>309</text>
