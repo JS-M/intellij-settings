@@ -189,6 +189,12 @@
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/payment_old.rb" timestamp="1567574368651" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/serializers/receipt_serializer.rb" timestamp="1567737993546" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/wheel/open_call_point.rb" timestamp="1567572693100" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/wheel/s2_graph_stat.rb" timestamp="1567751921528">
+        <mark key="[" line="334" column="22" />
+        <mark key="]" line="334" column="33" />
+        <mark key="^" line="334" column="33" />
+        <mark key="." line="334" column="33" />
+      </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/concerns/base_fixed_fare_range_info.rb" timestamp="1567409866310" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/interactions/billing/invoices/resend.rb" timestamp="1567677443779">
         <mark key="[" line="18" column="3" />
@@ -504,7 +510,7 @@
         <text>, &quot;work_type&quot;: item.WorkType</text>
       </register>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text>Payment.find_by_call_id(call.id)</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">CW1ldHJpY0xhYmVscyA6PSBwcm9tZXRoZXVzLkxhYmVsc3sibmFtZSI6ICJjb21tYW5kbW92ZSJ9CglkZWZlciBzLm1ldHJpY3MuRHVyYXRpb24obWV0cmljTGFiZWxzKSgpCglzLm1ldHJpY3MuQ2FsbHMuV2l0aChtZXRyaWNMYWJlbHMpLkluYygpCg==</text>
@@ -520,7 +526,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>Payment.find_by_call_id(call.id)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRfZGVmYXVsdF9tYXhfYW1vdW50XD4=</text>
