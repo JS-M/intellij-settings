@@ -70,7 +70,7 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/wheel_driver/points_controller.rb" timestamp="1567997313999" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/controllers/wheel_driver/points_controller.rb" timestamp="1568004022699" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/wheel/payment_stat.rb" timestamp="1567736862034" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-settlement/Gemfile" timestamp="1565229344371">
         <mark key="[" line="31" column="19" />
@@ -337,13 +337,13 @@
         <mark key="^" line="28" column="86" />
         <mark key="." line="28" column="86" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/lib/billing_platform/payment.rb" timestamp="1567755103475">
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/lib/billing_platform/payment.rb" timestamp="1568004657583">
         <mark key="'" line="9" column="0" />
         <mark key="k" line="21" column="0" />
-        <mark key="[" line="17" column="25" />
-        <mark key="]" line="17" column="24" />
-        <mark key="." line="17" column="24" />
-        <mark key="^" line="17" column="24" />
+        <mark key="[" line="6" column="84" />
+        <mark key="]" line="6" column="83" />
+        <mark key="." line="6" column="83" />
+        <mark key="^" line="6" column="83" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/services/real_time_stat_service.rb" timestamp="1567737872641" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/serializers/list_call_serializer.rb" timestamp="1567572393764" />
