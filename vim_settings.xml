@@ -337,13 +337,13 @@
         <mark key="^" line="28" column="86" />
         <mark key="." line="28" column="86" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/lib/billing_platform/payment.rb" timestamp="1568004657583">
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/lib/billing_platform/payment.rb" timestamp="1568009977079">
         <mark key="'" line="9" column="0" />
-        <mark key="k" line="21" column="0" />
-        <mark key="[" line="6" column="84" />
-        <mark key="]" line="6" column="83" />
-        <mark key="." line="6" column="83" />
-        <mark key="^" line="6" column="83" />
+        <mark key="k" line="22" column="0" />
+        <mark key="[" line="19" column="21" />
+        <mark key="]" line="19" column="28" />
+        <mark key="." line="19" column="28" />
+        <mark key="^" line="19" column="28" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-admin/app/services/real_time_stat_service.rb" timestamp="1568007992327" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/serializers/list_call_serializer.rb" timestamp="1567572393764" />
@@ -1122,7 +1122,7 @@
         <text>, &quot;work_type&quot;: item.WorkType</text>
       </register>
       <register name="&quot;" type="4">
-        <text>payment.payment_histories.last.updated_at</text>
+        <text>ext_remit_id</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">CW1ldHJpY0xhYmVscyA6PSBwcm9tZXRoZXVzLkxhYmVsc3sibmFtZSI6ICJjb21tYW5kbW92ZSJ9CglkZWZlciBzLm1ldHJpY3MuRHVyYXRpb24obWV0cmljTGFiZWxzKSgpCglzLm1ldHJpY3MuQ2FsbHMuV2l0aChtZXRyaWNMYWJlbHMpLkluYygpCg==</text>
@@ -1138,13 +1138,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>payment.payment_histories.last.updated_at</text>
+        <text>ext_remit_id</text>
       </register>
       <register name="/" type="4">
         <text>::</text>
       </register>
       <register name="0" type="4">
-        <text>exist_paid_call_ids</text>
+        <text>ext_remit_id</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgc3RhdHVzID0gOnBhaWQsIDp1bnBhaWQK</text>
