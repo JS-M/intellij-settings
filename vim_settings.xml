@@ -442,6 +442,12 @@
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/payment_old.rb" timestamp="1567574368651" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/serializers/receipt_serializer.rb" timestamp="1567737993546" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/lib/billing_platform/coupon.rb" timestamp="1568031557176">
+        <mark key="[" line="1" column="8" />
+        <mark key="]" line="1" column="13" />
+        <mark key="." line="1" column="13" />
+        <mark key="^" line="1" column="13" />
+      </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/wheel/open_call_point.rb" timestamp="1567572693100" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/wheel/s2_graph_stat.rb" timestamp="1567751921528">
         <mark key="[" line="334" column="22" />
@@ -1114,8 +1120,8 @@
       <register name="a" type="4">
         <text>, &quot;work_type&quot;: item.WorkType</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgIyBodHRwczovL2tha2FvbW9iaWxpdHkuYWdpdC5pbi9nLzMwMDAxNTc3Ni93YWxsLzMyMTc0MTMyNiNjb21tZW50X3BhbmVsXzMyMzM0NTMzMgogICAgICAjIDEuIOuMgOumrCBEQuyXkOyEnCDsvZzsnYQg64uk7IiYKHBhZ2luZyBzaXpl66eM7YG8KSDsnb3slrTsmLQKICAgICAgIyAyLiDrtojrn6zsmKgg7L2cKGNhbGxzKeuhnOu2gO2EsCDqsrDsoJwocGF5bWVudHMpIOuNsOydtO2EsOulvCDruYzrp4HtlIzrnqvtj7zsl5DshJwg7KGw7ZqMCiAgICAgICMgMy4g7KCB7ZWp7ZWcIOqysOygnOqxtOunjCDtlYTthLDrp4HtlZwg7ZuELAogICAgICAjIOOEtCDqsK/siJjqsIAg66qo7J6Q652866m0IDF+MyDrsJjrs7XtlZjsl6wg7ZWp7IKwCiAgICAgICMg44S0IOqwr+yImOqwgCDstIjqs7zrkJjrqbQgcGFnaW5nIHNpemUg7LSI6rO87ZWc66eM7YG8IOygnOyZuAogICAgICAjIDQuIOqysOqzvOulvCDsoITrtoAg642U7ZWY7JesIHJlc3BvbnNlIOuwmO2ZmAo=</text>
+      <register name="&quot;" type="4">
+        <text>Card</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">CW1ldHJpY0xhYmVscyA6PSBwcm9tZXRoZXVzLkxhYmVsc3sibmFtZSI6ICJjb21tYW5kbW92ZSJ9CglkZWZlciBzLm1ldHJpY3MuRHVyYXRpb24obWV0cmljTGFiZWxzKSgpCglzLm1ldHJpY3MuQ2FsbHMuV2l0aChtZXRyaWNMYWJlbHMpLkluYygpCg==</text>
@@ -1131,7 +1137,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>params[:size] || 10</text>
+        <text>Card</text>
       </register>
       <register name="/" type="4">
         <text>g</text>
