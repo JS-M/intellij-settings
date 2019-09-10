@@ -442,12 +442,11 @@
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/payment_old.rb" timestamp="1567574368651" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/serializers/receipt_serializer.rb" timestamp="1567737993546" />
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/lib/billing_platform/coupon.rb" timestamp="1568100585042">
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/lib/billing_platform/coupon.rb" timestamp="1568102583637">
         <mark key="'" line="2" column="194" />
-        <mark key="[" line="126" column="15" />
-        <mark key="]" line="126" column="15" />
-        <mark key="^" line="126" column="15" />
-        <mark key="." line="126" column="15" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/wheel/open_call_point.rb" timestamp="1567572693100" />
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/lib/wheel/s2_graph_stat.rb" timestamp="1567751921528">
@@ -537,6 +536,12 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
         <mark key="^" line="7" column="35" />
+      </file>
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/models/concerns/base_payment_history.rb" timestamp="1567572474268">
+        <mark key="'" line="8" column="20" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/serializers/super_payment_serializer.rb" timestamp="1566190657273">
         <mark key="[" line="7" column="1" />
@@ -796,10 +801,11 @@
         <mark key="^" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/lib/billing_platform/order.rb" timestamp="1568100700613">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
+      <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/lib/billing_platform/order.rb" timestamp="1568102618777">
+        <mark key="[" line="64" column="10" />
+        <mark key="]" line="64" column="16" />
+        <mark key="." line="64" column="16" />
+        <mark key="^" line="64" column="16" />
       </file>
       <file name="$USER_HOME$/projects/mobility/wheel-webapp/wheel-api/app/interactions/billing/invoices/remake.rb" timestamp="1566266383595">
         <mark key="[" line="4" column="21" />
@@ -1124,8 +1130,8 @@
       <register name="a" type="4">
         <text>, &quot;work_type&quot;: item.WorkType</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNhbGxfaWQK</text>
+      <register name="&quot;" type="4">
+        <text>change_</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">CW1ldHJpY0xhYmVscyA6PSBwcm9tZXRoZXVzLkxhYmVsc3sibmFtZSI6ICJjb21tYW5kbW92ZSJ9CglkZWZlciBzLm1ldHJpY3MuRHVyYXRpb24obWV0cmljTGFiZWxzKSgpCglzLm1ldHJpY3MuQ2FsbHMuV2l0aChtZXRyaWNMYWJlbHMpLkluYygpCg==</text>
@@ -1141,16 +1147,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/key</text>
+        <text>change_</text>
       </register>
       <register name="/" type="4">
         <text>:disc</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB1cmwgPSAiI3tzZWxmOjpCSUxMSU5HX1BMQVRGT1JNX0JBU0VfVVJMfS9vcmRlcnMvc2VydmljZXMvRFJJVkVSL2NhbGxzLyN7Y2FsbF9pZH0va2V5IgogICAgICAgIHJlcV9ib2R5ID0gewogICAgICAgICAgYWNjb3VudF90eXBlOiBhY2NvdW50X3R5cGUoaXNfc3VwZXIpLAogICAgICAgICAga2V5OiBhdXRvcGF5X2NhcmRfa2V5CiAgICAgICAgfQogICAgICAgIHJlc3BvbnNlID0gV2hlZWw6Okh0dHBQZXJzaXN0ZW50LnB1dF9qc29uKHVybCwgcmVxX2JvZHkudG9fanNvbikKCiAgICAgICAgcHJvY2Vzc19vcl9yYWlzZShyZXNwb25zZSwgaXNfc3VwZXI6IGlzX3N1cGVyLCAmbWV0aG9kKDpuZXcpKQo=</text>
+        <text encoding="base64">ICAgICAgICBPcmRlci5jaGFuZ2VfY291cG9uKGNhbGxfaWQsIG5ld19jb3Vwb25faWQ6IG5ld19jb3Vwb25faWQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNhbGxfaWQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1172,34 +1178,34 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgZGVmIGFkZF9jYWxsX2NvdXBvbihjYWxsX2lkLCBuZXdfY291cG9uX2lkKQogICAgICAgIE9yZGVyLmNoYW5nZV9jb3Vwb24oY2FsbF9pZCwgbmV3X2NvdXBvbl9pZDogbmV3X2NvdXBvbl9pZCkKICAgICAgZW5kCgogICAgICBkZWYgZGVsZXRlX2NhbGxfY291cG9uKGNhbGxfaWQsIG9sZF9jb3Vwb25faWQpCiAgICAgICAgT3JkZXIuY2hhbmdlX2NvdXBvbihjYWxsX2lkLCBuZXdfY291cG9uX2lkOiBuZXdfY291cG9uX2lkKQogICAgICBlbmQKCiAgICAgIGRlZiBjaGFuZ2VfY2FsbF9jb3Vwb24oY2FsbF9pZCwgb2xkX2NvdXBvbl9pZCwgbmV3X2NvdXBvbl9pZCkKICAgICAgICBPcmRlci5jaGFuZ2VfY291cG9uKGNhbGxfaWQsIG5ld19jb3Vwb25faWQ6IG5ld19jb3Vwb25faWQpCiAgICAgIGVuZAoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXNwb25zZSA9IHJlcXVlc3RfY291cG9uX2NoYW5nZShjYWxsX2lkLCBvbGRfY291cG9uX2lkOiBvbGRfY291cG9uX2lkLCBuZXdfY291cG9uX2lkOiBuZXdfY291cG9uX2lkKQogICAgICAgIHZlcmlmeV9jb3Vwb25fY2hhbmdlX3Jlc3BvbnNlKHJlc3BvbnNlLCBbRVJST1JfQ09ERV9VTlNVUFBPUlRFRF9QQVlNRU5UX1RZUEVdKQogICAgICByZXNjdWUgPT4gZQogICAgICAgIFdoZWVsOjpMb2dnZXIubG9nX2Vycm9yKGUsIGNhbGxfaWQ6IGNhbGxfaWQsIG9sZF9jb3Vwb25faWQ6IG9sZF9jb3Vwb25faWQsIG5ld19jb3Vwb25faWQ6IG5ld19jb3Vwb25faWQpCiAgICAgICAgcmFpc2UK</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">CXMubWV0cmljcy5TdWNjZXNzZXMuV2l0aChtZXRyaWNMYWJlbHMpLkluYygpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXNwb25zZSA9IHJlcXVlc3RfY291cG9uX2NoYW5nZShjYWxsX2lkLCBvbGRfY291cG9uX2lkOiBvbGRfY291cG9uX2lkKQogICAgICAgIHZlcmlmeV9jb3Vwb25fY2hhbmdlX3Jlc3BvbnNlKHJlc3BvbnNlLCBbRVJST1JfQ09ERV9VTlNVUFBPUlRFRF9QQVlNRU5UX1RZUEVdKQogICAgICByZXNjdWUgPT4gZQogICAgICAgIFdoZWVsOjpMb2dnZXIubG9nX2Vycm9yKGUsIGNhbGxfaWQ6IGNhbGxfaWQsIG9sZF9jb3Vwb25faWQ6IG9sZF9jb3Vwb25faWQpCiAgICAgICAgcmFpc2UK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZGVmIHJlcXVlc3RfY291cG9uX2NoYW5nZShjYWxsX2lkLCBvbGRfY291cG9uX2lkOiBuaWwsIG5ld19jb3Vwb25faWQ6IG5pbCkKICAgICAgICB1cmkgPSAiI3tiYXNlX3VybH0vdjIvb3JkZXJzL2NoYW5nZV9jb3Vwb24iCiAgICAgICAgcGFyYW1zID0gewogICAgICAgICAgY2FsbF9pZDogY2FsbF9pZCwKICAgICAgICAgIHNlcnZpY2VfdHlwZTogU0VSVklDRV9UWVBFCiAgICAgICAgfQogICAgICAgIHBhcmFtc1s6b2xkX2NvdXBvbl9pZF0gPSBvbGRfY291cG9uX2lkIHVubGVzcyBvbGRfY291cG9uX2lkLm5pbD8KICAgICAgICBwYXJhbXNbOm5ld19jb3Vwb25faWRdID0gbmV3X2NvdXBvbl9pZCB1bmxlc3MgbmV3X2NvdXBvbl9pZC5uaWw/CiAgICAgICAgV2hlZWw6Okh0dHBQZXJzaXN0ZW50LnBvc3QodXJpLCBwYXJhbXMpCiAgICAgIGVuZAoK</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICByZXNwb25zZSA9IHJlcXVlc3RfY291cG9uX2NoYW5nZShjYWxsX2lkLCBuZXdfY291cG9uX2lkOiBuZXdfY291cG9uX2lkKQogICAgICAgIHZlcmlmeV9jb3Vwb25fY2hhbmdlX3Jlc3BvbnNlKHJlc3BvbnNlLCBbRVJST1JfQ09ERV9JTlZBTElEX1JFUVVFU1QsIEVSUk9SX0NPREVfVU5TVVBQT1JURURfUEFZTUVOVF9UWVBFXSkKICAgICAgcmVzY3VlID0+IGUKICAgICAgICBXaGVlbDo6TG9nZ2VyLmxvZ19lcnJvcihlLCBjYWxsX2lkOiBjYWxsX2lkLCBuZXdfY291cG9uX2lkOiBuZXdfY291cG9uX2lkKQogICAgICAgIHJhaXNlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgIGRlZiB0ZXJtaW5hdGVfYXV0b3BheShhY2NvdW50X2lkLCBpc19zdXBlcjogZmFsc2UpCiAgICAgICAgdXJsID0gIiN7c2VsZjo6QklMTElOR19QTEFURk9STV9CQVNFX1VSTH0vY2FyZHMvYWNjb3VudFR5cGUvI3thY2NvdW50X3R5cGUoaXNfc3VwZXIpfS9wZ3R5cGVzL0tBS0FPX0NIRUNLT1VUL2FjY291bnRzLyN7YWNjb3VudF9pZH0vY2xvc2UiCiAgICAgICAgcmVzcG9uc2UgPSBXaGVlbDo6SHR0cFBlcnNpc3RlbnQucG9zdCh1cmwpCgogICAgICAgIHByb2Nlc3Nfb3JfcmFpc2UocmVzcG9uc2UsIGlzX3N1cGVyOiBpc19zdXBlcikKICAgICAgZW5kCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZGVmIHJlcXVlc3RfY291cG9uX2NoYW5nZShjYWxsX2lkLCBvbGRfY291cG9uX2lkOiBuaWwsIG5ld19jb3Vwb25faWQ6IG5pbCkKICAgICAgICB1cmkgPSAiI3tiYXNlX3VybH0vdjIvb3JkZXJzL2NoYW5nZV9jb3Vwb24iCiAgICAgICAgcGFyYW1zID0gewogICAgICAgICAgY2FsbF9pZDogY2FsbF9pZCwKICAgICAgICAgIHNlcnZpY2VfdHlwZTogU0VSVklDRV9UWVBFCiAgICAgICAgfQogICAgICAgIHBhcmFtc1s6b2xkX2NvdXBvbl9pZF0gPSBvbGRfY291cG9uX2lkIHVubGVzcyBvbGRfY291cG9uX2lkLm5pbD8KICAgICAgICBwYXJhbXNbOm5ld19jb3Vwb25faWRdID0gbmV3X2NvdXBvbl9pZCB1bmxlc3MgbmV3X2NvdXBvbl9pZC5uaWw/CiAgICAgICAgV2hlZWw6Okh0dHBQZXJzaXN0ZW50LnBvc3QodXJpLCBwYXJhbXMpCiAgICAgIGVuZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGFjY291bnRfdHlwZTogYWNjb3VudF90eXBlKGlzX3N1cGVyKSwKICAgICAgICAgIGtleTogYXV0b3BheV9jYXJkX2tleQo=</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">CW1ldHJpY3MgICAgICptZXRyaWNzLk1ldHJpY3MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9jZXNzX29yX3JhaXNlKHJlc3BvbnNlLCBpc19zdXBlcjogaXNfc3VwZXIpIGRvIHxyZXNwb25zZV9ib2R5fAogICAgICAgICAgcmVzcG9uc2VfYm9keS5tYXAoJm1ldGhvZCg6bmV3KSkKICAgICAgICBlbmQK</text>
+        <text encoding="base64">ICAgICAgICAgIGNhbGxfaWQK</text>
       </register>
       <register name=":" type="4">
         <text>309</text>
