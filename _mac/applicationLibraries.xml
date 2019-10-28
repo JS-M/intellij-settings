@@ -8030,6 +8030,22 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/guard-compat-1.2.1/spec" />
       </excluded>
     </library>
+    <library name="guard-foreman (v0.0.4, rbenv: 2.4.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/guard-foreman-0.0.4/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/guard-foreman-0.0.4/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/guard-foreman-0.0.4/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/guard-foreman-0.0.4/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/guard-foreman-0.0.4/test" />
+      </excluded>
+    </library>
     <library name="guard-livereload (v2.5.2, rbenv: 2.4.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -20786,6 +20802,22 @@
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/sorcery-0.9.1/spec" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/sorcery-0.9.1/gemfiles" />
+      </excluded>
+    </library>
+    <library name="spoon (v0.0.6, rbenv: 2.4.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/spoon-0.0.6/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/spoon-0.0.6/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/spoon-0.0.6/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/spoon-0.0.6/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/spoon-0.0.6/examples" />
       </excluded>
     </library>
     <library name="spreadsheet (v1.1.2, rbenv: 2.3.1) [gem]" type="rubylib">
