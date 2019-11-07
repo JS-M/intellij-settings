@@ -5,6 +5,9 @@
       <option name="SMART_TABS" value="true" />
     </value>
   </option>
+  <editorconfig>
+    <option name="ENABLED" value="false" />
+  </editorconfig>
   <codeStyleSettings language="JavaScript">
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
   </codeStyleSettings>
