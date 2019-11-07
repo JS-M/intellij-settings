@@ -5,6 +5,9 @@
       <option name="SMART_TABS" value="true" />
     </value>
   </option>
+  <codeStyleSettings language="JavaScript">
+    <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
+  </codeStyleSettings>
   <codeStyleSettings language="go">
     <indentOptions>
       <option name="SMART_TABS" value="true" />
@@ -12,7 +15,6 @@
   </codeStyleSettings>
   <codeStyleSettings language="ruby">
     <option name="SPACE_WITHIN_BRACES" value="true" />
-    <option name="SPACE_WITHIN_ARRAY_INITIALIZER_BRACES" value="true" />
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
     </indentOptions>
