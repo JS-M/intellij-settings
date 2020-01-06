@@ -7421,6 +7421,17 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/powerpack-0.1.2/spec" />
       </excluded>
     </library>
+    <library name="procore-sift (v0.12.0, ruby-2.6.1-p33) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/procore-sift-0.12.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/procore-sift-0.12.0/lib" />
+      </SOURCES>
+    </library>
     <library name="pry (v0.12.2, rbenv: 2.4.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
